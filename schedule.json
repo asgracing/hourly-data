@@ -1,33 +1,32 @@
 {
-  "timezone": "UTC+3",
   "items": [
-    {
-      "date": "2026-03-18",
-      "start_time_local": "14:00",
-      "track_code": "silverstone",
-      "track_name": "Silverstone",
-      "slot_label": "Afternoon Slot",
-      "status": "scheduled",
-      "timezone": "UTC+3"
-    },
-    {
-      "date": "2026-03-18",
-      "start_time_local": "20:00",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "timezone": "UTC+3"
-    },
     {
       "date": "2026-03-19",
       "start_time_local": "14:00",
+      "timezone": "UTC+3",
       "track_code": "nurburgring",
       "track_name": "Nurburgring",
       "slot_label": "Afternoon Slot",
-      "status": "scheduled",
-      "timezone": "UTC+3"
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-03-19",
+      "start_time_local": "20:00",
+      "timezone": "UTC+3",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "slot_label": "Evening Slot",
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-03-20",
+      "start_time_local": "14:00",
+      "timezone": "UTC+3",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Afternoon Slot",
+      "status": "scheduled"
     }
   ],
-  "updated_at": "2026-03-18T13:00:00+03:00"
+  "updated_at": "2026-03-19T11:30:22+03:00"
 }
