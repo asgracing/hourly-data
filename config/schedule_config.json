@@ -1,0 +1,36 @@
+{
+  "title": "Часовая гонка",
+  "timezone": "UTC+3",
+  "server_root": "I:\\SteamLibrary\\steamapps\\common\\Assetto Corsa Competizione Dedicated Server Race\\server",
+  "cfg_dir": "cfg",
+  "event_config_path": "cfg\\event.json",
+  "event_track_key": "track",
+  "server_exe": "accServer.exe",
+  "results_dir": "results",
+  "server_window_minutes": 120,
+  "launch_times_local": [
+    "14:00",
+    "20:00"
+  ],
+  "rotation_mode": "global_cycle",
+  "tracks": [
+    {
+      "code": "monza",
+      "name": "Monza"
+    },
+    {
+      "code": "silverstone",
+      "name": "Silverstone"
+    },
+    {
+      "code": "nurburgring",
+      "name": "Nurburgring"
+    },
+    {
+      "code": "spa",
+      "name": "Spa"
+    }
+  ],
+  "overrides": [],
+  "exceptions": []
+}
