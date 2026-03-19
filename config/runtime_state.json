@@ -1,14 +1,14 @@
 {
   "active_event_id": null,
   "last_planned_start_local": null,
-  "last_actual_start_local": "2026-03-19T09:24:16+03:00",
+  "last_actual_start_local": "2026-03-19T10:36:50+03:00",
   "last_actual_stop_local": "2026-03-18T21:59:00+03:00",
-  "last_track_code": "spa",
+  "last_track_code": "monza",
   "last_event_config_path": "I:\\SteamLibrary\\steamapps\\common\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
-  "server_pid": 27064,
+  "server_pid": 14368,
   "last_status": "server_started",
   "last_error": null,
-  "updated_at": "2026-03-19T09:24:16+03:00",
+  "updated_at": "2026-03-19T10:36:50+03:00",
   "last_result_q_files": [
     "260318_195900_Q.json",
     "260318_200336_Q.json",

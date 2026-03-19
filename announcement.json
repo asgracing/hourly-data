@@ -9,5 +9,42 @@
   "server_window": "2h",
   "session_label": "Afternoon Slot",
   "details_url": "/hourly/",
-  "updated_at": "2026-03-18T21:59:02+03:00"
+  "updated_at": "2026-03-19T10:37:03+03:00",
+  "server": {
+    "name": null,
+    "full_name": null,
+    "password": null,
+    "car_group": null,
+    "max_car_slots": null,
+    "safety_rating_requirement": null,
+    "track_medals_requirement": null,
+    "racecraft_rating_requirement": null,
+    "is_race_locked": false
+  },
+  "session": {
+    "format_label": null,
+    "qualifying_duration_minutes": null,
+    "race_duration_minutes": null,
+    "pre_race_waiting_time_seconds": null,
+    "session_over_time_seconds": null,
+    "time_multiplier": null
+  },
+  "rules": {
+    "mandatory_pitstop_count": null,
+    "pit_window_length_minutes": null,
+    "refuelling_allowed_in_race": null,
+    "refuelling_time_fixed": null,
+    "mandatory_pitstop_refuelling_required": null,
+    "mandatory_pitstop_tyre_change_required": null,
+    "mandatory_pitstop_swap_driver_required": null,
+    "max_drivers_count": null,
+    "tyre_set_count": null
+  },
+  "weather": {
+    "ambient_temp_c": null,
+    "cloud_level": null,
+    "rain_level": null,
+    "weather_randomness": null,
+    "summary_key": "clear"
+  }
 }
