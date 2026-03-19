@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-03-19_1526_silverstone",
+      "title": "Hourly Race",
+      "track": "silverstone",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
+      "finished_at": "2026-03-19T15:26:56+03:00",
+      "finished_at_local": "2026-03-19 15:26",
+      "participants_count": 5,
+      "winner": "Maksim Baklanov",
+      "winner_public_id": "drv_f74dcf635dcc",
+      "best_lap": "2:00.072",
+      "best_lap_driver": "Denis Denalget [ASG]",
+      "best_lap_public_id": "drv_d59d8b69d9ec",
+      "status": "finished",
+      "details_path": "races/hourly_2026-03-19_1526_silverstone.json",
+      "results_repo_path": "260319_152656_R.json"
+    },
+    {
       "event_id": "hourly_2026-03-18_2129_silverstone",
       "title": "Hourly Race",
       "track": "silverstone",
@@ -19,5 +37,5 @@
       "results_repo_path": "260318_212923_R.json"
     }
   ],
-  "updated_at": "2026-03-19T13:46:27+03:00"
+  "updated_at": "2026-03-19T15:59:22+03:00"
 }
