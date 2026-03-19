@@ -1,32 +1,62 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-03-19_1400_silverstone",
       "date": "2026-03-19",
       "start_time_local": "14:00",
       "timezone": "UTC+3",
-      "track_code": "nurburgring",
-      "track_name": "Nurburgring",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
       "slot_label": "Afternoon Slot",
-      "status": "scheduled"
+      "status": "scheduled",
+      "weather": {
+        "profile_id": 4,
+        "ambient_temp_c": 16,
+        "cloud_level": 0.16,
+        "rain_level": 0.0,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "rain_level": 0.0
     },
     {
+      "event_id": "hourly_2026-03-19_2000_nurburgring",
       "date": "2026-03-19",
       "start_time_local": "20:00",
       "timezone": "UTC+3",
-      "track_code": "spa",
-      "track_name": "Spa",
+      "track_code": "nurburgring",
+      "track_name": "Nurburgring",
       "slot_label": "Evening Slot",
-      "status": "scheduled"
+      "status": "scheduled",
+      "weather": {
+        "profile_id": 1,
+        "ambient_temp_c": 17,
+        "cloud_level": 0.28,
+        "rain_level": 0.2,
+        "weather_randomness": 7,
+        "summary_key": "mixed"
+      },
+      "rain_level": 0.2
     },
     {
+      "event_id": "hourly_2026-03-20_1400_spa",
       "date": "2026-03-20",
       "start_time_local": "14:00",
       "timezone": "UTC+3",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "spa",
+      "track_name": "Spa",
       "slot_label": "Afternoon Slot",
-      "status": "scheduled"
+      "status": "scheduled",
+      "weather": {
+        "profile_id": 1,
+        "ambient_temp_c": 19,
+        "cloud_level": 0.26,
+        "rain_level": 0.2,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "rain_level": 0.2
     }
   ],
-  "updated_at": "2026-03-19T12:37:01+03:00"
+  "updated_at": "2026-03-19T13:46:27+03:00"
 }
