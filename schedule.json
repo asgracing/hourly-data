@@ -1,25 +1,6 @@
 {
   "items": [
     {
-      "event_id": "hourly_2026-03-20_2000_monza",
-      "date": "2026-03-20",
-      "start_time_local": "20:00",
-      "timezone": "UTC+3",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 18,
-        "cloud_level": 0.86,
-        "rain_level": 0.0,
-        "weather_randomness": 2,
-        "summary_key": "cloudy"
-      },
-      "rain_level": 0.0
-    },
-    {
       "event_id": "hourly_2026-03-21_1400_silverstone",
       "date": "2026-03-21",
       "start_time_local": "14:00",
@@ -56,7 +37,26 @@
         "summary_key": "wet"
       },
       "rain_level": 0.29
+    },
+    {
+      "event_id": "hourly_2026-03-22_1400_spa",
+      "date": "2026-03-22",
+      "start_time_local": "14:00",
+      "timezone": "UTC+3",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "slot_label": "Afternoon Slot",
+      "status": "scheduled",
+      "weather": {
+        "profile_id": 5,
+        "ambient_temp_c": 16,
+        "cloud_level": 0.87,
+        "rain_level": 0.0,
+        "weather_randomness": 4,
+        "summary_key": "cloudy"
+      },
+      "rain_level": 0.0
     }
   ],
-  "updated_at": "2026-03-20T15:59:23+03:00"
+  "updated_at": "2026-03-20T21:59:23+03:00"
 }
