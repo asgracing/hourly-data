@@ -17,18 +17,6 @@
     {
       "code": "monza",
       "name": "Monza"
-    },
-    {
-      "code": "silverstone",
-      "name": "Silverstone"
-    },
-    {
-      "code": "nurburgring",
-      "name": "Nurburgring"
-    },
-    {
-      "code": "spa",
-      "name": "Spa"
     }
   ],
   "overrides": [],
