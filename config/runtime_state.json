@@ -1,33 +1,23 @@
 {
   "active_event_id": null,
-  "last_planned_start_local": "2026-03-20T20:00:00+03:00",
-  "last_actual_start_local": "2026-03-20T19:59:21+03:00",
-  "last_actual_stop_local": "2026-03-20T21:59:21+03:00",
-  "last_track_code": "monza",
+  "last_planned_start_local": "2026-03-21T14:00:00+03:00",
+  "last_actual_start_local": "2026-03-21T13:59:21+03:00",
+  "last_actual_stop_local": "2026-03-21T15:59:21+03:00",
+  "last_track_code": "silverstone",
   "last_event_config_path": "I:\\SteamLibrary\\steamapps\\common\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
-  "last_status": "results_verified",
-  "last_error": null,
-  "updated_at": "2026-03-20T21:59:23+03:00",
+  "last_status": "results_incomplete",
+  "last_error": "Missing result files: R",
+  "updated_at": "2026-03-21T15:59:23+03:00",
   "last_result_q_files": [
-    "260320_195921_Q.json",
-    "260320_202208_Q.json",
-    "260320_212819_Q.json"
+    "260321_135921_Q.json",
+    "260321_141448_Q.json",
+    "260321_152039_Q.json",
+    "260321_153407_Q.json"
   ],
-  "last_result_r_files": [
-    "260320_212716_R.json"
-  ],
-  "last_result_check_at": "2026-03-20T21:59:23+03:00",
+  "last_result_r_files": [],
+  "last_result_check_at": "2026-03-21T15:59:23+03:00",
   "planned_weather": {
-    "hourly_2026-03-21_1400_silverstone": {
-      "profile_id": 3,
-      "ambient_temp_c": 21,
-      "cloud_level": 0.77,
-      "rain_level": 0.0,
-      "weather_randomness": 2,
-      "summary_key": "cloudy",
-      "created_at": "2026-03-19T21:59:17+03:00"
-    },
     "hourly_2026-03-21_2000_nurburgring": {
       "profile_id": 6,
       "ambient_temp_c": 24,
@@ -45,12 +35,21 @@
       "weather_randomness": 4,
       "summary_key": "cloudy",
       "created_at": "2026-03-20T21:59:23+03:00"
+    },
+    "hourly_2026-03-22_2000_monza": {
+      "profile_id": 6,
+      "ambient_temp_c": 21,
+      "cloud_level": 0.78,
+      "rain_level": 0.23,
+      "weather_randomness": 2,
+      "summary_key": "wet",
+      "created_at": "2026-03-21T15:59:23+03:00"
     }
   },
   "last_planned_weather": {
     "profile_id": 3,
-    "ambient_temp_c": 18,
-    "cloud_level": 0.86,
+    "ambient_temp_c": 21,
+    "cloud_level": 0.77,
     "rain_level": 0.0,
     "weather_randomness": 2,
     "summary_key": "cloudy"
