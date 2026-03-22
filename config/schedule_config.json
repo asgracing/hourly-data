@@ -9,7 +9,6 @@
   "results_dir": "results",
   "server_window_minutes": 120,
   "launch_times_local": [
-    "14:00",
     "20:00"
   ],
   "rotation_mode": "global_cycle",
