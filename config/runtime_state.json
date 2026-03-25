@@ -1,14 +1,14 @@
 {
-  "active_event_id": null,
-  "last_planned_start_local": "2026-03-23T20:00:00+03:00",
-  "last_actual_start_local": "2026-03-23T19:44:22+03:00",
+  "active_event_id": "hourly_2026-03-24_2000_monza",
+  "last_planned_start_local": "2026-03-24T20:00:00+03:00",
+  "last_actual_start_local": "2026-03-24T19:44:22+03:00",
   "last_actual_stop_local": "2026-03-23T21:44:22+03:00",
   "last_track_code": "monza",
   "last_event_config_path": "I:\\SteamLibrary\\steamapps\\common\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
-  "server_pid": null,
-  "last_status": "results_incomplete",
-  "last_error": "Missing result files: R",
-  "updated_at": "2026-03-23T21:44:24+03:00",
+  "server_pid": 29020,
+  "last_status": "server_started",
+  "last_error": null,
+  "updated_at": "2026-03-24T19:44:22+03:00",
   "last_result_q_files": [
     "260323_203421_Q.json"
   ],
@@ -44,11 +44,11 @@
     }
   },
   "last_planned_weather": {
-    "profile_id": 2,
-    "ambient_temp_c": 14,
-    "cloud_level": 0.55,
+    "profile_id": 3,
+    "ambient_temp_c": 23,
+    "cloud_level": 0.96,
     "rain_level": 0.0,
-    "weather_randomness": 7,
-    "summary_key": "mixed"
+    "weather_randomness": 1,
+    "summary_key": "cloudy"
   }
 }
