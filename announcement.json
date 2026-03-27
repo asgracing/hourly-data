@@ -1,7 +1,7 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
   "track_code": "monza",
@@ -9,7 +9,7 @@
   "server_window": "2h",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
-  "updated_at": "2026-03-26T21:44:24+03:00",
+  "updated_at": "2026-03-27T21:44:25+03:00",
   "server": {
     "name": "ASG Racing 1H Race",
     "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - https://discord.gg/cEPFHXXtTC",
@@ -41,11 +41,11 @@
     "tyre_set_count": 50
   },
   "weather": {
-    "profile_id": 5,
-    "ambient_temp_c": 19,
-    "cloud_level": 0.62,
-    "rain_level": 0.0,
-    "weather_randomness": 6,
-    "summary_key": "cloudy"
+    "profile_id": 6,
+    "ambient_temp_c": 14,
+    "cloud_level": 0.61,
+    "rain_level": 0.24,
+    "weather_randomness": 3,
+    "summary_key": "wet"
   }
 }
