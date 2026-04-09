@@ -1,7 +1,7 @@
 {
   "title": "Часовая гонка",
   "timezone": "UTC+3",
-  "server_root": "I:\\SteamLibrary\\steamapps\\common\\Assetto Corsa Competizione Dedicated Server Race\\server",
+  "server_root": ".",
   "cfg_dir": "cfg",
   "event_config_path": "cfg\\event.json",
   "event_track_key": "track",

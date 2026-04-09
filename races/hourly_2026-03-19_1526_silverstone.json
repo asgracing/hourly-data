@@ -15,7 +15,7 @@
   "participants_count": 5,
   "scoring_participants_count": 5,
   "points_multiplier": 5,
-  "points_rule": "scaled_by_participants_x5",
+  "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
   "winner": "Maksim Baklanov",
   "winner_public_id": "drv_f74dcf635dcc",
   "best_lap": "2:00.072",
@@ -44,6 +44,7 @@
       "gap_ms": null,
       "gap": null,
       "counted_for_stats": true,
+      "counted_for_points": true,
       "points": 25,
       "had_best_lap": false,
       "penalty_count": 0,
@@ -71,22 +72,17 @@
       "gap_ms": 33992,
       "gap": "0:33.992",
       "counted_for_stats": true,
-      "points": 20,
+      "counted_for_points": true,
+      "points": 25,
       "had_best_lap": false,
-      "penalty_count": 2,
-      "penalty_points": 32,
+      "penalty_count": 1,
+      "penalty_points": 2,
       "penalties": [
         {
           "type": "DriveThrough",
           "reason": "Cutting",
           "value": 2,
           "bucket": "penalties"
-        },
-        {
-          "type": "PostRaceTime",
-          "reason": "Cutting",
-          "value": 30,
-          "bucket": "post_race_penalties"
         }
       ]
     },
@@ -111,22 +107,17 @@
       "gap_ms": 154073,
       "gap": "2:34.073",
       "counted_for_stats": true,
-      "points": 15,
+      "counted_for_points": true,
+      "points": 25,
       "had_best_lap": false,
-      "penalty_count": 2,
-      "penalty_points": 132,
+      "penalty_count": 1,
+      "penalty_points": 2,
       "penalties": [
         {
           "type": "DriveThrough",
           "reason": "None",
           "value": 2,
           "bucket": "penalties"
-        },
-        {
-          "type": "PostRaceTime",
-          "reason": "Cutting",
-          "value": 130,
-          "bucket": "post_race_penalties"
         }
       ]
     },
@@ -151,7 +142,8 @@
       "gap_ms": 0,
       "gap": "0:00.000",
       "counted_for_stats": true,
-      "points": 15,
+      "counted_for_points": true,
+      "points": 25,
       "had_best_lap": true,
       "penalty_count": 0,
       "penalty_points": 0,
@@ -178,12 +170,13 @@
       "gap_ms": 0,
       "gap": "0:00.000",
       "counted_for_stats": true,
-      "points": 10,
+      "counted_for_points": true,
+      "points": 20,
       "had_best_lap": false,
       "penalty_count": 0,
       "penalty_points": 0,
       "penalties": []
     }
   ],
-  "total_penalties": 4
+  "total_penalties": 2
 }

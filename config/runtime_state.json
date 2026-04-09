@@ -1,31 +1,22 @@
 {
   "active_event_id": null,
-  "last_planned_start_local": "2026-04-08T20:00:00+03:00",
-  "last_actual_start_local": "2026-04-08T19:44:22+03:00",
-  "last_actual_stop_local": "2026-04-08T21:44:22+03:00",
+  "last_planned_start_local": "2026-04-10T20:00:00+03:00",
+  "last_actual_start_local": "2026-04-09T20:08:35+03:00",
+  "last_actual_stop_local": "2026-04-09T22:08:35+03:00",
   "last_track_code": "monza",
-  "last_event_config_path": "I:\\SteamLibrary\\steamapps\\common\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
+  "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-04-08T21:44:24+03:00",
+  "updated_at": "2026-04-09T22:08:37+03:00",
   "last_result_q_files": [
-    "260408_202229_Q.json"
+    "260409_204528_Q.json"
   ],
   "last_result_r_files": [
-    "260408_212803_R.json"
+    "260409_215156_R.json"
   ],
-  "last_result_check_at": "2026-04-08T21:44:24+03:00",
+  "last_result_check_at": "2026-04-09T22:08:37+03:00",
   "planned_weather": {
-    "hourly_2026-04-09_2000_monza": {
-      "profile_id": 6,
-      "ambient_temp_c": 21,
-      "cloud_level": 0.74,
-      "rain_level": 0.11,
-      "weather_randomness": 1,
-      "summary_key": "wet",
-      "created_at": "2026-04-06T21:44:24+03:00"
-    },
     "hourly_2026-04-10_2000_monza": {
       "profile_id": 1,
       "ambient_temp_c": 19,
@@ -43,14 +34,23 @@
       "weather_randomness": 3,
       "summary_key": "clear",
       "created_at": "2026-04-08T21:44:24+03:00"
+    },
+    "hourly_2026-04-12_2000_monza": {
+      "profile_id": 3,
+      "ambient_temp_c": 19,
+      "cloud_level": 0.61,
+      "rain_level": 0.0,
+      "weather_randomness": 3,
+      "summary_key": "cloudy",
+      "created_at": "2026-04-09T20:04:12+03:00"
     }
   },
   "last_planned_weather": {
     "profile_id": 1,
-    "ambient_temp_c": 16,
-    "cloud_level": 0.26,
+    "ambient_temp_c": 19,
+    "cloud_level": 0.35,
     "rain_level": 0.2,
-    "weather_randomness": 6,
+    "weather_randomness": 5,
     "summary_key": "mixed"
   }
 }
