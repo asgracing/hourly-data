@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-04-11_2130_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-04-11T21:30:49+03:00",
+      "finished_at_local": "2026-04-11 21:30",
+      "participants_count": 25,
+      "scoring_participants_count": 23,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Aleksandr Knyazev",
+      "winner_public_id": "drv_6c5bd8b1f0d1",
+      "best_lap": "1:47.250",
+      "best_lap_driver": "Kosso Filippo[ASG]",
+      "best_lap_public_id": "drv_964ce73ba40a",
+      "status": "finished",
+      "details_path": "races/hourly_2026-04-11_2130_monza.json",
+      "results_repo_path": "260411_213049_R.json"
+    },
+    {
       "event_id": "hourly_2026-04-10_2129_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -190,5 +211,5 @@
       "results_repo_path": "260318_212923_R.json"
     }
   ],
-  "updated_at": "2026-04-10T23:02:44+03:00"
+  "updated_at": "2026-04-11T21:44:24+03:00"
 }
