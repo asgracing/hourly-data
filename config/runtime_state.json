@@ -1,21 +1,21 @@
 {
   "active_event_id": null,
-  "last_planned_start_local": "2026-04-11T20:00:00+03:00",
-  "last_actual_start_local": "2026-04-11T19:44:21+03:00",
-  "last_actual_stop_local": "2026-04-11T21:44:21+03:00",
+  "last_planned_start_local": "2026-04-12T20:00:00+03:00",
+  "last_actual_start_local": "2026-04-11T21:47:51+03:00",
+  "last_actual_stop_local": "2026-04-11T23:47:52+03:00",
   "last_track_code": "monza",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-04-11T21:44:24+03:00",
+  "updated_at": "2026-04-11T23:47:54+03:00",
   "last_result_q_files": [
-    "260411_202329_Q.json"
+    "260411_222412_Q.json"
   ],
   "last_result_r_files": [
-    "260411_213049_R.json"
+    "260411_232909_R.json"
   ],
-  "last_result_check_at": "2026-04-11T21:44:23+03:00",
+  "last_result_check_at": "2026-04-11T23:47:54+03:00",
   "planned_weather": {
     "hourly_2026-04-12_2000_monza": {
       "profile_id": 3,
@@ -46,11 +46,11 @@
     }
   },
   "last_planned_weather": {
-    "profile_id": 4,
-    "ambient_temp_c": 18,
-    "cloud_level": 0.04,
+    "profile_id": 3,
+    "ambient_temp_c": 19,
+    "cloud_level": 0.61,
     "rain_level": 0.0,
     "weather_randomness": 3,
-    "summary_key": "clear"
+    "summary_key": "cloudy"
   }
 }
