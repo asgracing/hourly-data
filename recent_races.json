@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-04-12_2129_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-04-12T21:29:47+03:00",
+      "finished_at_local": "2026-04-12 21:29",
+      "participants_count": 18,
+      "scoring_participants_count": 16,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Dmitry Pryakhin[ASG]",
+      "winner_public_id": "drv_ede97e7c65d1",
+      "best_lap": "1:47.005",
+      "best_lap_driver": "Kosso Filippo[ASG]",
+      "best_lap_public_id": "drv_964ce73ba40a",
+      "status": "finished",
+      "details_path": "races/hourly_2026-04-12_2129_monza.json",
+      "results_repo_path": "260412_212947_R.json"
+    },
+    {
       "event_id": "hourly_2026-04-11_2329_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -232,5 +253,5 @@
       "results_repo_path": "260318_212923_R.json"
     }
   ],
-  "updated_at": "2026-04-11T23:47:54+03:00"
+  "updated_at": "2026-04-12T21:44:25+03:00"
 }
