@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-04-13_2127_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-04-13T21:27:20+03:00",
+      "finished_at_local": "2026-04-13 21:27",
+      "participants_count": 14,
+      "scoring_participants_count": 9,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "twitch.tv/ DessotoGT3",
+      "winner_public_id": "drv_908061118bfc",
+      "best_lap": "1:53.922",
+      "best_lap_driver": "twitch.tv/ DessotoGT3",
+      "best_lap_public_id": "drv_908061118bfc",
+      "status": "finished",
+      "details_path": "races/hourly_2026-04-13_2127_monza.json",
+      "results_repo_path": "260413_212720_R.json"
+    },
+    {
       "event_id": "hourly_2026-04-12_2129_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-03-19_1526_silverstone.json",
       "results_repo_path": "260319_152656_R.json"
-    },
-    {
-      "event_id": "hourly_2026-03-18_2129_silverstone",
-      "title": "Hourly Race",
-      "track": "silverstone",
-      "track_code": "silverstone",
-      "track_name": "Silverstone",
-      "finished_at": "2026-03-18T21:29:23+03:00",
-      "finished_at_local": "2026-03-18 21:29",
-      "participants_count": 6,
-      "scoring_participants_count": 5,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "K  Magomed | TS",
-      "winner_public_id": "drv_207d14eeee04",
-      "best_lap": "2:00.822",
-      "best_lap_driver": "K  Magomed | TS",
-      "best_lap_public_id": "drv_207d14eeee04",
-      "status": "finished",
-      "details_path": "races/hourly_2026-03-18_2129_silverstone.json",
-      "results_repo_path": "260318_212923_R.json"
     }
   ],
-  "updated_at": "2026-04-12T21:44:25+03:00"
+  "updated_at": "2026-04-13T21:44:25+03:00"
 }
