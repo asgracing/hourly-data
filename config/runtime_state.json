@@ -1,27 +1,22 @@
 {
   "active_event_id": null,
-  "last_planned_start_local": "2026-04-18T20:00:00+03:00",
-  "last_actual_start_local": "2026-04-18T19:44:23+03:00",
-  "last_actual_stop_local": "2026-04-18T21:44:24+03:00",
+  "last_planned_start_local": "2026-04-19T20:00:00+03:00",
+  "last_actual_start_local": "2026-04-19T19:44:22+03:00",
+  "last_actual_stop_local": "2026-04-19T21:44:22+03:00",
   "last_track_code": "monza",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
-  "last_status": "results_incomplete",
-  "last_error": "Missing result files: Q, R",
-  "updated_at": "2026-04-18T21:44:26+03:00",
-  "last_result_q_files": [],
-  "last_result_r_files": [],
-  "last_result_check_at": "2026-04-18T21:44:26+03:00",
+  "last_status": "results_verified",
+  "last_error": null,
+  "updated_at": "2026-04-19T21:44:24+03:00",
+  "last_result_q_files": [
+    "260419_202121_Q.json"
+  ],
+  "last_result_r_files": [
+    "260419_212618_R.json"
+  ],
+  "last_result_check_at": "2026-04-19T21:44:24+03:00",
   "planned_weather": {
-    "hourly_2026-04-19_2000_monza": {
-      "profile_id": 1,
-      "ambient_temp_c": 18,
-      "cloud_level": 0.05,
-      "rain_level": 0.0,
-      "weather_randomness": 1,
-      "summary_key": "clear",
-      "created_at": "2026-04-16T21:44:24+03:00"
-    },
     "hourly_2026-04-20_2000_monza": {
       "profile_id": 4,
       "ambient_temp_c": 18,
@@ -39,15 +34,24 @@
       "weather_randomness": 5,
       "summary_key": "wet",
       "created_at": "2026-04-18T21:44:26+03:00"
+    },
+    "hourly_2026-04-22_2000_monza": {
+      "profile_id": 1,
+      "ambient_temp_c": 22,
+      "cloud_level": 0.07,
+      "rain_level": 0.0,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-04-19T21:44:24+03:00"
     }
   },
   "last_planned_weather": {
-    "profile_id": 3,
-    "ambient_temp_c": 14,
-    "cloud_level": 0.38,
-    "rain_level": 0.07,
-    "weather_randomness": 4,
-    "summary_key": "mixed"
+    "profile_id": 1,
+    "ambient_temp_c": 18,
+    "cloud_level": 0.05,
+    "rain_level": 0.0,
+    "weather_randomness": 1,
+    "summary_key": "clear"
   },
   "launch_mode": "auto",
   "run_mode": "normal",

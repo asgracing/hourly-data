@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-04-19_2126_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-04-19T21:26:18+03:00",
+      "finished_at_local": "2026-04-19 21:26",
+      "participants_count": 13,
+      "scoring_participants_count": 9,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Alexandr Afenin",
+      "winner_public_id": "drv_1cfb6f349a42",
+      "best_lap": "1:47.615",
+      "best_lap_driver": "Alexandr Afenin",
+      "best_lap_public_id": "drv_1cfb6f349a42",
+      "status": "finished",
+      "details_path": "races/hourly_2026-04-19_2126_monza.json",
+      "results_repo_path": "260419_212618_R.json"
+    },
+    {
       "event_id": "hourly_2026-04-13_2127_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-03-20_2127_monza.json",
       "results_repo_path": "260320_212716_R.json"
-    },
-    {
-      "event_id": "hourly_2026-03-19_1526_silverstone",
-      "title": "Hourly Race",
-      "track": "silverstone",
-      "track_code": "silverstone",
-      "track_name": "Silverstone",
-      "finished_at": "2026-03-19T15:26:56+03:00",
-      "finished_at_local": "2026-03-19 15:26",
-      "participants_count": 5,
-      "scoring_participants_count": 5,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Maksim Baklanov",
-      "winner_public_id": "drv_f74dcf635dcc",
-      "best_lap": "2:00.072",
-      "best_lap_driver": "Denis Denalget [ASG]",
-      "best_lap_public_id": "drv_d59d8b69d9ec",
-      "status": "finished",
-      "details_path": "races/hourly_2026-03-19_1526_silverstone.json",
-      "results_repo_path": "260319_152656_R.json"
     }
   ],
-  "updated_at": "2026-04-18T21:44:28+03:00"
+  "updated_at": "2026-04-19T21:44:25+03:00"
 }
