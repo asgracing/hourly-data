@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-04-25_2132_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-04-25T21:32:49+03:00",
+      "finished_at_local": "2026-04-25 21:32",
+      "participants_count": 24,
+      "scoring_participants_count": 22,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Евгений Майоров | NRR",
+      "winner_public_id": "drv_32d20c93fe7d",
+      "best_lap": "1:46.855",
+      "best_lap_driver": "Евгений Майоров | NRR",
+      "best_lap_public_id": "drv_32d20c93fe7d",
+      "status": "finished",
+      "details_path": "races/hourly_2026-04-25_2132_monza.json",
+      "results_repo_path": "260425_213249_R.json"
+    },
+    {
       "event_id": "hourly_2026-04-23_2138_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-04-04_2129_monza.json",
       "results_repo_path": "260404_212907_R.json"
-    },
-    {
-      "event_id": "hourly_2026-03-22_2133_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-03-22T21:33:19+03:00",
-      "finished_at_local": "2026-03-22 21:33",
-      "participants_count": 7,
-      "scoring_participants_count": 3,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "K Magomed | TS",
-      "winner_public_id": "drv_207d14eeee04",
-      "best_lap": "1:54.772",
-      "best_lap_driver": "K Magomed | TS",
-      "best_lap_public_id": "drv_207d14eeee04",
-      "status": "finished",
-      "details_path": "races/hourly_2026-03-22_2133_monza.json",
-      "results_repo_path": "260322_213319_R.json"
     }
   ],
-  "updated_at": "2026-04-25T17:05:11+03:00"
+  "updated_at": "2026-04-25T21:44:26+03:00"
 }
