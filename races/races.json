@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-04-26_2130_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-04-26T21:30:31+03:00",
+      "finished_at_local": "2026-04-26 21:30",
+      "participants_count": 20,
+      "scoring_participants_count": 20,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Adam Sibbs | SLR",
+      "winner_public_id": "drv_c2ce086b2f2e",
+      "best_lap": "1:46.195",
+      "best_lap_driver": "Adam Sibbs | SLR",
+      "best_lap_public_id": "drv_c2ce086b2f2e",
+      "status": "finished",
+      "details_path": "races/hourly_2026-04-26_2130_monza.json",
+      "results_repo_path": "260426_213031_R.json"
+    },
+    {
       "event_id": "hourly_2026-04-25_2132_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-04-07_2133_monza.json",
       "results_repo_path": "260407_213306_R.json"
-    },
-    {
-      "event_id": "hourly_2026-04-04_2129_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-04-04T21:29:07+03:00",
-      "finished_at_local": "2026-04-04 21:29",
-      "participants_count": 7,
-      "scoring_participants_count": 6,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "YAMI no N!Nj@",
-      "winner_public_id": "drv_2d34ff7dcd2a",
-      "best_lap": "1:47.057",
-      "best_lap_driver": "K Magomed | TS",
-      "best_lap_public_id": "drv_207d14eeee04",
-      "status": "finished",
-      "details_path": "races/hourly_2026-04-04_2129_monza.json",
-      "results_repo_path": "260404_212907_R.json"
     }
   ],
-  "updated_at": "2026-04-25T21:44:26+03:00"
+  "updated_at": "2026-04-26T21:44:26+03:00"
 }
