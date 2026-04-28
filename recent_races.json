@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-04-28_2130_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-04-28T21:30:18+03:00",
+      "finished_at_local": "2026-04-28 21:30",
+      "participants_count": 12,
+      "scoring_participants_count": 9,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "twitch.tv/ DessotoGT3",
+      "winner_public_id": "drv_908061118bfc",
+      "best_lap": "1:53.490",
+      "best_lap_driver": "twitch.tv/ DessotoGT3",
+      "best_lap_public_id": "drv_908061118bfc",
+      "status": "finished",
+      "details_path": "races/hourly_2026-04-28_2130_monza.json",
+      "results_repo_path": "260428_213018_R.json"
+    },
+    {
       "event_id": "hourly_2026-04-26_2130_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-04-08_2128_monza.json",
       "results_repo_path": "260408_212803_R.json"
-    },
-    {
-      "event_id": "hourly_2026-04-07_2133_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-04-07T21:33:06+03:00",
-      "finished_at_local": "2026-04-07 21:33",
-      "participants_count": 7,
-      "scoring_participants_count": 5,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Kosso Filippo",
-      "winner_public_id": "drv_964ce73ba40a",
-      "best_lap": "1:47.170",
-      "best_lap_driver": "Dmitry Pryakhin[ASG]",
-      "best_lap_public_id": "drv_ede97e7c65d1",
-      "status": "finished",
-      "details_path": "races/hourly_2026-04-07_2133_monza.json",
-      "results_repo_path": "260407_213306_R.json"
     }
   ],
-  "updated_at": "2026-04-27T21:44:26+03:00"
+  "updated_at": "2026-04-28T21:44:26+03:00"
 }
