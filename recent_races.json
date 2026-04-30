@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-04-30_2126_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-04-30T21:26:00+03:00",
+      "finished_at_local": "2026-04-30 21:26",
+      "participants_count": 13,
+      "scoring_participants_count": 12,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "twitch.tv/ DessotoGT3",
+      "winner_public_id": "drv_908061118bfc",
+      "best_lap": "1:47.087",
+      "best_lap_driver": "Helmut Kohler",
+      "best_lap_public_id": "drv_55fa9ca12e9e",
+      "status": "finished",
+      "details_path": "races/hourly_2026-04-30_2126_monza.json",
+      "results_repo_path": "260430_212600_R.json"
+    },
+    {
       "event_id": "hourly_2026-04-29_2128_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-04-10_2129_monza.json",
       "results_repo_path": "260410_212944_R.json"
-    },
-    {
-      "event_id": "hourly_2026-04-09_2151_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-04-09T21:51:56+03:00",
-      "finished_at_local": "2026-04-09 21:51",
-      "participants_count": 23,
-      "scoring_participants_count": 22,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Adam Sibbs | SLR",
-      "winner_public_id": "drv_c2ce086b2f2e",
-      "best_lap": "1:46.705",
-      "best_lap_driver": "Adam Sibbs | SLR",
-      "best_lap_public_id": "drv_c2ce086b2f2e",
-      "status": "finished",
-      "details_path": "races/hourly_2026-04-09_2151_monza.json",
-      "results_repo_path": "260409_215156_R.json"
     }
   ],
-  "updated_at": "2026-04-29T21:44:26+03:00"
+  "updated_at": "2026-04-30T21:44:26+03:00"
 }
