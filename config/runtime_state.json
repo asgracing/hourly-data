@@ -1,31 +1,20 @@
 {
   "active_event_id": null,
-  "last_planned_start_local": "2026-04-30T20:00:00+03:00",
-  "last_actual_start_local": "2026-04-30T19:44:22+03:00",
-  "last_actual_stop_local": "2026-04-30T21:44:22+03:00",
+  "last_planned_start_local": "2026-05-01T20:00:00+03:00",
+  "last_actual_start_local": "2026-05-01T19:44:22+03:00",
+  "last_actual_stop_local": "2026-05-01T21:44:23+03:00",
   "last_track_code": "monza",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
-  "last_status": "results_verified",
-  "last_error": null,
-  "updated_at": "2026-04-30T21:44:25+03:00",
+  "last_status": "results_incomplete",
+  "last_error": "Missing result files: R",
+  "updated_at": "2026-05-01T21:44:25+03:00",
   "last_result_q_files": [
-    "260430_202029_Q.json"
+    "260501_202350_Q.json"
   ],
-  "last_result_r_files": [
-    "260430_212600_R.json"
-  ],
-  "last_result_check_at": "2026-04-30T21:44:24+03:00",
+  "last_result_r_files": [],
+  "last_result_check_at": "2026-05-01T21:44:25+03:00",
   "planned_weather": {
-    "hourly_2026-05-01_2000_monza": {
-      "profile_id": 1,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.02,
-      "rain_level": 0.0,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-04-28T21:44:25+03:00"
-    },
     "hourly_2026-05-02_2000_monza": {
       "profile_id": 4,
       "ambient_temp_c": 28,
@@ -43,14 +32,23 @@
       "weather_randomness": 2,
       "summary_key": "wet",
       "created_at": "2026-04-30T21:44:25+03:00"
+    },
+    "hourly_2026-05-04_2000_monza": {
+      "profile_id": 3,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.64,
+      "rain_level": 0.08,
+      "weather_randomness": 6,
+      "summary_key": "mixed",
+      "created_at": "2026-05-01T21:44:25+03:00"
     }
   },
   "last_planned_weather": {
     "profile_id": 1,
-    "ambient_temp_c": 23,
-    "cloud_level": 0.09,
+    "ambient_temp_c": 24,
+    "cloud_level": 0.02,
     "rain_level": 0.0,
-    "weather_randomness": 0,
+    "weather_randomness": 2,
     "summary_key": "clear"
   },
   "launch_mode": "auto",
