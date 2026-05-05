@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-05-05T09:47:15+03:00",
+  "updated_at": "2026-05-05T09:49:04+03:00",
   "last_result_q_files": [
     "260504_202420_Q.json"
   ],
@@ -20,9 +20,9 @@
     "hourly_2026-05-05_2100_monza": {
       "profile_id": 2,
       "ambient_temp_c": 24,
-      "cloud_level": 0.61,
-      "rain_level": 0.41,
-      "weather_randomness": 1,
+      "cloud_level": 0.1,
+      "rain_level": 0.3,
+      "weather_randomness": 3,
       "summary_key": "cloudy",
       "created_at": "2026-05-05T09:21:27+03:00"
     },

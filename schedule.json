@@ -12,12 +12,12 @@
       "weather": {
         "profile_id": 2,
         "ambient_temp_c": 24,
-        "cloud_level": 0.61,
-        "rain_level": 0.41,
-        "weather_randomness": 1,
+        "cloud_level": 0.1,
+        "rain_level": 0.3,
+        "weather_randomness": 3,
         "summary_key": "cloudy"
       },
-      "rain_level": 0.41
+      "rain_level": 0.3
     },
     {
       "event_id": "hourly_2026-05-06_2100_monza",
@@ -58,5 +58,5 @@
       "rain_level": 0.0
     }
   ],
-  "updated_at": "2026-05-05T09:47:15+03:00"
+  "updated_at": "2026-05-05T09:49:04+03:00"
 }
