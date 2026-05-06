@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-05-06_2227_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-05-06T22:27:20+03:00",
+      "finished_at_local": "2026-05-06 22:27",
+      "participants_count": 11,
+      "scoring_participants_count": 6,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "ALEKSEY EPIFANOV",
+      "winner_public_id": "drv_39c83180f26a",
+      "best_lap": "1:50.395",
+      "best_lap_driver": "ALEKSEY EPIFANOV",
+      "best_lap_public_id": "drv_39c83180f26a",
+      "status": "finished",
+      "details_path": "races/hourly_2026-05-06_2227_monza.json",
+      "results_repo_path": "260506_222720_R.json"
+    },
+    {
       "event_id": "hourly_2026-05-05_2225_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-04-13_2127_monza.json",
       "results_repo_path": "260413_212720_R.json"
-    },
-    {
-      "event_id": "hourly_2026-04-12_2129_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-04-12T21:29:47+03:00",
-      "finished_at_local": "2026-04-12 21:29",
-      "participants_count": 18,
-      "scoring_participants_count": 16,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Dmitry Pryakhin[ASG]",
-      "winner_public_id": "drv_ede97e7c65d1",
-      "best_lap": "1:47.005",
-      "best_lap_driver": "Kosso Filippo[ASG]",
-      "best_lap_public_id": "drv_964ce73ba40a",
-      "status": "finished",
-      "details_path": "races/hourly_2026-04-12_2129_monza.json",
-      "results_repo_path": "260412_212947_R.json"
     }
   ],
-  "updated_at": "2026-05-05T22:44:28+03:00"
+  "updated_at": "2026-05-06T22:44:27+03:00"
 }

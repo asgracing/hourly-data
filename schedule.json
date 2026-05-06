@@ -1,25 +1,6 @@
 {
   "items": [
     {
-      "event_id": "hourly_2026-05-06_2100_monza",
-      "date": "2026-05-06",
-      "start_time_local": "21:00",
-      "timezone": "UTC+3",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.73,
-        "rain_level": 0.05,
-        "weather_randomness": 1,
-        "summary_key": "cloudy"
-      },
-      "rain_level": 0.05
-    },
-    {
       "event_id": "hourly_2026-05-07_2100_monza",
       "date": "2026-05-07",
       "start_time_local": "21:00",
@@ -56,7 +37,26 @@
         "summary_key": "cloudy"
       },
       "rain_level": 0.05
+    },
+    {
+      "event_id": "hourly_2026-05-09_2100_monza",
+      "date": "2026-05-09",
+      "start_time_local": "21:00",
+      "timezone": "UTC+3",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "weather": {
+        "profile_id": 1,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.1,
+        "rain_level": 0.0,
+        "weather_randomness": 1,
+        "summary_key": "clear"
+      },
+      "rain_level": 0.0
     }
   ],
-  "updated_at": "2026-05-05T22:44:25+03:00"
+  "updated_at": "2026-05-06T22:44:25+03:00"
 }
