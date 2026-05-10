@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-05-10_2234_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-05-10T22:34:29+03:00",
+      "finished_at_local": "2026-05-10 22:34",
+      "participants_count": 35,
+      "scoring_participants_count": 29,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Evgeny Mayorov | NNR",
+      "winner_public_id": "drv_32d20c93fe7d",
+      "best_lap": "1:46.877",
+      "best_lap_driver": "Mister Nickname",
+      "best_lap_public_id": "drv_9decbb4f3b57",
+      "status": "finished",
+      "details_path": "races/hourly_2026-05-10_2234_monza.json",
+      "results_repo_path": "260510_223429_R.json"
+    },
+    {
       "event_id": "hourly_2026-05-08_2231_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-04-25_2132_monza.json",
       "results_repo_path": "260425_213249_R.json"
-    },
-    {
-      "event_id": "hourly_2026-04-23_2138_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-04-23T21:38:09+03:00",
-      "finished_at_local": "2026-04-23 21:38",
-      "participants_count": 9,
-      "scoring_participants_count": 7,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Aleksandr Knyazev",
-      "winner_public_id": "drv_6c5bd8b1f0d1",
-      "best_lap": "1:53.255",
-      "best_lap_driver": "YAMI no N!Nj@",
-      "best_lap_public_id": "drv_2d34ff7dcd2a",
-      "status": "finished",
-      "details_path": "races/hourly_2026-04-23_2138_monza.json",
-      "results_repo_path": "260423_213809_R.json"
     }
   ],
-  "updated_at": "2026-05-09T22:44:27+03:00"
+  "updated_at": "2026-05-10T22:44:27+03:00"
 }
