@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-05-10T22:44:25+03:00",
+  "updated_at": "2026-05-11T13:13:39+03:00",
   "last_result_q_files": [
     "260510_212433_Q.json"
   ],
@@ -27,12 +27,12 @@
       "created_at": "2026-05-08T22:44:25+03:00"
     },
     "hourly_2026-05-12_2100": {
-      "profile_id": 3,
+      "profile_id": 1,
       "ambient_temp_c": 27,
-      "cloud_level": 0.93,
-      "rain_level": 0.51,
-      "weather_randomness": 2,
-      "summary_key": "wet",
+      "cloud_level": 0.2,
+      "rain_level": 0.1,
+      "weather_randomness": 4,
+      "summary_key": "mixed",
       "created_at": "2026-05-09T22:44:25+03:00"
     },
     "hourly_2026-05-13_2100": {
