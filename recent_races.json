@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-05-11_2238_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-05-11T22:38:59+03:00",
+      "finished_at_local": "2026-05-11 22:38",
+      "participants_count": 40,
+      "scoring_participants_count": 35,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Evgeny Mayorov | NRR",
+      "winner_public_id": "drv_32d20c93fe7d",
+      "best_lap": "1:54.870",
+      "best_lap_driver": "Kosso Filippo[ASG]",
+      "best_lap_public_id": "drv_964ce73ba40a",
+      "status": "finished",
+      "details_path": "races/hourly_2026-05-11_2238_monza.json",
+      "results_repo_path": "260511_223859_R.json"
+    },
+    {
       "event_id": "hourly_2026-05-10_2234_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-04-26_2130_monza.json",
       "results_repo_path": "260426_213031_R.json"
-    },
-    {
-      "event_id": "hourly_2026-04-25_2132_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-04-25T21:32:49+03:00",
-      "finished_at_local": "2026-04-25 21:32",
-      "participants_count": 24,
-      "scoring_participants_count": 22,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Евгений Майоров | NRR",
-      "winner_public_id": "drv_32d20c93fe7d",
-      "best_lap": "1:46.855",
-      "best_lap_driver": "Евгений Майоров | NRR",
-      "best_lap_public_id": "drv_32d20c93fe7d",
-      "status": "finished",
-      "details_path": "races/hourly_2026-04-25_2132_monza.json",
-      "results_repo_path": "260425_213249_R.json"
     }
   ],
-  "updated_at": "2026-05-11T13:16:21+03:00"
+  "updated_at": "2026-05-11T22:44:25+03:00"
 }
