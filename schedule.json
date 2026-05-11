@@ -32,11 +32,11 @@
         "profile_id": 1,
         "ambient_temp_c": 27,
         "cloud_level": 0.2,
-        "rain_level": 0.1,
+        "rain_level": 0.01,
         "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.1
+      "rain_level": 0.01
     },
     {
       "event_id": "hourly_2026-05-13_2100",
@@ -48,15 +48,15 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "weather": {
-        "profile_id": 3,
+        "profile_id": 1,
         "ambient_temp_c": 26,
-        "cloud_level": 0.99,
-        "rain_level": 0.39,
+        "cloud_level": 0.4,
+        "rain_level": 0.0,
         "weather_randomness": 2,
-        "summary_key": "wet"
+        "summary_key": "clear"
       },
-      "rain_level": 0.39
+      "rain_level": 0.0
     }
   ],
-  "updated_at": "2026-05-11T13:13:39+03:00"
+  "updated_at": "2026-05-11T13:16:14+03:00"
 }
