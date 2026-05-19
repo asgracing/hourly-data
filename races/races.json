@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-05-19_2229_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-05-19T22:29:28+03:00",
+      "finished_at_local": "2026-05-19 22:29",
+      "participants_count": 36,
+      "scoring_participants_count": 33,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Ilya Kosmach",
+      "winner_public_id": "drv_c98693ccbce8",
+      "best_lap": "1:47.120",
+      "best_lap_driver": "Ilya Kosmach",
+      "best_lap_public_id": "drv_c98693ccbce8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-05-19_2229_monza.json",
+      "results_repo_path": "260519_222928_R.json"
+    },
+    {
       "event_id": "hourly_2026-05-18_2234_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-05-07_2231_monza.json",
       "results_repo_path": "260507_223147_R.json"
-    },
-    {
-      "event_id": "hourly_2026-05-06_2227_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-05-06T22:27:20+03:00",
-      "finished_at_local": "2026-05-06 22:27",
-      "participants_count": 11,
-      "scoring_participants_count": 6,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "ALEKSEY EPIFANOV",
-      "winner_public_id": "drv_39c83180f26a",
-      "best_lap": "1:50.395",
-      "best_lap_driver": "ALEKSEY EPIFANOV",
-      "best_lap_public_id": "drv_39c83180f26a",
-      "status": "finished",
-      "details_path": "races/hourly_2026-05-06_2227_monza.json",
-      "results_repo_path": "260506_222720_R.json"
     }
   ],
-  "updated_at": "2026-05-18T22:44:27+03:00"
+  "updated_at": "2026-05-19T22:44:27+03:00"
 }
