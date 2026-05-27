@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-05-27_2229_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-05-27T22:29:28+03:00",
+      "finished_at_local": "2026-05-27 22:29",
+      "participants_count": 27,
+      "scoring_participants_count": 25,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Alexandr Afenin [ASG]",
+      "winner_public_id": "drv_1cfb6f349a42",
+      "best_lap": "1:48.425",
+      "best_lap_driver": "Andrei Soldatenkov [ASG]",
+      "best_lap_public_id": "drv_b466bb6eedd8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-05-27_2229_monza.json",
+      "results_repo_path": "260527_222928_R.json"
+    },
+    {
       "event_id": "hourly_2026-05-26_2228_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-05-16_2230_monza.json",
       "results_repo_path": "260516_223018_R.json"
-    },
-    {
-      "event_id": "hourly_2026-05-15_2239_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-05-15T22:39:24+03:00",
-      "finished_at_local": "2026-05-15 22:39",
-      "participants_count": 38,
-      "scoring_participants_count": 34,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Adam Sibbs | SLR",
-      "winner_public_id": "drv_c2ce086b2f2e",
-      "best_lap": "1:46.967",
-      "best_lap_driver": "Adam Sibbs | SLR",
-      "best_lap_public_id": "drv_c2ce086b2f2e",
-      "status": "finished",
-      "details_path": "races/hourly_2026-05-15_2239_monza.json",
-      "results_repo_path": "260515_223924_R.json"
     }
   ],
-  "updated_at": "2026-05-26T22:44:26+03:00"
+  "updated_at": "2026-05-27T22:44:27+03:00"
 }
