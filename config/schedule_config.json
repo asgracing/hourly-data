@@ -18,6 +18,24 @@
       "name": "Monza",
       "asset": "monza.jpg",
       "weight": 1
+    },
+    {
+      "code": "spa",
+      "name": "Spa",
+      "asset": "spa.jpg",
+      "weight": 1
+    },
+    {
+      "code": "nurburgring",
+      "name": "Nurburgring",
+      "asset": "nurburgring.jpg",
+      "weight": 1
+    },
+    {
+      "code": "silverstone",
+      "name": "Silverstone",
+      "asset": "silverstone.jpg",
+      "weight": 1
     }
   ],
   "overrides": [
@@ -42,8 +60,8 @@
     {
       "date": "2026-06-13",
       "start_time_local": "21:00",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "spa",
+      "track_name": "Spa",
       "status": "scheduled",
       "event_type": "championship",
       "title": "June 2026-2",
@@ -53,8 +71,8 @@
     {
       "date": "2026-06-20",
       "start_time_local": "21:00",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "nurburgring",
+      "track_name": "Nurburgring",
       "status": "scheduled",
       "event_type": "championship",
       "title": "June 2026-3",
@@ -64,8 +82,8 @@
     {
       "date": "2026-06-27",
       "start_time_local": "21:00",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
       "status": "scheduled",
       "event_type": "championship",
       "title": "June 2026-4",

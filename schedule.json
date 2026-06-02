@@ -264,8 +264,8 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-06",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "spa",
+      "track_name": "Spa",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
@@ -429,8 +429,8 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-06",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "nurburgring",
+      "track_name": "Nurburgring",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
@@ -594,8 +594,8 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-06",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
@@ -1443,5 +1443,5 @@
       "rain_level": 0.29
     }
   ],
-  "updated_at": "2026-06-02T16:59:35+03:00"
+  "updated_at": "2026-06-02T17:21:26+03:00"
 }
