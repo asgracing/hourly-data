@@ -170,9 +170,9 @@
         "title": "ASG Racing June 2026",
         "status": "active",
         "period": "2026-06",
-        "prize1": "championships/june-2026/prizes/1.jpg",
-        "prize2": "championships/june-2026/prizes/2.jpg",
-        "prize3": "championships/june-2026/prizes/3.jpg",
+        "prize1": "prize1.jpg",
+        "prize2": "prize2.jpg",
+        "prize3": "prize3.jpg",
         "description": "Июньский чемпионат ASG Racing. Четыре субботние гонки, отдельная таблица очков, награды для топ-3 по итогам месяца."
       }
     ]

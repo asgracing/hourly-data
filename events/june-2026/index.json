@@ -82,12 +82,12 @@
     }
   ],
   "prizes": {
-    "prize1": "championships/june-2026/prizes/1.jpg",
-    "prize2": "championships/june-2026/prizes/2.jpg",
-    "prize3": "championships/june-2026/prizes/3.jpg"
+    "prize1": "prize1.jpg",
+    "prize2": "prize2.jpg",
+    "prize3": "prize3.jpg"
   },
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-06-03T08:40:59+03:00"
+  "updated_at": "2026-06-03T09:27:04+03:00"
 }
