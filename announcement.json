@@ -20,7 +20,7 @@
     "title": "ASG Racing June 2026",
     "status": "active",
     "period": "2026-06",
-    "description": "Июньский чемпионат ASG Racing. Четыре субботние гонки, отдельная таблица очков, награды для топ-3 по итогам месяца.",
+    "description": "Июньский чемпионат ASG Racing. Четыре субботние гонки, отдельная таблица очков, награды для топ-3 по итогам месяца. (Призовой фонд сформирован из поддержки проекта от Дмитрия А (Большое спасибо)) P.S. Призы могут изменится в случае форс-мажора.",
     "description_ru": null,
     "description_en": null,
     "description_i18n": null,
@@ -30,7 +30,7 @@
       "prize3": "prize3.jpg"
     }
   },
-  "updated_at": "2026-06-03T09:45:31+03:00",
+  "updated_at": "2026-06-03T10:31:16+03:00",
   "server": {
     "name": "ASG Racing 1H Race",
     "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
