@@ -5,12 +5,12 @@
   "period": "2026-06",
   "description": "Июньский чемпионат ASG Racing. Четыре субботние гонки, отдельная таблица очков, награды для топ-3 по итогам месяца.",
   "prizes": {
-    "prize1": null,
-    "prize2": null,
-    "prize3": null
+    "prize1": "championships/june-2026/prizes/1.jpg",
+    "prize2": "championships/june-2026/prizes/2.jpg",
+    "prize3": "championships/june-2026/prizes/3.jpg"
   },
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-06-02T22:44:29+03:00"
+  "updated_at": "2026-06-03T08:36:21+03:00"
 }
