@@ -12,11 +12,11 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": true,
+      "voting_disabled": false,
       "title": "June 2026-1",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
-      "details_url": "/events/?slug=june-2026",
+      "details_url": "/hourly/championship/?slug=june-2026",
       "weather": {
         "profile_id": 1,
         "ambient_temp_c": 24,
@@ -181,7 +181,7 @@
       "title": "June 2026-2",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
-      "details_url": "/events/?slug=june-2026",
+      "details_url": "/hourly/championship/?slug=june-2026",
       "weather": {
         "profile_id": 3,
         "ambient_temp_c": 18,
@@ -346,7 +346,7 @@
       "title": "June 2026-3",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
-      "details_url": "/events/?slug=june-2026",
+      "details_url": "/hourly/championship/?slug=june-2026",
       "weather": {
         "profile_id": 1,
         "ambient_temp_c": 29,
@@ -511,7 +511,7 @@
       "title": "June 2026-4",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
-      "details_url": "/events/?slug=june-2026",
+      "details_url": "/hourly/championship/?slug=june-2026",
       "weather": {
         "profile_id": 2,
         "ambient_temp_c": 29,
@@ -1443,5 +1443,5 @@
       "rain_level": 0.03
     }
   ],
-  "updated_at": "2026-06-05T23:32:43+03:00"
+  "updated_at": "2026-06-05T23:43:55+03:00"
 }

@@ -20,11 +20,11 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": true,
+      "voting_disabled": false,
       "title": "June 2026-1",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
-      "details_url": "/events/?slug=june-2026"
+      "details_url": "/hourly/championship/?slug=june-2026"
     },
     {
       "event_id": "hourly_2026-06-13_2100",
@@ -42,7 +42,7 @@
       "title": "June 2026-2",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
-      "details_url": "/events/?slug=june-2026"
+      "details_url": "/hourly/championship/?slug=june-2026"
     },
     {
       "event_id": "hourly_2026-06-20_2100",
@@ -60,7 +60,7 @@
       "title": "June 2026-3",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
-      "details_url": "/events/?slug=june-2026"
+      "details_url": "/hourly/championship/?slug=june-2026"
     },
     {
       "event_id": "hourly_2026-06-27_2100",
@@ -78,7 +78,7 @@
       "title": "June 2026-4",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
-      "details_url": "/events/?slug=june-2026"
+      "details_url": "/hourly/championship/?slug=june-2026"
     }
   ],
   "prizes": {
@@ -89,5 +89,5 @@
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-06-05T23:32:44+03:00"
+  "updated_at": "2026-06-05T23:43:56+03:00"
 }
