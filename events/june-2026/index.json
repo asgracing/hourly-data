@@ -38,7 +38,7 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": true,
+      "voting_disabled": false,
       "title": "June 2026-2",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
@@ -56,7 +56,7 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": true,
+      "voting_disabled": false,
       "title": "June 2026-3",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
@@ -74,7 +74,7 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": true,
+      "voting_disabled": false,
       "title": "June 2026-4",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
@@ -89,5 +89,5 @@
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-06-05T23:25:06+03:00"
+  "updated_at": "2026-06-05T23:32:44+03:00"
 }

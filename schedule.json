@@ -177,7 +177,7 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": true,
+      "voting_disabled": false,
       "title": "June 2026-2",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
@@ -342,7 +342,7 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": true,
+      "voting_disabled": false,
       "title": "June 2026-3",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
@@ -507,7 +507,7 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": true,
+      "voting_disabled": false,
       "title": "June 2026-4",
       "badge_label": "Championship Event",
       "championship_slug": "june-2026",
@@ -1443,5 +1443,5 @@
       "rain_level": 0.03
     }
   ],
-  "updated_at": "2026-06-05T23:25:05+03:00"
+  "updated_at": "2026-06-05T23:32:43+03:00"
 }
