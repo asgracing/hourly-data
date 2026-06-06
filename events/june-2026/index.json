@@ -9,24 +9,6 @@
   "description_i18n": null,
   "upcoming_races": [
     {
-      "event_id": "hourly_2026-06-06_2100",
-      "date": "2026-06-06",
-      "start_time_local": "21:00",
-      "timezone": "UTC+3",
-      "weekday": "saturday",
-      "month": "2026-06",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "event_type": "championship",
-      "voting_disabled": false,
-      "title": "June 2026-1",
-      "badge_label": "Championship Event",
-      "championship_slug": "june-2026",
-      "details_url": "/hourly/championship/?slug=june-2026"
-    },
-    {
       "event_id": "hourly_2026-06-13_2100",
       "date": "2026-06-13",
       "start_time_local": "21:00",
@@ -86,8 +68,760 @@
     "prize2": "prize2.jpg",
     "prize3": "prize3.jpg"
   },
-  "results_top3": [],
-  "standings": [],
-  "races": [],
-  "updated_at": "2026-06-05T23:43:56+03:00"
+  "results_top3": [
+    {
+      "public_id": "drv_208a87eea0b5",
+      "driver": "Sergey Saltaev",
+      "races": 1,
+      "wins": 1,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 25,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 25
+      },
+      "rank": 1
+    },
+    {
+      "public_id": "drv_ead3d6e9f3b0",
+      "driver": "Vahe Gabrielyan",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 18,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 18
+      },
+      "rank": 2
+    },
+    {
+      "public_id": "drv_964ce73ba40a",
+      "driver": "Kosso Filippo[ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 1,
+      "points": 16,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 16
+      },
+      "rank": 3
+    }
+  ],
+  "standings": [
+    {
+      "public_id": "drv_208a87eea0b5",
+      "driver": "Sergey Saltaev",
+      "races": 1,
+      "wins": 1,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 25,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 25
+      },
+      "rank": 1
+    },
+    {
+      "public_id": "drv_ead3d6e9f3b0",
+      "driver": "Vahe Gabrielyan",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 18,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 18
+      },
+      "rank": 2
+    },
+    {
+      "public_id": "drv_964ce73ba40a",
+      "driver": "Kosso Filippo[ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 1,
+      "points": 16,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 16
+      },
+      "rank": 3
+    },
+    {
+      "public_id": "drv_1cfb6f349a42",
+      "driver": "Alexandr Afenin [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 12,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 12
+      },
+      "rank": 4
+    },
+    {
+      "public_id": "drv_4ef0378510a8",
+      "driver": "Колян Погрузчик",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 10,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 10
+      },
+      "rank": 5
+    },
+    {
+      "public_id": "drv_b57eb306ffdb",
+      "driver": "Ivan Borisov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 8,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 8
+      },
+      "rank": 6
+    },
+    {
+      "public_id": "drv_65d50a925905",
+      "driver": "Artem MuelSson",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 6,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 6
+      },
+      "rank": 7
+    },
+    {
+      "public_id": "drv_7ea4b7518b3b",
+      "driver": "Sergey Borzov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 4,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 4
+      },
+      "rank": 8
+    },
+    {
+      "public_id": "drv_6c362b5ba38b",
+      "driver": "Artem Abashin[ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 2,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 2
+      },
+      "rank": 9
+    },
+    {
+      "public_id": "drv_9daf9212948c",
+      "driver": "Islam  Akaev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 1,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 1
+      },
+      "rank": 10
+    },
+    {
+      "public_id": "drv_02dda162e815",
+      "driver": "Alex Prok",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 11
+    },
+    {
+      "public_id": "drv_621dfc2c2b98",
+      "driver": "Alexey Shustov [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 12
+    },
+    {
+      "public_id": "drv_b466bb6eedd8",
+      "driver": "Andrei Soldatenkov [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 13
+    },
+    {
+      "public_id": "drv_2a1b14120b46",
+      "driver": "Andrew Margorin",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 14
+    },
+    {
+      "public_id": "drv_37b199d060a9",
+      "driver": "Daniil Nevzorov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 15
+    },
+    {
+      "public_id": "drv_c622880f67c0",
+      "driver": "Diego Sanin",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 16
+    },
+    {
+      "public_id": "drv_2785a443eb42",
+      "driver": "Dima Ivanoff",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 17
+    },
+    {
+      "public_id": "drv_68c3065988b9",
+      "driver": "Dmitrij Hohlov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 18
+    },
+    {
+      "public_id": "drv_5d09c4946336",
+      "driver": "ELEVEN  GOD",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 19
+    },
+    {
+      "public_id": "drv_962015c6889b",
+      "driver": "Evgeny Dorofeev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 20
+    },
+    {
+      "public_id": "drv_bd8761a9020c",
+      "driver": "Fors1 Ibragimov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 21
+    },
+    {
+      "public_id": "drv_4d0210e802a4",
+      "driver": "HAYTHAM SOBHY",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 22
+    },
+    {
+      "public_id": "drv_3da6cfe76196",
+      "driver": "I SynHuiChai [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 23
+    },
+    {
+      "public_id": "drv_4e5550304be8",
+      "driver": "IGNAT MARTIROSYAN",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 24
+    },
+    {
+      "public_id": "drv_a78d0f07be91",
+      "driver": "Ivan Bykovskiy",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 25
+    },
+    {
+      "public_id": "drv_566347522d94",
+      "driver": "Ivan Kornienko",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 26
+    },
+    {
+      "public_id": "drv_977b6a386cda",
+      "driver": "Ivan Tsygankov [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 27
+    },
+    {
+      "public_id": "drv_10b4b6556336",
+      "driver": "Javier Breogan.VR.[ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 28
+    },
+    {
+      "public_id": "drv_207d14eeee04",
+      "driver": "K Magomed | TS",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 29
+    },
+    {
+      "public_id": "drv_19e9b793b4e4",
+      "driver": "Kaira Ali-Aidarov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 30
+    },
+    {
+      "public_id": "drv_98f9a0d176bd",
+      "driver": "Khachatur Karapetyan",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 31
+    },
+    {
+      "public_id": "drv_125332389164",
+      "driver": "Kirill Akulov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 32
+    },
+    {
+      "public_id": "drv_780fce005a4b",
+      "driver": "Kirill Bulgakov [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 33
+    },
+    {
+      "public_id": "drv_0f9bd27dc017",
+      "driver": "Kirill klfir",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 34
+    },
+    {
+      "public_id": "drv_7a2ffc4eff3a",
+      "driver": "Leonid Karsuncev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 35
+    },
+    {
+      "public_id": "drv_1486cae0d567",
+      "driver": "M. Radzhabov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 36
+    },
+    {
+      "public_id": "drv_58f90d1d28b5",
+      "driver": "Maks Kasrelishvili [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 37
+    },
+    {
+      "public_id": "drv_f58cde0858eb",
+      "driver": "Mario Cvetkovski",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 38
+    },
+    {
+      "public_id": "drv_0dcf138e0678",
+      "driver": "Max Hardy",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 39
+    },
+    {
+      "public_id": "drv_da5057be1dd3",
+      "driver": "Mikhail Sakharov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 40
+    },
+    {
+      "public_id": "drv_c23b413a0ca6",
+      "driver": "Mikhail Voronov [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 41
+    },
+    {
+      "public_id": "drv_25ab7811b180",
+      "driver": "Muhammad Guseynov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 42
+    },
+    {
+      "public_id": "drv_6ca153ce9bf7",
+      "driver": "Nick Fisher [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 43
+    },
+    {
+      "public_id": "drv_150ac8778a86",
+      "driver": "Nikolay Malishewskiy",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 44
+    },
+    {
+      "public_id": "drv_886dec66cad0",
+      "driver": "Polina Meteleva [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 45
+    },
+    {
+      "public_id": "drv_4cb2f5d34ee4",
+      "driver": "Shamil Ashirov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 46
+    },
+    {
+      "public_id": "drv_79efc1e3669b",
+      "driver": "Stefan Rajcevski",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 47
+    },
+    {
+      "public_id": "drv_34c465d71473",
+      "driver": "Valeriy Lubimtcev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 48
+    },
+    {
+      "public_id": "drv_56d5d830dbd5",
+      "driver": "Vyacheslav Kovskiy",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 49
+    },
+    {
+      "public_id": "drv_97865e0943b4",
+      "driver": "Yaroslav Pushkin",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 50
+    },
+    {
+      "public_id": "drv_c5c83d33bb48",
+      "driver": "Zeyad Alaa",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 51
+    },
+    {
+      "public_id": "drv_90bc69d6ad18",
+      "driver": "madara sim2real",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 52
+    },
+    {
+      "public_id": "drv_28f173da7e61",
+      "driver": "Зиям Мурадов",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0
+      },
+      "rank": 53
+    }
+  ],
+  "races": [
+    {
+      "event_id": "hourly_2026-06-06_2229_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-06-06T22:29:26+03:00",
+      "finished_at_local": "2026-06-06 22:29",
+      "participants_count": 53,
+      "scoring_participants_count": 50,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Sergey Saltaev",
+      "winner_public_id": "drv_208a87eea0b5",
+      "best_lap": "1:47.302",
+      "best_lap_driver": "Kosso Filippo[ASG]",
+      "best_lap_public_id": "drv_964ce73ba40a",
+      "status": "finished",
+      "details_path": "races/hourly_2026-06-06_2229_monza.json",
+      "results_repo_path": "260606_222926_R.json"
+    }
+  ],
+  "updated_at": "2026-06-06T22:44:27+03:00"
 }
