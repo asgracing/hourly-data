@@ -80,8 +80,8 @@
       "timezone": "UTC+3",
       "weekday": "tuesday",
       "month": "2026-06",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "nurburgring",
+      "track_name": "Nurburgring",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -1439,5 +1439,5 @@
       "rain_level": 0.2
     }
   ],
-  "updated_at": "2026-06-12T22:44:24+03:00"
+  "updated_at": "2026-06-13T13:37:42+03:00"
 }
