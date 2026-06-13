@@ -78,6 +78,14 @@
       "event_type": "hourly"
     },
     {
+      "date": "2026-06-19",
+      "start_time_local": "21:00",
+      "track_code": "nurburgring",
+      "track_name": "Nurburgring",
+      "status": "scheduled",
+      "event_type": "hourly"
+    },
+    {
       "date": "2026-06-20",
       "start_time_local": "21:00",
       "track_code": "nurburgring",
