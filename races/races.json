@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-06-15_2228_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-06-15T22:28:18+03:00",
+      "finished_at_local": "2026-06-15 22:28",
+      "participants_count": 35,
+      "scoring_participants_count": 30,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Vahe Gabrielyan",
+      "winner_public_id": "drv_ead3d6e9f3b0",
+      "best_lap": "1:47.747",
+      "best_lap_driver": "Ivan Yurenko",
+      "best_lap_public_id": "drv_ce6301f85cb3",
+      "status": "finished",
+      "details_path": "races/hourly_2026-06-15_2228_monza.json",
+      "results_repo_path": "260615_222818_R.json"
+    },
+    {
       "event_id": "hourly_2026-06-14_2229_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-06-02_2229_monza.json",
       "results_repo_path": "260602_222928_R.json"
-    },
-    {
-      "event_id": "hourly_2026-06-01_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-06-01T22:29:10+03:00",
-      "finished_at_local": "2026-06-01 22:29",
-      "participants_count": 38,
-      "scoring_participants_count": 34,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Dmitrij Hohlov",
-      "winner_public_id": "drv_68c3065988b9",
-      "best_lap": "1:48.172",
-      "best_lap_driver": "Max Hohlov",
-      "best_lap_public_id": "drv_885cc793b71b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-06-01_2229_monza.json",
-      "results_repo_path": "260601_222910_R.json"
     }
   ],
-  "updated_at": "2026-06-14T22:44:28+03:00"
+  "updated_at": "2026-06-15T22:44:29+03:00"
 }
