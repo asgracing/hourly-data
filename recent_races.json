@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-06-16_2229_nurburgring",
+      "title": "Hourly Race",
+      "track": "nurburgring",
+      "track_code": "nurburgring",
+      "track_name": "Nurburgring",
+      "finished_at": "2026-06-16T22:29:19+03:00",
+      "finished_at_local": "2026-06-16 22:29",
+      "participants_count": 29,
+      "scoring_participants_count": 24,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Alan Ortabaev(RU)",
+      "winner_public_id": "drv_3f376fa37e3e",
+      "best_lap": "1:55.487",
+      "best_lap_driver": "Kosso Filippo[ASG]",
+      "best_lap_public_id": "drv_964ce73ba40a",
+      "status": "finished",
+      "details_path": "races/hourly_2026-06-16_2229_nurburgring.json",
+      "results_repo_path": "260616_222919_R.json"
+    },
+    {
       "event_id": "hourly_2026-06-15_2228_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-06-03_2232_monza.json",
       "results_repo_path": "260603_223245_R.json"
-    },
-    {
-      "event_id": "hourly_2026-06-02_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-06-02T22:29:28+03:00",
-      "finished_at_local": "2026-06-02 22:29",
-      "participants_count": 41,
-      "scoring_participants_count": 37,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Sergey Smolin",
-      "winner_public_id": "drv_bc7259ac6d7b",
-      "best_lap": "1:47.400",
-      "best_lap_driver": "Kirill Bulgakov [ASG]",
-      "best_lap_public_id": "drv_780fce005a4b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-06-02_2229_monza.json",
-      "results_repo_path": "260602_222928_R.json"
     }
   ],
-  "updated_at": "2026-06-15T22:44:29+03:00"
+  "updated_at": "2026-06-16T22:44:28+03:00"
 }

@@ -1,29 +1,6 @@
 {
   "items": [
     {
-      "event_id": "hourly_2026-06-16_2100",
-      "date": "2026-06-16",
-      "start_time_local": "21:00",
-      "timezone": "UTC+3",
-      "weekday": "tuesday",
-      "month": "2026-06",
-      "track_code": "nurburgring",
-      "track_name": "Nurburgring",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "event_type": "hourly",
-      "voting_disabled": false,
-      "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 23,
-        "cloud_level": 0.14,
-        "rain_level": 0.03,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "rain_level": 0.03
-    },
-    {
       "event_id": "hourly_2026-06-17_2100",
       "date": "2026-06-17",
       "start_time_local": "21:00",
@@ -83,14 +60,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.16,
-        "rain_level": 0.23,
-        "weather_randomness": 5,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.21,
+        "rain_level": 0.04,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.23
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-06-20_2100",
@@ -111,13 +88,13 @@
       "details_url": "/hourly/championship/?slug=june-2026",
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.19,
-        "rain_level": 0.08,
-        "weather_randomness": 4,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.12,
+        "rain_level": 0.02,
+        "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.08
+      "rain_level": 0.02
     },
     {
       "event_id": "hourly_2026-06-21_2100",
@@ -133,14 +110,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.08,
-        "rain_level": 0.11,
+        "profile_id": 3,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.12,
+        "rain_level": 0.3,
         "weather_randomness": 2,
-        "summary_key": "mixed"
+        "summary_key": "wet"
       },
-      "rain_level": 0.11
+      "rain_level": 0.3
     },
     {
       "event_id": "hourly_2026-06-22_2100",
@@ -157,13 +134,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 3,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.27,
-        "rain_level": 0.23,
-        "weather_randomness": 6,
+        "ambient_temp_c": 22,
+        "cloud_level": 0.3,
+        "rain_level": 0.14,
+        "weather_randomness": 3,
         "summary_key": "wet"
       },
-      "rain_level": 0.23
+      "rain_level": 0.14
     },
     {
       "event_id": "hourly_2026-06-23_2100",
@@ -180,13 +157,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.19,
-        "rain_level": 0.05,
-        "weather_randomness": 3,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.15,
+        "rain_level": 0.04,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.05
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-06-24_2100",
@@ -202,14 +179,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
+        "profile_id": 1,
         "ambient_temp_c": 26,
-        "cloud_level": 0.25,
-        "rain_level": 0.22,
-        "weather_randomness": 4,
-        "summary_key": "wet"
+        "cloud_level": 0.17,
+        "rain_level": 0.01,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
-      "rain_level": 0.22
+      "rain_level": 0.01
     },
     {
       "event_id": "hourly_2026-06-25_2100",
@@ -225,14 +202,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 20,
-        "cloud_level": 0.18,
-        "rain_level": 0.04,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 3,
+        "ambient_temp_c": 18,
+        "cloud_level": 0.16,
+        "rain_level": 0.13,
+        "weather_randomness": 2,
+        "summary_key": "wet"
       },
-      "rain_level": 0.04
+      "rain_level": 0.13
     },
     {
       "event_id": "hourly_2026-06-26_2100",
@@ -248,14 +225,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.15,
-        "rain_level": 0.05,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.16,
+        "rain_level": 0.11,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.05
+      "rain_level": 0.11
     },
     {
       "event_id": "hourly_2026-06-27_2100",
@@ -275,14 +252,14 @@
       "championship_slug": "june-2026",
       "details_url": "/hourly/championship/?slug=june-2026",
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.09,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.12,
+        "rain_level": 0.01,
+        "weather_randomness": 4,
+        "summary_key": "clear"
       },
-      "rain_level": 0.04
+      "rain_level": 0.01
     },
     {
       "event_id": "hourly_2026-06-28_2100",
@@ -298,14 +275,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.25,
-        "rain_level": 0.08,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 3,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.18,
+        "rain_level": 0.22,
+        "weather_randomness": 6,
+        "summary_key": "wet"
       },
-      "rain_level": 0.08
+      "rain_level": 0.22
     },
     {
       "event_id": "hourly_2026-06-29_2100",
@@ -321,14 +298,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 19,
-        "cloud_level": 0.2,
-        "rain_level": 0.16,
-        "weather_randomness": 2,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.22,
+        "rain_level": 0.06,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.16
+      "rain_level": 0.06
     },
     {
       "event_id": "hourly_2026-06-30_2100",
@@ -345,13 +322,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.22,
-        "rain_level": 0.01,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.16,
+        "rain_level": 0.12,
         "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.01
+      "rain_level": 0.12
     },
     {
       "event_id": "hourly_2026-07-01_2100",
@@ -368,13 +345,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.04,
-        "rain_level": 0.02,
-        "weather_randomness": 3,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.17,
+        "rain_level": 0.04,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.02
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-07-02_2100",
@@ -391,13 +368,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.18,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.21,
+        "rain_level": 0.03,
+        "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.01
+      "rain_level": 0.03
     },
     {
       "event_id": "hourly_2026-07-03_2100",
@@ -415,12 +392,12 @@
       "weather": {
         "profile_id": 1,
         "ambient_temp_c": 29,
-        "cloud_level": 0.25,
-        "rain_level": 0.01,
-        "weather_randomness": 3,
+        "cloud_level": 0.24,
+        "rain_level": 0.0,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.01
+      "rain_level": 0.0
     },
     {
       "event_id": "hourly_2026-07-04_2100",
@@ -436,14 +413,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.21,
-        "rain_level": 0.02,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 21,
+        "cloud_level": 0.15,
+        "rain_level": 0.09,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.02
+      "rain_level": 0.09
     },
     {
       "event_id": "hourly_2026-07-05_2100",
@@ -460,13 +437,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.21,
-        "rain_level": 0.0,
-        "weather_randomness": 2,
+        "ambient_temp_c": 23,
+        "cloud_level": 0.22,
+        "rain_level": 0.09,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.0
+      "rain_level": 0.09
     },
     {
       "event_id": "hourly_2026-07-06_2100",
@@ -482,14 +459,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.1,
-        "rain_level": 0.07,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.16,
+        "rain_level": 0.02,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
-      "rain_level": 0.07
+      "rain_level": 0.02
     },
     {
       "event_id": "hourly_2026-07-07_2100",
@@ -506,13 +483,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.02,
-        "rain_level": 0.01,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.13,
+        "rain_level": 0.04,
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.01
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-07-08_2100",
@@ -529,13 +506,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.17,
-        "rain_level": 0.1,
-        "weather_randomness": 5,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.1,
+        "rain_level": 0.09,
+        "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.1
+      "rain_level": 0.09
     },
     {
       "event_id": "hourly_2026-07-09_2100",
@@ -551,14 +528,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 21,
-        "cloud_level": 0.25,
-        "rain_level": 0.13,
-        "weather_randomness": 2,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 22,
+        "cloud_level": 0.11,
+        "rain_level": 0.04,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.13
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-07-10_2100",
@@ -574,14 +551,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
+        "profile_id": 1,
         "ambient_temp_c": 30,
-        "cloud_level": 0.26,
-        "rain_level": 0.28,
-        "weather_randomness": 6,
-        "summary_key": "wet"
+        "cloud_level": 0.21,
+        "rain_level": 0.0,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
-      "rain_level": 0.28
+      "rain_level": 0.0
     },
     {
       "event_id": "hourly_2026-07-11_2100",
@@ -598,10 +575,10 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 29,
+        "ambient_temp_c": 30,
         "cloud_level": 0.21,
         "rain_level": 0.02,
-        "weather_randomness": 4,
+        "weather_randomness": 3,
         "summary_key": "mixed"
       },
       "rain_level": 0.02
@@ -621,13 +598,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.19,
-        "rain_level": 0.02,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.23,
+        "rain_level": 0.07,
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.02
+      "rain_level": 0.07
     },
     {
       "event_id": "hourly_2026-07-13_2100",
@@ -643,14 +620,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.22,
-        "rain_level": 0.03,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.02,
+        "rain_level": 0.04,
+        "weather_randomness": 4,
+        "summary_key": "clear"
       },
-      "rain_level": 0.03
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-07-14_2100",
@@ -666,14 +643,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.08,
-        "rain_level": 0.01,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.19,
+        "rain_level": 0.04,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.01
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-07-15_2100",
@@ -691,12 +668,12 @@
       "weather": {
         "profile_id": 1,
         "ambient_temp_c": 30,
-        "cloud_level": 0.19,
-        "rain_level": 0.03,
+        "cloud_level": 0.06,
+        "rain_level": 0.01,
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.03
+      "rain_level": 0.01
     },
     {
       "event_id": "hourly_2026-07-16_2100",
@@ -712,14 +689,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.09,
-        "rain_level": 0.01,
-        "weather_randomness": 4,
-        "summary_key": "clear"
+        "profile_id": 3,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.15,
+        "rain_level": 0.29,
+        "weather_randomness": 5,
+        "summary_key": "wet"
       },
-      "rain_level": 0.01
+      "rain_level": 0.29
     },
     {
       "event_id": "hourly_2026-07-17_2100",
@@ -735,14 +712,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.07,
-        "rain_level": 0.05,
+        "profile_id": 3,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.25,
+        "rain_level": 0.19,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "wet"
       },
-      "rain_level": 0.05
+      "rain_level": 0.19
     },
     {
       "event_id": "hourly_2026-07-18_2100",
@@ -758,14 +735,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.11,
-        "rain_level": 0.11,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.03,
+        "rain_level": 0.02,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.11
+      "rain_level": 0.02
     },
     {
       "event_id": "hourly_2026-07-19_2100",
@@ -782,13 +759,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.11,
-        "rain_level": 0.12,
-        "weather_randomness": 5,
+        "ambient_temp_c": 22,
+        "cloud_level": 0.14,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.12
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-07-20_2100",
@@ -804,14 +781,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.16,
-        "rain_level": 0.01,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.12,
+        "rain_level": 0.11,
+        "weather_randomness": 2,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.01
+      "rain_level": 0.11
     },
     {
       "event_id": "hourly_2026-07-21_2100",
@@ -827,14 +804,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.21,
-        "rain_level": 0.22,
+        "profile_id": 2,
+        "ambient_temp_c": 23,
+        "cloud_level": 0.14,
+        "rain_level": 0.06,
         "weather_randomness": 2,
-        "summary_key": "wet"
+        "summary_key": "mixed"
       },
-      "rain_level": 0.22
+      "rain_level": 0.06
     },
     {
       "event_id": "hourly_2026-07-22_2100",
@@ -850,14 +827,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.18,
-        "rain_level": 0.05,
+        "profile_id": 3,
+        "ambient_temp_c": 20,
+        "cloud_level": 0.16,
+        "rain_level": 0.24,
         "weather_randomness": 5,
-        "summary_key": "mixed"
+        "summary_key": "wet"
       },
-      "rain_level": 0.05
+      "rain_level": 0.24
     },
     {
       "event_id": "hourly_2026-07-23_2100",
@@ -873,14 +850,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 28,
+        "profile_id": 3,
+        "ambient_temp_c": 26,
         "cloud_level": 0.22,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "rain_level": 0.2,
+        "weather_randomness": 2,
+        "summary_key": "wet"
       },
-      "rain_level": 0.05
+      "rain_level": 0.2
     },
     {
       "event_id": "hourly_2026-07-24_2100",
@@ -896,14 +873,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 19,
-        "cloud_level": 0.13,
-        "rain_level": 0.29,
-        "weather_randomness": 2,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.14,
+        "rain_level": 0.08,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.29
+      "rain_level": 0.08
     },
     {
       "event_id": "hourly_2026-07-25_2100",
@@ -920,13 +897,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.16,
-        "rain_level": 0.09,
-        "weather_randomness": 5,
+        "ambient_temp_c": 23,
+        "cloud_level": 0.1,
+        "rain_level": 0.02,
+        "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.09
+      "rain_level": 0.02
     },
     {
       "event_id": "hourly_2026-07-26_2100",
@@ -943,8 +920,8 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.18,
+        "ambient_temp_c": 23,
+        "cloud_level": 0.14,
         "rain_level": 0.11,
         "weather_randomness": 5,
         "summary_key": "mixed"
@@ -965,14 +942,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
+        "profile_id": 2,
         "ambient_temp_c": 30,
         "cloud_level": 0.12,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
+        "rain_level": 0.07,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.05
+      "rain_level": 0.07
     },
     {
       "event_id": "hourly_2026-07-28_2100",
@@ -989,13 +966,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.1,
-        "rain_level": 0.06,
-        "weather_randomness": 2,
+        "ambient_temp_c": 22,
+        "cloud_level": 0.24,
+        "rain_level": 0.07,
+        "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.06
+      "rain_level": 0.07
     },
     {
       "event_id": "hourly_2026-07-29_2100",
@@ -1012,13 +989,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.15,
-        "rain_level": 0.09,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.18,
+        "rain_level": 0.06,
         "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.09
+      "rain_level": 0.06
     },
     {
       "event_id": "hourly_2026-07-30_2100",
@@ -1034,14 +1011,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.05,
-        "rain_level": 0.03,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 3,
+        "ambient_temp_c": 22,
+        "cloud_level": 0.16,
+        "rain_level": 0.11,
+        "weather_randomness": 5,
+        "summary_key": "wet"
       },
-      "rain_level": 0.03
+      "rain_level": 0.11
     },
     {
       "event_id": "hourly_2026-07-31_2100",
@@ -1058,13 +1035,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 21,
-        "cloud_level": 0.07,
-        "rain_level": 0.08,
-        "weather_randomness": 3,
+        "ambient_temp_c": 23,
+        "cloud_level": 0.11,
+        "rain_level": 0.09,
+        "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.08
+      "rain_level": 0.09
     },
     {
       "event_id": "hourly_2026-08-01_2100",
@@ -1082,12 +1059,12 @@
       "weather": {
         "profile_id": 2,
         "ambient_temp_c": 30,
-        "cloud_level": 0.15,
-        "rain_level": 0.01,
+        "cloud_level": 0.22,
+        "rain_level": 0.09,
         "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.01
+      "rain_level": 0.09
     },
     {
       "event_id": "hourly_2026-08-02_2100",
@@ -1104,13 +1081,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.03,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.24,
+        "rain_level": 0.01,
+        "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.05
+      "rain_level": 0.01
     },
     {
       "event_id": "hourly_2026-08-03_2100",
@@ -1126,14 +1103,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.2,
-        "rain_level": 0.01,
-        "weather_randomness": 4,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.21,
+        "rain_level": 0.06,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.01
+      "rain_level": 0.06
     },
     {
       "event_id": "hourly_2026-08-04_2100",
@@ -1149,14 +1126,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 18,
-        "cloud_level": 0.21,
-        "rain_level": 0.19,
+        "profile_id": 1,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.07,
+        "rain_level": 0.02,
         "weather_randomness": 2,
-        "summary_key": "wet"
+        "summary_key": "clear"
       },
-      "rain_level": 0.19
+      "rain_level": 0.02
     },
     {
       "event_id": "hourly_2026-08-05_2100",
@@ -1172,14 +1149,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.17,
-        "rain_level": 0.05,
+        "profile_id": 2,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.25,
+        "rain_level": 0.06,
         "weather_randomness": 3,
-        "summary_key": "clear"
+        "summary_key": "mixed"
       },
-      "rain_level": 0.05
+      "rain_level": 0.06
     },
     {
       "event_id": "hourly_2026-08-06_2100",
@@ -1195,14 +1172,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.22,
-        "rain_level": 0.02,
-        "weather_randomness": 4,
-        "summary_key": "clear"
+        "profile_id": 3,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.25,
+        "rain_level": 0.14,
+        "weather_randomness": 5,
+        "summary_key": "wet"
       },
-      "rain_level": 0.02
+      "rain_level": 0.14
     },
     {
       "event_id": "hourly_2026-08-07_2100",
@@ -1218,14 +1195,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.1,
-        "rain_level": 0.07,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
+        "profile_id": 3,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.25,
+        "rain_level": 0.21,
+        "weather_randomness": 3,
+        "summary_key": "wet"
       },
-      "rain_level": 0.07
+      "rain_level": 0.21
     },
     {
       "event_id": "hourly_2026-08-08_2100",
@@ -1242,13 +1219,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 21,
-        "cloud_level": 0.14,
-        "rain_level": 0.05,
-        "weather_randomness": 5,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.16,
+        "rain_level": 0.04,
+        "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.05
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-08-09_2100",
@@ -1265,13 +1242,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.08,
-        "rain_level": 0.03,
-        "weather_randomness": 3,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.07,
+        "rain_level": 0.04,
+        "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.03
+      "rain_level": 0.04
     },
     {
       "event_id": "hourly_2026-08-10_2100",
@@ -1288,13 +1265,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 20,
-        "cloud_level": 0.13,
-        "rain_level": 0.07,
-        "weather_randomness": 3,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.15,
+        "rain_level": 0.1,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.07
+      "rain_level": 0.1
     },
     {
       "event_id": "hourly_2026-08-11_2100",
@@ -1311,13 +1288,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.23,
-        "rain_level": 0.02,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.01,
+        "rain_level": 0.01,
         "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.02
+      "rain_level": 0.01
     },
     {
       "event_id": "hourly_2026-08-12_2100",
@@ -1333,14 +1310,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.03,
-        "rain_level": 0.02,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.18,
+        "rain_level": 0.01,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.02
+      "rain_level": 0.01
     },
     {
       "event_id": "hourly_2026-08-13_2100",
@@ -1356,14 +1333,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.17,
-        "rain_level": 0.02,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 3,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.09,
+        "rain_level": 0.12,
+        "weather_randomness": 3,
+        "summary_key": "wet"
       },
-      "rain_level": 0.02
+      "rain_level": 0.12
     },
     {
       "event_id": "hourly_2026-08-14_2100",
@@ -1379,14 +1356,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.11,
-        "rain_level": 0.11,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
+        "profile_id": 3,
+        "ambient_temp_c": 21,
+        "cloud_level": 0.27,
+        "rain_level": 0.17,
+        "weather_randomness": 2,
+        "summary_key": "wet"
       },
-      "rain_level": 0.11
+      "rain_level": 0.17
     },
     {
       "event_id": "hourly_2026-08-15_2100",
@@ -1403,13 +1380,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 20,
-        "cloud_level": 0.21,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.08,
+        "rain_level": 0.07,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.05
+      "rain_level": 0.07
     },
     {
       "event_id": "hourly_2026-08-16_2100",
@@ -1425,15 +1402,38 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
+        "profile_id": 1,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.14,
+        "rain_level": 0.04,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "rain_level": 0.04
+    },
+    {
+      "event_id": "hourly_2026-08-17_2100",
+      "date": "2026-08-17",
+      "start_time_local": "21:00",
+      "timezone": "UTC+3",
+      "weekday": "monday",
+      "month": "2026-08",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "voting_disabled": false,
+      "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.13,
-        "rain_level": 0.06,
-        "weather_randomness": 5,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.08,
+        "rain_level": 0.1,
+        "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.06
+      "rain_level": 0.1
     }
   ],
-  "updated_at": "2026-06-15T22:44:25+03:00"
+  "updated_at": "2026-06-16T22:44:24+03:00"
 }
