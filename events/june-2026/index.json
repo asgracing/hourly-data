@@ -9,24 +9,6 @@
   "description_i18n": null,
   "upcoming_races": [
     {
-      "event_id": "hourly_2026-06-20_2100",
-      "date": "2026-06-20",
-      "start_time_local": "21:00",
-      "timezone": "UTC+3",
-      "weekday": "saturday",
-      "month": "2026-06",
-      "track_code": "nurburgring",
-      "track_name": "Nurburgring",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "event_type": "championship",
-      "voting_disabled": false,
-      "title": "June 2026-3",
-      "badge_label": "Championship Event",
-      "championship_slug": "june-2026",
-      "details_url": "/hourly/championship/?slug=june-2026"
-    },
-    {
       "event_id": "hourly_2026-06-27_2100",
       "date": "2026-06-27",
       "start_time_local": "21:00",
@@ -54,41 +36,45 @@
     {
       "public_id": "drv_ead3d6e9f3b0",
       "driver": "Vahe Gabrielyan",
-      "races": 2,
-      "wins": 1,
-      "podiums": 2,
-      "best_laps": 1,
-      "points": 44,
+      "races": 3,
+      "wins": 2,
+      "podiums": 3,
+      "best_laps": 2,
+      "points": 70,
       "race_points": {
         "hourly_2026-06-06_2229_monza": 18,
-        "hourly_2026-06-13_2231_spa": 26
+        "hourly_2026-06-13_2231_spa": 26,
+        "hourly_2026-06-20_2230_nurburgring": 26
       },
       "rank": 1
     },
     {
-      "public_id": "drv_208a87eea0b5",
-      "driver": "Sergey Saltaev",
-      "races": 2,
-      "wins": 1,
-      "podiums": 1,
+      "public_id": "drv_b57eb306ffdb",
+      "driver": "Ivan Borisov",
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
       "best_laps": 0,
-      "points": 25,
+      "points": 28,
       "race_points": {
-        "hourly_2026-06-06_2229_monza": 25,
-        "hourly_2026-06-13_2231_spa": 0
+        "hourly_2026-06-06_2229_monza": 8,
+        "hourly_2026-06-13_2231_spa": 8,
+        "hourly_2026-06-20_2230_nurburgring": 12
       },
       "rank": 2
     },
     {
-      "public_id": "drv_908061118bfc",
-      "driver": "twitch.tv DessotoGT3",
-      "races": 1,
+      "public_id": "drv_1cfb6f349a42",
+      "driver": "Alexandr Afenin [ASG]",
+      "races": 3,
       "wins": 0,
       "podiums": 1,
       "best_laps": 0,
-      "points": 18,
+      "points": 27,
       "race_points": {
-        "hourly_2026-06-13_2231_spa": 18
+        "hourly_2026-06-06_2229_monza": 12,
+        "hourly_2026-06-13_2231_spa": 0,
+        "hourly_2026-06-20_2230_nurburgring": 15
       },
       "rank": 3
     }
@@ -97,16 +83,47 @@
     {
       "public_id": "drv_ead3d6e9f3b0",
       "driver": "Vahe Gabrielyan",
-      "races": 2,
-      "wins": 1,
-      "podiums": 2,
-      "best_laps": 1,
-      "points": 44,
+      "races": 3,
+      "wins": 2,
+      "podiums": 3,
+      "best_laps": 2,
+      "points": 70,
       "race_points": {
         "hourly_2026-06-06_2229_monza": 18,
-        "hourly_2026-06-13_2231_spa": 26
+        "hourly_2026-06-13_2231_spa": 26,
+        "hourly_2026-06-20_2230_nurburgring": 26
       },
       "rank": 1
+    },
+    {
+      "public_id": "drv_b57eb306ffdb",
+      "driver": "Ivan Borisov",
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 28,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 8,
+        "hourly_2026-06-13_2231_spa": 8,
+        "hourly_2026-06-20_2230_nurburgring": 12
+      },
+      "rank": 2
+    },
+    {
+      "public_id": "drv_1cfb6f349a42",
+      "driver": "Alexandr Afenin [ASG]",
+      "races": 3,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 27,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 12,
+        "hourly_2026-06-13_2231_spa": 0,
+        "hourly_2026-06-20_2230_nurburgring": 15
+      },
+      "rank": 3
     },
     {
       "public_id": "drv_208a87eea0b5",
@@ -120,74 +137,62 @@
         "hourly_2026-06-06_2229_monza": 25,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "public_id": "drv_3f376fa37e3e",
+      "driver": "Alan Ortabaev(RU)",
+      "races": 2,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 25,
+      "race_points": {
+        "hourly_2026-06-13_2231_spa": 15,
+        "hourly_2026-06-20_2230_nurburgring": 10
+      },
+      "rank": 5
     },
     {
       "public_id": "drv_908061118bfc",
       "driver": "twitch.tv DessotoGT3",
+      "races": 2,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 20,
+      "race_points": {
+        "hourly_2026-06-13_2231_spa": 18,
+        "hourly_2026-06-20_2230_nurburgring": 2
+      },
+      "rank": 6
+    },
+    {
+      "public_id": "drv_fde28f699403",
+      "driver": "Anatoliy Mikhailov",
       "races": 1,
       "wins": 0,
       "podiums": 1,
       "best_laps": 0,
       "points": 18,
       "race_points": {
-        "hourly_2026-06-13_2231_spa": 18
+        "hourly_2026-06-20_2230_nurburgring": 18
       },
-      "rank": 3
+      "rank": 7
     },
     {
       "public_id": "drv_964ce73ba40a",
       "driver": "Kosso Filippo[ASG]",
-      "races": 1,
+      "races": 2,
       "wins": 0,
       "podiums": 1,
       "best_laps": 1,
       "points": 16,
       "race_points": {
-        "hourly_2026-06-06_2229_monza": 16
+        "hourly_2026-06-06_2229_monza": 16,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 4
-    },
-    {
-      "public_id": "drv_b57eb306ffdb",
-      "driver": "Ivan Borisov",
-      "races": 2,
-      "wins": 0,
-      "podiums": 0,
-      "best_laps": 0,
-      "points": 16,
-      "race_points": {
-        "hourly_2026-06-06_2229_monza": 8,
-        "hourly_2026-06-13_2231_spa": 8
-      },
-      "rank": 5
-    },
-    {
-      "public_id": "drv_3f376fa37e3e",
-      "driver": "Alan Ortabaev(RU)",
-      "races": 1,
-      "wins": 0,
-      "podiums": 1,
-      "best_laps": 0,
-      "points": 15,
-      "race_points": {
-        "hourly_2026-06-13_2231_spa": 15
-      },
-      "rank": 6
-    },
-    {
-      "public_id": "drv_1cfb6f349a42",
-      "driver": "Alexandr Afenin [ASG]",
-      "races": 2,
-      "wins": 0,
-      "podiums": 0,
-      "best_laps": 0,
-      "points": 12,
-      "race_points": {
-        "hourly_2026-06-06_2229_monza": 12,
-        "hourly_2026-06-13_2231_spa": 0
-      },
-      "rank": 7
+      "rank": 8
     },
     {
       "public_id": "drv_17826b9bf80f",
@@ -200,7 +205,35 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 12
       },
-      "rank": 8
+      "rank": 9
+    },
+    {
+      "public_id": "drv_4ef0378510a8",
+      "driver": "Колян Погрузчик",
+      "races": 2,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 11,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 10,
+        "hourly_2026-06-20_2230_nurburgring": 1
+      },
+      "rank": 10
+    },
+    {
+      "public_id": "drv_a2f8a8cb67dd",
+      "driver": "Durashka Sanechichek",
+      "races": 2,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 10,
+      "race_points": {
+        "hourly_2026-06-13_2231_spa": 4,
+        "hourly_2026-06-20_2230_nurburgring": 6
+      },
+      "rank": 11
     },
     {
       "public_id": "drv_cd2dd16a5c61",
@@ -213,73 +246,76 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 10
       },
-      "rank": 9
+      "rank": 12
     },
     {
-      "public_id": "drv_4ef0378510a8",
-      "driver": "Колян Погрузчик",
+      "public_id": "drv_1c90360ea476",
+      "driver": "George Klimovich",
       "races": 1,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
-      "points": 10,
+      "points": 8,
       "race_points": {
-        "hourly_2026-06-06_2229_monza": 10
+        "hourly_2026-06-20_2230_nurburgring": 8
       },
-      "rank": 10
+      "rank": 13
     },
     {
       "public_id": "drv_65d50a925905",
       "driver": "Artem MuelSson",
-      "races": 1,
-      "wins": 0,
-      "podiums": 0,
-      "best_laps": 0,
-      "points": 6,
-      "race_points": {
-        "hourly_2026-06-06_2229_monza": 6
-      },
-      "rank": 11
-    },
-    {
-      "public_id": "drv_c23b413a0ca6",
-      "driver": "Mikhail Voronov [ASG]",
       "races": 2,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 6,
       "race_points": {
-        "hourly_2026-06-06_2229_monza": 0,
-        "hourly_2026-06-13_2231_spa": 6
+        "hourly_2026-06-06_2229_monza": 6,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 12
+      "rank": 14
     },
     {
-      "public_id": "drv_a2f8a8cb67dd",
-      "driver": "Durashka Sanechichek",
+      "public_id": "drv_c23b413a0ca6",
+      "driver": "Mikhail Voronov [ASG]",
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 6,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0,
+        "hourly_2026-06-13_2231_spa": 6,
+        "hourly_2026-06-20_2230_nurburgring": 0
+      },
+      "rank": 15
+    },
+    {
+      "public_id": "drv_740cceccff0f",
+      "driver": "Artem Tsurosaki [ASG]",
       "races": 1,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 4,
       "race_points": {
-        "hourly_2026-06-13_2231_spa": 4
+        "hourly_2026-06-20_2230_nurburgring": 4
       },
-      "rank": 13
+      "rank": 16
     },
     {
       "public_id": "drv_7ea4b7518b3b",
       "driver": "Sergey Borzov",
-      "races": 1,
+      "races": 2,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 4,
       "race_points": {
-        "hourly_2026-06-06_2229_monza": 4
+        "hourly_2026-06-06_2229_monza": 4,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 14
+      "rank": 17
     },
     {
       "public_id": "drv_1a9992815d8d",
@@ -292,34 +328,36 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 2
       },
-      "rank": 15
+      "rank": 18
     },
     {
       "public_id": "drv_6c362b5ba38b",
       "driver": "Artem Abashin[ASG]",
-      "races": 2,
+      "races": 3,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 2,
       "race_points": {
         "hourly_2026-06-06_2229_monza": 2,
-        "hourly_2026-06-13_2231_spa": 0
+        "hourly_2026-06-13_2231_spa": 0,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 16
+      "rank": 19
     },
     {
       "public_id": "drv_05e2b8e8bca6",
       "driver": "Evgeny Kiselev",
-      "races": 1,
+      "races": 2,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 1,
       "race_points": {
-        "hourly_2026-06-13_2231_spa": 1
+        "hourly_2026-06-13_2231_spa": 1,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 17
+      "rank": 20
     },
     {
       "public_id": "drv_9daf9212948c",
@@ -333,20 +371,34 @@
         "hourly_2026-06-06_2229_monza": 1,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 18
+      "rank": 21
     },
     {
       "public_id": "drv_39c83180f26a",
       "driver": "ALEKSEY EPIFANOV",
+      "races": 2,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-13_2231_spa": 0,
+        "hourly_2026-06-20_2230_nurburgring": 0
+      },
+      "rank": 22
+    },
+    {
+      "public_id": "drv_5b23191f0c23",
+      "driver": "ANDREY DJERAI [ASG]",
       "races": 1,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 0,
       "race_points": {
-        "hourly_2026-06-13_2231_spa": 0
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 19
+      "rank": 23
     },
     {
       "public_id": "drv_838bfbfe13ff",
@@ -359,21 +411,22 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 20
+      "rank": 24
     },
     {
       "public_id": "drv_02dda162e815",
       "driver": "Alex Prok",
-      "races": 2,
+      "races": 3,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 0,
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0,
-        "hourly_2026-06-13_2231_spa": 0
+        "hourly_2026-06-13_2231_spa": 0,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 21
+      "rank": 25
     },
     {
       "public_id": "drv_621dfc2c2b98",
@@ -387,7 +440,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 22
+      "rank": 26
     },
     {
       "public_id": "drv_b466bb6eedd8",
@@ -400,7 +453,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 23
+      "rank": 27
     },
     {
       "public_id": "drv_2a1b14120b46",
@@ -413,7 +466,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 24
+      "rank": 28
     },
     {
       "public_id": "drv_41e1c1243570",
@@ -426,7 +479,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 25
+      "rank": 29
     },
     {
       "public_id": "drv_37b199d060a9",
@@ -439,7 +492,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 26
+      "rank": 30
     },
     {
       "public_id": "drv_1a8e5fd3ac8b",
@@ -452,7 +505,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 27
+      "rank": 31
     },
     {
       "public_id": "drv_3a792ff0df23",
@@ -465,7 +518,20 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 28
+      "rank": 32
+    },
+    {
+      "public_id": "drv_db6d16a0da85",
+      "driver": "David Kvacantiradze",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-20_2230_nurburgring": 0
+      },
+      "rank": 33
     },
     {
       "public_id": "drv_c622880f67c0",
@@ -478,7 +544,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 29
+      "rank": 34
     },
     {
       "public_id": "drv_2785a443eb42",
@@ -492,7 +558,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 30
+      "rank": 35
     },
     {
       "public_id": "drv_2bb7b7a7c40a",
@@ -505,7 +571,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 31
+      "rank": 36
     },
     {
       "public_id": "drv_68c3065988b9",
@@ -518,7 +584,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 32
+      "rank": 37
     },
     {
       "public_id": "drv_5d09c4946336",
@@ -531,7 +597,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 33
+      "rank": 38
     },
     {
       "public_id": "drv_962015c6889b",
@@ -544,7 +610,20 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 34
+      "rank": 39
+    },
+    {
+      "public_id": "drv_32d20c93fe7d",
+      "driver": "Evgeny Mayorov | NRR",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-20_2230_nurburgring": 0
+      },
+      "rank": 40
     },
     {
       "public_id": "drv_bd8761a9020c",
@@ -558,7 +637,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 35
+      "rank": 41
     },
     {
       "public_id": "drv_4d0210e802a4",
@@ -572,7 +651,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 36
+      "rank": 42
     },
     {
       "public_id": "drv_3da6cfe76196",
@@ -586,7 +665,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 37
+      "rank": 43
     },
     {
       "public_id": "drv_4e5550304be8",
@@ -599,7 +678,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 38
+      "rank": 44
     },
     {
       "public_id": "drv_c98693ccbce8",
@@ -612,7 +691,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 39
+      "rank": 45
     },
     {
       "public_id": "drv_732c6fb3bef6",
@@ -625,7 +704,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 40
+      "rank": 46
     },
     {
       "public_id": "drv_a78d0f07be91",
@@ -638,7 +717,33 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 41
+      "rank": 47
+    },
+    {
+      "public_id": "drv_378357a4d49d",
+      "driver": "Ivan Chai",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-20_2230_nurburgring": 0
+      },
+      "rank": 48
+    },
+    {
+      "public_id": "drv_acbde38f0f11",
+      "driver": "Ivan Gen [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-20_2230_nurburgring": 0
+      },
+      "rank": 49
     },
     {
       "public_id": "drv_566347522d94",
@@ -652,7 +757,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 42
+      "rank": 50
     },
     {
       "public_id": "drv_0614f33165de",
@@ -665,11 +770,26 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 43
+      "rank": 51
     },
     {
       "public_id": "drv_977b6a386cda",
       "driver": "Ivan Tsygankov [ASG]",
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-06_2229_monza": 0,
+        "hourly_2026-06-13_2231_spa": 0,
+        "hourly_2026-06-20_2230_nurburgring": 0
+      },
+      "rank": 52
+    },
+    {
+      "public_id": "drv_10b4b6556336",
+      "driver": "Javier Breogan.VR.[ASG]",
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -677,22 +797,9 @@
       "points": 0,
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0,
-        "hourly_2026-06-13_2231_spa": 0
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 44
-    },
-    {
-      "public_id": "drv_10b4b6556336",
-      "driver": "Javier Breogan.VR.[ASG]",
-      "races": 1,
-      "wins": 0,
-      "podiums": 0,
-      "best_laps": 0,
-      "points": 0,
-      "race_points": {
-        "hourly_2026-06-06_2229_monza": 0
-      },
-      "rank": 45
+      "rank": 53
     },
     {
       "public_id": "drv_2613265fd143",
@@ -705,7 +812,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 46
+      "rank": 54
     },
     {
       "public_id": "drv_207d14eeee04",
@@ -719,7 +826,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 47
+      "rank": 55
     },
     {
       "public_id": "drv_19e9b793b4e4",
@@ -733,7 +840,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 48
+      "rank": 56
     },
     {
       "public_id": "drv_0ba84ab16df1",
@@ -746,21 +853,22 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 49
+      "rank": 57
     },
     {
       "public_id": "drv_98f9a0d176bd",
       "driver": "Khachatur Karapetyan",
-      "races": 2,
+      "races": 3,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 0,
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0,
-        "hourly_2026-06-13_2231_spa": 0
+        "hourly_2026-06-13_2231_spa": 0,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 50
+      "rank": 58
     },
     {
       "public_id": "drv_125332389164",
@@ -773,7 +881,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 51
+      "rank": 59
     },
     {
       "public_id": "drv_780fce005a4b",
@@ -786,7 +894,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 52
+      "rank": 60
     },
     {
       "public_id": "drv_15b77435a459",
@@ -799,7 +907,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 53
+      "rank": 61
     },
     {
       "public_id": "drv_13c8e5abf436",
@@ -812,7 +920,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 54
+      "rank": 62
     },
     {
       "public_id": "drv_0f9bd27dc017",
@@ -826,20 +934,21 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 55
+      "rank": 63
     },
     {
       "public_id": "drv_7a2ffc4eff3a",
       "driver": "Leonid Karsuncev",
-      "races": 1,
+      "races": 2,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 0,
       "race_points": {
-        "hourly_2026-06-06_2229_monza": 0
+        "hourly_2026-06-06_2229_monza": 0,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 56
+      "rank": 64
     },
     {
       "public_id": "drv_1486cae0d567",
@@ -852,7 +961,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 57
+      "rank": 65
     },
     {
       "public_id": "drv_58f90d1d28b5",
@@ -865,7 +974,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 58
+      "rank": 66
     },
     {
       "public_id": "drv_f58cde0858eb",
@@ -878,7 +987,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 59
+      "rank": 67
     },
     {
       "public_id": "drv_d4ab6f42a28e",
@@ -891,7 +1000,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 60
+      "rank": 68
     },
     {
       "public_id": "drv_0dcf138e0678",
@@ -904,20 +1013,21 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 61
+      "rank": 69
     },
     {
       "public_id": "drv_89f6968f7038",
       "driver": "Max Kimmich",
-      "races": 1,
+      "races": 2,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 0,
       "race_points": {
-        "hourly_2026-06-13_2231_spa": 0
+        "hourly_2026-06-13_2231_spa": 0,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 62
+      "rank": 70
     },
     {
       "public_id": "drv_da5057be1dd3",
@@ -930,21 +1040,22 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 63
+      "rank": 71
     },
     {
       "public_id": "drv_25ab7811b180",
       "driver": "Muhammad Guseynov",
-      "races": 2,
+      "races": 3,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 0,
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0,
-        "hourly_2026-06-13_2231_spa": 0
+        "hourly_2026-06-13_2231_spa": 0,
+        "hourly_2026-06-20_2230_nurburgring": 0
       },
-      "rank": 64
+      "rank": 72
     },
     {
       "public_id": "drv_6ca153ce9bf7",
@@ -957,7 +1068,20 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 65
+      "rank": 73
+    },
+    {
+      "public_id": "drv_cf6a10a5b3e4",
+      "driver": "Nick Rain [NRR]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-06-20_2230_nurburgring": 0
+      },
+      "rank": 74
     },
     {
       "public_id": "drv_150ac8778a86",
@@ -970,7 +1094,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 66
+      "rank": 75
     },
     {
       "public_id": "drv_a529a3a5bf2f",
@@ -983,7 +1107,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 67
+      "rank": 76
     },
     {
       "public_id": "drv_886dec66cad0",
@@ -997,7 +1121,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 68
+      "rank": 77
     },
     {
       "public_id": "drv_be48993062e1",
@@ -1010,7 +1134,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 69
+      "rank": 78
     },
     {
       "public_id": "drv_e9def4a5836d",
@@ -1023,7 +1147,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 70
+      "rank": 79
     },
     {
       "public_id": "drv_4cb2f5d34ee4",
@@ -1036,7 +1160,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 71
+      "rank": 80
     },
     {
       "public_id": "drv_79efc1e3669b",
@@ -1049,7 +1173,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 72
+      "rank": 81
     },
     {
       "public_id": "drv_347d10e230b8",
@@ -1062,7 +1186,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 73
+      "rank": 82
     },
     {
       "public_id": "drv_9afd0424ded9",
@@ -1075,7 +1199,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 74
+      "rank": 83
     },
     {
       "public_id": "drv_4e61ac7bed65",
@@ -1088,7 +1212,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 75
+      "rank": 84
     },
     {
       "public_id": "drv_34c465d71473",
@@ -1101,7 +1225,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 76
+      "rank": 85
     },
     {
       "public_id": "drv_b54e4eb62ba0",
@@ -1114,7 +1238,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 77
+      "rank": 86
     },
     {
       "public_id": "drv_56d5d830dbd5",
@@ -1128,7 +1252,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 78
+      "rank": 87
     },
     {
       "public_id": "drv_97865e0943b4",
@@ -1141,7 +1265,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 79
+      "rank": 88
     },
     {
       "public_id": "drv_c5c83d33bb48",
@@ -1154,7 +1278,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 80
+      "rank": 89
     },
     {
       "public_id": "drv_523b7463817c",
@@ -1167,7 +1291,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 81
+      "rank": 90
     },
     {
       "public_id": "drv_90bc69d6ad18",
@@ -1181,7 +1305,7 @@
         "hourly_2026-06-06_2229_monza": 0,
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 82
+      "rank": 91
     },
     {
       "public_id": "drv_28f173da7e61",
@@ -1194,7 +1318,7 @@
       "race_points": {
         "hourly_2026-06-06_2229_monza": 0
       },
-      "rank": 83
+      "rank": 92
     },
     {
       "public_id": "drv_331831528396",
@@ -1207,7 +1331,7 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 84
+      "rank": 93
     },
     {
       "public_id": "drv_cc0a4882a8c7",
@@ -1220,10 +1344,31 @@
       "race_points": {
         "hourly_2026-06-13_2231_spa": 0
       },
-      "rank": 85
+      "rank": 94
     }
   ],
   "races": [
+    {
+      "event_id": "hourly_2026-06-20_2230_nurburgring",
+      "title": "Hourly Race",
+      "track": "nurburgring",
+      "track_code": "nurburgring",
+      "track_name": "Nurburgring",
+      "finished_at": "2026-06-20T22:30:47+03:00",
+      "finished_at_local": "2026-06-20 22:30",
+      "participants_count": 30,
+      "scoring_participants_count": 28,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Vahe Gabrielyan",
+      "winner_public_id": "drv_ead3d6e9f3b0",
+      "best_lap": "1:54.865",
+      "best_lap_driver": "Vahe Gabrielyan",
+      "best_lap_public_id": "drv_ead3d6e9f3b0",
+      "status": "finished",
+      "details_path": "races/hourly_2026-06-20_2230_nurburgring.json",
+      "results_repo_path": "260620_223047_R.json"
+    },
     {
       "event_id": "hourly_2026-06-13_2231_spa",
       "title": "Hourly Race",
@@ -1267,5 +1412,5 @@
       "results_repo_path": "260606_222926_R.json"
     }
   ],
-  "updated_at": "2026-06-19T22:44:29+03:00"
+  "updated_at": "2026-06-20T22:44:28+03:00"
 }
