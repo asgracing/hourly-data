@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-06-23_2229_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-06-23T22:29:02+03:00",
+      "finished_at_local": "2026-06-23 22:29",
+      "participants_count": 30,
+      "scoring_participants_count": 24,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Nicolas LEGRAND",
+      "winner_public_id": "drv_54ef257d71a5",
+      "best_lap": "1:47.912",
+      "best_lap_driver": "Alan Ortabaev(RU)",
+      "best_lap_public_id": "drv_3f376fa37e3e",
+      "status": "finished",
+      "details_path": "races/hourly_2026-06-23_2229_monza.json",
+      "results_repo_path": "260623_222902_R.json"
+    },
+    {
       "event_id": "hourly_2026-06-22_2233_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-06-10_2229_monza.json",
       "results_repo_path": "260610_222916_R.json"
-    },
-    {
-      "event_id": "hourly_2026-06-09_2228_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-06-09T22:28:11+03:00",
-      "finished_at_local": "2026-06-09 22:28",
-      "participants_count": 39,
-      "scoring_participants_count": 36,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Sergey Saltaev",
-      "winner_public_id": "drv_208a87eea0b5",
-      "best_lap": "1:47.452",
-      "best_lap_driver": "Alexandr Afenin [ASG]",
-      "best_lap_public_id": "drv_1cfb6f349a42",
-      "status": "finished",
-      "details_path": "races/hourly_2026-06-09_2228_monza.json",
-      "results_repo_path": "260609_222811_R.json"
     }
   ],
-  "updated_at": "2026-06-22T22:44:28+03:00"
+  "updated_at": "2026-06-23T22:44:28+03:00"
 }
