@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-06-24_2228_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-06-24T22:28:32+03:00",
+      "finished_at_local": "2026-06-24 22:28",
+      "participants_count": 41,
+      "scoring_participants_count": 37,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "winner_public_id": "drv_697cf8978bd7",
+      "best_lap": "1:47.492",
+      "best_lap_driver": "Ilya Kosmach",
+      "best_lap_public_id": "drv_c98693ccbce8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-06-24_2228_monza.json",
+      "results_repo_path": "260624_222832_R.json"
+    },
+    {
       "event_id": "hourly_2026-06-23_2229_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-06-11_2227_monza.json",
       "results_repo_path": "260611_222758_R.json"
-    },
-    {
-      "event_id": "hourly_2026-06-10_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-06-10T22:29:16+03:00",
-      "finished_at_local": "2026-06-10 22:29",
-      "participants_count": 34,
-      "scoring_participants_count": 31,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Mücahit Yardım",
-      "winner_public_id": "drv_c526923caadf",
-      "best_lap": "1:47.415",
-      "best_lap_driver": "Anatoliy Mikhailov",
-      "best_lap_public_id": "drv_fde28f699403",
-      "status": "finished",
-      "details_path": "races/hourly_2026-06-10_2229_monza.json",
-      "results_repo_path": "260610_222916_R.json"
     }
   ],
-  "updated_at": "2026-06-23T22:44:28+03:00"
+  "updated_at": "2026-06-24T22:44:28+03:00"
 }

@@ -1,8 +1,8 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-06-24_2100",
-  "date": "2026-06-24",
+  "event_id": "hourly_2026-06-25_2100",
+  "date": "2026-06-25",
   "start_time_local": "21:00",
   "timezone": "UTC+3",
   "track_code": "monza",
@@ -30,7 +30,7 @@
       "prize3": "prize3.jpg"
     }
   },
-  "updated_at": "2026-06-23T22:44:24+03:00",
+  "updated_at": "2026-06-24T22:44:25+03:00",
   "server": {
     "name": "ASG Racing 1H Race",
     "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -63,10 +63,10 @@
   },
   "weather": {
     "profile_id": 1,
-    "ambient_temp_c": 29,
-    "cloud_level": 0.02,
-    "rain_level": 0.01,
-    "weather_randomness": 2,
+    "ambient_temp_c": 26,
+    "cloud_level": 0.23,
+    "rain_level": 0.04,
+    "weather_randomness": 4,
     "summary_key": "clear"
   }
 }
