@@ -1,18 +1,18 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-06-26_2100",
-  "date": "2026-06-26",
+  "event_id": "hourly_2026-06-27_2100",
+  "date": "2026-06-27",
   "start_time_local": "21:00",
   "timezone": "UTC+3",
-  "track_code": "monza",
-  "track_name": "Monza",
+  "track_code": "silverstone",
+  "track_name": "Silverstone",
   "server_window": "2h",
   "session_label": "Evening Slot",
-  "details_url": "/hourly/",
-  "event_type": "hourly",
+  "details_url": "/hourly/championship/?slug=june-2026",
+  "event_type": "championship",
   "voting_disabled": false,
-  "badge_label": null,
+  "badge_label": "Championship Event",
   "championship_slug": "june-2026",
   "championship_title": "ASG Racing June 2026",
   "championship": {
@@ -30,7 +30,7 @@
       "prize3": "prize3.jpg"
     }
   },
-  "updated_at": "2026-06-25T22:44:25+03:00",
+  "updated_at": "2026-06-26T22:44:25+03:00",
   "server": {
     "name": "ASG Racing 1H Race",
     "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -62,11 +62,11 @@
     "tyre_set_count": 50
   },
   "weather": {
-    "profile_id": 3,
-    "ambient_temp_c": 24,
-    "cloud_level": 0.18,
-    "rain_level": 0.21,
-    "weather_randomness": 5,
-    "summary_key": "wet"
+    "profile_id": 1,
+    "ambient_temp_c": 30,
+    "cloud_level": 0.13,
+    "rain_level": 0.02,
+    "weather_randomness": 4,
+    "summary_key": "clear"
   }
 }

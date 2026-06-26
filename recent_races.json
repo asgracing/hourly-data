@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-06-26_2236_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-06-26T22:36:12+03:00",
+      "finished_at_local": "2026-06-26 22:36",
+      "participants_count": 35,
+      "scoring_participants_count": 32,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "twitch.tv DessotoGT3 [ASG]",
+      "winner_public_id": "drv_908061118bfc",
+      "best_lap": "1:47.747",
+      "best_lap_driver": "twitch.tv DessotoGT3 [ASG]",
+      "best_lap_public_id": "drv_908061118bfc",
+      "status": "finished",
+      "details_path": "races/hourly_2026-06-26_2236_monza.json",
+      "results_repo_path": "260626_223612_R.json"
+    },
+    {
       "event_id": "hourly_2026-06-25_2229_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-06-14_2229_monza.json",
       "results_repo_path": "260614_222905_R.json"
-    },
-    {
-      "event_id": "hourly_2026-06-12_2232_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-06-12T22:32:58+03:00",
-      "finished_at_local": "2026-06-12 22:32",
-      "participants_count": 35,
-      "scoring_participants_count": 31,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Alexandr Afenin [ASG]",
-      "winner_public_id": "drv_1cfb6f349a42",
-      "best_lap": "1:47.112",
-      "best_lap_driver": "Andrei Soldatenkov [ASG]",
-      "best_lap_public_id": "drv_b466bb6eedd8",
-      "status": "finished",
-      "details_path": "races/hourly_2026-06-12_2232_monza.json",
-      "results_repo_path": "260612_223258_R.json"
     }
   ],
-  "updated_at": "2026-06-25T22:44:29+03:00"
+  "updated_at": "2026-06-26T22:44:29+03:00"
 }
