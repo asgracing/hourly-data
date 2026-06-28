@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-06-28_2228_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-06-28T22:28:39+03:00",
+      "finished_at_local": "2026-06-28 22:28",
+      "participants_count": 30,
+      "scoring_participants_count": 28,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Mücahit Yardım",
+      "winner_public_id": "drv_c526923caadf",
+      "best_lap": "1:47.415",
+      "best_lap_driver": "Mücahit Yardım",
+      "best_lap_public_id": "drv_c526923caadf",
+      "status": "finished",
+      "details_path": "races/hourly_2026-06-28_2228_monza.json",
+      "results_repo_path": "260628_222839_R.json"
+    },
+    {
       "event_id": "hourly_2026-06-26_2236_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -230,28 +251,7 @@
       "status": "finished",
       "details_path": "races/hourly_2026-06-15_2228_monza.json",
       "results_repo_path": "260615_222818_R.json"
-    },
-    {
-      "event_id": "hourly_2026-06-14_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-06-14T22:29:05+03:00",
-      "finished_at_local": "2026-06-14 22:29",
-      "participants_count": 40,
-      "scoring_participants_count": 36,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Mücahit Yardım",
-      "winner_public_id": "drv_c526923caadf",
-      "best_lap": "1:47.410",
-      "best_lap_driver": "Mücahit Yardım",
-      "best_lap_public_id": "drv_c526923caadf",
-      "status": "finished",
-      "details_path": "races/hourly_2026-06-14_2229_monza.json",
-      "results_repo_path": "260614_222905_R.json"
     }
   ],
-  "updated_at": "2026-06-27T22:44:29+03:00"
+  "updated_at": "2026-06-28T22:44:29+03:00"
 }
