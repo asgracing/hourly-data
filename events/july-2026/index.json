@@ -7,7 +7,25 @@
   "description_ru": "",
   "description_en": "",
   "description_i18n": null,
-  "upcoming_races": [],
+  "upcoming_races": [
+    {
+      "event_id": "hourly_2026-07-11_2100",
+      "date": "2026-07-11",
+      "start_time_local": "21:00",
+      "timezone": "UTC+3",
+      "weekday": "saturday",
+      "month": "2026-07",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nordschleife",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "championship",
+      "voting_disabled": false,
+      "title": "ASG Racing July 2026",
+      "championship_slug": "july-2026",
+      "details_url": "/hourly/championship/?slug=july-2026"
+    }
+  ],
   "prizes": {
     "prize1": null,
     "prize2": null,
@@ -16,5 +34,5 @@
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-06-30T00:07:19+03:00"
+  "updated_at": "2026-06-30T00:14:18+03:00"
 }

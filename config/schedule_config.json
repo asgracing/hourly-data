@@ -113,6 +113,16 @@
       "championship_slug": "june-2026",
       "badge_label": "Championship Event",
       "voting_disabled": false
+    },
+    {
+      "date": "2026-07-11",
+      "start_time_local": "21:00",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nordschleife",
+      "status": "scheduled",
+      "event_type": "championship",
+      "title": "ASG Racing July 2026",
+      "championship_slug": "july-2026"
     }
   ],
   "exceptions": [],
