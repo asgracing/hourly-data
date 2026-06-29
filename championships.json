@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "slug": "july-2026",
+      "title": "ASG Racing July 2026",
+      "status": "active",
+      "period": "2026-07",
+      "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону.",
+      "description_ru": "",
+      "description_en": "",
+      "description_i18n": null,
+      "updated_at": "2026-06-29T20:25:19+03:00",
+      "race_count": 0,
+      "driver_count": 0,
+      "winner": null,
+      "results_top3": [],
+      "details_url": "/hourly/championship/?slug=july-2026",
+      "cover_track": null
+    },
+    {
+      "slug": "june-2026",
+      "title": "ASG Racing June 2026",
+      "status": "active",
+      "period": "2026-06",
+      "description": "Июньский чемпионат ASG Racing. Четыре субботние гонки, отдельная таблица очков, награды для топ-3 по итогам месяца. (Призовой фонд сформирован из поддержки проекта от Дмитрия А (Большое спасибо)) P.S. Призы могут изменится в случае форс-мажора.",
+      "description_ru": "",
+      "description_en": "",
+      "description_i18n": null,
+      "updated_at": "2026-06-28T22:44:29+03:00",
+      "race_count": 4,
+      "driver_count": 104,
+      "winner": {
+        "driver": "Vahe Gabrielyan",
+        "public_id": "drv_ead3d6e9f3b0",
+        "points": 84
+      },
+      "results_top3": [
+        {
+          "public_id": "drv_ead3d6e9f3b0",
+          "driver": "Vahe Gabrielyan",
+          "races": 4,
+          "wins": 2,
+          "podiums": 4,
+          "best_laps": 2,
+          "points": 84,
+          "race_points": {
+            "hourly_2026-06-06_2229_monza": 18,
+            "hourly_2026-06-13_2231_spa": 26,
+            "hourly_2026-06-20_2230_nurburgring": 26,
+            "hourly_2026-06-27_2229_silverstone": 14
+          },
+          "rank": 1
+        },
+        {
+          "public_id": "drv_3f376fa37e3e",
+          "driver": "Alan Ortabaev(RU)",
+          "races": 3,
+          "wins": 0,
+          "podiums": 1,
+          "best_laps": 0,
+          "points": 35,
+          "race_points": {
+            "hourly_2026-06-13_2231_spa": 15,
+            "hourly_2026-06-20_2230_nurburgring": 10,
+            "hourly_2026-06-27_2229_silverstone": 10
+          },
+          "rank": 2
+        },
+        {
+          "public_id": "drv_208a87eea0b5",
+          "driver": "Sergey Saltaev",
+          "races": 3,
+          "wins": 1,
+          "podiums": 1,
+          "best_laps": 0,
+          "points": 30,
+          "race_points": {
+            "hourly_2026-06-06_2229_monza": 25,
+            "hourly_2026-06-13_2231_spa": 0,
+            "hourly_2026-06-27_2229_silverstone": 5
+          },
+          "rank": 3
+        }
+      ],
+      "details_url": "/hourly/championship/?slug=june-2026",
+      "cover_track": "silverstone"
+    }
+  ],
+  "updated_at": "2026-06-29T20:25:19+03:00"
+}

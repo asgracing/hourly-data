@@ -36,6 +36,11 @@
       "name": "Silverstone",
       "asset": "silverstone.jpg",
       "weight": 1
+    },
+    {
+      "code": "nurburgring_24h",
+      "name": "Nordschleife",
+      "weight": 1
     }
   ],
   "overrides": [
@@ -181,7 +186,7 @@
   "event_rules_path": "cfg\\eventRules.json",
   "settings_path": "cfg\\settings.json",
   "championship": {
-    "active_slug": "june-2026",
+    "active_slug": "july-2026",
     "results_root": "results_champ",
     "items": [
       {
@@ -193,6 +198,13 @@
         "prize2": "prize2.jpg",
         "prize3": "prize3.jpg",
         "description": "Июньский чемпионат ASG Racing. Четыре субботние гонки, отдельная таблица очков, награды для топ-3 по итогам месяца. (Призовой фонд сформирован из поддержки проекта от Дмитрия А (Большое спасибо)) P.S. Призы могут изменится в случае форс-мажора."
+      },
+      {
+        "slug": "july-2026",
+        "title": "ASG Racing July 2026",
+        "status": "active",
+        "period": "2026-07",
+        "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
       }
     ]
   }
