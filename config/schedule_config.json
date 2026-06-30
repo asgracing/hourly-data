@@ -133,7 +133,11 @@
       "status": "scheduled",
       "event_type": "championship",
       "title": "ASG Racing July 2026",
-      "championship_slug": "july-2026"
+      "championship_slug": "july-2026",
+      "ambient_temp_c": 25.0,
+      "cloud_level": 0.3,
+      "rain_level": 0.0,
+      "weather_randomness": 3
     }
   ],
   "exceptions": [],
