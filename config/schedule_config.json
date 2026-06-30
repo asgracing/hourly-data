@@ -123,7 +123,8 @@
       "event_type": "hourly",
       "ambient_temp_c": 27.0,
       "cloud_level": 0.5,
-      "rain_level": 0.07
+      "rain_level": 0.07,
+      "weather_randomness": 5
     },
     {
       "date": "2026-07-11",
