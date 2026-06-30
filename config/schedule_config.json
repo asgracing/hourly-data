@@ -40,6 +40,7 @@
     {
       "code": "nurburgring_24h",
       "name": "Nordschleife",
+      "asset": "nurburgring_24h.jpg",
       "weight": 1
     }
   ],
@@ -116,6 +117,16 @@
     },
     {
       "date": "2026-07-11",
+      "start_time_local": "21:00",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nordschleife",
+      "status": "scheduled",
+      "event_type": "championship",
+      "title": "ASG Racing July 2026",
+      "championship_slug": "july-2026"
+    },
+    {
+      "date": "2026-07-25",
       "start_time_local": "21:00",
       "track_code": "nurburgring_24h",
       "track_name": "Nordschleife",

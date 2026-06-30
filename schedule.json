@@ -585,12 +585,15 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-07",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nordschleife",
       "slot_label": "Evening Slot",
       "status": "scheduled",
-      "event_type": "hourly",
+      "event_type": "championship",
       "voting_disabled": false,
+      "title": "ASG Racing July 2026",
+      "championship_slug": "july-2026",
+      "details_url": "/hourly/championship/?slug=july-2026",
       "weather": {
         "profile_id": 3,
         "ambient_temp_c": 30,
@@ -1430,5 +1433,5 @@
       "rain_level": 0.09
     }
   ],
-  "updated_at": "2026-06-30T00:14:17+03:00"
+  "updated_at": "2026-06-30T07:22:12+03:00"
 }
