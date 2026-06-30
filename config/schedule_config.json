@@ -116,6 +116,16 @@
       "voting_disabled": false
     },
     {
+      "date": "2026-06-30",
+      "start_time_local": "21:00",
+      "track_name": "Monza",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "ambient_temp_c": 27.0,
+      "cloud_level": 0.5,
+      "rain_level": 0.07
+    },
+    {
       "date": "2026-07-11",
       "start_time_local": "21:00",
       "track_code": "nurburgring_24h",
