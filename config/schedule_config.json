@@ -199,8 +199,8 @@
     {
       "date": "2026-07-22",
       "start_time_local": "21:00",
-      "track_name": "spa",
-      "slot_label": "Spa",
+      "track_code": "spa",
+      "track_name": "Spa",
       "status": "scheduled",
       "event_type": "hourly"
     },
