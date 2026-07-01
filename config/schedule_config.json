@@ -165,6 +165,22 @@
       "weather_randomness": 5
     },
     {
+      "date": "2026-07-13",
+      "start_time_local": "21:00",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "status": "scheduled",
+      "event_type": "hourly"
+    },
+    {
+      "date": "2026-07-15",
+      "start_time_local": "21:00",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "status": "scheduled",
+      "event_type": "hourly"
+    },
+    {
       "date": "2026-07-25",
       "start_time_local": "21:00",
       "track_code": "nurburgring_24h",

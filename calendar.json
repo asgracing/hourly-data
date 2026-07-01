@@ -287,8 +287,8 @@
       "timezone": "UTC+3",
       "weekday": "monday",
       "month": "2026-07",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "spa",
+      "track_name": "Spa",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -333,8 +333,8 @@
       "timezone": "UTC+3",
       "weekday": "wednesday",
       "month": "2026-07",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "spa",
+      "track_name": "Spa",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -1435,5 +1435,5 @@
       "rain_level": 0.12
     }
   ],
-  "updated_at": "2026-07-01T10:11:01+03:00"
+  "updated_at": "2026-07-01T10:11:29+03:00"
 }
