@@ -7,7 +7,7 @@
   "event_track_key": "track",
   "server_exe": "accServer.exe",
   "results_dir": "results",
-  "server_window_minutes": 120,
+  "server_window_minutes": 130,
   "launch_times_local": [
     "21:00"
   ],
@@ -41,6 +41,72 @@
       "code": "nurburgring_24h",
       "name": "Nordschleife",
       "asset": "nurburgring_24h.jpg",
+      "weight": 1
+    },
+    {
+      "code": "misano",
+      "name": "Misano",
+      "asset": "misano.jpg",
+      "weight": 1
+    },
+    {
+      "code": "zolder",
+      "name": "Zolder",
+      "asset": "zolder.jpg",
+      "weight": 1
+    },
+    {
+      "code": "kyalami",
+      "name": "Kyalami",
+      "asset": "kyalami.jpg",
+      "weight": 1
+    },
+    {
+      "code": "hungaroring",
+      "name": "Hungaroring",
+      "asset": "hungaroring.jpg",
+      "weight": 1
+    },
+    {
+      "code": "suzuka",
+      "name": "Suzuka",
+      "asset": "suzuka.jpg",
+      "weight": 1
+    },
+    {
+      "code": "mount_panorama",
+      "name": "Mount Panorama",
+      "asset": "mount_panorama.jpg",
+      "weight": 1
+    },
+    {
+      "code": "barcelona",
+      "name": "Barcelona",
+      "asset": "barcelona.jpg",
+      "weight": 1
+    },
+    {
+      "code": "paul_ricard",
+      "name": "Paul Ricard",
+      "asset": "paul_ricard.jpg",
+      "weight": 1
+    },
+    {
+      "code": "zandvoort",
+      "name": "Zandvoort",
+      "asset": "zandvoort.jpg",
+      "weight": 1
+    },
+    {
+      "code": "laguna_seca",
+      "name": "Laguna Seca",
+      "asset": "laguna_seca.jpg",
+      "weight": 1
+    },
+    {
+      "code": "imola",
+      "name": "Imola",
+      "asset": "imola.jpg",
       "weight": 1
     }
   ],
