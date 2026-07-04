@@ -9,7 +9,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-07-03T22:54:30+03:00",
+      "updated_at": "2026-07-04T22:54:29+03:00",
       "race_count": 0,
       "driver_count": 0,
       "winner": null,
@@ -86,5 +86,5 @@
       "cover_track": "silverstone"
     }
   ],
-  "updated_at": "2026-07-03T22:54:30+03:00"
+  "updated_at": "2026-07-04T22:54:29+03:00"
 }
