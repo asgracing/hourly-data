@@ -4,9 +4,6 @@
   "status": "active",
   "period": "2026-07",
   "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону.",
-  "description_ru": "",
-  "description_en": "",
-  "description_i18n": null,
   "upcoming_races": [
     {
       "event_id": "hourly_2026-07-11_2100",
@@ -20,19 +17,34 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": false,
+      "voting_disabled": true,
       "title": "ASG Racing July 2026",
       "championship_slug": "july-2026",
       "details_url": "/hourly/championship/?slug=july-2026",
       "weather": {
-        "ambient_temp_c": 25.0,
-        "cloud_level": 0.5,
-        "rain_level": 0.21,
-        "weather_randomness": 5,
-        "summary_key": "wet"
+        "ambient_temp_c": 31.0,
+        "cloud_level": 0.17,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
       "weather_locked": true,
-      "rain_level": 0.21
+      "rain_level": 0.04,
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 4,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "game_time_locked": true,
+      "hour_of_day": 4,
+      "game_time_hour": 4,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": null,
+      "game_time_asset": "night_clear",
+      "game_time_asset_id": "night_clear"
     },
     {
       "event_id": "hourly_2026-07-25_2100",
@@ -46,19 +58,34 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": false,
+      "voting_disabled": true,
       "title": "ASG Racing July 2026",
       "championship_slug": "july-2026",
       "details_url": "/hourly/championship/?slug=july-2026",
       "weather": {
         "ambient_temp_c": 25.0,
-        "cloud_level": 0.3,
-        "rain_level": 0.0,
+        "cloud_level": 0.27,
+        "rain_level": 0.11,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "clear"
       },
       "weather_locked": true,
-      "rain_level": 0.0
+      "rain_level": 0.11,
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 13,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "game_time_locked": true,
+      "hour_of_day": 13,
+      "game_time_hour": 13,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": null,
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     }
   ],
   "prizes": {
@@ -69,5 +96,5 @@
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-07-09T22:54:29+03:00"
+  "updated_at": "2026-07-10T10:41:14+03:00"
 }

@@ -19,7 +19,9 @@
       "best_lap_public_id": "drv_964ce73ba40a",
       "status": "finished",
       "details_path": "races/hourly_2026-07-09_2231_monza.json",
-      "results_repo_path": "260709_223114_R.json"
+      "results_repo_path": "260709_223114_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-07-08_2228_silverstone",
@@ -40,7 +42,9 @@
       "best_lap_public_id": "drv_29df2a6a2e6e",
       "status": "finished",
       "details_path": "races/hourly_2026-07-08_2228_silverstone.json",
-      "results_repo_path": "260708_222851_R.json"
+      "results_repo_path": "260708_222851_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-07-07_2228_monza",
@@ -61,7 +65,9 @@
       "best_lap_public_id": "drv_208a87eea0b5",
       "status": "finished",
       "details_path": "races/hourly_2026-07-07_2228_monza.json",
-      "results_repo_path": "260707_222817_R.json"
+      "results_repo_path": "260707_222817_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-07-06_2229_monza",
@@ -82,7 +88,9 @@
       "best_lap_public_id": "drv_b466bb6eedd8",
       "status": "finished",
       "details_path": "races/hourly_2026-07-06_2229_monza.json",
-      "results_repo_path": "260706_222925_R.json"
+      "results_repo_path": "260706_222925_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-07-05_2229_monza",
@@ -103,7 +111,9 @@
       "best_lap_public_id": "drv_32d20c93fe7d",
       "status": "finished",
       "details_path": "races/hourly_2026-07-05_2229_monza.json",
-      "results_repo_path": "260705_222901_R.json"
+      "results_repo_path": "260705_222901_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-07-04_2245_nurburgring_24h",
@@ -124,7 +134,9 @@
       "best_lap_public_id": "drv_208a87eea0b5",
       "status": "finished",
       "details_path": "races/hourly_2026-07-04_2245_nurburgring_24h.json",
-      "results_repo_path": "260704_224534_R.json"
+      "results_repo_path": "260704_224534_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-07-03_2229_monza",
@@ -145,7 +157,9 @@
       "best_lap_public_id": "drv_964ce73ba40a",
       "status": "finished",
       "details_path": "races/hourly_2026-07-03_2229_monza.json",
-      "results_repo_path": "260703_222917_R.json"
+      "results_repo_path": "260703_222917_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-07-02_2229_spa",
@@ -166,7 +180,9 @@
       "best_lap_public_id": "drv_ead3d6e9f3b0",
       "status": "finished",
       "details_path": "races/hourly_2026-07-02_2229_spa.json",
-      "results_repo_path": "260702_222956_R.json"
+      "results_repo_path": "260702_222956_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-07-01_2229_monza",
@@ -187,7 +203,9 @@
       "best_lap_public_id": "drv_ead3d6e9f3b0",
       "status": "finished",
       "details_path": "races/hourly_2026-07-01_2229_monza.json",
-      "results_repo_path": "260701_222910_R.json"
+      "results_repo_path": "260701_222910_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-06-30_2231_monza",
@@ -208,7 +226,9 @@
       "best_lap_public_id": "drv_29df2a6a2e6e",
       "status": "finished",
       "details_path": "races/hourly_2026-06-30_2231_monza.json",
-      "results_repo_path": "260630_223147_R.json"
+      "results_repo_path": "260630_223147_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-06-29_2231_monza",
@@ -229,7 +249,9 @@
       "best_lap_public_id": "drv_29df2a6a2e6e",
       "status": "finished",
       "details_path": "races/hourly_2026-06-29_2231_monza.json",
-      "results_repo_path": "260629_223147_R.json"
+      "results_repo_path": "260629_223147_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-06-28_2228_monza",
@@ -250,8 +272,10 @@
       "best_lap_public_id": "drv_c526923caadf",
       "status": "finished",
       "details_path": "races/hourly_2026-06-28_2228_monza.json",
-      "results_repo_path": "260628_222839_R.json"
+      "results_repo_path": "260628_222839_R.json",
+      "weather": null,
+      "game_time": null
     }
   ],
-  "updated_at": "2026-07-09T22:54:29+03:00"
+  "updated_at": "2026-07-10T10:41:14+03:00"
 }

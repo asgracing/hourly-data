@@ -21,7 +21,23 @@
         "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.03
+      "rain_level": 0.03,
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 0,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      },
+      "hour_of_day": 0,
+      "game_time_hour": 0,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": "Ночь",
+      "game_time_asset": "night_cool",
+      "game_time_asset_id": "night_cool"
     },
     {
       "event_id": "hourly_2026-07-11_2100",
@@ -35,20 +51,35 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": false,
+      "voting_disabled": true,
       "title": "ASG Racing July 2026",
       "championship_slug": "july-2026",
       "details_url": "/hourly/championship/?slug=july-2026",
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 25.0,
-        "cloud_level": 0.5,
-        "rain_level": 0.21,
-        "weather_randomness": 5,
-        "summary_key": "wet"
+        "ambient_temp_c": 31.0,
+        "cloud_level": 0.17,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
       "weather_locked": true,
-      "rain_level": 0.21
+      "rain_level": 0.04,
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 4,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "game_time_locked": true,
+      "hour_of_day": 4,
+      "game_time_hour": 4,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": null,
+      "game_time_asset": "night_clear",
+      "game_time_asset_id": "night_clear"
     },
     {
       "event_id": "hourly_2026-07-12_2100",
@@ -71,7 +102,23 @@
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.04
+      "rain_level": 0.04,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 16,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "hour_of_day": 16,
+      "game_time_hour": 16,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright"
     },
     {
       "event_id": "hourly_2026-07-13_2100",
@@ -94,7 +141,23 @@
         "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.04
+      "rain_level": 0.04,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-07-14_2100",
@@ -117,7 +180,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.09
+      "rain_level": 0.09,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 11,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      },
+      "hour_of_day": 11,
+      "game_time_hour": 11,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_soft",
+      "game_time_asset_id": "morning_soft"
     },
     {
       "event_id": "hourly_2026-07-15_2100",
@@ -140,7 +219,23 @@
         "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.1
+      "rain_level": 0.1,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 20,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 20,
+      "game_time_hour": 20,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-07-16_2100",
@@ -163,7 +258,23 @@
         "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.06
+      "rain_level": 0.06,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 9,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      },
+      "hour_of_day": 9,
+      "game_time_hour": 9,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_soft",
+      "game_time_asset_id": "morning_soft"
     },
     {
       "event_id": "hourly_2026-07-17_2100",
@@ -186,7 +297,23 @@
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.02
+      "rain_level": 0.02,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 8,
+        "asset_id": "morning_clear",
+        "asset": "morning_clear"
+      },
+      "hour_of_day": 8,
+      "game_time_hour": 8,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_clear",
+      "game_time_asset_id": "morning_clear"
     },
     {
       "event_id": "hourly_2026-07-18_2100",
@@ -209,7 +336,23 @@
         "weather_randomness": 2,
         "summary_key": "wet"
       },
-      "rain_level": 0.29
+      "rain_level": 0.29,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 20,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 20,
+      "game_time_hour": 20,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-07-19_2100",
@@ -232,7 +375,23 @@
         "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.07
+      "rain_level": 0.07,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 10,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      },
+      "hour_of_day": 10,
+      "game_time_hour": 10,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_soft",
+      "game_time_asset_id": "morning_soft"
     },
     {
       "event_id": "hourly_2026-07-20_2100",
@@ -255,7 +414,23 @@
         "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.1
+      "rain_level": 0.1,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 9,
+        "asset_id": "morning_clear",
+        "asset": "morning_clear"
+      },
+      "hour_of_day": 9,
+      "game_time_hour": 9,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_clear",
+      "game_time_asset_id": "morning_clear"
     },
     {
       "event_id": "hourly_2026-07-21_2100",
@@ -278,7 +453,23 @@
         "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.04
+      "rain_level": 0.04,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 12,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "hour_of_day": 12,
+      "game_time_hour": 12,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright"
     },
     {
       "event_id": "hourly_2026-07-22_2100",
@@ -301,7 +492,23 @@
         "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.05
+      "rain_level": 0.05,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-07-23_2100",
@@ -324,7 +531,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.09
+      "rain_level": 0.09,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 15,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 15,
+      "game_time_hour": 15,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-07-24_2100",
@@ -347,7 +570,23 @@
         "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.08
+      "rain_level": 0.08,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 12,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "hour_of_day": 12,
+      "game_time_hour": 12,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright"
     },
     {
       "event_id": "hourly_2026-07-25_2100",
@@ -361,20 +600,35 @@
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "championship",
-      "voting_disabled": false,
+      "voting_disabled": true,
       "title": "ASG Racing July 2026",
       "championship_slug": "july-2026",
       "details_url": "/hourly/championship/?slug=july-2026",
       "weather": {
         "profile_id": null,
         "ambient_temp_c": 25.0,
-        "cloud_level": 0.3,
-        "rain_level": 0.0,
+        "cloud_level": 0.27,
+        "rain_level": 0.11,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "clear"
       },
       "weather_locked": true,
-      "rain_level": 0.0
+      "rain_level": 0.11,
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 13,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "game_time_locked": true,
+      "hour_of_day": 13,
+      "game_time_hour": 13,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": null,
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-07-26_2100",
@@ -397,7 +651,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.08
+      "rain_level": 0.08,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 15,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 15,
+      "game_time_hour": 15,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-07-27_2100",
@@ -420,7 +690,23 @@
         "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.05
+      "rain_level": 0.05,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-07-28_2100",
@@ -443,7 +729,23 @@
         "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.1
+      "rain_level": 0.1,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-07-29_2100",
@@ -466,7 +768,23 @@
         "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.09
+      "rain_level": 0.09,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 11,
+        "asset_id": "morning_clear",
+        "asset": "morning_clear"
+      },
+      "hour_of_day": 11,
+      "game_time_hour": 11,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_clear",
+      "game_time_asset_id": "morning_clear"
     },
     {
       "event_id": "hourly_2026-07-30_2100",
@@ -489,7 +807,23 @@
         "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.05
+      "rain_level": 0.05,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-07-31_2100",
@@ -512,7 +846,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.08
+      "rain_level": 0.08,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 13,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "hour_of_day": 13,
+      "game_time_hour": 13,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright"
     },
     {
       "event_id": "hourly_2026-08-01_2100",
@@ -535,7 +885,23 @@
         "weather_randomness": 4,
         "summary_key": "wet"
       },
-      "rain_level": 0.17
+      "rain_level": 0.17,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 16,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 16,
+      "game_time_hour": 16,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-08-02_2100",
@@ -558,7 +924,23 @@
         "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11
+      "rain_level": 0.11,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 11,
+        "asset_id": "morning_clear",
+        "asset": "morning_clear"
+      },
+      "hour_of_day": 11,
+      "game_time_hour": 11,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_clear",
+      "game_time_asset_id": "morning_clear"
     },
     {
       "event_id": "hourly_2026-08-03_2100",
@@ -581,7 +963,23 @@
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.0
+      "rain_level": 0.0,
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 3,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      },
+      "hour_of_day": 3,
+      "game_time_hour": 3,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": "Ночь",
+      "game_time_asset": "night_cool",
+      "game_time_asset_id": "night_cool"
     },
     {
       "event_id": "hourly_2026-08-04_2100",
@@ -604,7 +1002,23 @@
         "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.02
+      "rain_level": 0.02,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 10,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      },
+      "hour_of_day": 10,
+      "game_time_hour": 10,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_soft",
+      "game_time_asset_id": "morning_soft"
     },
     {
       "event_id": "hourly_2026-08-05_2100",
@@ -627,7 +1041,23 @@
         "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.05
+      "rain_level": 0.05,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 15,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "hour_of_day": 15,
+      "game_time_hour": 15,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright"
     },
     {
       "event_id": "hourly_2026-08-06_2100",
@@ -650,7 +1080,23 @@
         "weather_randomness": 3,
         "summary_key": "wet"
       },
-      "rain_level": 0.19
+      "rain_level": 0.19,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-08-07_2100",
@@ -673,7 +1119,23 @@
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.0
+      "rain_level": 0.0,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-08-08_2100",
@@ -696,7 +1158,23 @@
         "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.08
+      "rain_level": 0.08,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 18,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 18,
+      "game_time_hour": 18,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-08-09_2100",
@@ -719,7 +1197,23 @@
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.04
+      "rain_level": 0.04,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-08-10_2100",
@@ -742,7 +1236,23 @@
         "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.05
+      "rain_level": 0.05,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 16,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "hour_of_day": 16,
+      "game_time_hour": 16,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright"
     },
     {
       "event_id": "hourly_2026-08-11_2100",
@@ -765,7 +1275,23 @@
         "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.09
+      "rain_level": 0.09,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 15,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 15,
+      "game_time_hour": 15,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-08-12_2100",
@@ -788,7 +1314,23 @@
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.03
+      "rain_level": 0.03,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_long_shadows",
+      "game_time_asset_id": "evening_long_shadows"
     },
     {
       "event_id": "hourly_2026-08-13_2100",
@@ -811,7 +1353,23 @@
         "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.03
+      "rain_level": 0.03,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_long_shadows",
+      "game_time_asset_id": "evening_long_shadows"
     },
     {
       "event_id": "hourly_2026-08-14_2100",
@@ -834,7 +1392,23 @@
         "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.04
+      "rain_level": 0.04,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 16,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "hour_of_day": 16,
+      "game_time_hour": 16,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright"
     },
     {
       "event_id": "hourly_2026-08-15_2100",
@@ -857,7 +1431,23 @@
         "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.06
+      "rain_level": 0.06,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_long_shadows",
+      "game_time_asset_id": "evening_long_shadows"
     },
     {
       "event_id": "hourly_2026-08-16_2100",
@@ -880,7 +1470,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11
+      "rain_level": 0.11,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 11,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      },
+      "hour_of_day": 11,
+      "game_time_hour": 11,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_soft",
+      "game_time_asset_id": "morning_soft"
     },
     {
       "event_id": "hourly_2026-08-17_2100",
@@ -903,7 +1509,23 @@
         "weather_randomness": 4,
         "summary_key": "wet"
       },
-      "rain_level": 0.11
+      "rain_level": 0.11,
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 0,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "hour_of_day": 0,
+      "game_time_hour": 0,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": "Ночь",
+      "game_time_asset": "night_clear",
+      "game_time_asset_id": "night_clear"
     },
     {
       "event_id": "hourly_2026-08-18_2100",
@@ -926,7 +1548,23 @@
         "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11
+      "rain_level": 0.11,
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 1,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      },
+      "hour_of_day": 1,
+      "game_time_hour": 1,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": "Ночь",
+      "game_time_asset": "night_cool",
+      "game_time_asset_id": "night_cool"
     },
     {
       "event_id": "hourly_2026-08-19_2100",
@@ -949,7 +1587,23 @@
         "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.0
+      "rain_level": 0.0,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 16,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "hour_of_day": 16,
+      "game_time_hour": 16,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright"
     },
     {
       "event_id": "hourly_2026-08-20_2100",
@@ -972,7 +1626,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11
+      "rain_level": 0.11,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 18,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 18,
+      "game_time_hour": 18,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-08-21_2100",
@@ -995,7 +1665,23 @@
         "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.06
+      "rain_level": 0.06,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 17,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      },
+      "hour_of_day": 17,
+      "game_time_hour": 17,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_long_shadows",
+      "game_time_asset_id": "evening_long_shadows"
     },
     {
       "event_id": "hourly_2026-08-22_2100",
@@ -1018,7 +1704,23 @@
         "weather_randomness": 5,
         "summary_key": "wet"
       },
-      "rain_level": 0.23
+      "rain_level": 0.23,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-08-23_2100",
@@ -1041,7 +1743,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.09
+      "rain_level": 0.09,
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 2,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "hour_of_day": 2,
+      "game_time_hour": 2,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": "Ночь",
+      "game_time_asset": "night_clear",
+      "game_time_asset_id": "night_clear"
     },
     {
       "event_id": "hourly_2026-08-24_2100",
@@ -1064,7 +1782,23 @@
         "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.05
+      "rain_level": 0.05,
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 1,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "hour_of_day": 1,
+      "game_time_hour": 1,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": "Ночь",
+      "game_time_asset": "night_clear",
+      "game_time_asset_id": "night_clear"
     },
     {
       "event_id": "hourly_2026-08-25_2100",
@@ -1087,7 +1821,23 @@
         "weather_randomness": 6,
         "summary_key": "wet"
       },
-      "rain_level": 0.23
+      "rain_level": 0.23,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 18,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      },
+      "hour_of_day": 18,
+      "game_time_hour": 18,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_long_shadows",
+      "game_time_asset_id": "evening_long_shadows"
     },
     {
       "event_id": "hourly_2026-08-26_2100",
@@ -1110,7 +1860,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.05
+      "rain_level": 0.05,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_long_shadows",
+      "game_time_asset_id": "evening_long_shadows"
     },
     {
       "event_id": "hourly_2026-08-27_2100",
@@ -1133,7 +1899,23 @@
         "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11
+      "rain_level": 0.11,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_long_shadows",
+      "game_time_asset_id": "evening_long_shadows"
     },
     {
       "event_id": "hourly_2026-08-28_2100",
@@ -1156,7 +1938,23 @@
         "weather_randomness": 6,
         "summary_key": "wet"
       },
-      "rain_level": 0.13
+      "rain_level": 0.13,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-08-29_2100",
@@ -1179,7 +1977,23 @@
         "weather_randomness": 3,
         "summary_key": "wet"
       },
-      "rain_level": 0.23
+      "rain_level": 0.23,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 17,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 17,
+      "game_time_hour": 17,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-08-30_2100",
@@ -1202,7 +2016,23 @@
         "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.04
+      "rain_level": 0.04,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 15,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 15,
+      "game_time_hour": 15,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-08-31_2100",
@@ -1225,7 +2055,23 @@
         "weather_randomness": 6,
         "summary_key": "wet"
       },
-      "rain_level": 0.26
+      "rain_level": 0.26,
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 4,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "hour_of_day": 4,
+      "game_time_hour": 4,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": "Ночь",
+      "game_time_asset": "night_clear",
+      "game_time_asset_id": "night_clear"
     },
     {
       "event_id": "hourly_2026-09-01_2100",
@@ -1248,7 +2094,23 @@
         "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.02
+      "rain_level": 0.02,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-09-02_2100",
@@ -1271,7 +2133,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.08
+      "rain_level": 0.08,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 12,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 12,
+      "game_time_hour": 12,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-09-03_2100",
@@ -1294,7 +2172,23 @@
         "weather_randomness": 3,
         "summary_key": "wet"
       },
-      "rain_level": 0.17
+      "rain_level": 0.17,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-09-04_2100",
@@ -1317,7 +2211,23 @@
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.03
+      "rain_level": 0.03,
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 4,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "hour_of_day": 4,
+      "game_time_hour": 4,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": "Ночь",
+      "game_time_asset": "night_clear",
+      "game_time_asset_id": "night_clear"
     },
     {
       "event_id": "hourly_2026-09-05_2100",
@@ -1340,7 +2250,23 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.08
+      "rain_level": 0.08,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 16,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "hour_of_day": 16,
+      "game_time_hour": 16,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright"
     },
     {
       "event_id": "hourly_2026-09-06_2100",
@@ -1363,7 +2289,23 @@
         "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.01
+      "rain_level": 0.01,
+      "game_time": {
+        "profile_id": "evening",
+        "code": "evening",
+        "label": "Evening",
+        "label_ru": "Вечер",
+        "hour_of_day": 19,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      },
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": "Вечер",
+      "game_time_asset": "evening_gold",
+      "game_time_asset_id": "evening_gold"
     },
     {
       "event_id": "hourly_2026-09-07_2100",
@@ -1386,7 +2328,23 @@
         "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.05
+      "rain_level": 0.05,
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 11,
+        "asset_id": "morning_clear",
+        "asset": "morning_clear"
+      },
+      "hour_of_day": 11,
+      "game_time_hour": 11,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": "Утро",
+      "game_time_asset": "morning_clear",
+      "game_time_asset_id": "morning_clear"
     },
     {
       "event_id": "hourly_2026-09-08_2100",
@@ -1409,7 +2367,23 @@
         "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.07
+      "rain_level": 0.07,
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      },
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": "День",
+      "game_time_asset": "day_clear",
+      "game_time_asset_id": "day_clear"
     },
     {
       "event_id": "hourly_2026-09-09_2100",
@@ -1432,8 +2406,24 @@
         "weather_randomness": 2,
         "summary_key": "mixed"
       },
-      "rain_level": 0.1
+      "rain_level": 0.1,
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 5,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      },
+      "hour_of_day": 5,
+      "game_time_hour": 5,
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_label_ru": "Ночь",
+      "game_time_asset": "night_cool",
+      "game_time_asset_id": "night_cool"
     }
   ],
-  "updated_at": "2026-07-09T22:54:24+03:00"
+  "updated_at": "2026-07-10T10:41:13+03:00"
 }
