@@ -57,14 +57,14 @@
       "details_url": "/hourly/championship/?slug=july-2026",
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 26.0,
-        "cloud_level": 0.11,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
+        "ambient_temp_c": 27.0,
+        "cloud_level": 0.09,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
       "weather_locked": true,
-      "rain_level": 0.04,
+      "rain_level": 0.01,
       "game_time": {
         "code": "night",
         "label": "Night",
@@ -2425,5 +2425,5 @@
       "game_time_asset_id": "night_cool"
     }
   ],
-  "updated_at": "2026-07-10T10:43:17+03:00"
+  "updated_at": "2026-07-10T10:45:59+03:00"
 }
