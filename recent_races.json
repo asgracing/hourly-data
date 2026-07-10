@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-10_2229_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-07-10T22:29:29+03:00",
+      "finished_at_local": "2026-07-10 22:29",
+      "participants_count": 33,
+      "scoring_participants_count": 29,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Sergey Saltaev",
+      "winner_public_id": "drv_208a87eea0b5",
+      "best_lap": "1:47.060",
+      "best_lap_driver": "Ilya Kosmach",
+      "best_lap_public_id": "drv_c98693ccbce8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-10_2229_monza.json",
+      "results_repo_path": "260710_222929_R.json",
+      "weather": {
+        "profile_id": 1,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.12,
+        "rain_level": 0.03,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "profile_id": "night",
+        "code": "night",
+        "label": "Night",
+        "label_ru": "Ночь",
+        "hour_of_day": 0,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-09_2231_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -252,30 +290,7 @@
       "results_repo_path": "260629_223147_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-06-28_2228_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-06-28T22:28:39+03:00",
-      "finished_at_local": "2026-06-28 22:28",
-      "participants_count": 30,
-      "scoring_participants_count": 28,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Mücahit Yardım",
-      "winner_public_id": "drv_c526923caadf",
-      "best_lap": "1:47.415",
-      "best_lap_driver": "Mücahit Yardım",
-      "best_lap_public_id": "drv_c526923caadf",
-      "status": "finished",
-      "details_path": "races/hourly_2026-06-28_2228_monza.json",
-      "results_repo_path": "260628_222839_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-07-10T11:25:50+03:00"
+  "updated_at": "2026-07-10T22:54:31+03:00"
 }
