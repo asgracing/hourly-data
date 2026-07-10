@@ -63,14 +63,14 @@
       "championship_slug": "july-2026",
       "details_url": "/hourly/championship/?slug=july-2026",
       "weather": {
-        "ambient_temp_c": 25.0,
-        "cloud_level": 0.27,
-        "rain_level": 0.11,
+        "ambient_temp_c": 30.0,
+        "cloud_level": 0.18,
+        "rain_level": 0.15,
         "weather_randomness": 3,
         "summary_key": "clear"
       },
       "weather_locked": true,
-      "rain_level": 0.11,
+      "rain_level": 0.15,
       "game_time": {
         "code": "day",
         "label": "Day",
@@ -96,5 +96,5 @@
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-07-10T10:45:59+03:00"
+  "updated_at": "2026-07-10T10:46:32+03:00"
 }
