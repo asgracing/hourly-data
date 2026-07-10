@@ -289,10 +289,10 @@
       "game_time_label": "Day",
       "game_time_asset": "day_wet",
       "hour_of_day": 13,
-      "ambient_temp_c": 24.0,
-      "cloud_level": 0.24,
-      "rain_level": 0.14,
-      "weather_randomness": 2
+      "ambient_temp_c": 21.0,
+      "cloud_level": 0.25,
+      "rain_level": 0.2,
+      "weather_randomness": 6
     },
     {
       "date": "2026-07-28",
