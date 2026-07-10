@@ -230,8 +230,8 @@
       "game_time_label": "Night",
       "game_time_asset": "night_clear",
       "hour_of_day": 4,
-      "ambient_temp_c": 31.0,
-      "cloud_level": 0.17,
+      "ambient_temp_c": 26.0,
+      "cloud_level": 0.11,
       "rain_level": 0.04,
       "weather_randomness": 3
     },
