@@ -6,47 +6,6 @@
   "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону.",
   "upcoming_races": [
     {
-      "event_id": "hourly_2026-07-11_2100",
-      "date": "2026-07-11",
-      "start_time_local": "21:00",
-      "timezone": "UTC+3",
-      "weekday": "saturday",
-      "month": "2026-07",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nordschleife",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "event_type": "championship",
-      "voting_disabled": true,
-      "title": "ASG Racing July 2026",
-      "championship_slug": "july-2026",
-      "details_url": "/hourly/championship/?slug=july-2026",
-      "weather": {
-        "ambient_temp_c": 27.0,
-        "cloud_level": 0.09,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "weather_locked": true,
-      "rain_level": 0.01,
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 4,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "game_time_locked": true,
-      "hour_of_day": 4,
-      "game_time_hour": 4,
-      "game_time_code": "night",
-      "game_time_label": "Night",
-      "game_time_label_ru": null,
-      "game_time_asset": "night_clear",
-      "game_time_asset_id": "night_clear"
-    },
-    {
       "event_id": "hourly_2026-07-25_2100",
       "date": "2026-07-25",
       "start_time_local": "21:00",
@@ -93,8 +52,489 @@
     "prize2": null,
     "prize3": null
   },
-  "results_top3": [],
-  "standings": [],
-  "races": [],
-  "updated_at": "2026-07-10T22:54:31+03:00"
+  "results_top3": [
+    {
+      "public_id": "drv_f46727fa9e5b",
+      "driver": "Aleksey Mihin",
+      "races": 1,
+      "wins": 1,
+      "podiums": 1,
+      "best_laps": 1,
+      "points": 21,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 21
+      },
+      "rank": 1
+    },
+    {
+      "public_id": "drv_208a87eea0b5",
+      "driver": "Sergey Saltaev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 14,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 14
+      },
+      "rank": 2
+    },
+    {
+      "public_id": "drv_4d027503bb2a",
+      "driver": "Pavel Novikov [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 12,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 12
+      },
+      "rank": 3
+    }
+  ],
+  "standings": [
+    {
+      "public_id": "drv_f46727fa9e5b",
+      "driver": "Aleksey Mihin",
+      "races": 1,
+      "wins": 1,
+      "podiums": 1,
+      "best_laps": 1,
+      "points": 21,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 21
+      },
+      "rank": 1
+    },
+    {
+      "public_id": "drv_208a87eea0b5",
+      "driver": "Sergey Saltaev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 14,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 14
+      },
+      "rank": 2
+    },
+    {
+      "public_id": "drv_4d027503bb2a",
+      "driver": "Pavel Novikov [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 12,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 12
+      },
+      "rank": 3
+    },
+    {
+      "public_id": "drv_908061118bfc",
+      "driver": "twitch.tv DessotoGT3 [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 10,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 10
+      },
+      "rank": 4
+    },
+    {
+      "public_id": "drv_02dda162e815",
+      "driver": "Alex Prok",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 8,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 8
+      },
+      "rank": 5
+    },
+    {
+      "public_id": "drv_1c90360ea476",
+      "driver": "George Klimovich",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 6,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 6
+      },
+      "rank": 6
+    },
+    {
+      "public_id": "drv_046c2381a929",
+      "driver": "spartak racer",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 5,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 5
+      },
+      "rank": 7
+    },
+    {
+      "public_id": "drv_9afd0424ded9",
+      "driver": "Temer Lakerino [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 3,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 3
+      },
+      "rank": 8
+    },
+    {
+      "public_id": "drv_2148edba098e",
+      "driver": "Alexey Stadnik",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 2,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 2
+      },
+      "rank": 9
+    },
+    {
+      "public_id": "drv_af37ffd32b91",
+      "driver": "Danila Kozak",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 1,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 1
+      },
+      "rank": 10
+    },
+    {
+      "public_id": "drv_39c83180f26a",
+      "driver": "ALEKSEY EPIFANOV [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 11
+    },
+    {
+      "public_id": "drv_c5d9d6c83e45",
+      "driver": "Aleksey Garbar",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 12
+    },
+    {
+      "public_id": "drv_3a4046b70d17",
+      "driver": "Alex Pozdeev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 13
+    },
+    {
+      "public_id": "drv_3606999c4037",
+      "driver": "Anton Keida",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 14
+    },
+    {
+      "public_id": "drv_b29387274c49",
+      "driver": "EGOR GOUT",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 15
+    },
+    {
+      "public_id": "drv_d41efd5689eb",
+      "driver": "Egor GRIGOREV",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 16
+    },
+    {
+      "public_id": "drv_05e2b8e8bca6",
+      "driver": "Evgeny Kiselev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 17
+    },
+    {
+      "public_id": "drv_41feb0b82359",
+      "driver": "I. Boykov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 18
+    },
+    {
+      "public_id": "drv_c98693ccbce8",
+      "driver": "Ilya Kosmach",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 19
+    },
+    {
+      "public_id": "drv_9daf9212948c",
+      "driver": "Islam  Akaev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 20
+    },
+    {
+      "public_id": "drv_378357a4d49d",
+      "driver": "Ivan Chai",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 21
+    },
+    {
+      "public_id": "drv_10b4b6556336",
+      "driver": "Javier Breogan.VR.[ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 22
+    },
+    {
+      "public_id": "drv_964ce73ba40a",
+      "driver": "Kosso Filippo[ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 23
+    },
+    {
+      "public_id": "drv_b7b87f1270bc",
+      "driver": "Kostya Khoroshilov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 24
+    },
+    {
+      "public_id": "drv_c23b413a0ca6",
+      "driver": "Mikhail Voronov [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 25
+    },
+    {
+      "public_id": "drv_90d08aa81cc6",
+      "driver": "Nikita Chapaikin",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 26
+    },
+    {
+      "public_id": "drv_b1859addbc4f",
+      "driver": "Oliver Abate",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 27
+    },
+    {
+      "public_id": "drv_e55cfce7ac2c",
+      "driver": "Tudor LOZAN",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 28
+    },
+    {
+      "public_id": "drv_94e033a77f2a",
+      "driver": "Vladislav Shutov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 29
+    },
+    {
+      "public_id": "drv_56d5d830dbd5",
+      "driver": "Vyacheslav Kovskiy",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 30
+    },
+    {
+      "public_id": "drv_98f78d752542",
+      "driver": "mister SHRAM",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-07-11_2246_nurburgring_24h": 0
+      },
+      "rank": 31
+    }
+  ],
+  "races": [
+    {
+      "event_id": "hourly_2026-07-11_2246_nurburgring_24h",
+      "title": "Hourly Race",
+      "track": "nurburgring_24h",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nurburgring 24H",
+      "finished_at": "2026-07-11T22:46:42+03:00",
+      "finished_at_local": "2026-07-11 22:46",
+      "participants_count": 31,
+      "scoring_participants_count": 23,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Aleksey Mihin",
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "8:09.165",
+      "best_lap_driver": "Aleksey Mihin",
+      "best_lap_public_id": "drv_f46727fa9e5b",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-11_2246_nurburgring_24h.json",
+      "results_repo_path": "260711_224642_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 27.0,
+        "cloud_level": 0.09,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 4,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      }
+    }
+  ],
+  "updated_at": "2026-07-11T22:54:30+03:00"
 }
