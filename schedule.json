@@ -583,30 +583,28 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.16,
-        "rain_level": 0.1,
+        "profile_id": null,
+        "ambient_temp_c": 21.0,
+        "cloud_level": 0.22,
+        "rain_level": 0.12,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "clear"
       },
-      "rain_level": 0.1,
+      "weather_locked": true,
+      "rain_level": 0.12,
       "game_time": {
-        "profile_id": "evening",
         "code": "evening",
         "label": "Evening",
-        "label_ru": "Вечер",
         "hour_of_day": 17,
         "asset_id": "evening_gold",
-        "asset": "evening_gold",
-        "asset_label": "Golden Hour",
-        "asset_label_ru": "Золотой час"
+        "asset": "evening_gold"
       },
+      "game_time_locked": true,
       "hour_of_day": 17,
       "game_time_hour": 17,
       "game_time_code": "evening",
       "game_time_label": "Evening",
-      "game_time_label_ru": "Вечер",
+      "game_time_label_ru": null,
       "game_time_asset": "evening_gold",
       "game_time_asset_id": "evening_gold"
     },
@@ -2538,5 +2536,5 @@
       "game_time_asset_id": "evening_long_shadows"
     }
   ],
-  "updated_at": "2026-07-13T22:17:45+03:00"
+  "updated_at": "2026-07-13T22:20:46+03:00"
 }

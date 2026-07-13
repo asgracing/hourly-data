@@ -8,7 +8,7 @@
   "server_pid": 68552,
   "last_status": "server_started",
   "last_error": null,
-  "updated_at": "2026-07-13T22:17:45+03:00",
+  "updated_at": "2026-07-13T22:20:46+03:00",
   "last_result_q_files": [
     "260712_212341_Q.json"
   ],
@@ -145,13 +145,11 @@
       "created_at": "2026-07-13T22:17:08+03:00"
     },
     "hourly_2026-07-28_2100": {
-      "profile_id": 2,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.16,
-      "rain_level": 0.1,
+      "ambient_temp_c": 21.0,
+      "cloud_level": 0.22,
+      "rain_level": 0.12,
       "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-07-13T22:17:08+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-07-29_2100": {
       "profile_id": 1,
@@ -752,16 +750,11 @@
       "created_at": "2026-07-13T22:17:08+03:00"
     },
     "hourly_2026-07-28_2100": {
-      "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
-      "label_ru": "Вечер",
       "hour_of_day": 17,
       "asset_id": "evening_gold",
-      "asset": "evening_gold",
-      "asset_label": "Golden Hour",
-      "asset_label_ru": "Золотой час",
-      "created_at": "2026-07-13T22:17:08+03:00"
+      "asset": "evening_gold"
     },
     "hourly_2026-07-29_2100": {
       "profile_id": "night",

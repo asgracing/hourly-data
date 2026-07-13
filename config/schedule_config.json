@@ -350,8 +350,17 @@
       "start_time_local": "21:00",
       "track_code": "silverstone",
       "track_name": "Silverstone",
+      "slot_label": "Evening Slot",
       "status": "scheduled",
-      "event_type": "hourly"
+      "event_type": "hourly",
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_asset": "evening_gold",
+      "hour_of_day": 17,
+      "ambient_temp_c": 21.0,
+      "cloud_level": 0.22,
+      "rain_level": 0.12,
+      "weather_randomness": 3
     }
   ],
   "exceptions": [],
