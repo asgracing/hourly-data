@@ -8,7 +8,7 @@
   "server_pid": 68552,
   "last_status": "server_started",
   "last_error": null,
-  "updated_at": "2026-07-13T22:17:08+03:00",
+  "updated_at": "2026-07-13T22:17:45+03:00",
   "last_result_q_files": [
     "260712_212341_Q.json"
   ],
@@ -106,22 +106,18 @@
       "created_at": "2026-07-13T22:17:08+03:00"
     },
     "hourly_2026-07-23_2100": {
-      "profile_id": 1,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.23,
-      "rain_level": 0.01,
-      "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-07-13T22:17:08+03:00"
+      "ambient_temp_c": 20.0,
+      "cloud_level": 0.3,
+      "rain_level": 0.3,
+      "weather_randomness": 6,
+      "summary_key": "wet"
     },
     "hourly_2026-07-24_2100": {
-      "profile_id": 3,
-      "ambient_temp_c": 25,
-      "cloud_level": 0.21,
+      "ambient_temp_c": 25.0,
+      "cloud_level": 0.51,
       "rain_level": 0.25,
       "weather_randomness": 6,
-      "summary_key": "wet",
-      "created_at": "2026-07-13T22:17:08+03:00"
+      "summary_key": "wet"
     },
     "hourly_2026-07-25_2100": {
       "ambient_temp_c": 21.0,
@@ -711,28 +707,18 @@
       "created_at": "2026-07-13T22:17:08+03:00"
     },
     "hourly_2026-07-23_2100": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 8,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft",
-      "asset_label": "Soft Morning",
-      "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-07-13T22:17:08+03:00"
+      "code": "evening",
+      "label": "Evening",
+      "hour_of_day": 18,
+      "asset_id": "evening_gold",
+      "asset": "evening_gold"
     },
     "hourly_2026-07-24_2100": {
-      "profile_id": "night",
       "code": "night",
       "label": "Night",
-      "label_ru": "Ночь",
       "hour_of_day": 1,
       "asset_id": "night_clear",
-      "asset": "night_clear",
-      "asset_label": "Clear Night",
-      "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-07-13T22:17:08+03:00"
+      "asset": "night_clear"
     },
     "hourly_2026-07-25_2100": {
       "code": "day",
