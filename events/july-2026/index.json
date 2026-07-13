@@ -23,7 +23,7 @@
       "details_url": "/hourly/championship/?slug=july-2026",
       "weather": {
         "ambient_temp_c": 21.0,
-        "cloud_level": 0.25,
+        "cloud_level": 0.45,
         "rain_level": 0.2,
         "weather_randomness": 6,
         "summary_key": "wet"
@@ -536,5 +536,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-13T22:22:17+03:00"
+  "updated_at": "2026-07-13T22:34:55+03:00"
 }

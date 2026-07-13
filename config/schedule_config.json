@@ -341,7 +341,7 @@
       "game_time_asset": "day_wet",
       "hour_of_day": 13,
       "ambient_temp_c": 21.0,
-      "cloud_level": 0.25,
+      "cloud_level": 0.45,
       "rain_level": 0.2,
       "weather_randomness": 6
     },
