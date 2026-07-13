@@ -268,6 +268,23 @@
       "event_type": "hourly"
     },
     {
+      "date": "2026-07-21",
+      "start_time_local": "21:00",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_asset": "morning_soft",
+      "hour_of_day": 8,
+      "ambient_temp_c": 20.0,
+      "cloud_level": 0.4,
+      "rain_level": 0.17,
+      "weather_randomness": 4
+    },
+    {
       "date": "2026-07-22",
       "start_time_local": "21:00",
       "track_code": "spa",
