@@ -14,30 +14,28 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 26,
+        "profile_id": null,
+        "ambient_temp_c": 28.0,
         "cloud_level": 0.1,
         "rain_level": 0.04,
         "weather_randomness": 2,
         "summary_key": "clear"
       },
+      "weather_locked": true,
       "rain_level": 0.04,
       "game_time": {
-        "profile_id": "morning",
         "code": "morning",
         "label": "Morning",
-        "label_ru": "Утро",
         "hour_of_day": 7,
         "asset_id": "morning_haze",
-        "asset": "morning_haze",
-        "asset_label": "Morning Haze",
-        "asset_label_ru": "Утренний туман"
+        "asset": "morning_haze"
       },
+      "game_time_locked": true,
       "hour_of_day": 7,
       "game_time_hour": 7,
       "game_time_code": "morning",
       "game_time_label": "Morning",
-      "game_time_label_ru": "Утро",
+      "game_time_label_ru": null,
       "game_time_asset": "morning_haze",
       "game_time_asset_id": "morning_haze"
     },
@@ -2534,5 +2532,5 @@
       "game_time_asset_id": "morning_clear"
     }
   ],
-  "updated_at": "2026-07-14T11:25:55+03:00"
+  "updated_at": "2026-07-14T11:28:08+03:00"
 }
