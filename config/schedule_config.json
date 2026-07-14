@@ -361,6 +361,23 @@
       "cloud_level": 0.22,
       "rain_level": 0.12,
       "weather_randomness": 3
+    },
+    {
+      "date": "2026-07-30",
+      "start_time_local": "21:00",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_asset": "morning_clear",
+      "hour_of_day": 7,
+      "ambient_temp_c": 28.0,
+      "cloud_level": 0.11,
+      "rain_level": 0.03,
+      "weather_randomness": 2
     }
   ],
   "exceptions": [],

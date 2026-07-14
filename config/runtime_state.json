@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-07-13T22:54:24+03:00",
+  "updated_at": "2026-07-14T11:25:55+03:00",
   "last_result_q_files": [
     "260713_212550_Q.json"
   ],
@@ -152,13 +152,11 @@
       "created_at": "2026-07-13T22:54:24+03:00"
     },
     "hourly_2026-07-30_2100": {
-      "profile_id": 3,
-      "ambient_temp_c": 23,
-      "cloud_level": 0.45,
-      "rain_level": 0.18,
-      "weather_randomness": 4,
-      "summary_key": "wet",
-      "created_at": "2026-07-13T22:54:24+03:00"
+      "ambient_temp_c": 28.0,
+      "cloud_level": 0.11,
+      "rain_level": 0.03,
+      "weather_randomness": 2,
+      "summary_key": "clear"
     },
     "hourly_2026-07-31_2100": {
       "profile_id": 2,
@@ -748,16 +746,11 @@
       "created_at": "2026-07-13T22:54:24+03:00"
     },
     "hourly_2026-07-30_2100": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 12,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-07-13T22:54:24+03:00"
+      "code": "morning",
+      "label": "Morning",
+      "hour_of_day": 7,
+      "asset_id": "morning_clear",
+      "asset": "morning_clear"
     },
     "hourly_2026-07-31_2100": {
       "profile_id": "day",
