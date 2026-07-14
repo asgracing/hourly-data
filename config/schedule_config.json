@@ -256,7 +256,7 @@
       "game_time_asset": "morning_haze",
       "hour_of_day": 7,
       "ambient_temp_c": 28.0,
-      "cloud_level": 0.1,
+      "cloud_level": 0.2,
       "rain_level": 0.04,
       "weather_randomness": 2
     },

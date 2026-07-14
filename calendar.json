@@ -16,7 +16,7 @@
       "weather": {
         "profile_id": null,
         "ambient_temp_c": 28.0,
-        "cloud_level": 0.1,
+        "cloud_level": 0.2,
         "rain_level": 0.04,
         "weather_randomness": 2,
         "summary_key": "clear"
@@ -2532,5 +2532,5 @@
       "game_time_asset_id": "morning_clear"
     }
   ],
-  "updated_at": "2026-07-14T11:28:08+03:00"
+  "updated_at": "2026-07-14T11:37:59+03:00"
 }
