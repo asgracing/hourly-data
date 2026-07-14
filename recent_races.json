@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-14_2228_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-07-14T22:28:22+03:00",
+      "finished_at_local": "2026-07-14 22:28",
+      "participants_count": 30,
+      "scoring_participants_count": 30,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "San Yves",
+      "winner_public_id": "drv_4bed40b8f5c7",
+      "best_lap": "1:46.805",
+      "best_lap_driver": "Sergey Saltaev",
+      "best_lap_public_id": "drv_208a87eea0b5",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-14_2228_monza.json",
+      "results_repo_path": "260714_222822_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28.0,
+        "cloud_level": 0.2,
+        "rain_level": 0.04,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 7,
+        "asset_id": "morning_haze",
+        "asset": "morning_haze"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-13_2239_spa",
       "title": "Hourly Race",
       "track": "spa",
@@ -299,30 +335,7 @@
       "results_repo_path": "260702_222956_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-07-01_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-01T22:29:10+03:00",
-      "finished_at_local": "2026-07-01 22:29",
-      "participants_count": 42,
-      "scoring_participants_count": 35,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "twitch.tv DessotoGT3 [ASG]",
-      "winner_public_id": "drv_908061118bfc",
-      "best_lap": "1:47.575",
-      "best_lap_driver": "Vahe Gabrielyan",
-      "best_lap_public_id": "drv_ead3d6e9f3b0",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-01_2229_monza.json",
-      "results_repo_path": "260701_222910_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-07-14T11:38:00+03:00"
+  "updated_at": "2026-07-14T22:54:29+03:00"
 }
