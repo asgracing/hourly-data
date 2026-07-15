@@ -1,12 +1,12 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-07-15_2100",
-  "date": "2026-07-15",
+  "event_id": "hourly_2026-07-16_2100",
+  "date": "2026-07-16",
   "start_time_local": "21:00",
   "timezone": "UTC+3",
-  "track_code": "spa",
-  "track_name": "Spa",
+  "track_code": "monza",
+  "track_name": "Monza",
   "server_window": "2h",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
@@ -22,7 +22,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-07-14T22:54:24+03:00",
+  "updated_at": "2026-07-15T22:54:24+03:00",
   "server": {
     "name": "ASG Racing 1H Race",
     "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -55,21 +55,21 @@
   },
   "weather": {
     "profile_id": 2,
-    "ambient_temp_c": 26,
-    "cloud_level": 0.15,
-    "rain_level": 0.06,
+    "ambient_temp_c": 27,
+    "cloud_level": 0.22,
+    "rain_level": 0.08,
     "weather_randomness": 5,
     "summary_key": "mixed"
   },
   "game_time": {
-    "profile_id": "day",
-    "code": "day",
-    "label": "Day",
-    "label_ru": "День",
-    "hour_of_day": 14,
-    "asset_id": "day_bright",
-    "asset": "day_bright",
-    "asset_label": "Bright Day",
-    "asset_label_ru": "Яркий день"
+    "profile_id": "morning",
+    "code": "morning",
+    "label": "Morning",
+    "label_ru": "Утро",
+    "hour_of_day": 10,
+    "asset_id": "morning_soft",
+    "asset": "morning_soft",
+    "asset_label": "Soft Morning",
+    "asset_label_ru": "Мягкое утро"
   }
 }
