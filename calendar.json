@@ -24,20 +24,20 @@
       "weather_locked": true,
       "rain_level": 0.1,
       "game_time": {
-        "code": "morning",
-        "label": "Morning",
+        "code": "evening",
+        "label": "Evening",
         "hour_of_day": 20,
-        "asset_id": "morning_clear",
-        "asset": "morning_clear"
+        "asset_id": "Evening_mixed",
+        "asset": "Evening_mixed"
       },
       "game_time_locked": true,
       "hour_of_day": 20,
       "game_time_hour": 20,
-      "game_time_code": "morning",
-      "game_time_label": "Morning",
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
       "game_time_label_ru": null,
-      "game_time_asset": "morning_clear",
-      "game_time_asset_id": "morning_clear"
+      "game_time_asset": "Evening_mixed",
+      "game_time_asset_id": "Evening_mixed"
     },
     {
       "event_id": "hourly_2026-07-18_2100",
@@ -2532,5 +2532,5 @@
       "game_time_asset_id": "day_clear"
     }
   ],
-  "updated_at": "2026-07-16T22:56:52+03:00"
+  "updated_at": "2026-07-16T23:00:26+03:00"
 }
