@@ -980,5 +980,34 @@
       "penalties": []
     }
   ],
-  "total_penalties": 9
+  "total_penalties": 9,
+  "weather": {
+    "profile_id": 2,
+    "ambient_temp_c": 27,
+    "cloud_level": 0.22,
+    "rain_level": 0.08,
+    "weather_randomness": 5,
+    "summary_key": "mixed"
+  },
+  "game_time": {
+    "profile_id": "morning",
+    "code": "morning",
+    "label": "Morning",
+    "label_ru": "Утро",
+    "hour_of_day": 10,
+    "asset_id": "morning_soft",
+    "asset": "morning_soft",
+    "asset_label": "Soft Morning",
+    "asset_label_ru": "Мягкое утро"
+  },
+  "slot": {
+    "event_id": "hourly_2026-07-16_2100",
+    "date": "2026-07-16",
+    "start_time_local": "21:00",
+    "track_code": "monza",
+    "track_name": "Monza",
+    "event_type": "hourly",
+    "status": "scheduled"
+  },
+  "scheduled_event_id": "hourly_2026-07-16_2100"
 }

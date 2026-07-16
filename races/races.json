@@ -20,8 +20,25 @@
       "status": "finished",
       "details_path": "races/hourly_2026-07-16_2230_monza.json",
       "results_repo_path": "260716_223036_R.json",
-      "weather": null,
-      "game_time": null
+      "weather": {
+        "profile_id": 2,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.22,
+        "rain_level": 0.08,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "profile_id": "morning",
+        "code": "morning",
+        "label": "Morning",
+        "label_ru": "Утро",
+        "hour_of_day": 10,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft",
+        "asset_label": "Soft Morning",
+        "asset_label_ru": "Мягкое утро"
+      }
     },
     {
       "event_id": "hourly_2026-07-15_2235_spa",
@@ -354,5 +371,5 @@
       "game_time": null
     }
   ],
-  "updated_at": "2026-07-16T22:51:31+03:00"
+  "updated_at": "2026-07-16T22:54:25+03:00"
 }
