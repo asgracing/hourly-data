@@ -281,7 +281,7 @@
       "game_time_asset": "Evening_mixed",
       "hour_of_day": 20,
       "ambient_temp_c": 24.0,
-      "cloud_level": 0.4,
+      "cloud_level": 0.5,
       "rain_level": 0.2,
       "weather_randomness": 6
     },
@@ -356,7 +356,7 @@
       "game_time_asset": "evening_mixed",
       "hour_of_day": 20,
       "ambient_temp_c": 24.0,
-      "cloud_level": 0.4,
+      "cloud_level": 0.5,
       "rain_level": 0.2,
       "weather_randomness": 6
     },
