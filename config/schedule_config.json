@@ -356,9 +356,9 @@
       "game_time_asset": "evening_mixed",
       "hour_of_day": 20,
       "ambient_temp_c": 24.0,
-      "cloud_level": 0.5,
-      "rain_level": 0.1,
-      "weather_randomness": 5
+      "cloud_level": 0.4,
+      "rain_level": 0.2,
+      "weather_randomness": 6
     },
     {
       "date": "2026-07-25",
@@ -447,16 +447,16 @@
           31.0
         ],
         "cloud_range": [
-          0.15,
-          0.25
+          0.2,
+          0.5
         ],
         "rain_range": [
           0.05,
-          0.12
+          0.2
         ],
         "randomness_range": [
-          3,
-          5
+          4,
+          7
         ]
       },
       {
@@ -468,7 +468,7 @@
           31.0
         ],
         "cloud_range": [
-          0.2,
+          0.4,
           0.7
         ],
         "rain_range": [

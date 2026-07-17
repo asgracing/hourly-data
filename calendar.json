@@ -54,13 +54,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.18,
-        "rain_level": 0.05,
-        "weather_randomness": 3,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.37,
+        "rain_level": 0.13,
+        "weather_randomness": 7,
         "summary_key": "mixed"
       },
-      "rain_level": 0.05,
+      "rain_level": 0.13,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -94,14 +94,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.07,
-        "rain_level": 0.02,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 3,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.41,
+        "rain_level": 0.31,
+        "weather_randomness": 6,
+        "summary_key": "wet"
       },
-      "rain_level": 0.02,
+      "rain_level": 0.31,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -135,14 +135,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.22,
-        "rain_level": 0.08,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.2,
+        "rain_level": 0.03,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
-      "rain_level": 0.08,
+      "rain_level": 0.03,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -215,14 +215,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.67,
-        "rain_level": 0.41,
-        "weather_randomness": 5,
-        "summary_key": "wet"
+        "profile_id": 1,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.24,
+        "rain_level": 0.05,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
-      "rain_level": 0.41,
+      "rain_level": 0.05,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -297,13 +297,13 @@
       "weather": {
         "profile_id": null,
         "ambient_temp_c": 24.0,
-        "cloud_level": 0.5,
-        "rain_level": 0.1,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
+        "cloud_level": 0.4,
+        "rain_level": 0.2,
+        "weather_randomness": 6,
+        "summary_key": "wet"
       },
       "weather_locked": true,
-      "rain_level": 0.1,
+      "rain_level": 0.2,
       "game_time": {
         "code": "evening",
         "label": "Evening",
@@ -376,14 +376,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.18,
-        "rain_level": 0.1,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.24,
+        "rain_level": 0.04,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.1,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -417,14 +417,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.23,
-        "rain_level": 0.06,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.05,
+        "rain_level": 0.03,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.06,
+      "rain_level": 0.03,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -497,14 +497,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.24,
-        "rain_level": 0.06,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.15,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
-      "rain_level": 0.06,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -577,14 +577,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
+        "profile_id": 1,
         "ambient_temp_c": 28,
-        "cloud_level": 0.24,
-        "rain_level": 0.06,
+        "cloud_level": 0.06,
+        "rain_level": 0.04,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "clear"
       },
-      "rain_level": 0.06,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -618,14 +618,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.21,
-        "rain_level": 0.05,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.11,
+        "rain_level": 0.03,
+        "weather_randomness": 4,
+        "summary_key": "clear"
       },
-      "rain_level": 0.05,
+      "rain_level": 0.03,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -659,14 +659,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.18,
-        "rain_level": 0.1,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
+        "profile_id": 3,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.62,
+        "rain_level": 0.22,
+        "weather_randomness": 4,
+        "summary_key": "wet"
       },
-      "rain_level": 0.1,
+      "rain_level": 0.22,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -700,14 +700,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.21,
-        "rain_level": 0.08,
+        "profile_id": 3,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.41,
+        "rain_level": 0.24,
         "weather_randomness": 5,
-        "summary_key": "mixed"
+        "summary_key": "wet"
       },
-      "rain_level": 0.08,
+      "rain_level": 0.24,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -741,14 +741,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.09,
-        "rain_level": 0.05,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.41,
+        "rain_level": 0.11,
+        "weather_randomness": 7,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.05,
+      "rain_level": 0.11,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -782,14 +782,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.24,
-        "rain_level": 0.11,
+        "profile_id": 3,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.62,
+        "rain_level": 0.4,
         "weather_randomness": 5,
-        "summary_key": "mixed"
+        "summary_key": "wet"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.4,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -823,14 +823,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.15,
-        "rain_level": 0.07,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.03,
+        "rain_level": 0.01,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
-      "rain_level": 0.07,
+      "rain_level": 0.01,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -864,14 +864,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.22,
-        "rain_level": 0.07,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
+        "profile_id": 3,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.69,
+        "rain_level": 0.35,
+        "weather_randomness": 4,
+        "summary_key": "wet"
       },
-      "rain_level": 0.07,
+      "rain_level": 0.35,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -905,14 +905,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.66,
-        "rain_level": 0.4,
-        "weather_randomness": 5,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.24,
+        "rain_level": 0.1,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.4,
+      "rain_level": 0.1,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -948,12 +948,12 @@
       "weather": {
         "profile_id": 1,
         "ambient_temp_c": 24,
-        "cloud_level": 0.12,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
+        "cloud_level": 0.13,
+        "rain_level": 0.05,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.05,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -987,14 +987,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.23,
-        "rain_level": 0.04,
-        "weather_randomness": 4,
-        "summary_key": "clear"
+        "profile_id": 3,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.6,
+        "rain_level": 0.19,
+        "weather_randomness": 6,
+        "summary_key": "wet"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.19,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -1028,14 +1028,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.13,
-        "rain_level": 0.03,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.26,
+        "rain_level": 0.17,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.03,
+      "rain_level": 0.17,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1069,14 +1069,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.05,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 3,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.49,
+        "rain_level": 0.48,
+        "weather_randomness": 5,
+        "summary_key": "wet"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.48,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -1110,14 +1110,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.15,
-        "rain_level": 0.11,
+        "profile_id": 3,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.51,
+        "rain_level": 0.39,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "wet"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.39,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -1151,14 +1151,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.02,
-        "rain_level": 0.04,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.26,
+        "rain_level": 0.1,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.1,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -1193,13 +1193,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.25,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.45,
+        "rain_level": 0.14,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.05,
+      "rain_level": 0.14,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -1234,13 +1234,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.2,
-        "rain_level": 0.07,
-        "weather_randomness": 5,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.43,
+        "rain_level": 0.14,
+        "weather_randomness": 6,
         "summary_key": "mixed"
       },
-      "rain_level": 0.07,
+      "rain_level": 0.14,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -1275,13 +1275,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.24,
-        "rain_level": 0.1,
-        "weather_randomness": 4,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.26,
+        "rain_level": 0.16,
+        "weather_randomness": 6,
         "summary_key": "mixed"
       },
-      "rain_level": 0.1,
+      "rain_level": 0.16,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1315,14 +1315,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.24,
-        "rain_level": 0.07,
+        "profile_id": 1,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.19,
+        "rain_level": 0.03,
         "weather_randomness": 4,
-        "summary_key": "mixed"
+        "summary_key": "clear"
       },
-      "rain_level": 0.07,
+      "rain_level": 0.03,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -1356,14 +1356,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.16,
-        "rain_level": 0.11,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.15,
+        "rain_level": 0.0,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.0,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1398,13 +1398,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.21,
-        "rain_level": 0.11,
-        "weather_randomness": 4,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.47,
+        "rain_level": 0.2,
+        "weather_randomness": 7,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.2,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1438,14 +1438,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.26,
-        "rain_level": 0.24,
-        "weather_randomness": 3,
-        "summary_key": "wet"
+        "profile_id": 1,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.04,
+        "rain_level": 0.03,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.24,
+      "rain_level": 0.03,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -1480,13 +1480,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.23,
-        "rain_level": 0.11,
-        "weather_randomness": 4,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.41,
+        "rain_level": 0.06,
+        "weather_randomness": 7,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.06,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -1520,14 +1520,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.16,
-        "rain_level": 0.06,
+        "profile_id": 3,
+        "ambient_temp_c": 23,
+        "cloud_level": 0.48,
+        "rain_level": 0.41,
         "weather_randomness": 5,
-        "summary_key": "mixed"
+        "summary_key": "wet"
       },
-      "rain_level": 0.06,
+      "rain_level": 0.41,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1561,14 +1561,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 23,
-        "cloud_level": 0.07,
-        "rain_level": 0.04,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.38,
+        "rain_level": 0.13,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.13,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1603,13 +1603,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.19,
-        "rain_level": 0.07,
-        "weather_randomness": 4,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.22,
+        "rain_level": 0.19,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.07,
+      "rain_level": 0.19,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -1644,13 +1644,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 3,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.66,
-        "rain_level": 0.35,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.54,
+        "rain_level": 0.16,
         "weather_randomness": 6,
         "summary_key": "wet"
       },
-      "rain_level": 0.35,
+      "rain_level": 0.16,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -1685,13 +1685,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.24,
-        "rain_level": 0.1,
-        "weather_randomness": 4,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.32,
+        "rain_level": 0.05,
+        "weather_randomness": 7,
         "summary_key": "mixed"
       },
-      "rain_level": 0.1,
+      "rain_level": 0.05,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -1725,14 +1725,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.18,
-        "rain_level": 0.02,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.29,
+        "rain_level": 0.12,
+        "weather_randomness": 6,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.02,
+      "rain_level": 0.12,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -1766,14 +1766,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.51,
-        "rain_level": 0.47,
-        "weather_randomness": 6,
-        "summary_key": "wet"
+        "profile_id": 1,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.23,
+        "rain_level": 0.04,
+        "weather_randomness": 4,
+        "summary_key": "clear"
       },
-      "rain_level": 0.47,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1807,14 +1807,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.58,
-        "rain_level": 0.37,
-        "weather_randomness": 4,
-        "summary_key": "wet"
+        "profile_id": 1,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.19,
+        "rain_level": 0.04,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.37,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -1848,14 +1848,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.17,
-        "rain_level": 0.07,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 3,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.47,
+        "rain_level": 0.19,
+        "weather_randomness": 5,
+        "summary_key": "wet"
       },
-      "rain_level": 0.07,
+      "rain_level": 0.19,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1890,13 +1890,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 3,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.69,
-        "rain_level": 0.12,
-        "weather_randomness": 4,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.49,
+        "rain_level": 0.2,
+        "weather_randomness": 6,
         "summary_key": "wet"
       },
-      "rain_level": 0.12,
+      "rain_level": 0.2,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -1932,12 +1932,12 @@
       "weather": {
         "profile_id": 3,
         "ambient_temp_c": 29,
-        "cloud_level": 0.6,
-        "rain_level": 0.25,
-        "weather_randomness": 6,
+        "cloud_level": 0.62,
+        "rain_level": 0.19,
+        "weather_randomness": 4,
         "summary_key": "wet"
       },
-      "rain_level": 0.25,
+      "rain_level": 0.19,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -1972,13 +1972,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 29,
+        "ambient_temp_c": 26,
         "cloud_level": 0.2,
-        "rain_level": 0.08,
-        "weather_randomness": 4,
+        "rain_level": 0.1,
+        "weather_randomness": 7,
         "summary_key": "mixed"
       },
-      "rain_level": 0.08,
+      "rain_level": 0.1,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -2012,14 +2012,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.21,
-        "rain_level": 0.09,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.17,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.09,
+      "rain_level": 0.01,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -2054,13 +2054,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.18,
-        "rain_level": 0.07,
-        "weather_randomness": 3,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.39,
+        "rain_level": 0.13,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.07,
+      "rain_level": 0.13,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -2094,14 +2094,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.6,
-        "rain_level": 0.38,
-        "weather_randomness": 6,
-        "summary_key": "wet"
+        "profile_id": 1,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.1,
+        "rain_level": 0.02,
+        "weather_randomness": 4,
+        "summary_key": "clear"
       },
-      "rain_level": 0.38,
+      "rain_level": 0.02,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -2136,13 +2136,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.09,
-        "rain_level": 0.02,
-        "weather_randomness": 3,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.16,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.02,
+      "rain_level": 0.01,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -2176,14 +2176,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.25,
-        "rain_level": 0.35,
-        "weather_randomness": 6,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.37,
+        "rain_level": 0.18,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.35,
+      "rain_level": 0.18,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -2217,14 +2217,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.66,
-        "rain_level": 0.39,
+        "profile_id": 2,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.35,
+        "rain_level": 0.09,
         "weather_randomness": 5,
-        "summary_key": "wet"
+        "summary_key": "mixed"
       },
-      "rain_level": 0.39,
+      "rain_level": 0.09,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -2258,14 +2258,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.63,
-        "rain_level": 0.37,
-        "weather_randomness": 6,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.31,
+        "rain_level": 0.19,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.37,
+      "rain_level": 0.19,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -2299,14 +2299,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.18,
-        "rain_level": 0.11,
+        "profile_id": 1,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.06,
+        "rain_level": 0.02,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "clear"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.02,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -2341,13 +2341,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.05,
-        "rain_level": 0.02,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.14,
+        "rain_level": 0.05,
         "weather_randomness": 4,
         "summary_key": "clear"
       },
-      "rain_level": 0.02,
+      "rain_level": 0.05,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -2381,14 +2381,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.14,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 23,
+        "cloud_level": 0.4,
+        "rain_level": 0.19,
+        "weather_randomness": 7,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.19,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -2422,14 +2422,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.16,
-        "rain_level": 0.11,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.15,
+        "rain_level": 0.02,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.02,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -2464,13 +2464,13 @@
       "voting_disabled": false,
       "weather": {
         "profile_id": 3,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.49,
-        "rain_level": 0.25,
-        "weather_randomness": 4,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.48,
+        "rain_level": 0.28,
+        "weather_randomness": 5,
         "summary_key": "wet"
       },
-      "rain_level": 0.25,
+      "rain_level": 0.28,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -2504,14 +2504,14 @@
       "event_type": "hourly",
       "voting_disabled": false,
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.06,
-        "rain_level": 0.02,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 3,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.47,
+        "rain_level": 0.11,
+        "weather_randomness": 4,
+        "summary_key": "wet"
       },
-      "rain_level": 0.02,
+      "rain_level": 0.11,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -2532,5 +2532,5 @@
       "game_time_asset_id": "day_clear"
     }
   ],
-  "updated_at": "2026-07-16T23:00:26+03:00"
+  "updated_at": "2026-07-17T10:24:08+03:00"
 }
