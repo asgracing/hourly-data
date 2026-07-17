@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-07-17T10:36:32+03:00",
+  "updated_at": "2026-07-17T10:38:39+03:00",
   "last_result_q_files": [
     "260716_212418_Q.json"
   ],
@@ -19,10 +19,10 @@
   "planned_weather": {
     "hourly_2026-07-17_2100": {
       "ambient_temp_c": 24.0,
-      "cloud_level": 0.5,
-      "rain_level": 0.1,
-      "weather_randomness": 5,
-      "summary_key": "mixed"
+      "cloud_level": 0.4,
+      "rain_level": 0.2,
+      "weather_randomness": 6,
+      "summary_key": "wet"
     },
     "hourly_2026-07-18_2100": {
       "profile_id": 2,
