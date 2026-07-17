@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-07-17T10:24:08+03:00",
+  "updated_at": "2026-07-17T10:32:25+03:00",
   "last_result_q_files": [
     "260716_212418_Q.json"
   ],
@@ -82,7 +82,7 @@
       "summary_key": "wet"
     },
     "hourly_2026-07-25_2100": {
-      "ambient_temp_c": 21.0,
+      "ambient_temp_c": 26.0,
       "cloud_level": 0.45,
       "rain_level": 0.2,
       "weather_randomness": 6,
