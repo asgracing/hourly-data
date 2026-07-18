@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-18_2228_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-07-18T22:28:57+03:00",
+      "finished_at_local": "2026-07-18 22:28",
+      "participants_count": 37,
+      "scoring_participants_count": 34,
+      "points_multiplier": 5,
+      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+      "winner": "Alexey Larin",
+      "winner_public_id": "drv_29df2a6a2e6e",
+      "best_lap": "1:54.340",
+      "best_lap_driver": "Alexey Larin",
+      "best_lap_public_id": "drv_29df2a6a2e6e",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-18_2228_monza.json",
+      "results_repo_path": "260718_222857_R.json",
+      "weather": {
+        "profile_id": 2,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.37,
+        "rain_level": 0.13,
+        "weather_randomness": 7,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "profile_id": "day",
+        "code": "day",
+        "label": "Day",
+        "label_ru": "День",
+        "hour_of_day": 11,
+        "asset_id": "day_clear",
+        "asset": "day_clear",
+        "asset_label": "Clear Day",
+        "asset_label_ru": "Ясный день"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-17_2229_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -359,30 +399,7 @@
       "results_repo_path": "260706_222925_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-07-05_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-05T22:29:01+03:00",
-      "finished_at_local": "2026-07-05 22:29",
-      "participants_count": 40,
-      "scoring_participants_count": 35,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Sergey Saltaev",
-      "winner_public_id": "drv_208a87eea0b5",
-      "best_lap": "1:47.232",
-      "best_lap_driver": "Evgeny Mayorov | NRR",
-      "best_lap_public_id": "drv_32d20c93fe7d",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-05_2229_monza.json",
-      "results_repo_path": "260705_222901_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-07-18T09:55:40+03:00"
+  "updated_at": "2026-07-18T22:54:32+03:00"
 }
