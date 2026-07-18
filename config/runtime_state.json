@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-07-17T22:54:24+03:00",
+  "updated_at": "2026-07-18T09:45:52+03:00",
   "last_result_q_files": [
     "260717_212231_Q.json"
   ],
@@ -643,7 +643,7 @@
     "hourly_2026-07-24_2100": {
       "code": "evening",
       "label": "Evening",
-      "hour_of_day": 20,
+      "hour_of_day": 19,
       "asset_id": "evening_mixed",
       "asset": "evening_mixed"
     },

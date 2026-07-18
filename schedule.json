@@ -268,13 +268,13 @@
       "game_time": {
         "code": "evening",
         "label": "Evening",
-        "hour_of_day": 20,
+        "hour_of_day": 19,
         "asset_id": "evening_mixed",
         "asset": "evening_mixed"
       },
       "game_time_locked": true,
-      "hour_of_day": 20,
-      "game_time_hour": 20,
+      "hour_of_day": 19,
+      "game_time_hour": 19,
       "game_time_code": "evening",
       "game_time_label": "Evening",
       "game_time_label_ru": null,
@@ -2534,5 +2534,5 @@
       "game_time_asset_id": "day_bright"
     }
   ],
-  "updated_at": "2026-07-17T22:54:24+03:00"
+  "updated_at": "2026-07-18T09:45:52+03:00"
 }
