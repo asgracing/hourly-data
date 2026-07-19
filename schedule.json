@@ -10,9 +10,6 @@
       "event_type": "endurance",
       "race_format": "endurance",
       "competition_mode": "standalone",
-      "title": "None",
-      "championship_slug": "None",
-      "badge_label": "None",
       "game_time_code": "day",
       "game_time_label": "Day",
       "game_time_asset": "day_neutral",
@@ -63,7 +60,7 @@
       "launch_at_local": "2026-07-19 14:44",
       "launch_at": "2026-07-19T14:44+03:00",
       "server_window_end_at": "2026-07-19T18:04+03:00",
-      "occurrence_id": "endurance_2026-07-19_1500_none",
+      "occurrence_id": "endurance_2026-07-19_1500",
       "event_id": "hourly_2026-07-19_1500",
       "schedule_conflicts": [],
       "server": {
@@ -113,15 +110,12 @@
       "status": "scheduled",
       "event_type": "hourly",
       "voting_disabled": false,
-      "title": "None",
-      "badge_label": "None",
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
       "race_duration_minutes": 60,
       "server_window_minutes": 130,
       "launch_lead_minutes": 16,
-      "championship_slug": "None",
       "event_rules_overrides": {
         "mandatoryPitstopCount": 2
       },
@@ -5404,5 +5398,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-19T13:44:48+03:00"
+  "updated_at": "2026-07-19T13:50:29+03:00"
 }
