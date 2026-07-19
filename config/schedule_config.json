@@ -372,10 +372,27 @@
     {
       "date": "2026-07-22",
       "start_time_local": "21:00",
-      "track_code": "spa",
-      "track_name": "Spa",
+      "track_code": "monza",
+      "track_name": "Monza",
       "status": "scheduled",
-      "event_type": "hourly"
+      "event_type": "hourly",
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "race_duration_minutes": 60,
+      "server_window_minutes": 130,
+      "launch_lead_minutes": 16,
+      "points_multiplier": 5.0,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      }
     },
     {
       "date": "2026-07-23",

@@ -364,8 +364,8 @@
       "timezone": "UTC+3",
       "weekday": "wednesday",
       "month": "2026-07",
-      "track_code": "spa",
-      "track_name": "Spa",
+      "track_code": "monza",
+      "track_name": "Monza",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -373,10 +373,21 @@
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
-      "scoring_mode": "hourly_curve_multiplier",
-      "launch_lead_minutes": 16,
       "race_duration_minutes": 60,
       "server_window_minutes": 130,
+      "launch_lead_minutes": 16,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      },
+      "scoring_mode": "hourly_curve_multiplier",
       "launch_at_local": "2026-07-22 20:44",
       "launch_at": "2026-07-22T20:44+03:00",
       "server_window_end_at": "2026-07-22T22:54+03:00",
@@ -5398,5 +5409,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-19T13:50:29+03:00"
+  "updated_at": "2026-07-19T14:18:45+03:00"
 }
