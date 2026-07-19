@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-07-19T12:48:21+03:00",
+  "updated_at": "2026-07-19T13:05:43+03:00",
   "last_result_q_files": [
     "260718_212257_Q.json"
   ],
@@ -19,10 +19,10 @@
   "planned_weather": {
     "hourly_2026-07-19_2100": {
       "ambient_temp_c": 24.0,
-      "cloud_level": 0.41,
-      "rain_level": 0.31,
-      "weather_randomness": 6,
-      "summary_key": "wet"
+      "cloud_level": 0.2,
+      "rain_level": 0.05,
+      "weather_randomness": 2,
+      "summary_key": "clear"
     },
     "hourly_2026-07-20_2100": {
       "profile_id": 2,
@@ -552,14 +552,14 @@
       "summary_key": "mixed",
       "created_at": "2026-07-18T22:54:26+03:00"
     },
-    "hourly_2026-09-18_2100": {
+    "hourly_2026-07-19_1400": {
       "profile_id": 2,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.33,
-      "rain_level": 0.1,
+      "ambient_temp_c": 25,
+      "cloud_level": 0.44,
+      "rain_level": 0.14,
       "weather_randomness": 6,
       "summary_key": "mixed",
-      "created_at": "2026-07-18T22:54:26+03:00"
+      "created_at": "2026-07-19T13:05:43+03:00"
     }
   },
   "last_planned_weather": {
@@ -579,7 +579,7 @@
     "hourly_2026-07-19_2100": {
       "code": "day",
       "label": "Day",
-      "hour_of_day": 11,
+      "hour_of_day": 18,
       "asset_id": "day_clear",
       "asset": "day_clear"
     },
@@ -1273,17 +1273,17 @@
       "asset_label_ru": "Нейтральный день",
       "created_at": "2026-07-18T22:54:26+03:00"
     },
-    "hourly_2026-09-18_2100": {
+    "hourly_2026-07-19_1400": {
       "profile_id": "day",
       "code": "day",
       "label": "Day",
       "label_ru": "День",
       "hour_of_day": 13,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-07-18T22:54:26+03:00"
+      "asset_id": "day_neutral",
+      "asset": "day_neutral",
+      "asset_label": "Neutral Day",
+      "asset_label_ru": "Нейтральный день",
+      "created_at": "2026-07-19T13:05:43+03:00"
     }
   },
   "last_planned_game_time": {

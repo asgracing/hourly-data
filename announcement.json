@@ -1,17 +1,17 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-07-19_2100",
+  "event_id": "hourly_2026-07-19_1400",
   "date": "2026-07-19",
-  "start_time_local": "21:00",
+  "start_time_local": "14:00",
   "timezone": "UTC+3",
-  "track_code": "nurburgring",
-  "track_name": "Nurburgring",
+  "track_code": "monza",
+  "track_name": "Monza",
   "race_duration_minutes": 120,
   "server_window": "3.33333h",
   "server_window_minutes": 200,
-  "launch_at": "2026-07-19T20:44+03:00",
-  "session_label": "Evening Slot",
+  "launch_at": "2026-07-19T13:44+03:00",
+  "session_label": "Afternoon Slot",
   "details_url": "/hourly/",
   "event_type": "endurance",
   "race_format": "endurance",
@@ -19,8 +19,8 @@
   "points_multiplier": 10.0,
   "scoring_mode": "hourly_curve_multiplier",
   "voting_disabled": false,
-  "badge_label": null,
-  "championship_slug": "july-2026",
+  "badge_label": "None",
+  "championship_slug": "None",
   "championship_title": "ASG Racing July 2026",
   "championship": {
     "slug": "july-2026",
@@ -29,7 +29,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-07-19T12:48:21+03:00",
+  "updated_at": "2026-07-19T13:05:43+03:00",
   "server": {
     "name": "ASG Racing 1H Race",
     "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -57,7 +57,7 @@
     "refuelling_allowed_in_race": true,
     "refuelling_time_fixed": false,
     "mandatory_pitstop_refuelling_required": false,
-    "mandatory_pitstop_tyre_change_required": true,
+    "mandatory_pitstop_tyre_change_required": false,
     "mandatory_pitstop_swap_driver_required": false,
     "driver_stint_time_minutes": null,
     "max_total_driving_time_minutes": null,
@@ -65,18 +65,22 @@
     "tyre_set_count": 50
   },
   "weather": {
-    "profile_id": null,
-    "ambient_temp_c": 24.0,
-    "cloud_level": 0.41,
-    "rain_level": 0.31,
+    "profile_id": 2,
+    "ambient_temp_c": 25,
+    "cloud_level": 0.44,
+    "rain_level": 0.14,
     "weather_randomness": 6,
-    "summary_key": "wet"
+    "summary_key": "mixed"
   },
   "game_time": {
+    "profile_id": "day",
     "code": "day",
     "label": "Day",
-    "hour_of_day": 11,
-    "asset_id": "day_clear",
-    "asset": "day_clear"
+    "label_ru": "День",
+    "hour_of_day": 13,
+    "asset_id": "day_neutral",
+    "asset": "day_neutral",
+    "asset_label": "Neutral Day",
+    "asset_label_ru": "Нейтральный день"
   }
 }
