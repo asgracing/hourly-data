@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "results_verified",
   "last_error": null,
-  "updated_at": "2026-07-19T13:19:18+03:00",
+  "updated_at": "2026-07-19T13:44:48+03:00",
   "last_result_q_files": [
     "260718_212257_Q.json"
   ],
@@ -552,14 +552,12 @@
       "summary_key": "mixed",
       "created_at": "2026-07-18T22:54:26+03:00"
     },
-    "hourly_2026-07-19_1400": {
-      "profile_id": 2,
-      "ambient_temp_c": 25,
+    "hourly_2026-07-19_1500": {
+      "ambient_temp_c": 25.0,
       "cloud_level": 0.44,
       "rain_level": 0.14,
       "weather_randomness": 6,
-      "summary_key": "mixed",
-      "created_at": "2026-07-19T13:05:43+03:00"
+      "summary_key": "mixed"
     }
   },
   "last_planned_weather": {
@@ -1273,17 +1271,12 @@
       "asset_label_ru": "Нейтральный день",
       "created_at": "2026-07-18T22:54:26+03:00"
     },
-    "hourly_2026-07-19_1400": {
-      "profile_id": "day",
+    "hourly_2026-07-19_1500": {
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 13,
       "asset_id": "day_neutral",
-      "asset": "day_neutral",
-      "asset_label": "Neutral Day",
-      "asset_label_ru": "Нейтральный день",
-      "created_at": "2026-07-19T13:05:43+03:00"
+      "asset": "day_neutral"
     }
   },
   "last_planned_game_time": {

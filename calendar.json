@@ -2,9 +2,10 @@
   "items": [
     {
       "date": "2026-07-19",
-      "start_time_local": "14:00",
+      "start_time_local": "15:00",
       "track_code": "monza",
       "track_name": "Monza",
+      "slot_label": "Afternoon Slot",
       "status": "scheduled",
       "event_type": "endurance",
       "race_format": "endurance",
@@ -12,10 +13,18 @@
       "title": "None",
       "championship_slug": "None",
       "badge_label": "None",
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_asset": "day_neutral",
       "race_duration_minutes": 120,
       "server_window_minutes": 200,
       "launch_lead_minutes": 16,
       "points_multiplier": 10.0,
+      "hour_of_day": 13,
+      "ambient_temp_c": 25.0,
+      "cloud_level": 0.44,
+      "rain_level": 0.14,
+      "weather_randomness": 6,
       "event_rules_overrides": {
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false,
@@ -29,42 +38,34 @@
       "timezone": "UTC+3",
       "weekday": "sunday",
       "month": "2026-07",
-      "slot_label": "Afternoon Slot",
       "voting_disabled": false,
-      "scoring_mode": "hourly_curve_multiplier",
-      "launch_at_local": "2026-07-19 13:44",
-      "launch_at": "2026-07-19T13:44+03:00",
-      "server_window_end_at": "2026-07-19T17:04+03:00",
-      "occurrence_id": "endurance_2026-07-19_1400_none",
-      "event_id": "hourly_2026-07-19_1400",
-      "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 25,
+        "profile_id": null,
+        "ambient_temp_c": 25.0,
         "cloud_level": 0.44,
         "rain_level": 0.14,
         "weather_randomness": 6,
         "summary_key": "mixed"
       },
-      "rain_level": 0.14,
+      "weather_locked": true,
       "game_time": {
-        "profile_id": "day",
         "code": "day",
         "label": "Day",
-        "label_ru": "День",
         "hour_of_day": 13,
         "asset_id": "day_neutral",
-        "asset": "day_neutral",
-        "asset_label": "Neutral Day",
-        "asset_label_ru": "Нейтральный день"
+        "asset": "day_neutral"
       },
-      "hour_of_day": 13,
+      "game_time_locked": true,
       "game_time_hour": 13,
-      "game_time_code": "day",
-      "game_time_label": "Day",
-      "game_time_label_ru": "День",
-      "game_time_asset": "day_neutral",
+      "game_time_label_ru": null,
       "game_time_asset_id": "day_neutral",
+      "scoring_mode": "hourly_curve_multiplier",
+      "launch_at_local": "2026-07-19 14:44",
+      "launch_at": "2026-07-19T14:44+03:00",
+      "server_window_end_at": "2026-07-19T18:04+03:00",
+      "occurrence_id": "endurance_2026-07-19_1500_none",
+      "event_id": "hourly_2026-07-19_1500",
+      "schedule_conflicts": [],
       "server": {
         "name": "ASG Racing 1H Race",
         "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -5403,5 +5404,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-19T13:19:18+03:00"
+  "updated_at": "2026-07-19T13:44:48+03:00"
 }
