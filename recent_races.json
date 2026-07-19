@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-19_1724_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-07-19T17:24:00+03:00",
+      "finished_at_local": "2026-07-19 17:24",
+      "participants_count": 9,
+      "scoring_participants_count": 8,
+      "points_multiplier": 10.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Dima Buneev",
+      "winner_public_id": "drv_8a6edfc6d4a9",
+      "best_lap": "1:46.712",
+      "best_lap_driver": "Martin Genoverse | SLR",
+      "best_lap_public_id": "drv_7f0228d64103",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-19_1724_monza.json",
+      "results_repo_path": "260719_172400_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 25.0,
+        "cloud_level": 0.44,
+        "rain_level": 0.14,
+        "weather_randomness": 6,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 13,
+        "asset_id": "day_neutral",
+        "asset": "day_neutral"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-18_2228_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -376,30 +412,7 @@
       "results_repo_path": "260707_222817_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-07-06_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-06T22:29:25+03:00",
-      "finished_at_local": "2026-07-06 22:29",
-      "participants_count": 30,
-      "scoring_participants_count": 26,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "San Yves",
-      "winner_public_id": "drv_4bed40b8f5c7",
-      "best_lap": "1:47.187",
-      "best_lap_driver": "Andrei Soldatenkov [ASG]",
-      "best_lap_public_id": "drv_b466bb6eedd8",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-06_2229_monza.json",
-      "results_repo_path": "260706_222925_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-07-19T14:18:47+03:00"
+  "updated_at": "2026-07-19T18:04:09+03:00"
 }
