@@ -4,49 +4,7 @@
   "status": "active",
   "period": "2026-07",
   "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону.",
-  "upcoming_races": [
-    {
-      "event_id": "hourly_2026-07-25_2100",
-      "date": "2026-07-25",
-      "start_time_local": "21:00",
-      "timezone": "UTC+3",
-      "weekday": "saturday",
-      "month": "2026-07",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nordschleife",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "event_type": "championship",
-      "voting_disabled": true,
-      "title": "ASG Racing July 2026",
-      "championship_slug": "july-2026",
-      "details_url": "/hourly/championship/?slug=july-2026",
-      "weather": {
-        "ambient_temp_c": 26.0,
-        "cloud_level": 0.45,
-        "rain_level": 0.2,
-        "weather_randomness": 6,
-        "summary_key": "wet"
-      },
-      "weather_locked": true,
-      "rain_level": 0.2,
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 13,
-        "asset_id": "day_wet",
-        "asset": "day_wet"
-      },
-      "game_time_locked": true,
-      "hour_of_day": 13,
-      "game_time_hour": 13,
-      "game_time_code": "day",
-      "game_time_label": "Day",
-      "game_time_label_ru": null,
-      "game_time_asset": "day_wet",
-      "game_time_asset_id": "day_wet"
-    }
-  ],
+  "upcoming_races": [],
   "prizes": {
     "prize1": null,
     "prize2": null,
@@ -536,5 +494,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-18T22:54:32+03:00"
+  "updated_at": "2026-07-19T10:24:30+03:00"
 }

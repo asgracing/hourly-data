@@ -251,11 +251,10 @@
       "track_name": "Nordschleife",
       "slot_label": "Evening Slot",
       "status": "scheduled",
-      "event_type": "championship",
-      "voting_disabled": true,
+      "event_type": "hourly",
+      "voting_disabled": false,
       "title": "ASG Racing July 2026",
       "championship_slug": "july-2026",
-      "details_url": "/hourly/championship/?slug=july-2026",
       "weather": {
         "profile_id": null,
         "ambient_temp_c": 26.0,
@@ -2534,5 +2533,5 @@
       "game_time_asset_id": "day_clear"
     }
   ],
-  "updated_at": "2026-07-18T22:54:26+03:00"
+  "updated_at": "2026-07-19T10:24:24+03:00"
 }
