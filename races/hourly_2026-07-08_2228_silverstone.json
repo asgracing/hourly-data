@@ -16,6 +16,8 @@
   "scoring_participants_count": 16,
   "points_multiplier": 5,
   "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+  "race_format": "hourly",
+  "competition_mode": "standalone",
   "winner": "Alexey Larin",
   "winner_public_id": "drv_29df2a6a2e6e",
   "best_lap": "1:58.852",

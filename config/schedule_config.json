@@ -509,5 +509,9 @@
         "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
       }
     ]
+  },
+  "launch_lead_minutes": 16,
+  "server_windows_minutes": {
+    "endurance": 200
   }
 }

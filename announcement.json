@@ -7,10 +7,16 @@
   "timezone": "UTC+3",
   "track_code": "nurburgring",
   "track_name": "Nurburgring",
-  "server_window": "2h",
+  "server_window": "2.16667h",
+  "server_window_minutes": 130,
+  "launch_at": "2026-07-19T20:44+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
+  "race_format": "hourly",
+  "competition_mode": "standalone",
+  "points_multiplier": 5.0,
+  "scoring_mode": "hourly_curve_multiplier",
   "voting_disabled": false,
   "badge_label": null,
   "championship_slug": "july-2026",
@@ -22,7 +28,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-07-19T10:24:24+03:00",
+  "updated_at": "2026-07-19T10:32:20+03:00",
   "server": {
     "name": "ASG Racing 1H Race",
     "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -35,12 +41,14 @@
     "is_race_locked": false
   },
   "session": {
-    "format_label": "Q 20m + R 60m",
+    "format_label": "P 15m + Q 20m + R 60m",
+    "practice_duration_minutes": 15,
     "qualifying_duration_minutes": 20,
     "race_duration_minutes": 60,
     "pre_race_waiting_time_seconds": 120,
     "session_over_time_seconds": 600,
-    "time_multiplier": 3
+    "time_multiplier": 3,
+    "practice_time_multiplier": 3
   },
   "rules": {
     "mandatory_pitstop_count": 1,

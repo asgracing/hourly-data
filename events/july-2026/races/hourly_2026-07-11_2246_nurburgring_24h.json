@@ -16,6 +16,8 @@
   "scoring_participants_count": 23,
   "points_multiplier": 1,
   "points_rule": "scaled_top10_by_classified_plus_best_lap",
+  "race_format": "hourly",
+  "competition_mode": "standalone",
   "winner": "Aleksey Mihin",
   "winner_public_id": "drv_f46727fa9e5b",
   "best_lap": "8:09.165",

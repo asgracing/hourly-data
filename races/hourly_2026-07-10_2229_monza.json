@@ -16,6 +16,8 @@
   "scoring_participants_count": 29,
   "points_multiplier": 5,
   "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+  "race_format": "hourly",
+  "competition_mode": "standalone",
   "winner": "Sergey Saltaev",
   "winner_public_id": "drv_208a87eea0b5",
   "best_lap": "1:47.060",

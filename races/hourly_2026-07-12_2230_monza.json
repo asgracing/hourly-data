@@ -16,6 +16,8 @@
   "scoring_participants_count": 26,
   "points_multiplier": 5,
   "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
+  "race_format": "hourly",
+  "competition_mode": "standalone",
   "winner": "Pavel Novikov [ASG]",
   "winner_public_id": "drv_4d027503bb2a",
   "best_lap": "1:48.305",
