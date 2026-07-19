@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-19_2231_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-07-19T22:31:20+03:00",
+      "finished_at_local": "2026-07-19 22:31",
+      "participants_count": 18,
+      "scoring_participants_count": 17,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Alexey Larin",
+      "winner_public_id": "drv_29df2a6a2e6e",
+      "best_lap": "1:46.165",
+      "best_lap_driver": "Alexey Larin",
+      "best_lap_public_id": "drv_29df2a6a2e6e",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-19_2231_monza.json",
+      "results_repo_path": "260719_223120_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 24.0,
+        "cloud_level": 0.2,
+        "rain_level": 0.05,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 18,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-19_1724_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -389,30 +425,7 @@
       "results_repo_path": "260708_222851_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-07-07_2228_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-07T22:28:17+03:00",
-      "finished_at_local": "2026-07-07 22:28",
-      "participants_count": 29,
-      "scoring_participants_count": 27,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "San Yves",
-      "winner_public_id": "drv_4bed40b8f5c7",
-      "best_lap": "1:47.767",
-      "best_lap_driver": "Sergey Saltaev",
-      "best_lap_public_id": "drv_208a87eea0b5",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-07_2228_monza.json",
-      "results_repo_path": "260707_222817_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-07-19T18:13:12+03:00"
+  "updated_at": "2026-07-19T22:54:10+03:00"
 }
