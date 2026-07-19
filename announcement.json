@@ -7,15 +7,16 @@
   "timezone": "UTC+3",
   "track_code": "nurburgring",
   "track_name": "Nurburgring",
-  "server_window": "2.16667h",
-  "server_window_minutes": 130,
+  "race_duration_minutes": 120,
+  "server_window": "3.33333h",
+  "server_window_minutes": 200,
   "launch_at": "2026-07-19T20:44+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
-  "event_type": "hourly",
-  "race_format": "hourly",
+  "event_type": "endurance",
+  "race_format": "endurance",
   "competition_mode": "standalone",
-  "points_multiplier": 5.0,
+  "points_multiplier": 10.0,
   "scoring_mode": "hourly_curve_multiplier",
   "voting_disabled": false,
   "badge_label": null,
@@ -28,7 +29,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-07-19T10:42:02+03:00",
+  "updated_at": "2026-07-19T11:02:13+03:00",
   "server": {
     "name": "ASG Racing 1H Race",
     "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -62,22 +63,18 @@
     "tyre_set_count": 50
   },
   "weather": {
-    "profile_id": 3,
-    "ambient_temp_c": 24,
+    "profile_id": null,
+    "ambient_temp_c": 24.0,
     "cloud_level": 0.41,
     "rain_level": 0.31,
     "weather_randomness": 6,
     "summary_key": "wet"
   },
   "game_time": {
-    "profile_id": "day",
     "code": "day",
     "label": "Day",
-    "label_ru": "День",
     "hour_of_day": 11,
     "asset_id": "day_clear",
-    "asset": "day_clear",
-    "asset_label": "Clear Day",
-    "asset_label_ru": "Ясный день"
+    "asset": "day_clear"
   }
 }
