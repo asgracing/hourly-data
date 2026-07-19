@@ -18,6 +18,16 @@
       "race_duration_minutes": 120,
       "server_window_minutes": 200,
       "launch_lead_minutes": 16,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 2,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": false,
+        "isMandatoryPitstopRefuellingRequired": false,
+        "isMandatoryPitstopTyreChangeRequired": true,
+        "pitWindowLengthSec": -1,
+        "maxDriversCount": 1,
+        "isMandatoryPitstopSwapDriverRequired": false
+      },
       "weather": {
         "profile_id": null,
         "ambient_temp_c": 24.0,
@@ -49,7 +59,41 @@
       "server_window_end_at": "2026-07-20T00:04+03:00",
       "occurrence_id": "endurance_2026-07-19_2100",
       "event_id": "hourly_2026-07-19_2100",
-      "schedule_conflicts": []
+      "schedule_conflicts": [],
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 120m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 120,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 2,
+        "pit_window_length_minutes": null,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": false,
+        "mandatory_pitstop_refuelling_required": false,
+        "mandatory_pitstop_tyre_change_required": true,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-20",
@@ -102,7 +146,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_warm",
-      "game_time_asset_id": "evening_warm"
+      "game_time_asset_id": "evening_warm",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-21",
@@ -153,7 +231,41 @@
       "server_window_end_at": "2026-07-21T22:54+03:00",
       "occurrence_id": "hourly_2026-07-21_2100",
       "event_id": "hourly_2026-07-21_2100",
-      "schedule_conflicts": []
+      "schedule_conflicts": [],
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-22",
@@ -206,7 +318,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_bright",
-      "game_time_asset_id": "day_bright"
+      "game_time_asset_id": "day_bright",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-23",
@@ -257,7 +403,41 @@
       "server_window_end_at": "2026-07-23T22:54+03:00",
       "occurrence_id": "hourly_2026-07-23_2100",
       "event_id": "hourly_2026-07-23_2100",
-      "schedule_conflicts": []
+      "schedule_conflicts": [],
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-24",
@@ -308,7 +488,41 @@
       "server_window_end_at": "2026-07-24T22:54+03:00",
       "occurrence_id": "hourly_2026-07-24_2100",
       "event_id": "hourly_2026-07-24_2100",
-      "schedule_conflicts": []
+      "schedule_conflicts": [],
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-25",
@@ -362,7 +576,41 @@
       "server_window_end_at": "2026-07-25T22:54+03:00",
       "occurrence_id": "championship_2026-07-25_2100_july-2026",
       "event_id": "hourly_2026-07-25_2100",
-      "schedule_conflicts": []
+      "schedule_conflicts": [],
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-26",
@@ -415,7 +663,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_neutral",
-      "game_time_asset_id": "day_neutral"
+      "game_time_asset_id": "day_neutral",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-27",
@@ -468,7 +750,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_clear",
-      "game_time_asset_id": "day_clear"
+      "game_time_asset_id": "day_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-28",
@@ -519,7 +835,41 @@
       "server_window_end_at": "2026-07-28T22:54+03:00",
       "occurrence_id": "hourly_2026-07-28_2100",
       "event_id": "hourly_2026-07-28_2100",
-      "schedule_conflicts": []
+      "schedule_conflicts": [],
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-29",
@@ -572,7 +922,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_bright",
-      "game_time_asset_id": "day_bright"
+      "game_time_asset_id": "day_bright",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-30",
@@ -623,7 +1007,41 @@
       "server_window_end_at": "2026-07-30T22:54+03:00",
       "occurrence_id": "hourly_2026-07-30_2100",
       "event_id": "hourly_2026-07-30_2100",
-      "schedule_conflicts": []
+      "schedule_conflicts": [],
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-07-31",
@@ -676,7 +1094,41 @@
       "game_time_label": "Morning",
       "game_time_label_ru": "Утро",
       "game_time_asset": "morning_haze",
-      "game_time_asset_id": "morning_haze"
+      "game_time_asset_id": "morning_haze",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-01",
@@ -729,7 +1181,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows"
+      "game_time_asset_id": "evening_long_shadows",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-02",
@@ -782,7 +1268,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows"
+      "game_time_asset_id": "evening_long_shadows",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-03",
@@ -835,7 +1355,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_neutral",
-      "game_time_asset_id": "day_neutral"
+      "game_time_asset_id": "day_neutral",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-04",
@@ -888,7 +1442,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_bright",
-      "game_time_asset_id": "day_bright"
+      "game_time_asset_id": "day_bright",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-05",
@@ -941,7 +1529,41 @@
       "game_time_label": "Night",
       "game_time_label_ru": "Ночь",
       "game_time_asset": "night_cool",
-      "game_time_asset_id": "night_cool"
+      "game_time_asset_id": "night_cool",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-06",
@@ -994,7 +1616,41 @@
       "game_time_label": "Morning",
       "game_time_label_ru": "Утро",
       "game_time_asset": "morning_soft",
-      "game_time_asset_id": "morning_soft"
+      "game_time_asset_id": "morning_soft",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-07",
@@ -1047,7 +1703,41 @@
       "game_time_label": "Night",
       "game_time_label_ru": "Ночь",
       "game_time_asset": "night_clear",
-      "game_time_asset_id": "night_clear"
+      "game_time_asset_id": "night_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-08",
@@ -1100,7 +1790,41 @@
       "game_time_label": "Morning",
       "game_time_label_ru": "Утро",
       "game_time_asset": "morning_haze",
-      "game_time_asset_id": "morning_haze"
+      "game_time_asset_id": "morning_haze",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-09",
@@ -1153,7 +1877,41 @@
       "game_time_label": "Morning",
       "game_time_label_ru": "Утро",
       "game_time_asset": "morning_clear",
-      "game_time_asset_id": "morning_clear"
+      "game_time_asset_id": "morning_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-10",
@@ -1206,7 +1964,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows"
+      "game_time_asset_id": "evening_long_shadows",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-11",
@@ -1259,7 +2051,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_clear",
-      "game_time_asset_id": "day_clear"
+      "game_time_asset_id": "day_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-12",
@@ -1312,7 +2138,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_bright",
-      "game_time_asset_id": "day_bright"
+      "game_time_asset_id": "day_bright",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-13",
@@ -1365,7 +2225,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_neutral",
-      "game_time_asset_id": "day_neutral"
+      "game_time_asset_id": "day_neutral",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-14",
@@ -1418,7 +2312,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_gold",
-      "game_time_asset_id": "evening_gold"
+      "game_time_asset_id": "evening_gold",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-15",
@@ -1471,7 +2399,41 @@
       "game_time_label": "Night",
       "game_time_label_ru": "Ночь",
       "game_time_asset": "night_deep",
-      "game_time_asset_id": "night_deep"
+      "game_time_asset_id": "night_deep",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-16",
@@ -1524,7 +2486,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows"
+      "game_time_asset_id": "evening_long_shadows",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-17",
@@ -1577,7 +2573,41 @@
       "game_time_label": "Morning",
       "game_time_label_ru": "Утро",
       "game_time_asset": "morning_clear",
-      "game_time_asset_id": "morning_clear"
+      "game_time_asset_id": "morning_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-18",
@@ -1630,7 +2660,41 @@
       "game_time_label": "Night",
       "game_time_label_ru": "Ночь",
       "game_time_asset": "night_clear",
-      "game_time_asset_id": "night_clear"
+      "game_time_asset_id": "night_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-19",
@@ -1683,7 +2747,41 @@
       "game_time_label": "Night",
       "game_time_label_ru": "Ночь",
       "game_time_asset": "night_cool",
-      "game_time_asset_id": "night_cool"
+      "game_time_asset_id": "night_cool",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-20",
@@ -1736,7 +2834,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_gold",
-      "game_time_asset_id": "evening_gold"
+      "game_time_asset_id": "evening_gold",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-21",
@@ -1789,7 +2921,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows"
+      "game_time_asset_id": "evening_long_shadows",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-22",
@@ -1842,7 +3008,41 @@
       "game_time_label": "Night",
       "game_time_label_ru": "Ночь",
       "game_time_asset": "night_cool",
-      "game_time_asset_id": "night_cool"
+      "game_time_asset_id": "night_cool",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-23",
@@ -1895,7 +3095,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_gold",
-      "game_time_asset_id": "evening_gold"
+      "game_time_asset_id": "evening_gold",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-24",
@@ -1948,7 +3182,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_warm",
-      "game_time_asset_id": "evening_warm"
+      "game_time_asset_id": "evening_warm",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-25",
@@ -2001,7 +3269,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_bright",
-      "game_time_asset_id": "day_bright"
+      "game_time_asset_id": "day_bright",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-26",
@@ -2054,7 +3356,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows"
+      "game_time_asset_id": "evening_long_shadows",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-27",
@@ -2107,7 +3443,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows"
+      "game_time_asset_id": "evening_long_shadows",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-28",
@@ -2160,7 +3530,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_warm",
-      "game_time_asset_id": "evening_warm"
+      "game_time_asset_id": "evening_warm",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-29",
@@ -2213,7 +3617,41 @@
       "game_time_label": "Morning",
       "game_time_label_ru": "Утро",
       "game_time_asset": "morning_soft",
-      "game_time_asset_id": "morning_soft"
+      "game_time_asset_id": "morning_soft",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-30",
@@ -2266,7 +3704,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows"
+      "game_time_asset_id": "evening_long_shadows",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-08-31",
@@ -2319,7 +3791,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_gold",
-      "game_time_asset_id": "evening_gold"
+      "game_time_asset_id": "evening_gold",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-01",
@@ -2372,7 +3878,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_clear",
-      "game_time_asset_id": "day_clear"
+      "game_time_asset_id": "day_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-02",
@@ -2425,7 +3965,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_clear",
-      "game_time_asset_id": "day_clear"
+      "game_time_asset_id": "day_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-03",
@@ -2478,7 +4052,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_gold",
-      "game_time_asset_id": "evening_gold"
+      "game_time_asset_id": "evening_gold",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-04",
@@ -2531,7 +4139,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_bright",
-      "game_time_asset_id": "day_bright"
+      "game_time_asset_id": "day_bright",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-05",
@@ -2584,7 +4226,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_warm",
-      "game_time_asset_id": "evening_warm"
+      "game_time_asset_id": "evening_warm",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-06",
@@ -2637,7 +4313,41 @@
       "game_time_label": "Morning",
       "game_time_label_ru": "Утро",
       "game_time_asset": "morning_soft",
-      "game_time_asset_id": "morning_soft"
+      "game_time_asset_id": "morning_soft",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-07",
@@ -2690,7 +4400,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_gold",
-      "game_time_asset_id": "evening_gold"
+      "game_time_asset_id": "evening_gold",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-08",
@@ -2743,7 +4487,41 @@
       "game_time_label": "Night",
       "game_time_label_ru": "Ночь",
       "game_time_asset": "night_clear",
-      "game_time_asset_id": "night_clear"
+      "game_time_asset_id": "night_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-09",
@@ -2796,7 +4574,41 @@
       "game_time_label": "Morning",
       "game_time_label_ru": "Утро",
       "game_time_asset": "morning_haze",
-      "game_time_asset_id": "morning_haze"
+      "game_time_asset_id": "morning_haze",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-10",
@@ -2849,7 +4661,41 @@
       "game_time_label": "Morning",
       "game_time_label_ru": "Утро",
       "game_time_asset": "morning_clear",
-      "game_time_asset_id": "morning_clear"
+      "game_time_asset_id": "morning_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-11",
@@ -2902,7 +4748,41 @@
       "game_time_label": "Night",
       "game_time_label_ru": "Ночь",
       "game_time_asset": "night_cool",
-      "game_time_asset_id": "night_cool"
+      "game_time_asset_id": "night_cool",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-12",
@@ -2955,7 +4835,41 @@
       "game_time_label": "Night",
       "game_time_label_ru": "Ночь",
       "game_time_asset": "night_deep",
-      "game_time_asset_id": "night_deep"
+      "game_time_asset_id": "night_deep",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-13",
@@ -3008,7 +4922,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_clear",
-      "game_time_asset_id": "day_clear"
+      "game_time_asset_id": "day_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-14",
@@ -3061,7 +5009,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_bright",
-      "game_time_asset_id": "day_bright"
+      "game_time_asset_id": "day_bright",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-15",
@@ -3114,7 +5096,41 @@
       "game_time_label": "Evening",
       "game_time_label_ru": "Вечер",
       "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows"
+      "game_time_asset_id": "evening_long_shadows",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-16",
@@ -3167,7 +5183,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_neutral",
-      "game_time_asset_id": "day_neutral"
+      "game_time_asset_id": "day_neutral",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-17",
@@ -3220,7 +5270,41 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_neutral",
-      "game_time_asset_id": "day_neutral"
+      "game_time_asset_id": "day_neutral",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     },
     {
       "date": "2026-09-18",
@@ -3273,8 +5357,42 @@
       "game_time_label": "Day",
       "game_time_label_ru": "День",
       "game_time_asset": "day_clear",
-      "game_time_asset_id": "day_clear"
+      "game_time_asset_id": "day_clear",
+      "server": {
+        "name": "ASG Racing 1H Race",
+        "full_name": "ASG Racing 1H Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+        "password": "ghbdtn",
+        "car_group": "GT3",
+        "max_car_slots": 85,
+        "safety_rating_requirement": 40,
+        "track_medals_requirement": false,
+        "racecraft_rating_requirement": -1,
+        "is_race_locked": false
+      },
+      "session": {
+        "format_label": "P 15m + Q 20m + R 60m",
+        "practice_duration_minutes": 15,
+        "qualifying_duration_minutes": 20,
+        "race_duration_minutes": 60,
+        "pre_race_waiting_time_seconds": 120,
+        "session_over_time_seconds": 600,
+        "time_multiplier": 3,
+        "practice_time_multiplier": 3
+      },
+      "rules": {
+        "mandatory_pitstop_count": 1,
+        "pit_window_length_minutes": 20,
+        "refuelling_allowed_in_race": true,
+        "refuelling_time_fixed": true,
+        "mandatory_pitstop_refuelling_required": true,
+        "mandatory_pitstop_tyre_change_required": false,
+        "mandatory_pitstop_swap_driver_required": false,
+        "driver_stint_time_minutes": null,
+        "max_total_driving_time_minutes": null,
+        "max_drivers_count": 1,
+        "tyre_set_count": 50
+      }
     }
   ],
-  "updated_at": "2026-07-19T11:03:13+03:00"
+  "updated_at": "2026-07-19T12:48:21+03:00"
 }

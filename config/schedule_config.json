@@ -314,7 +314,17 @@
       "ambient_temp_c": 24.0,
       "cloud_level": 0.41,
       "rain_level": 0.31,
-      "weather_randomness": 6
+      "weather_randomness": 6,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 2,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": false,
+        "isMandatoryPitstopRefuellingRequired": false,
+        "isMandatoryPitstopTyreChangeRequired": true,
+        "pitWindowLengthSec": -1,
+        "maxDriversCount": 1,
+        "isMandatoryPitstopSwapDriverRequired": false
+      }
     },
     {
       "date": "2026-07-21",
