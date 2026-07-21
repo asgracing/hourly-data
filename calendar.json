@@ -274,16 +274,33 @@
       "timezone": "UTC+3",
       "weekday": "friday",
       "month": "2026-07",
-      "track_code": "spa",
-      "track_name": "Spa",
+      "track_code": "mount_panorama",
+      "track_name": "Mount Panorama",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
       "voting_disabled": false,
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "points_multiplier": 5.0,
+      "race_duration_minutes": 60,
+      "server_window_minutes": 130,
+      "launch_lead_minutes": 16,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 24.0,
-        "cloud_level": 0.5,
+        "ambient_temp_c": 26.0,
+        "cloud_level": 0.3,
         "rain_level": 0.2,
         "weather_randomness": 6,
         "summary_key": "wet"
@@ -293,25 +310,19 @@
       "game_time": {
         "code": "evening",
         "label": "Evening",
-        "hour_of_day": 19,
+        "hour_of_day": 18,
         "asset_id": "evening_mixed",
         "asset": "evening_mixed"
       },
       "game_time_locked": true,
-      "hour_of_day": 19,
-      "game_time_hour": 19,
+      "hour_of_day": 18,
+      "game_time_hour": 18,
       "game_time_code": "evening",
       "game_time_label": "Evening",
       "game_time_label_ru": null,
       "game_time_asset": "evening_mixed",
       "game_time_asset_id": "evening_mixed",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "points_multiplier": 5.0,
       "scoring_mode": "hourly_curve_multiplier",
-      "launch_lead_minutes": 16,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 130,
       "launch_at_local": "2026-07-24 20:44",
       "launch_at": "2026-07-24T20:44+03:00",
       "server_window_end_at": "2026-07-24T22:54+03:00",
@@ -5397,5 +5408,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-21T19:21:38+03:00"
+  "updated_at": "2026-07-21T19:25:59+03:00"
 }
