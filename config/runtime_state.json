@@ -1,14 +1,14 @@
 {
-  "active_event_id": "hourly_2026-07-20_2100",
+  "active_event_id": null,
   "last_planned_start_local": "2026-07-20T21:00:00+03:00",
   "last_actual_start_local": "2026-07-20T20:44:02+03:00",
   "last_actual_stop_local": "2026-07-20T22:54:02+03:00",
   "last_track_code": "monza",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
-  "last_status": "publishing",
+  "last_status": "completed",
   "last_error": null,
-  "updated_at": "2026-07-20T22:54:04+03:00",
+  "updated_at": "2026-07-21T19:19:11+03:00",
   "last_result_q_files": [
     "260720_212305_Q.json"
   ],
@@ -17,15 +17,6 @@
   ],
   "last_result_check_at": "2026-07-20T22:54:04+03:00",
   "planned_weather": {
-    "hourly_2026-07-20_2100": {
-      "profile_id": 2,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.21,
-      "rain_level": 0.15,
-      "weather_randomness": 6,
-      "summary_key": "mixed",
-      "created_at": "2026-07-17T22:54:24+03:00"
-    },
     "hourly_2026-07-21_2100": {
       "ambient_temp_c": 20.0,
       "cloud_level": 0.4,
@@ -34,13 +25,11 @@
       "summary_key": "mixed"
     },
     "hourly_2026-07-22_2100": {
-      "profile_id": 1,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.11,
-      "rain_level": 0.02,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-07-19T22:54:04+03:00"
+      "ambient_temp_c": 29.0,
+      "cloud_level": 0.35,
+      "rain_level": 0.1,
+      "weather_randomness": 5,
+      "summary_key": "mixed"
     },
     "hourly_2026-07-23_2100": {
       "ambient_temp_c": 20.0,
@@ -587,18 +576,6 @@
   "stop_reason": "duration_elapsed",
   "last_championship_result_files": [],
   "planned_game_time": {
-    "hourly_2026-07-20_2100": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 16,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-07-17T22:54:24+03:00"
-    },
     "hourly_2026-07-21_2100": {
       "code": "morning",
       "label": "Morning",
@@ -607,16 +584,11 @@
       "asset": "morning_soft"
     },
     "hourly_2026-07-22_2100": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 12,
-      "asset_id": "day_bright",
-      "asset": "day_bright",
-      "asset_label": "Bright Day",
-      "asset_label_ru": "Яркий день",
-      "created_at": "2026-07-19T22:54:04+03:00"
+      "code": "evening",
+      "label": "Evening",
+      "hour_of_day": 17,
+      "asset_id": "evening_long_shadows",
+      "asset": "evening_long_shadows"
     },
     "hourly_2026-07-23_2100": {
       "code": "evening",
@@ -3200,46 +3172,7 @@
       "updated_at": "2026-07-10T22:54:25+03:00"
     }
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-07-20_2100",
-    "occurrence_id": "hourly_2026-07-20_2100",
-    "slot": {
-      "event_id": "hourly_2026-07-20_2100",
-      "occurrence_id": "hourly_2026-07-20_2100",
-      "date": "2026-07-20",
-      "start_time_local": "21:00",
-      "launch_at": "2026-07-20T20:44+03:00",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "event_type": "hourly",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 130
-    },
-    "weather": {
-      "profile_id": 2,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.21,
-      "rain_level": 0.15,
-      "weather_randomness": 6,
-      "summary_key": "mixed"
-    },
-    "updated_at": "2026-07-20T20:44:02+03:00",
-    "game_time": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 16,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-07-20_2100",
     "occurrence_id": "hourly_2026-07-20_2100",
@@ -3280,7 +3213,7 @@
       "asset_label_ru": "Тёплый закат"
     }
   },
-  "orchestrator_pid": 10960,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-07-20T20:44:01+03:00",
   "run_duration_seconds": 7800,
   "expected_stop_at": null,
@@ -3294,6 +3227,6 @@
       "reason": "duration_elapsed"
     }
   },
-  "last_completed_event_id": "hourly_2026-07-19_2100",
-  "last_completion_at": "2026-07-19T22:54:13+03:00"
+  "last_completed_event_id": "hourly_2026-07-20_2100",
+  "last_completion_at": "2026-07-20T22:54:13+03:00"
 }
