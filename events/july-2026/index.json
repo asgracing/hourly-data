@@ -6,10 +6,10 @@
   "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону.",
   "upcoming_races": [
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "start_time_local": "21:00",
       "timezone": "UTC+3",
-      "weekday": "saturday",
+      "weekday": "sunday",
       "month": "2026-07",
       "track_code": "nurburgring_24h",
       "track_name": "Nordschleife",
@@ -21,13 +21,25 @@
       "race_format": "hourly",
       "competition_mode": "championship",
       "points_multiplier": 1.0,
+      "race_duration_minutes": 60,
       "server_window_minutes": 130,
       "launch_lead_minutes": 16,
       "championship_slug": "july-2026",
       "details_url": "/hourly/championship/?slug=july-2026",
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      },
       "weather": {
         "ambient_temp_c": 26.0,
-        "cloud_level": 0.45,
+        "cloud_level": 0.55,
         "rain_level": 0.2,
         "weather_randomness": 6,
         "summary_key": "wet"
@@ -37,25 +49,24 @@
       "game_time": {
         "code": "day",
         "label": "Day",
-        "hour_of_day": 13,
-        "asset_id": "day_wet",
-        "asset": "day_wet"
+        "hour_of_day": 14,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
       },
       "game_time_locked": true,
-      "hour_of_day": 13,
-      "game_time_hour": 13,
+      "hour_of_day": 14,
+      "game_time_hour": 14,
       "game_time_code": "day",
       "game_time_label": "Day",
       "game_time_label_ru": null,
-      "game_time_asset": "day_wet",
-      "game_time_asset_id": "day_wet",
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright",
       "scoring_mode": "championship_standard",
-      "race_duration_minutes": 60,
-      "launch_at_local": "2026-07-25 20:44",
-      "launch_at": "2026-07-25T20:44+03:00",
-      "server_window_end_at": "2026-07-25T22:54+03:00",
-      "occurrence_id": "championship_2026-07-25_2100_july-2026",
-      "event_id": "championship_2026-07-25_2100_july-2026",
+      "launch_at_local": "2026-07-26 20:44",
+      "launch_at": "2026-07-26T20:44+03:00",
+      "server_window_end_at": "2026-07-26T22:54+03:00",
+      "occurrence_id": "championship_2026-07-26_2100_july-2026",
+      "event_id": "championship_2026-07-26_2100_july-2026",
       "schedule_conflicts": []
     }
   ],
@@ -548,5 +559,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-21T22:54:10+03:00"
+  "updated_at": "2026-07-22T23:38:11+03:00"
 }

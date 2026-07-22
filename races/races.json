@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-22_2327_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-07-22T23:27:42+03:00",
+      "finished_at_local": "2026-07-22 23:27",
+      "participants_count": 36,
+      "scoring_participants_count": 30,
+      "points_multiplier": 10.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "William Blazkowicz [ASG]",
+      "winner_public_id": "drv_697cf8978bd7",
+      "best_lap": "1:47.372",
+      "best_lap_driver": "Vahe Gabrielyan",
+      "best_lap_public_id": "drv_ead3d6e9f3b0",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-22_2327_monza.json",
+      "results_repo_path": "260722_232742_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 29.0,
+        "cloud_level": 0.35,
+        "rain_level": 0.1,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 17,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-21_2228_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -417,45 +453,7 @@
         "asset_id": "day_bright",
         "asset": "day_bright"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-10_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-10T22:29:29+03:00",
-      "finished_at_local": "2026-07-10 22:29",
-      "participants_count": 33,
-      "scoring_participants_count": 29,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Sergey Saltaev",
-      "winner_public_id": "drv_208a87eea0b5",
-      "best_lap": "1:47.060",
-      "best_lap_driver": "Ilya Kosmach",
-      "best_lap_public_id": "drv_c98693ccbce8",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-10_2229_monza.json",
-      "results_repo_path": "260710_222929_R.json",
-      "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.12,
-        "rain_level": 0.03,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "profile_id": "night",
-        "code": "night",
-        "label": "Night",
-        "label_ru": "Ночь",
-        "hour_of_day": 0,
-        "asset_id": "night_cool",
-        "asset": "night_cool"
-      }
     }
   ],
-  "updated_at": "2026-07-21T22:54:10+03:00"
+  "updated_at": "2026-07-22T23:38:11+03:00"
 }
