@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-07-24_2100",
-  "date": "2026-07-24",
+  "event_id": "hourly_2026-07-25_2100",
+  "date": "2026-07-25",
   "start_time_local": "21:00",
   "timezone": "UTC+3",
-  "track_code": "spa",
-  "track_name": "Spa",
+  "track_code": "monza",
+  "track_name": "Monza",
   "race_duration_minutes": 60,
   "server_window": "2.16667h",
   "server_window_minutes": 130,
-  "launch_at": "2026-07-24T20:44+03:00",
+  "launch_at": "2026-07-25T20:44+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,7 +29,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-07-23T22:54:04+03:00",
+  "updated_at": "2026-07-24T22:54:04+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -73,10 +73,10 @@
     "summary_key": "wet"
   },
   "game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 18,
-    "asset_id": "evening_mixed",
-    "asset": "evening_mixed"
+    "code": "day",
+    "label": "Day",
+    "hour_of_day": 13,
+    "asset_id": "day_wet",
+    "asset": "day_wet"
   }
 }

@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-24_2228_spa",
+      "title": "Hourly Race",
+      "track": "spa",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "finished_at": "2026-07-24T22:28:35+03:00",
+      "finished_at_local": "2026-07-24 22:28",
+      "participants_count": 64,
+      "scoring_participants_count": 52,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "William Blazkowicz [ASG]",
+      "winner_public_id": "drv_697cf8978bd7",
+      "best_lap": "2:29.450",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-24_2228_spa.json",
+      "results_repo_path": "260724_222835_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 26.0,
+        "cloud_level": 0.45,
+        "rain_level": 0.2,
+        "weather_randomness": 6,
+        "summary_key": "wet"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 18,
+        "asset_id": "evening_mixed",
+        "asset": "evening_mixed"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-23_2232_mount_panorama",
       "title": "Hourly Race",
       "track": "mount_panorama",
@@ -411,47 +447,7 @@
         "asset_id": "morning_haze",
         "asset": "morning_haze"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-13_2239_spa",
-      "title": "Hourly Race",
-      "track": "spa",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "finished_at": "2026-07-13T22:39:59+03:00",
-      "finished_at_local": "2026-07-13 22:39",
-      "participants_count": 30,
-      "scoring_participants_count": 26,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Vahe Gabrielyan",
-      "winner_public_id": "drv_ead3d6e9f3b0",
-      "best_lap": "2:16.857",
-      "best_lap_driver": "Vahe Gabrielyan",
-      "best_lap_public_id": "drv_ead3d6e9f3b0",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-13_2239_spa.json",
-      "results_repo_path": "260713_223959_R.json",
-      "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.13,
-        "rain_level": 0.28,
-        "weather_randomness": 6,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "profile_id": "evening",
-        "code": "evening",
-        "label": "Evening",
-        "label_ru": "Вечер",
-        "hour_of_day": 19,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold",
-        "asset_label": "Golden Hour",
-        "asset_label_ru": "Золотой час"
-      }
     }
   ],
-  "updated_at": "2026-07-23T22:54:10+03:00"
+  "updated_at": "2026-07-24T22:54:10+03:00"
 }
