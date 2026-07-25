@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-25_2231_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-07-25T22:31:57+03:00",
+      "finished_at_local": "2026-07-25 22:31",
+      "participants_count": 36,
+      "scoring_participants_count": 32,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Aleksey Mihin",
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "1:48.257",
+      "best_lap_driver": "Aleksey Mihin",
+      "best_lap_public_id": "drv_f46727fa9e5b",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-25_2231_monza.json",
+      "results_repo_path": "260725_223157_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 26.0,
+        "cloud_level": 0.3,
+        "rain_level": 0.05,
+        "weather_randomness": 6,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 13,
+        "asset_id": "day_wet",
+        "asset": "day_wet"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-24_2228_spa",
       "title": "Hourly Race",
       "track": "spa",
@@ -411,43 +447,7 @@
         "asset_label": "Bright Day",
         "asset_label_ru": "Яркий день"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-14_2228_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-14T22:28:22+03:00",
-      "finished_at_local": "2026-07-14 22:28",
-      "participants_count": 30,
-      "scoring_participants_count": 30,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "San Yves",
-      "winner_public_id": "drv_4bed40b8f5c7",
-      "best_lap": "1:46.805",
-      "best_lap_driver": "Sergey Saltaev",
-      "best_lap_public_id": "drv_208a87eea0b5",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-14_2228_monza.json",
-      "results_repo_path": "260714_222822_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28.0,
-        "cloud_level": 0.2,
-        "rain_level": 0.04,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 7,
-        "asset_id": "morning_haze",
-        "asset": "morning_haze"
-      }
     }
   ],
-  "updated_at": "2026-07-25T18:36:45+03:00"
+  "updated_at": "2026-07-25T22:54:06+03:00"
 }
