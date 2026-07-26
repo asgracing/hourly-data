@@ -1,14 +1,14 @@
 {
-  "active_event_id": "hourly_2026-07-26_2100",
+  "active_event_id": null,
   "last_planned_start_local": "2026-07-26T21:00:00+03:00",
   "last_actual_start_local": "2026-07-26T20:44:01+03:00",
   "last_actual_stop_local": "2026-07-26T22:54:01+03:00",
   "last_track_code": "nurburgring_24h",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
-  "last_status": "publishing",
+  "last_status": "completed",
   "last_error": null,
-  "updated_at": "2026-07-26T22:54:03+03:00",
+  "updated_at": "2026-07-26T23:09:26+03:00",
   "last_result_q_files": [
     "260726_212623_Q.json"
   ],
@@ -17,13 +17,6 @@
   ],
   "last_result_check_at": "2026-07-26T22:54:03+03:00",
   "planned_weather": {
-    "hourly_2026-07-26_2100": {
-      "ambient_temp_c": 26.0,
-      "cloud_level": 0.2,
-      "rain_level": 0.03,
-      "weather_randomness": 6,
-      "summary_key": "clear"
-    },
     "hourly_2026-07-27_2100": {
       "ambient_temp_c": 25.0,
       "cloud_level": 0.2,
@@ -594,13 +587,6 @@
     "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\july-2026\\260726_224618_R.json"
   ],
   "planned_game_time": {
-    "hourly_2026-07-26_2100": {
-      "code": "day",
-      "label": "Day",
-      "hour_of_day": 14,
-      "asset_id": "day_bright",
-      "asset": "day_bright"
-    },
     "hourly_2026-07-27_2100": {
       "code": "night",
       "label": "Night",
@@ -4258,44 +4244,7 @@
       "updated_at": "2026-07-10T22:54:25+03:00"
     }
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-07-26_2100",
-    "occurrence_id": "championship_2026-07-26_2100_july-2026",
-    "slot": {
-      "event_id": "hourly_2026-07-26_2100",
-      "occurrence_id": "championship_2026-07-26_2100_july-2026",
-      "date": "2026-07-26",
-      "start_time_local": "21:00",
-      "launch_at": "2026-07-26T20:44+03:00",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nordschleife",
-      "event_type": "championship",
-      "race_format": "hourly",
-      "competition_mode": "championship",
-      "scoring_mode": "championship_standard",
-      "points_multiplier": 1.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 130,
-      "championship_slug": "july-2026",
-      "title": "ASG Racing July 2026"
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 26.0,
-      "cloud_level": 0.2,
-      "rain_level": 0.03,
-      "weather_randomness": 6,
-      "summary_key": "clear"
-    },
-    "updated_at": "2026-07-26T20:44:01+03:00",
-    "game_time": {
-      "code": "day",
-      "label": "Day",
-      "hour_of_day": 14,
-      "asset_id": "day_bright",
-      "asset": "day_bright"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-07-26_2100",
     "occurrence_id": "championship_2026-07-26_2100_july-2026",
@@ -4334,7 +4283,7 @@
       "asset": "day_bright"
     }
   },
-  "orchestrator_pid": 35528,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-07-26T20:44:01+03:00",
   "run_duration_seconds": 7800,
   "expected_stop_at": null,
@@ -4372,6 +4321,6 @@
       "reason": "duration_elapsed"
     }
   },
-  "last_completed_event_id": "hourly_2026-07-25_2100",
-  "last_completion_at": "2026-07-25T22:54:10+03:00"
+  "last_completed_event_id": "hourly_2026-07-26_2100",
+  "last_completion_at": "2026-07-26T22:54:13+03:00"
 }
