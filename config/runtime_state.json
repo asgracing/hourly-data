@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "completed",
   "last_error": null,
-  "updated_at": "2026-07-26T23:21:09+03:00",
+  "updated_at": "2026-07-26T23:25:27+03:00",
   "last_result_q_files": [
     "260726_212623_Q.json"
   ],
@@ -18,7 +18,7 @@
   "last_result_check_at": "2026-07-26T22:54:03+03:00",
   "planned_weather": {
     "hourly_2026-07-27_2100": {
-      "ambient_temp_c": 25.0,
+      "ambient_temp_c": 28.0,
       "cloud_level": 0.2,
       "rain_level": 0.05,
       "weather_randomness": 5,
@@ -590,7 +590,7 @@
     "hourly_2026-07-27_2100": {
       "code": "night",
       "label": "Night",
-      "hour_of_day": 0,
+      "hour_of_day": 6,
       "asset_id": "night_cool",
       "asset": "night_cool"
     },
