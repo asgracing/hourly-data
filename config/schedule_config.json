@@ -652,7 +652,7 @@
       {
         "id": 1,
         "summary_key": "clear",
-        "weight": 40,
+        "weight": 50,
         "ambient_temp_range_c": [
           23.0,
           31.0
@@ -666,8 +666,8 @@
           0.05
         ],
         "randomness_range": [
-          2,
-          4
+          1,
+          3
         ]
       },
       {
@@ -675,8 +675,8 @@
         "summary_key": "mixed",
         "weight": 40,
         "ambient_temp_range_c": [
-          22.0,
-          31.0
+          26.0,
+          35.0
         ],
         "cloud_range": [
           0.2,
@@ -687,17 +687,17 @@
           0.2
         ],
         "randomness_range": [
-          4,
-          7
+          3,
+          5
         ]
       },
       {
         "id": 3,
         "summary_key": "wet",
-        "weight": 20,
+        "weight": 10,
         "ambient_temp_range_c": [
-          23.0,
-          31.0
+          26.0,
+          38.0
         ],
         "cloud_range": [
           0.4,
@@ -705,7 +705,7 @@
         ],
         "rain_range": [
           0.1,
-          0.5
+          0.3
         ],
         "randomness_range": [
           3,
