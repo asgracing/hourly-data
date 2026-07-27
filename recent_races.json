@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-27_2234_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-07-27T22:34:36+03:00",
+      "finished_at_local": "2026-07-27 22:34",
+      "participants_count": 40,
+      "scoring_participants_count": 39,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Aleksey Mihin",
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "1:46.225",
+      "best_lap_driver": "Kosso Filippo[ASG]",
+      "best_lap_public_id": "drv_964ce73ba40a",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-27_2234_monza.json",
+      "results_repo_path": "260727_223435_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28.0,
+        "cloud_level": 0.2,
+        "rain_level": 0.05,
+        "weather_randomness": 5,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 6,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-26_2246_nurburgring_24h",
       "title": "Hourly Race",
       "track": "nurburgring_24h",
@@ -403,47 +439,7 @@
         "asset_id": "Evening_mixed",
         "asset": "Evening_mixed"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-16_2230_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-16T22:30:36+03:00",
-      "finished_at_local": "2026-07-16 22:30",
-      "participants_count": 32,
-      "scoring_participants_count": 31,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Ivan Mikhailau | RB Team",
-      "winner_public_id": "drv_0614f33165de",
-      "best_lap": "1:47.745",
-      "best_lap_driver": "Anatoliy Mikhailov",
-      "best_lap_public_id": "drv_fde28f699403",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-16_2230_monza.json",
-      "results_repo_path": "260716_223036_R.json",
-      "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.22,
-        "rain_level": 0.08,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "profile_id": "morning",
-        "code": "morning",
-        "label": "Morning",
-        "label_ru": "Утро",
-        "hour_of_day": 10,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft",
-        "asset_label": "Soft Morning",
-        "asset_label_ru": "Мягкое утро"
-      }
     }
   ],
-  "updated_at": "2026-07-27T16:17:37+03:00"
+  "updated_at": "2026-07-27T22:54:10+03:00"
 }

@@ -1,7 +1,6 @@
 {
-  "next_track_index": 0,
+  "next_track_index": 15,
   "track_queue_codes": [
-    "monza",
     "spa",
     "nurburgring",
     "nurburgring_24h",
@@ -62,6 +61,9 @@
     "barcelona",
     "paul_ricard",
     "zandvoort",
-    "laguna_seca"
-  ]
+    "laguna_seca",
+    "spa"
+  ],
+  "last_track_code": "monza",
+  "last_rotation_at": "2026-07-27T20:44:01+03:00"
 }
