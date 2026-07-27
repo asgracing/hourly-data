@@ -67,7 +67,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -152,7 +152,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -248,7 +248,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -333,7 +333,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -368,8 +368,8 @@
       "timezone": "UTC+3",
       "weekday": "friday",
       "month": "2026-07",
-      "track_code": "misano",
-      "track_name": "Misano",
+      "track_code": "monza",
+      "track_name": "Monza",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -377,50 +377,59 @@
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
-      "scoring_mode": "hourly_curve_multiplier",
-      "launch_lead_minutes": 16,
       "race_duration_minutes": 60,
       "server_window_minutes": 130,
+      "launch_lead_minutes": 16,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 27.0,
+        "cloud_level": 0.48,
+        "rain_level": 0.05,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
+      },
+      "weather_locked": true,
+      "rain_level": 0.05,
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 14,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "game_time_locked": true,
+      "hour_of_day": 14,
+      "game_time_hour": 14,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": null,
+      "game_time_asset": "day_bright",
+      "game_time_asset_id": "day_bright",
+      "scoring_mode": "hourly_curve_multiplier",
       "launch_at_local": "2026-07-31 20:44",
       "launch_at": "2026-07-31T20:44+03:00",
       "server_window_end_at": "2026-07-31T22:54+03:00",
       "occurrence_id": "hourly_2026-07-31_2100",
       "event_id": "hourly_2026-07-31_2100",
       "schedule_conflicts": [],
-      "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.48,
-        "rain_level": 0.05,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "rain_level": 0.05,
-      "game_time": {
-        "profile_id": "day",
-        "code": "day",
-        "label": "Day",
-        "label_ru": "День",
-        "hour_of_day": 14,
-        "asset_id": "day_bright",
-        "asset": "day_bright",
-        "asset_label": "Bright Day",
-        "asset_label_ru": "Яркий день"
-      },
-      "hour_of_day": 14,
-      "game_time_hour": 14,
-      "game_time_code": "day",
-      "game_time_label": "Day",
-      "game_time_label_ru": "День",
-      "game_time_asset": "day_bright",
-      "game_time_asset_id": "day_bright",
       "server": {
         "name": "ASG Racing Race",
         "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -455,8 +464,8 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-08",
-      "track_code": "zolder",
-      "track_name": "Zolder",
+      "track_code": "monza",
+      "track_name": "Monza",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -464,50 +473,59 @@
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
-      "scoring_mode": "hourly_curve_multiplier",
-      "launch_lead_minutes": 16,
       "race_duration_minutes": 60,
       "server_window_minutes": 130,
+      "launch_lead_minutes": 16,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 33.0,
+        "cloud_level": 0.42,
+        "rain_level": 0.12,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "weather_locked": true,
+      "rain_level": 0.12,
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 7,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      },
+      "game_time_locked": true,
+      "hour_of_day": 7,
+      "game_time_hour": 7,
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_label_ru": null,
+      "game_time_asset": "morning_soft",
+      "game_time_asset_id": "morning_soft",
+      "scoring_mode": "hourly_curve_multiplier",
       "launch_at_local": "2026-08-01 20:44",
       "launch_at": "2026-08-01T20:44+03:00",
       "server_window_end_at": "2026-08-01T22:54+03:00",
       "occurrence_id": "hourly_2026-08-01_2100",
       "event_id": "hourly_2026-08-01_2100",
       "schedule_conflicts": [],
-      "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 33,
-        "cloud_level": 0.42,
-        "rain_level": 0.12,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "rain_level": 0.12,
-      "game_time": {
-        "profile_id": "morning",
-        "code": "morning",
-        "label": "Morning",
-        "label_ru": "Утро",
-        "hour_of_day": 7,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft",
-        "asset_label": "Soft Morning",
-        "asset_label_ru": "Мягкое утро"
-      },
-      "hour_of_day": 7,
-      "game_time_hour": 7,
-      "game_time_code": "morning",
-      "game_time_label": "Morning",
-      "game_time_label_ru": "Утро",
-      "game_time_asset": "morning_soft",
-      "game_time_asset_id": "morning_soft",
       "server": {
         "name": "ASG Racing Race",
         "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -542,8 +560,8 @@
       "timezone": "UTC+3",
       "weekday": "sunday",
       "month": "2026-08",
-      "track_code": "kyalami",
-      "track_name": "Kyalami",
+      "track_code": "monza",
+      "track_name": "Monza",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -551,50 +569,59 @@
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
-      "scoring_mode": "hourly_curve_multiplier",
-      "launch_lead_minutes": 16,
       "race_duration_minutes": 60,
       "server_window_minutes": 130,
+      "launch_lead_minutes": 16,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28.0,
+        "cloud_level": 0.38,
+        "rain_level": 0.12,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
+      },
+      "weather_locked": true,
+      "rain_level": 0.12,
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 12,
+        "asset_id": "day_neutral",
+        "asset": "day_neutral"
+      },
+      "game_time_locked": true,
+      "hour_of_day": 12,
+      "game_time_hour": 12,
+      "game_time_code": "day",
+      "game_time_label": "Day",
+      "game_time_label_ru": null,
+      "game_time_asset": "day_neutral",
+      "game_time_asset_id": "day_neutral",
+      "scoring_mode": "hourly_curve_multiplier",
       "launch_at_local": "2026-08-02 20:44",
       "launch_at": "2026-08-02T20:44+03:00",
       "server_window_end_at": "2026-08-02T22:54+03:00",
       "occurrence_id": "hourly_2026-08-02_2100",
       "event_id": "hourly_2026-08-02_2100",
       "schedule_conflicts": [],
-      "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.38,
-        "rain_level": 0.12,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "rain_level": 0.12,
-      "game_time": {
-        "profile_id": "day",
-        "code": "day",
-        "label": "Day",
-        "label_ru": "День",
-        "hour_of_day": 12,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral",
-        "asset_label": "Neutral Day",
-        "asset_label_ru": "Нейтральный день"
-      },
-      "hour_of_day": 12,
-      "game_time_hour": 12,
-      "game_time_code": "day",
-      "game_time_label": "Day",
-      "game_time_label_ru": "День",
-      "game_time_asset": "day_neutral",
-      "game_time_asset_id": "day_neutral",
       "server": {
         "name": "ASG Racing Race",
         "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -629,8 +656,8 @@
       "timezone": "UTC+3",
       "weekday": "monday",
       "month": "2026-08",
-      "track_code": "hungaroring",
-      "track_name": "Hungaroring",
+      "track_code": "monza",
+      "track_name": "Monza",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -638,50 +665,59 @@
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
-      "scoring_mode": "hourly_curve_multiplier",
-      "launch_lead_minutes": 16,
       "race_duration_minutes": 60,
       "server_window_minutes": 130,
+      "launch_lead_minutes": 16,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30.0,
+        "cloud_level": 0.1,
+        "rain_level": 0.03,
+        "weather_randomness": 1,
+        "summary_key": "clear"
+      },
+      "weather_locked": true,
+      "rain_level": 0.03,
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 16,
+        "asset_id": "evening_warm",
+        "asset": "evening_warm"
+      },
+      "game_time_locked": true,
+      "hour_of_day": 16,
+      "game_time_hour": 16,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": null,
+      "game_time_asset": "evening_warm",
+      "game_time_asset_id": "evening_warm",
+      "scoring_mode": "hourly_curve_multiplier",
       "launch_at_local": "2026-08-03 20:44",
       "launch_at": "2026-08-03T20:44+03:00",
       "server_window_end_at": "2026-08-03T22:54+03:00",
       "occurrence_id": "hourly_2026-08-03_2100",
       "event_id": "hourly_2026-08-03_2100",
       "schedule_conflicts": [],
-      "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.1,
-        "rain_level": 0.03,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "rain_level": 0.03,
-      "game_time": {
-        "profile_id": "evening",
-        "code": "evening",
-        "label": "Evening",
-        "label_ru": "Вечер",
-        "hour_of_day": 16,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm",
-        "asset_label": "Warm Sunset",
-        "asset_label_ru": "Тёплый закат"
-      },
-      "hour_of_day": 16,
-      "game_time_hour": 16,
-      "game_time_code": "evening",
-      "game_time_label": "Evening",
-      "game_time_label_ru": "Вечер",
-      "game_time_asset": "evening_warm",
-      "game_time_asset_id": "evening_warm",
       "server": {
         "name": "ASG Racing Race",
         "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -716,8 +752,8 @@
       "timezone": "UTC+3",
       "weekday": "tuesday",
       "month": "2026-08",
-      "track_code": "suzuka",
-      "track_name": "Suzuka",
+      "track_code": "monza",
+      "track_name": "Monza",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -725,50 +761,59 @@
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
-      "scoring_mode": "hourly_curve_multiplier",
-      "launch_lead_minutes": 16,
       "race_duration_minutes": 60,
       "server_window_minutes": 130,
+      "launch_lead_minutes": 16,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 26.0,
+        "cloud_level": 0.07,
+        "rain_level": 0.0,
+        "weather_randomness": 1,
+        "summary_key": "clear"
+      },
+      "weather_locked": true,
+      "rain_level": 0.0,
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      },
+      "game_time_locked": true,
+      "hour_of_day": 19,
+      "game_time_hour": 19,
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_label_ru": null,
+      "game_time_asset": "evening_long_shadows",
+      "game_time_asset_id": "evening_long_shadows",
+      "scoring_mode": "hourly_curve_multiplier",
       "launch_at_local": "2026-08-04 20:44",
       "launch_at": "2026-08-04T20:44+03:00",
       "server_window_end_at": "2026-08-04T22:54+03:00",
       "occurrence_id": "hourly_2026-08-04_2100",
       "event_id": "hourly_2026-08-04_2100",
       "schedule_conflicts": [],
-      "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.07,
-        "rain_level": 0.0,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "rain_level": 0.0,
-      "game_time": {
-        "profile_id": "evening",
-        "code": "evening",
-        "label": "Evening",
-        "label_ru": "Вечер",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows",
-        "asset_label": "Long Shadows",
-        "asset_label_ru": "Длинные тени"
-      },
-      "hour_of_day": 19,
-      "game_time_hour": 19,
-      "game_time_code": "evening",
-      "game_time_label": "Evening",
-      "game_time_label_ru": "Вечер",
-      "game_time_asset": "evening_long_shadows",
-      "game_time_asset_id": "evening_long_shadows",
       "server": {
         "name": "ASG Racing Race",
         "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -825,12 +870,12 @@
       "weather": {
         "profile_id": 2,
         "ambient_temp_c": 27,
-        "cloud_level": 0.34,
-        "rain_level": 0.05,
+        "cloud_level": 0.27,
+        "rain_level": 0.19,
         "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.05,
+      "rain_level": 0.19,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -855,7 +900,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -910,14 +955,14 @@
       "event_id": "hourly_2026-08-06_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.04,
-        "rain_level": 0.05,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.48,
+        "rain_level": 0.11,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.05,
+      "rain_level": 0.11,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -942,7 +987,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -998,13 +1043,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.07,
-        "rain_level": 0.0,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.14,
+        "rain_level": 0.02,
         "weather_randomness": 1,
         "summary_key": "clear"
       },
-      "rain_level": 0.0,
+      "rain_level": 0.02,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1029,7 +1074,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1084,14 +1129,14 @@
       "event_id": "hourly_2026-08-08_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.22,
-        "rain_level": 0.01,
-        "weather_randomness": 1,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 32,
+        "cloud_level": 0.48,
+        "rain_level": 0.06,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.01,
+      "rain_level": 0.06,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -1116,7 +1161,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1171,14 +1216,14 @@
       "event_id": "hourly_2026-08-09_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 38,
-        "cloud_level": 0.47,
-        "rain_level": 0.24,
-        "weather_randomness": 3,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.49,
+        "rain_level": 0.15,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.24,
+      "rain_level": 0.15,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -1203,7 +1248,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1259,13 +1304,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.08,
-        "rain_level": 0.01,
-        "weather_randomness": 3,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.19,
+        "rain_level": 0.02,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.01,
+      "rain_level": 0.02,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -1290,7 +1335,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1346,13 +1391,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.25,
-        "rain_level": 0.05,
-        "weather_randomness": 3,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.23,
+        "rain_level": 0.04,
+        "weather_randomness": 1,
         "summary_key": "clear"
       },
-      "rain_level": 0.05,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1377,7 +1422,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1432,14 +1477,14 @@
       "event_id": "hourly_2026-08-12_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.3,
-        "rain_level": 0.14,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.05,
+        "rain_level": 0.03,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.14,
+      "rain_level": 0.03,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1464,7 +1509,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1519,14 +1564,14 @@
       "event_id": "hourly_2026-08-13_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.06,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 3,
+        "ambient_temp_c": 32,
+        "cloud_level": 0.57,
+        "rain_level": 0.22,
+        "weather_randomness": 5,
+        "summary_key": "wet"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.22,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -1551,7 +1596,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1606,14 +1651,14 @@
       "event_id": "hourly_2026-08-14_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 33,
-        "cloud_level": 0.28,
-        "rain_level": 0.1,
+        "profile_id": 1,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.24,
+        "rain_level": 0.04,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "clear"
       },
-      "rain_level": 0.1,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -1638,7 +1683,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1693,14 +1738,14 @@
       "event_id": "hourly_2026-08-15_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.23,
-        "rain_level": 0.08,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.03,
+        "rain_level": 0.03,
+        "weather_randomness": 1,
+        "summary_key": "clear"
       },
-      "rain_level": 0.08,
+      "rain_level": 0.03,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -1725,7 +1770,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1780,14 +1825,14 @@
       "event_id": "hourly_2026-08-16_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.37,
-        "rain_level": 0.08,
+        "profile_id": 1,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.06,
+        "rain_level": 0.04,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "clear"
       },
-      "rain_level": 0.08,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1812,7 +1857,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1868,13 +1913,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.3,
-        "rain_level": 0.19,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.47,
+        "rain_level": 0.16,
         "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.19,
+      "rain_level": 0.16,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -1899,7 +1944,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1955,13 +2000,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.13,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.18,
+        "rain_level": 0.05,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.05,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -1986,7 +2031,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2042,13 +2087,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.48,
-        "rain_level": 0.15,
-        "weather_randomness": 5,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.46,
+        "rain_level": 0.13,
+        "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.15,
+      "rain_level": 0.13,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -2073,7 +2118,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2129,13 +2174,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.27,
-        "rain_level": 0.11,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.48,
+        "rain_level": 0.1,
         "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.1,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -2160,7 +2205,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2215,14 +2260,14 @@
       "event_id": "hourly_2026-08-21_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.04,
-        "rain_level": 0.0,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.34,
+        "rain_level": 0.09,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.0,
+      "rain_level": 0.09,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -2247,7 +2292,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2302,14 +2347,14 @@
       "event_id": "hourly_2026-08-22_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.46,
-        "rain_level": 0.18,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.22,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
       },
-      "rain_level": 0.18,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -2334,7 +2379,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2389,14 +2434,14 @@
       "event_id": "hourly_2026-08-23_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.25,
-        "rain_level": 0.2,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.01,
+        "rain_level": 0.02,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.2,
+      "rain_level": 0.02,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -2421,7 +2466,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2477,10 +2522,10 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.15,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.13,
         "rain_level": 0.04,
-        "weather_randomness": 2,
+        "weather_randomness": 1,
         "summary_key": "clear"
       },
       "rain_level": 0.04,
@@ -2508,7 +2553,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2563,14 +2608,14 @@
       "event_id": "hourly_2026-08-25_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.44,
-        "rain_level": 0.17,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.24,
+        "rain_level": 0.03,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.17,
+      "rain_level": 0.03,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -2595,7 +2640,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2651,13 +2696,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 26,
+        "ambient_temp_c": 32,
         "cloud_level": 0.42,
-        "rain_level": 0.19,
-        "weather_randomness": 3,
+        "rain_level": 0.07,
+        "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.19,
+      "rain_level": 0.07,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -2682,7 +2727,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2737,14 +2782,14 @@
       "event_id": "hourly_2026-08-27_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 36,
-        "cloud_level": 0.58,
-        "rain_level": 0.25,
-        "weather_randomness": 6,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.28,
+        "rain_level": 0.2,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.25,
+      "rain_level": 0.2,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -2769,7 +2814,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2825,13 +2870,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.48,
-        "rain_level": 0.12,
-        "weather_randomness": 3,
+        "ambient_temp_c": 32,
+        "cloud_level": 0.35,
+        "rain_level": 0.11,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.12,
+      "rain_level": 0.11,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -2856,7 +2901,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2911,14 +2956,14 @@
       "event_id": "hourly_2026-08-29_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.23,
-        "rain_level": 0.06,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 23,
+        "cloud_level": 0.17,
+        "rain_level": 0.0,
+        "weather_randomness": 1,
+        "summary_key": "clear"
       },
-      "rain_level": 0.06,
+      "rain_level": 0.0,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -2943,7 +2988,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2998,14 +3043,14 @@
       "event_id": "hourly_2026-08-30_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.46,
-        "rain_level": 0.13,
+        "profile_id": 1,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.16,
+        "rain_level": 0.05,
         "weather_randomness": 3,
-        "summary_key": "mixed"
+        "summary_key": "clear"
       },
-      "rain_level": 0.13,
+      "rain_level": 0.05,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -3030,7 +3075,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3085,14 +3130,14 @@
       "event_id": "hourly_2026-08-31_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.1,
-        "rain_level": 0.03,
+        "profile_id": 2,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.41,
+        "rain_level": 0.07,
         "weather_randomness": 3,
-        "summary_key": "clear"
+        "summary_key": "mixed"
       },
-      "rain_level": 0.03,
+      "rain_level": 0.07,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -3117,7 +3162,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3172,14 +3217,14 @@
       "event_id": "hourly_2026-09-01_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.23,
-        "rain_level": 0.04,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 35,
+        "cloud_level": 0.38,
+        "rain_level": 0.19,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.19,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -3204,7 +3249,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3259,14 +3304,14 @@
       "event_id": "hourly_2026-09-02_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.23,
-        "rain_level": 0.03,
-        "weather_randomness": 1,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.25,
+        "rain_level": 0.08,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.03,
+      "rain_level": 0.08,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -3291,7 +3336,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3347,13 +3392,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.05,
-        "rain_level": 0.03,
-        "weather_randomness": 2,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.15,
+        "rain_level": 0.0,
+        "weather_randomness": 1,
         "summary_key": "clear"
       },
-      "rain_level": 0.03,
+      "rain_level": 0.0,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -3378,7 +3423,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3434,13 +3479,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.2,
-        "rain_level": 0.02,
-        "weather_randomness": 2,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.01,
+        "rain_level": 0.05,
+        "weather_randomness": 1,
         "summary_key": "clear"
       },
-      "rain_level": 0.02,
+      "rain_level": 0.05,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -3465,7 +3510,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3521,13 +3566,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.4,
-        "rain_level": 0.12,
-        "weather_randomness": 4,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.41,
+        "rain_level": 0.1,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.12,
+      "rain_level": 0.1,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -3552,7 +3597,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3608,13 +3653,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 24,
+        "ambient_temp_c": 31,
         "cloud_level": 0.04,
-        "rain_level": 0.04,
-        "weather_randomness": 2,
+        "rain_level": 0.02,
+        "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.02,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -3639,7 +3684,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3695,13 +3740,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.21,
-        "rain_level": 0.17,
-        "weather_randomness": 3,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.49,
+        "rain_level": 0.05,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.17,
+      "rain_level": 0.05,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -3726,7 +3771,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3782,13 +3827,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 34,
-        "cloud_level": 0.44,
-        "rain_level": 0.09,
-        "weather_randomness": 3,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.43,
+        "rain_level": 0.11,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.09,
+      "rain_level": 0.11,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -3813,7 +3858,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3869,13 +3914,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.23,
-        "rain_level": 0.05,
-        "weather_randomness": 2,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.22,
+        "rain_level": 0.01,
+        "weather_randomness": 1,
         "summary_key": "clear"
       },
-      "rain_level": 0.05,
+      "rain_level": 0.01,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -3900,7 +3945,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3956,13 +4001,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.32,
-        "rain_level": 0.11,
-        "weather_randomness": 4,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.28,
+        "rain_level": 0.08,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.08,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -3987,7 +4032,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4042,14 +4087,14 @@
       "event_id": "hourly_2026-09-11_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.07,
-        "rain_level": 0.04,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 33,
+        "cloud_level": 0.48,
+        "rain_level": 0.09,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.09,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -4074,7 +4119,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4130,10 +4175,10 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.19,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.01,
         "rain_level": 0.03,
-        "weather_randomness": 3,
+        "weather_randomness": 1,
         "summary_key": "clear"
       },
       "rain_level": 0.03,
@@ -4161,7 +4206,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4217,13 +4262,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.23,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.19,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.01,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -4248,7 +4293,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4304,13 +4349,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.08,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.0,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.01,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -4335,7 +4380,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4390,14 +4435,14 @@
       "event_id": "hourly_2026-09-15_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 32,
-        "cloud_level": 0.65,
-        "rain_level": 0.26,
-        "weather_randomness": 5,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.33,
+        "rain_level": 0.19,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.26,
+      "rain_level": 0.19,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -4422,7 +4467,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4478,13 +4523,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.37,
-        "rain_level": 0.2,
-        "weather_randomness": 5,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.22,
+        "rain_level": 0.13,
+        "weather_randomness": 4,
         "summary_key": "mixed"
       },
-      "rain_level": 0.2,
+      "rain_level": 0.13,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -4509,7 +4554,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4565,13 +4610,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.23,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.01,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.01,
+      "rain_level": 0.04,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -4596,7 +4641,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4651,14 +4696,14 @@
       "event_id": "hourly_2026-09-18_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.54,
-        "rain_level": 0.16,
-        "weather_randomness": 3,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.27,
+        "rain_level": 0.07,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.16,
+      "rain_level": 0.07,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -4683,7 +4728,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4739,13 +4784,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 2,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.48,
-        "rain_level": 0.11,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.46,
+        "rain_level": 0.08,
         "weather_randomness": 3,
         "summary_key": "mixed"
       },
-      "rain_level": 0.11,
+      "rain_level": 0.08,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -4770,7 +4815,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4827,12 +4872,12 @@
       "weather": {
         "profile_id": 1,
         "ambient_temp_c": 29,
-        "cloud_level": 0.02,
-        "rain_level": 0.03,
-        "weather_randomness": 1,
+        "cloud_level": 0.18,
+        "rain_level": 0.05,
+        "weather_randomness": 3,
         "summary_key": "clear"
       },
-      "rain_level": 0.03,
+      "rain_level": 0.05,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -4857,7 +4902,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4912,14 +4957,14 @@
       "event_id": "hourly_2026-09-21_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 3,
+        "profile_id": 1,
         "ambient_temp_c": 31,
-        "cloud_level": 0.53,
-        "rain_level": 0.29,
-        "weather_randomness": 4,
-        "summary_key": "wet"
+        "cloud_level": 0.1,
+        "rain_level": 0.0,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.29,
+      "rain_level": 0.0,
       "game_time": {
         "profile_id": "morning",
         "code": "morning",
@@ -4944,7 +4989,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4999,14 +5044,14 @@
       "event_id": "hourly_2026-09-22_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 3,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.65,
-        "rain_level": 0.23,
-        "weather_randomness": 3,
-        "summary_key": "wet"
+        "profile_id": 2,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.4,
+        "rain_level": 0.14,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.23,
+      "rain_level": 0.14,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -5031,7 +5076,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5086,14 +5131,14 @@
       "event_id": "hourly_2026-09-23_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 1,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.24,
-        "rain_level": 0.04,
-        "weather_randomness": 2,
-        "summary_key": "clear"
+        "profile_id": 2,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.31,
+        "rain_level": 0.17,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.17,
       "game_time": {
         "profile_id": "night",
         "code": "night",
@@ -5118,7 +5163,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5174,13 +5219,13 @@
       "schedule_conflicts": [],
       "weather": {
         "profile_id": 1,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.04,
-        "rain_level": 0.04,
-        "weather_randomness": 1,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.02,
+        "rain_level": 0.02,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
-      "rain_level": 0.04,
+      "rain_level": 0.02,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -5205,7 +5250,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5260,14 +5305,14 @@
       "event_id": "hourly_2026-09-25_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 32,
-        "cloud_level": 0.37,
-        "rain_level": 0.13,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.1,
+        "rain_level": 0.02,
+        "weather_randomness": 1,
+        "summary_key": "clear"
       },
-      "rain_level": 0.13,
+      "rain_level": 0.02,
       "game_time": {
         "profile_id": "evening",
         "code": "evening",
@@ -5292,7 +5337,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5347,14 +5392,14 @@
       "event_id": "hourly_2026-09-26_2100",
       "schedule_conflicts": [],
       "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.34,
-        "rain_level": 0.14,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
+        "profile_id": 1,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.18,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
-      "rain_level": 0.14,
+      "rain_level": 0.01,
       "game_time": {
         "profile_id": "day",
         "code": "day",
@@ -5379,7 +5424,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 40,
+        "safety_rating_requirement": 60,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5409,5 +5454,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-26T23:25:27+03:00"
+  "updated_at": "2026-07-27T16:17:31+03:00"
 }
