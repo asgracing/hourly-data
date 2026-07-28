@@ -187,12 +187,29 @@
       "timezone": "UTC+3",
       "weekday": "thursday",
       "month": "2026-07",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "zolder",
+      "track_name": "Zolder",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
       "voting_disabled": false,
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "points_multiplier": 5.0,
+      "race_duration_minutes": 60,
+      "server_window_minutes": 130,
+      "launch_lead_minutes": 16,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      },
       "weather": {
         "profile_id": null,
         "ambient_temp_c": 28.0,
@@ -218,13 +235,7 @@
       "game_time_label_ru": null,
       "game_time_asset": "morning_clear",
       "game_time_asset_id": "morning_clear",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "points_multiplier": 5.0,
       "scoring_mode": "hourly_curve_multiplier",
-      "launch_lead_minutes": 16,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 130,
       "launch_at_local": "2026-07-30 20:44",
       "launch_at": "2026-07-30T20:44+03:00",
       "server_window_end_at": "2026-07-30T22:54+03:00",
@@ -5546,5 +5557,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-28T14:10:07+03:00"
+  "updated_at": "2026-07-28T14:19:01+03:00"
 }
