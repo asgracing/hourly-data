@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "completed",
   "last_error": null,
-  "updated_at": "2026-07-28T13:57:08+03:00",
+  "updated_at": "2026-07-28T14:10:07+03:00",
   "last_result_q_files": [
     "260727_212317_Q.json"
   ],
@@ -40,8 +40,8 @@
     },
     "hourly_2026-07-31_2100": {
       "ambient_temp_c": 27.0,
-      "cloud_level": 0.48,
-      "rain_level": 0.05,
+      "cloud_level": 0.35,
+      "rain_level": 0.1,
       "weather_randomness": 3,
       "summary_key": "mixed"
     },
@@ -576,7 +576,7 @@
     "hourly_2026-07-31_2100": {
       "code": "day",
       "label": "Day",
-      "hour_of_day": 14,
+      "hour_of_day": 17,
       "asset_id": "day_bright",
       "asset": "day_bright"
     },
