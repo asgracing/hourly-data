@@ -25,11 +25,11 @@
   "championship": {
     "slug": "july-2026",
     "title": "ASG Racing July 2026",
-    "status": "active",
+    "status": "finished",
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-07-27T22:54:03+03:00",
+  "updated_at": "2026-07-28T13:57:08+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
