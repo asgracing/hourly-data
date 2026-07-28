@@ -8,8 +8,8 @@
   "track_code": "silverstone",
   "track_name": "Silverstone",
   "race_duration_minutes": 60,
-  "server_window": "2.16667h",
-  "server_window_minutes": 130,
+  "server_window": "3h",
+  "server_window_minutes": 180,
   "launch_at": "2026-07-28T20:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
@@ -29,7 +29,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-07-28T19:29:42+03:00",
+  "updated_at": "2026-07-28T19:51:40+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
