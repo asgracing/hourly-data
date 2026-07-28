@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-28_2227_silverstone",
+      "title": "Hourly Race",
+      "track": "silverstone",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
+      "finished_at": "2026-07-28T22:27:23+03:00",
+      "finished_at_local": "2026-07-28 22:27",
+      "participants_count": 28,
+      "scoring_participants_count": 22,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Arkadiy Plesovskiy",
+      "winner_public_id": "drv_e907098eae56",
+      "best_lap": "1:58.072",
+      "best_lap_driver": "Arkadiy Plesovskiy",
+      "best_lap_public_id": "drv_e907098eae56",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-28_2227_silverstone.json",
+      "results_repo_path": "260728_222723_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 21.0,
+        "cloud_level": 0.22,
+        "rain_level": 0.12,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 17,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-27_2234_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -403,43 +439,7 @@
         "asset_label": "Clear Day",
         "asset_label_ru": "Ясный день"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-17_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-17T22:29:24+03:00",
-      "finished_at_local": "2026-07-17 22:29",
-      "participants_count": 33,
-      "scoring_participants_count": 30,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Vahe Gabrielyan",
-      "winner_public_id": "drv_ead3d6e9f3b0",
-      "best_lap": "1:46.982",
-      "best_lap_driver": "Vahe Gabrielyan",
-      "best_lap_public_id": "drv_ead3d6e9f3b0",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-17_2229_monza.json",
-      "results_repo_path": "260717_222924_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24.0,
-        "cloud_level": 0.5,
-        "rain_level": 0.2,
-        "weather_randomness": 6,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 20,
-        "asset_id": "Evening_mixed",
-        "asset": "Evening_mixed"
-      }
     }
   ],
-  "updated_at": "2026-07-28T20:16:32+03:00"
+  "updated_at": "2026-07-28T22:54:16+03:00"
 }

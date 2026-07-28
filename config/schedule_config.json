@@ -591,7 +591,7 @@
       "game_time_label": "Evening",
       "game_time_asset": "evening_gold",
       "race_duration_minutes": 60,
-      "server_window_minutes": 180,
+      "server_window_minutes": 130,
       "launch_lead_minutes": 16,
       "points_multiplier": 5.0,
       "hour_of_day": 17,
@@ -1352,7 +1352,7 @@
       }
     ]
   },
-  "launch_lead_minutes": 60,
+  "launch_lead_minutes": 16,
   "server_windows_minutes": {
     "endurance": 200
   },
