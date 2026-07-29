@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-07-29_2100",
-  "date": "2026-07-29",
+  "event_id": "hourly_2026-07-30_2100",
+  "date": "2026-07-30",
   "start_time_local": "21:00",
   "timezone": "UTC+3",
-  "track_code": "monza",
-  "track_name": "Monza",
+  "track_code": "zolder",
+  "track_name": "Zolder",
   "race_duration_minutes": 60,
-  "server_window": "2.16667h",
-  "server_window_minutes": 130,
-  "launch_at": "2026-07-29T20:44+03:00",
+  "server_window": "3h",
+  "server_window_minutes": 180,
+  "launch_at": "2026-07-30T20:44+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,7 +29,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-07-28T22:54:14+03:00",
+  "updated_at": "2026-07-29T23:00:03+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -42,8 +42,8 @@
     "is_race_locked": false
   },
   "session": {
-    "format_label": "P 15m + Q 20m + R 60m",
-    "practice_duration_minutes": 15,
+    "format_label": "P 60m + Q 20m + R 60m",
+    "practice_duration_minutes": 60,
     "qualifying_duration_minutes": 20,
     "race_duration_minutes": 60,
     "pre_race_waiting_time_seconds": 120,
@@ -66,17 +66,17 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 23.0,
-    "cloud_level": 0.01,
+    "ambient_temp_c": 28.0,
+    "cloud_level": 0.11,
     "rain_level": 0.03,
     "weather_randomness": 2,
     "summary_key": "clear"
   },
   "game_time": {
-    "code": "night",
-    "label": "Night",
-    "hour_of_day": 1,
-    "asset_id": "night_cool",
-    "asset": "night_cool"
+    "code": "morning",
+    "label": "Morning",
+    "hour_of_day": 7,
+    "asset_id": "morning_clear",
+    "asset": "morning_clear"
   }
 }

@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-07-29_2231_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-07-29T22:31:21+03:00",
+      "finished_at_local": "2026-07-29 22:31",
+      "participants_count": 38,
+      "scoring_participants_count": 37,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Aleksey Mihin",
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "1:46.730",
+      "best_lap_driver": "Andrei Soldatenkov [ASG]",
+      "best_lap_public_id": "drv_b466bb6eedd8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-07-29_2231_monza.json",
+      "results_repo_path": "260729_223121_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 23.0,
+        "cloud_level": 0.01,
+        "rain_level": 0.03,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 1,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-28_2227_silverstone",
       "title": "Hourly Race",
       "track": "silverstone",
@@ -399,47 +435,7 @@
         "asset_id": "day_neutral",
         "asset": "day_neutral"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-18_2228_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-18T22:28:57+03:00",
-      "finished_at_local": "2026-07-18 22:28",
-      "participants_count": 37,
-      "scoring_participants_count": 34,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Alexey Larin",
-      "winner_public_id": "drv_29df2a6a2e6e",
-      "best_lap": "1:54.340",
-      "best_lap_driver": "Alexey Larin",
-      "best_lap_public_id": "drv_29df2a6a2e6e",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-18_2228_monza.json",
-      "results_repo_path": "260718_222857_R.json",
-      "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.37,
-        "rain_level": 0.13,
-        "weather_randomness": 7,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "profile_id": "day",
-        "code": "day",
-        "label": "Day",
-        "label_ru": "День",
-        "hour_of_day": 11,
-        "asset_id": "day_clear",
-        "asset": "day_clear",
-        "asset_label": "Clear Day",
-        "asset_label_ru": "Ясный день"
-      }
     }
   ],
-  "updated_at": "2026-07-28T22:54:16+03:00"
+  "updated_at": "2026-07-29T23:00:10+03:00"
 }
