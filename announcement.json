@@ -10,7 +10,7 @@
   "race_duration_minutes": 120,
   "server_window": "4h",
   "server_window_minutes": 240,
-  "launch_at": "2026-07-31T20:44+03:00",
+  "launch_at": "2026-07-31T20:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "endurance",
@@ -29,7 +29,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-07-30T22:40:49+03:00",
+  "updated_at": "2026-07-31T00:45:25+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",

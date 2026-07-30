@@ -18,7 +18,7 @@
       "practice_duration_minutes": 60,
       "race_duration_minutes": 120,
       "server_window_minutes": 240,
-      "launch_lead_minutes": 16,
+      "launch_lead_minutes": 60,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 2,
         "tyreSetCount": 50,
@@ -58,9 +58,9 @@
       "game_time_asset": "day_bright",
       "game_time_asset_id": "day_bright",
       "scoring_mode": "hourly_curve_multiplier",
-      "launch_at_local": "2026-07-31 20:44",
-      "launch_at": "2026-07-31T20:44+03:00",
-      "server_window_end_at": "2026-08-01T00:44+03:00",
+      "launch_at_local": "2026-07-31 20:00",
+      "launch_at": "2026-07-31T20:00+03:00",
+      "server_window_end_at": "2026-08-01T00:00+03:00",
       "occurrence_id": "endurance_2026-07-31_2100",
       "event_id": "hourly_2026-07-31_2100",
       "schedule_conflicts": [],
@@ -105,8 +105,8 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-08",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "kyalami",
+      "track_name": "Kyalami",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -117,7 +117,7 @@
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
-      "launch_lead_minutes": 16,
+      "launch_lead_minutes": 60,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
         "tyreSetCount": 50,
@@ -131,7 +131,7 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 33.0,
+        "ambient_temp_c": 30.0,
         "cloud_level": 0.42,
         "rain_level": 0.12,
         "weather_randomness": 4,
@@ -142,22 +142,22 @@
       "game_time": {
         "code": "morning",
         "label": "Morning",
-        "hour_of_day": 7,
+        "hour_of_day": 11,
         "asset_id": "morning_soft",
         "asset": "morning_soft"
       },
       "game_time_locked": true,
-      "hour_of_day": 7,
-      "game_time_hour": 7,
+      "hour_of_day": 11,
+      "game_time_hour": 11,
       "game_time_code": "morning",
       "game_time_label": "Morning",
       "game_time_label_ru": null,
       "game_time_asset": "morning_soft",
       "game_time_asset_id": "morning_soft",
       "scoring_mode": "hourly_curve_multiplier",
-      "launch_at_local": "2026-08-01 20:44",
-      "launch_at": "2026-08-01T20:44+03:00",
-      "server_window_end_at": "2026-08-01T23:44+03:00",
+      "launch_at_local": "2026-08-01 20:00",
+      "launch_at": "2026-08-01T20:00+03:00",
+      "server_window_end_at": "2026-08-01T23:00+03:00",
       "occurrence_id": "hourly_2026-08-01_2100",
       "event_id": "hourly_2026-08-01_2100",
       "schedule_conflicts": [],
@@ -5612,5 +5612,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-30T22:40:49+03:00"
+  "updated_at": "2026-07-31T00:45:25+03:00"
 }
