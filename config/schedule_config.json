@@ -710,10 +710,10 @@
         "driverStintTimeSec": -1,
         "maxTotalDrivingTime": -1,
         "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": true,
-        "isMandatoryPitstopRefuellingRequired": true,
-        "isMandatoryPitstopTyreChangeRequired": true,
-        "pitWindowLengthSec": 1200,
+        "isRefuellingTimeFixed": false,
+        "isMandatoryPitstopRefuellingRequired": false,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
       }
