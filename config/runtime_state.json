@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "completed",
   "last_error": null,
-  "updated_at": "2026-08-01T14:12:29+03:00",
+  "updated_at": "2026-08-01T19:05:17+03:00",
   "last_result_q_files": [
     "260731_211720_Q.json"
   ],
@@ -19,8 +19,8 @@
   "planned_weather": {
     "hourly_2026-08-01_2100": {
       "ambient_temp_c": 30.0,
-      "cloud_level": 0.42,
-      "rain_level": 0.12,
+      "cloud_level": 0.3,
+      "rain_level": 0.05,
       "weather_randomness": 4,
       "summary_key": "mixed"
     },

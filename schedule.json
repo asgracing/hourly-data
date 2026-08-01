@@ -6,8 +6,8 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-08",
-      "track_code": "kyalami",
-      "track_name": "Kyalami",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nordschleife",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -33,13 +33,13 @@
       "weather": {
         "profile_id": null,
         "ambient_temp_c": 30.0,
-        "cloud_level": 0.42,
-        "rain_level": 0.12,
+        "cloud_level": 0.3,
+        "rain_level": 0.05,
         "weather_randomness": 4,
         "summary_key": "mixed"
       },
       "weather_locked": true,
-      "rain_level": 0.12,
+      "rain_level": 0.05,
       "game_time": {
         "code": "morning",
         "label": "Morning",
@@ -5637,5 +5637,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-01T14:12:29+03:00"
+  "updated_at": "2026-08-01T19:05:17+03:00"
 }

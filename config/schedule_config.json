@@ -721,8 +721,8 @@
     {
       "date": "2026-08-01",
       "start_time_local": "21:00",
-      "track_code": "kyalami",
-      "track_name": "Kyalami",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nordschleife",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -738,8 +738,8 @@
       "points_multiplier": 5.0,
       "hour_of_day": 11,
       "ambient_temp_c": 30.0,
-      "cloud_level": 0.42,
-      "rain_level": 0.12,
+      "cloud_level": 0.3,
+      "rain_level": 0.05,
       "weather_randomness": 4,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
