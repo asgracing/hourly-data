@@ -773,8 +773,8 @@
       "points_multiplier": 5.0,
       "hour_of_day": 12,
       "ambient_temp_c": 28.0,
-      "cloud_level": 0.38,
-      "rain_level": 0.12,
+      "cloud_level": 0.3,
+      "rain_level": 0.05,
       "weather_randomness": 3,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
