@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-01_2249_nurburgring_24h",
+      "title": "Hourly Race",
+      "track": "nurburgring_24h",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nurburgring 24H",
+      "finished_at": "2026-08-01T22:49:04+03:00",
+      "finished_at_local": "2026-08-01 22:49",
+      "participants_count": 22,
+      "scoring_participants_count": 18,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Andrei Soldatenkov [ASG]",
+      "winner_public_id": "drv_b466bb6eedd8",
+      "best_lap": "8:19.415",
+      "best_lap_driver": "Andrei Soldatenkov [ASG]",
+      "best_lap_public_id": "drv_b466bb6eedd8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-01_2249_nurburgring_24h.json",
+      "results_repo_path": "260801_224904_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30.0,
+        "cloud_level": 0.3,
+        "rain_level": 0.05,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 11,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      }
+    },
+    {
       "event_id": "hourly_2026-07-31_2325_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,47 +431,7 @@
         "asset_id": "morning_soft",
         "asset": "morning_soft"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-20_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-20T22:29:15+03:00",
-      "finished_at_local": "2026-07-20 22:29",
-      "participants_count": 31,
-      "scoring_participants_count": 29,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "William Blazkowicz [ASG]",
-      "winner_public_id": "drv_697cf8978bd7",
-      "best_lap": "1:47.615",
-      "best_lap_driver": "Martin Genoverse | SLR",
-      "best_lap_public_id": "drv_7f0228d64103",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-20_2229_monza.json",
-      "results_repo_path": "260720_222915_R.json",
-      "weather": {
-        "profile_id": 2,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.21,
-        "rain_level": 0.15,
-        "weather_randomness": 6,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "profile_id": "evening",
-        "code": "evening",
-        "label": "Evening",
-        "label_ru": "Вечер",
-        "hour_of_day": 16,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm",
-        "asset_label": "Warm Sunset",
-        "asset_label_ru": "Тёплый закат"
-      }
     }
   ],
-  "updated_at": "2026-08-01T19:05:18+03:00"
+  "updated_at": "2026-08-01T22:56:04+03:00"
 }
