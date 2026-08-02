@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-02_2234_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-02T22:34:30+03:00",
+      "finished_at_local": "2026-08-02 22:34",
+      "participants_count": 40,
+      "scoring_participants_count": 33,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Josh Wirtz",
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "1:46.352",
+      "best_lap_driver": "Josh Wirtz",
+      "best_lap_public_id": "drv_4d46856d85e4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-02_2234_monza.json",
+      "results_repo_path": "260802_223430_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28.0,
+        "cloud_level": 0.3,
+        "rain_level": 0.05,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 12,
+        "asset_id": "day_neutral",
+        "asset": "day_neutral"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-01_2249_nurburgring_24h",
       "title": "Hourly Race",
       "track": "nurburgring_24h",
@@ -395,43 +431,7 @@
         "asset_id": "evening_long_shadows",
         "asset": "evening_long_shadows"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-21_2228_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-21T22:28:38+03:00",
-      "finished_at_local": "2026-07-21 22:28",
-      "participants_count": 39,
-      "scoring_participants_count": 32,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Andrei Soldatenkov [ASG]",
-      "winner_public_id": "drv_b466bb6eedd8",
-      "best_lap": "1:47.990",
-      "best_lap_driver": "William Blazkowicz [ASG]",
-      "best_lap_public_id": "drv_697cf8978bd7",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-21_2228_monza.json",
-      "results_repo_path": "260721_222838_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 20.0,
-        "cloud_level": 0.4,
-        "rain_level": 0.17,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 8,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      }
     }
   ],
-  "updated_at": "2026-08-02T16:46:54+03:00"
+  "updated_at": "2026-08-02T22:40:02+03:00"
 }
