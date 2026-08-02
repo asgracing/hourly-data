@@ -319,7 +319,7 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200,
+        "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
       },
@@ -378,7 +378,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 2,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -5729,5 +5729,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-02T16:22:49+03:00"
+  "updated_at": "2026-08-02T16:36:16+03:00"
 }
