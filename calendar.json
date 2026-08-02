@@ -590,8 +590,8 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-08",
-      "track_code": "hungaroring",
-      "track_name": "Hungaroring",
+      "track_code": "spa",
+      "track_name": "Spa",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "endurance",
@@ -5729,5 +5729,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-02T16:03:16+03:00"
+  "updated_at": "2026-08-02T16:05:57+03:00"
 }
