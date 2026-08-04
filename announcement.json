@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-08-04_2100",
-  "date": "2026-08-04",
+  "event_id": "hourly_2026-08-05_2100",
+  "date": "2026-08-05",
   "start_time_local": "21:00",
   "timezone": "UTC+3",
-  "track_code": "imola",
-  "track_name": "Imola",
+  "track_code": "monza",
+  "track_name": "Monza",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-08-04T20:00+03:00",
+  "launch_at": "2026-08-05T20:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,14 +29,14 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-08-03T22:39:01+03:00",
+  "updated_at": "2026-08-04T22:38:05+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
     "password": "ghbdtn",
     "car_group": "GT3",
     "max_car_slots": 85,
-    "safety_rating_requirement": 45,
+    "safety_rating_requirement": 60,
     "track_medals_requirement": false,
     "racecraft_rating_requirement": -1,
     "is_race_locked": false
@@ -66,17 +66,17 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 26.0,
-    "cloud_level": 0.07,
-    "rain_level": null,
-    "weather_randomness": 1,
-    "summary_key": "clear"
+    "ambient_temp_c": 27.0,
+    "cloud_level": 0.34,
+    "rain_level": 0.05,
+    "weather_randomness": 5,
+    "summary_key": "mixed"
   },
   "game_time": {
     "code": "evening",
     "label": "Evening",
-    "hour_of_day": 19,
-    "asset_id": "evening_long_shadows",
-    "asset": "evening_long_shadows"
+    "hour_of_day": 16,
+    "asset_id": "evening_warm",
+    "asset": "evening_warm"
   }
 }
