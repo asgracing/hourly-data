@@ -28,13 +28,13 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200,
+        "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 27.0,
+        "ambient_temp_c": 27,
         "cloud_level": 0.34,
         "rain_level": 0.05,
         "weather_randomness": 5,
@@ -87,7 +87,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -127,11 +127,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 29.0,
+        "ambient_temp_c": 29,
         "cloud_level": 0.18,
         "rain_level": 0.04,
         "weather_randomness": 3,
@@ -184,7 +184,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -224,11 +224,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 30.0,
+        "ambient_temp_c": 30,
         "cloud_level": 0.23,
         "rain_level": 0.04,
         "weather_randomness": 2,
@@ -281,7 +281,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -420,11 +420,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 23.0,
+        "ambient_temp_c": 23,
         "cloud_level": 0.14,
         "rain_level": 0.02,
         "weather_randomness": 3,
@@ -477,7 +477,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -517,11 +517,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 26.0,
+        "ambient_temp_c": 26,
         "cloud_level": 0.54,
         "rain_level": 0.18,
         "weather_randomness": 5,
@@ -574,7 +574,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -614,11 +614,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 29.0,
+        "ambient_temp_c": 29,
         "cloud_level": 0.38,
         "rain_level": 0.18,
         "weather_randomness": 5,
@@ -671,7 +671,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -711,13 +711,13 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200,
+        "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 34.0,
+        "ambient_temp_c": 34,
         "cloud_level": 0.45,
         "rain_level": 0.06,
         "weather_randomness": 3,
@@ -770,7 +770,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -810,11 +810,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 30.0,
+        "ambient_temp_c": 30,
         "cloud_level": 0.22,
         "rain_level": 0.07,
         "weather_randomness": 5,
@@ -867,7 +867,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -907,11 +907,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 35.0,
+        "ambient_temp_c": 35,
         "cloud_level": 0.44,
         "rain_level": 0.2,
         "weather_randomness": 3,
@@ -964,7 +964,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -1010,7 +1010,7 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 34.0,
+        "ambient_temp_c": 34,
         "cloud_level": 0.25,
         "rain_level": 0.1,
         "weather_randomness": 5,
@@ -1103,11 +1103,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 34.0,
+        "ambient_temp_c": 34,
         "cloud_level": 0.42,
         "rain_level": 0.18,
         "weather_randomness": 3,
@@ -1160,7 +1160,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -1200,11 +1200,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 28.0,
+        "ambient_temp_c": 28,
         "cloud_level": 0.11,
         "rain_level": 0.03,
         "weather_randomness": 3,
@@ -1257,7 +1257,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -1297,11 +1297,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 36.0,
+        "ambient_temp_c": 36,
         "cloud_level": 0.42,
         "rain_level": 0.1,
         "weather_randomness": 4,
@@ -1354,7 +1354,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -1394,13 +1394,13 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200,
+        "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 31.0,
+        "ambient_temp_c": 31,
         "cloud_level": 0.22,
         "rain_level": 0.04,
         "weather_randomness": 3,
@@ -1453,7 +1453,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -1493,11 +1493,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 26.0,
+        "ambient_temp_c": 26,
         "cloud_level": 0.19,
         "rain_level": 0.01,
         "weather_randomness": 3,
@@ -1550,7 +1550,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -1590,11 +1590,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 26.0,
+        "ambient_temp_c": 26,
         "cloud_level": 0.16,
         "rain_level": 0.03,
         "weather_randomness": 3,
@@ -1647,7 +1647,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -1786,11 +1786,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 26.0,
+        "ambient_temp_c": 26,
         "cloud_level": 0.12,
         "rain_level": 0.01,
         "weather_randomness": 3,
@@ -1843,7 +1843,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -1883,11 +1883,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 34.0,
+        "ambient_temp_c": 34,
         "cloud_level": 0.33,
         "rain_level": 0.06,
         "weather_randomness": 4,
@@ -1940,7 +1940,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -1980,11 +1980,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 30.0,
+        "ambient_temp_c": 30,
         "cloud_level": 0.37,
         "rain_level": 0.09,
         "weather_randomness": 5,
@@ -2037,7 +2037,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -2070,7 +2070,7 @@
       "launch_lead_minutes": 60,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
-        "pitWindowLengthSec": 1200,
+        "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false,
         "tyreSetCount": 50,
@@ -2083,7 +2083,7 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 26.0,
+        "ambient_temp_c": 26,
         "cloud_level": 0.25,
         "rain_level": 0.02,
         "weather_randomness": 1,
@@ -2136,7 +2136,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -2176,11 +2176,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 30.0,
+        "ambient_temp_c": 30,
         "cloud_level": 0.64,
         "rain_level": 0.27,
         "weather_randomness": 6,
@@ -2233,7 +2233,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -2273,11 +2273,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 28.0,
+        "ambient_temp_c": 28,
         "cloud_level": 0.23,
         "rain_level": 0.01,
         "weather_randomness": 2,
@@ -2330,7 +2330,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -2462,11 +2462,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 25.0,
+        "ambient_temp_c": 25,
         "cloud_level": 0.15,
         "rain_level": 0.03,
         "weather_randomness": 1,
@@ -2519,7 +2519,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -2559,11 +2559,11 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 30.0,
+        "ambient_temp_c": 30,
         "cloud_level": 0.33,
         "rain_level": 0.07,
         "weather_randomness": 4,
@@ -2616,7 +2616,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -5709,5 +5709,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-04T22:38:05+03:00"
+  "updated_at": "2026-08-05T15:27:11+03:00"
 }
