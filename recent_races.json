@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-05_2231_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-05T22:31:34+03:00",
+      "finished_at_local": "2026-08-05 22:31",
+      "participants_count": 46,
+      "scoring_participants_count": 40,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Kosmach",
+      "winner_public_id": "drv_c98693ccbce8",
+      "best_lap": "1:47.285",
+      "best_lap_driver": "Kosso Filippo[ASG]",
+      "best_lap_public_id": "drv_964ce73ba40a",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-05_2231_monza.json",
+      "results_repo_path": "260805_223134_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.34,
+        "rain_level": 0.05,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 16,
+        "asset_id": "evening_warm",
+        "asset": "evening_warm"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-04_2230_imola",
       "title": "Hourly Race",
       "track": "imola",
@@ -395,43 +431,7 @@
         "asset_id": "day_wet",
         "asset": "day_wet"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-24_2228_spa",
-      "title": "Hourly Race",
-      "track": "spa",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "finished_at": "2026-07-24T22:28:35+03:00",
-      "finished_at_local": "2026-07-24 22:28",
-      "participants_count": 64,
-      "scoring_participants_count": 52,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "William Blazkowicz [ASG]",
-      "winner_public_id": "drv_697cf8978bd7",
-      "best_lap": "2:29.450",
-      "best_lap_driver": "Victor Rovenko",
-      "best_lap_public_id": "drv_de8a222e2e87",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-24_2228_spa.json",
-      "results_repo_path": "260724_222835_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26.0,
-        "cloud_level": 0.45,
-        "rain_level": 0.2,
-        "weather_randomness": 6,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_mixed",
-        "asset": "evening_mixed"
-      }
     }
   ],
-  "updated_at": "2026-08-05T15:44:13+03:00"
+  "updated_at": "2026-08-05T23:00:12+03:00"
 }
