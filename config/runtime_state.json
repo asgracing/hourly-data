@@ -8,7 +8,7 @@
   "server_pid": null,
   "last_status": "error",
   "last_error": "Scheduled occurrence not found: hourly_2026-08-04_2100. Upcoming ids: ['hourly_2026-08-05_2100', 'hourly_2026-08-06_2100', 'hourly_2026-08-07_2100']",
-  "updated_at": "2026-08-05T15:27:11+03:00",
+  "updated_at": "2026-08-05T15:44:11+03:00",
   "last_result_q_files": [
     "260804_212210_Q.json"
   ],
