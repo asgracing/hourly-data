@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-06_2238_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-06T22:38:06+03:00",
+      "finished_at_local": "2026-08-06 22:38",
+      "participants_count": 27,
+      "scoring_participants_count": 21,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Andrei Soldatenkov [ASG]",
+      "winner_public_id": "drv_b466bb6eedd8",
+      "best_lap": "1:47.662",
+      "best_lap_driver": "Andrei Soldatenkov [ASG]",
+      "best_lap_public_id": "drv_b466bb6eedd8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-06_2238_monza.json",
+      "results_repo_path": "260806_223806_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.18,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-05_2231_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,43 +431,7 @@
         "asset_id": "day_bright",
         "asset": "day_bright"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-25_2231_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-07-25T22:31:57+03:00",
-      "finished_at_local": "2026-07-25 22:31",
-      "participants_count": 36,
-      "scoring_participants_count": 32,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Aleksey Mihin",
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "1:48.257",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-25_2231_monza.json",
-      "results_repo_path": "260725_223157_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26.0,
-        "cloud_level": 0.3,
-        "rain_level": 0.05,
-        "weather_randomness": 6,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 13,
-        "asset_id": "day_wet",
-        "asset": "day_wet"
-      }
     }
   ],
-  "updated_at": "2026-08-05T23:00:12+03:00"
+  "updated_at": "2026-08-06T23:00:11+03:00"
 }
