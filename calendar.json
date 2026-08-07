@@ -708,7 +708,7 @@
         "driverStintTimeSec": -1,
         "maxTotalDrivingTime": -1,
         "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": true,
+        "isRefuellingTimeFixed": false,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1,
@@ -772,7 +772,7 @@
         "mandatory_pitstop_count": 1,
         "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
-        "refuelling_time_fixed": true,
+        "refuelling_time_fixed": false,
         "mandatory_pitstop_refuelling_required": true,
         "mandatory_pitstop_tyre_change_required": false,
         "mandatory_pitstop_swap_driver_required": false,
@@ -1391,7 +1391,7 @@
         "driverStintTimeSec": -1,
         "maxTotalDrivingTime": -1,
         "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": true,
+        "isRefuellingTimeFixed": false,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1,
@@ -1400,7 +1400,7 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 30.0,
+        "ambient_temp_c": 30,
         "cloud_level": 0.22,
         "rain_level": 0.05,
         "weather_randomness": 5,
@@ -1455,7 +1455,7 @@
         "mandatory_pitstop_count": 1,
         "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
-        "refuelling_time_fixed": true,
+        "refuelling_time_fixed": false,
         "mandatory_pitstop_refuelling_required": true,
         "mandatory_pitstop_tyre_change_required": false,
         "mandatory_pitstop_swap_driver_required": false,
@@ -2072,11 +2072,15 @@
         "mandatoryPitstopCount": 1,
         "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
-        "isMandatoryPitstopSwapDriverRequired": false
+        "isMandatoryPitstopSwapDriverRequired": false,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": false,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 29.0,
+        "ambient_temp_c": 29,
         "cloud_level": 0.41,
         "rain_level": 0.08,
         "weather_randomness": 4,
@@ -2131,7 +2135,7 @@
         "mandatory_pitstop_count": 1,
         "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
-        "refuelling_time_fixed": true,
+        "refuelling_time_fixed": false,
         "mandatory_pitstop_refuelling_required": true,
         "mandatory_pitstop_tyre_change_required": false,
         "mandatory_pitstop_swap_driver_required": false,
@@ -5680,5 +5684,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-08T00:54:24+03:00"
+  "updated_at": "2026-08-08T00:54:56+03:00"
 }

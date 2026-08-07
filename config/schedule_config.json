@@ -1243,7 +1243,7 @@
         "driverStintTimeSec": -1,
         "maxTotalDrivingTime": -1,
         "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": true,
+        "isRefuellingTimeFixed": false,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1,
@@ -1482,7 +1482,7 @@
       "launch_lead_minutes": 60,
       "points_multiplier": 10.0,
       "hour_of_day": 10,
-      "ambient_temp_c": 30.0,
+      "ambient_temp_c": 30,
       "cloud_level": 0.22,
       "rain_level": 0.05,
       "weather_randomness": 5,
@@ -1492,7 +1492,7 @@
         "driverStintTimeSec": -1,
         "maxTotalDrivingTime": -1,
         "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": true,
+        "isRefuellingTimeFixed": false,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1,
@@ -1731,7 +1731,7 @@
       "launch_lead_minutes": 60,
       "points_multiplier": 10.0,
       "hour_of_day": 16,
-      "ambient_temp_c": 29.0,
+      "ambient_temp_c": 29,
       "cloud_level": 0.41,
       "rain_level": 0.08,
       "weather_randomness": 4,
@@ -1739,7 +1739,11 @@
         "mandatoryPitstopCount": 1,
         "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
-        "isMandatoryPitstopSwapDriverRequired": false
+        "isMandatoryPitstopSwapDriverRequired": false,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": false,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false
       }
     },
     {
