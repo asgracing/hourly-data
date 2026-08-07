@@ -37,7 +37,7 @@
         "ambient_temp_c": 27,
         "cloud_level": 0.4,
         "rain_level": 0.1,
-        "weather_randomness": 1,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
       "weather_locked": true,
@@ -5680,5 +5680,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-07T23:00:04+03:00"
+  "updated_at": "2026-08-08T00:49:41+03:00"
 }

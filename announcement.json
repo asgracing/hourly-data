@@ -29,7 +29,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-08-07T23:00:04+03:00",
+  "updated_at": "2026-08-08T00:49:41+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -69,7 +69,7 @@
     "ambient_temp_c": 27,
     "cloud_level": 0.4,
     "rain_level": 0.1,
-    "weather_randomness": 1,
+    "weather_randomness": 5,
     "summary_key": "mixed"
   },
   "game_time": {

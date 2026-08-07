@@ -987,7 +987,7 @@
       "ambient_temp_c": 27,
       "cloud_level": 0.4,
       "rain_level": 0.1,
-      "weather_randomness": 1,
+      "weather_randomness": 5,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 2,
         "tyreSetCount": 50,
