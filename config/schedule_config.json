@@ -984,9 +984,9 @@
       "launch_lead_minutes": 60,
       "points_multiplier": 10.0,
       "hour_of_day": 15,
-      "ambient_temp_c": 27.0,
-      "cloud_level": 0.04,
-      "rain_level": 0.02,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.4,
+      "rain_level": 0.1,
       "weather_randomness": 1,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 2,

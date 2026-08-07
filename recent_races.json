@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-07_2229_imola",
+      "title": "Hourly Race",
+      "track": "imola",
+      "track_code": "imola",
+      "track_name": "Imola",
+      "finished_at": "2026-08-07T22:29:46+03:00",
+      "finished_at_local": "2026-08-07 22:29",
+      "participants_count": 21,
+      "scoring_participants_count": 20,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "William Blazkowicz [ASG]",
+      "winner_public_id": "drv_697cf8978bd7",
+      "best_lap": "1:42.682",
+      "best_lap_driver": "William Blazkowicz [ASG]",
+      "best_lap_public_id": "drv_697cf8978bd7",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-07_2229_imola.json",
+      "results_repo_path": "260807_222946_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.23,
+        "rain_level": 0.04,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 9,
+        "asset_id": "morning_clear",
+        "asset": "morning_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-06_2238_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,43 +431,7 @@
         "asset_id": "night_cool",
         "asset": "night_cool"
       }
-    },
-    {
-      "event_id": "hourly_2026-07-26_2246_nurburgring_24h",
-      "title": "Hourly Race",
-      "track": "nurburgring_24h",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nurburgring 24H",
-      "finished_at": "2026-07-26T22:46:18+03:00",
-      "finished_at_local": "2026-07-26 22:46",
-      "participants_count": 29,
-      "scoring_participants_count": 26,
-      "points_multiplier": 1,
-      "points_rule": "scaled_top10_by_classified_plus_best_lap",
-      "winner": "Aleksey Mihin",
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "8:10.697",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-07-26_2246_nurburgring_24h.json",
-      "results_repo_path": "260726_224618_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26.0,
-        "cloud_level": 0.2,
-        "rain_level": 0.03,
-        "weather_randomness": 6,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 14,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      }
     }
   ],
-  "updated_at": "2026-08-06T23:00:11+03:00"
+  "updated_at": "2026-08-07T23:00:11+03:00"
 }
