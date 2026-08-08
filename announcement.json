@@ -1,22 +1,22 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-08-08_2100",
-  "date": "2026-08-08",
+  "event_id": "hourly_2026-08-09_2100",
+  "date": "2026-08-09",
   "start_time_local": "21:00",
   "timezone": "UTC+3",
   "track_code": "monza",
   "track_name": "Monza",
-  "race_duration_minutes": 120,
-  "server_window": "4h",
-  "server_window_minutes": 240,
-  "launch_at": "2026-08-08T20:00+03:00",
+  "race_duration_minutes": 60,
+  "server_window": "3h",
+  "server_window_minutes": 180,
+  "launch_at": "2026-08-09T20:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
-  "event_type": "endurance",
-  "race_format": "endurance",
+  "event_type": "hourly",
+  "race_format": "hourly",
   "competition_mode": "standalone",
-  "points_multiplier": 10.0,
+  "points_multiplier": 5.0,
   "scoring_mode": "hourly_curve_multiplier",
   "voting_disabled": false,
   "badge_label": null,
@@ -29,7 +29,7 @@
     "period": "2026-07",
     "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
   },
-  "updated_at": "2026-08-08T00:56:09+03:00",
+  "updated_at": "2026-08-08T23:45:50+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -42,20 +42,20 @@
     "is_race_locked": false
   },
   "session": {
-    "format_label": "P 60m + Q 20m + R 120m",
+    "format_label": "P 60m + Q 20m + R 60m",
     "practice_duration_minutes": 60,
     "qualifying_duration_minutes": 20,
-    "race_duration_minutes": 120,
+    "race_duration_minutes": 60,
     "pre_race_waiting_time_seconds": 120,
     "session_over_time_seconds": 600,
     "time_multiplier": 3,
     "practice_time_multiplier": 3
   },
   "rules": {
-    "mandatory_pitstop_count": 2,
+    "mandatory_pitstop_count": 1,
     "pit_window_length_minutes": null,
     "refuelling_allowed_in_race": true,
-    "refuelling_time_fixed": false,
+    "refuelling_time_fixed": true,
     "mandatory_pitstop_refuelling_required": true,
     "mandatory_pitstop_tyre_change_required": false,
     "mandatory_pitstop_swap_driver_required": false,
@@ -66,17 +66,17 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 27,
-    "cloud_level": 0.4,
-    "rain_level": 0.1,
-    "weather_randomness": 5,
-    "summary_key": "mixed"
+    "ambient_temp_c": 23,
+    "cloud_level": 0.14,
+    "rain_level": 0.02,
+    "weather_randomness": 3,
+    "summary_key": "clear"
   },
   "game_time": {
-    "code": "day",
-    "label": "Day",
-    "hour_of_day": 15,
-    "asset_id": "day_bright",
-    "asset": "day_bright"
+    "code": "evening",
+    "label": "Evening",
+    "hour_of_day": 16,
+    "asset_id": "evening_gold",
+    "asset": "evening_gold"
   }
 }
