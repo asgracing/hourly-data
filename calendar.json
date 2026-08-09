@@ -68,7 +68,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -165,7 +165,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -262,7 +262,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -361,7 +361,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -458,7 +458,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -555,7 +555,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -654,7 +654,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -751,7 +751,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -848,7 +848,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -945,7 +945,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1044,7 +1044,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1141,7 +1141,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1238,7 +1238,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1337,7 +1337,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1434,7 +1434,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1531,7 +1531,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1628,7 +1628,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1727,7 +1727,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1824,7 +1824,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -1921,7 +1921,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2017,7 +2017,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2114,7 +2114,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2211,7 +2211,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2299,7 +2299,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2387,7 +2387,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2475,7 +2475,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2563,7 +2563,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2651,7 +2651,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2739,7 +2739,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2827,7 +2827,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -2915,7 +2915,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3003,7 +3003,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3091,7 +3091,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3179,7 +3179,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3267,7 +3267,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3355,7 +3355,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3443,7 +3443,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3531,7 +3531,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3619,7 +3619,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3707,7 +3707,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3795,7 +3795,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3883,7 +3883,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -3971,7 +3971,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4059,7 +4059,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4147,7 +4147,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4235,7 +4235,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4323,7 +4323,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4411,7 +4411,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4499,7 +4499,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4587,7 +4587,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4675,7 +4675,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4763,7 +4763,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4851,7 +4851,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -4939,7 +4939,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5027,7 +5027,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5115,7 +5115,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5203,7 +5203,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5291,7 +5291,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5379,7 +5379,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5467,7 +5467,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5555,7 +5555,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5643,7 +5643,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 60,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -5673,5 +5673,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-08T23:45:50+03:00"
+  "updated_at": "2026-08-09T18:32:54+03:00"
 }

@@ -1,14 +1,14 @@
 {
-  "active_event_id": "hourly_2026-08-08_2100",
+  "active_event_id": null,
   "last_planned_start_local": "2026-08-08T21:00:00+03:00",
   "last_actual_start_local": "2026-08-08T20:00:02+03:00",
   "last_actual_stop_local": "2026-08-08T23:45:48+03:00",
   "last_track_code": "monza",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
-  "last_status": "publishing",
+  "last_status": "completed",
   "last_error": null,
-  "updated_at": "2026-08-08T23:45:50+03:00",
+  "updated_at": "2026-08-09T18:32:54+03:00",
   "last_result_q_files": [
     "260808_212202_Q.json"
   ],
@@ -17,13 +17,6 @@
   ],
   "last_result_check_at": "2026-08-08T23:45:50+03:00",
   "planned_weather": {
-    "hourly_2026-08-08_2100": {
-      "ambient_temp_c": 27,
-      "cloud_level": 0.4,
-      "rain_level": 0.1,
-      "weather_randomness": 5,
-      "summary_key": "mixed"
-    },
     "hourly_2026-08-09_2100": {
       "ambient_temp_c": 23,
       "cloud_level": 0.14,
@@ -551,13 +544,6 @@
   "stop_reason": "stop_requested",
   "last_championship_result_files": [],
   "planned_game_time": {
-    "hourly_2026-08-08_2100": {
-      "code": "day",
-      "label": "Day",
-      "hour_of_day": 15,
-      "asset_id": "day_bright",
-      "asset": "day_bright"
-    },
     "hourly_2026-08-09_2100": {
       "code": "evening",
       "label": "Evening",
@@ -6185,42 +6171,7 @@
       "updated_at": "2026-07-10T22:54:25+03:00"
     }
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-08-08_2100",
-    "occurrence_id": "endurance_2026-08-08_2100",
-    "slot": {
-      "event_id": "hourly_2026-08-08_2100",
-      "occurrence_id": "endurance_2026-08-08_2100",
-      "date": "2026-08-08",
-      "start_time_local": "21:00",
-      "launch_at": "2026-08-08T20:00+03:00",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "event_type": "endurance",
-      "race_format": "endurance",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 10.0,
-      "race_duration_minutes": 120,
-      "server_window_minutes": 240
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.4,
-      "rain_level": 0.1,
-      "weather_randomness": 5,
-      "summary_key": "mixed"
-    },
-    "updated_at": "2026-08-08T20:00:02+03:00",
-    "game_time": {
-      "code": "day",
-      "label": "Day",
-      "hour_of_day": 15,
-      "asset_id": "day_bright",
-      "asset": "day_bright"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-08-08_2100",
     "occurrence_id": "endurance_2026-08-08_2100",
@@ -6257,7 +6208,7 @@
       "asset": "day_bright"
     }
   },
-  "orchestrator_pid": 16552,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-08-08T20:00:02+03:00",
   "run_duration_seconds": 14400,
   "expected_stop_at": null,
@@ -6347,6 +6298,6 @@
       "reason": "stop_requested"
     }
   },
-  "last_completed_event_id": "hourly_2026-08-07_2100",
-  "last_completion_at": "2026-08-07T23:00:15+03:00"
+  "last_completed_event_id": "hourly_2026-08-08_2100",
+  "last_completion_at": "2026-08-08T23:46:02+03:00"
 }
