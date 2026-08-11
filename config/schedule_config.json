@@ -1127,8 +1127,8 @@
       "points_multiplier": 5.0,
       "hour_of_day": 12,
       "ambient_temp_c": 34,
-      "cloud_level": 0.45,
-      "rain_level": 0.06,
+      "cloud_level": 0.2,
+      "rain_level": 0.02,
       "weather_randomness": 3,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
@@ -1165,7 +1165,7 @@
       "hour_of_day": 3,
       "ambient_temp_c": 30,
       "cloud_level": 0.22,
-      "rain_level": 0.07,
+      "rain_level": 0.0,
       "weather_randomness": 5,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,

@@ -1,14 +1,14 @@
 {
-  "active_event_id": "hourly_2026-08-11_2100",
+  "active_event_id": null,
   "last_planned_start_local": "2026-08-11T21:00:00+03:00",
   "last_actual_start_local": "2026-08-11T20:00:01+03:00",
   "last_actual_stop_local": "2026-08-11T22:49:52+03:00",
   "last_track_code": "spa",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
-  "last_status": "publishing",
+  "last_status": "completed",
   "last_error": null,
-  "updated_at": "2026-08-11T22:49:55+03:00",
+  "updated_at": "2026-08-11T22:51:33+03:00",
   "last_result_q_files": [
     "260811_212511_Q.json"
   ],
@@ -17,24 +17,17 @@
   ],
   "last_result_check_at": "2026-08-11T22:49:54+03:00",
   "planned_weather": {
-    "hourly_2026-08-11_2100": {
-      "ambient_temp_c": 24,
-      "cloud_level": 0.35,
-      "rain_level": 0.05,
-      "weather_randomness": 3,
-      "summary_key": "mixed"
-    },
     "hourly_2026-08-12_2100": {
       "ambient_temp_c": 34,
-      "cloud_level": 0.45,
-      "rain_level": 0.06,
+      "cloud_level": 0.2,
+      "rain_level": 0.02,
       "weather_randomness": 3,
-      "summary_key": "mixed"
+      "summary_key": "clear"
     },
     "hourly_2026-08-13_2100": {
       "ambient_temp_c": 30,
       "cloud_level": 0.22,
-      "rain_level": 0.07,
+      "rain_level": 0.0,
       "weather_randomness": 5,
       "summary_key": "clear"
     },
@@ -557,13 +550,6 @@
   "stop_reason": "stop_requested",
   "last_championship_result_files": [],
   "planned_game_time": {
-    "hourly_2026-08-11_2100": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 19,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
-    },
     "hourly_2026-08-12_2100": {
       "code": "day",
       "label": "Day",
@@ -6731,42 +6717,7 @@
       "updated_at": "2026-07-10T22:54:25+03:00"
     }
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-08-11_2100",
-    "occurrence_id": "hourly_2026-08-11_2100",
-    "slot": {
-      "event_id": "hourly_2026-08-11_2100",
-      "occurrence_id": "hourly_2026-08-11_2100",
-      "date": "2026-08-11",
-      "start_time_local": "21:00",
-      "launch_at": "2026-08-11T20:00+03:00",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "event_type": "hourly",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.35,
-      "rain_level": 0.05,
-      "weather_randomness": 3,
-      "summary_key": "mixed"
-    },
-    "updated_at": "2026-08-11T20:00:01+03:00",
-    "game_time": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 19,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-08-11_2100",
     "occurrence_id": "hourly_2026-08-11_2100",
@@ -6803,7 +6754,7 @@
       "asset": "evening_warm"
     }
   },
-  "orchestrator_pid": 35152,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-08-11T20:00:01+03:00",
   "run_duration_seconds": 10800,
   "expected_stop_at": null,
@@ -6905,6 +6856,6 @@
       "reason": "stop_requested"
     }
   },
-  "last_completed_event_id": "hourly_2026-08-10_2100",
-  "last_completion_at": "2026-08-10T22:30:17+03:00"
+  "last_completed_event_id": "hourly_2026-08-11_2100",
+  "last_completion_at": "2026-08-11T22:50:06+03:00"
 }
