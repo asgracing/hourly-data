@@ -32,14 +32,14 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.38,
-        "rain_level": 0.18,
-        "weather_randomness": 5,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.35,
+        "rain_level": 0.05,
+        "weather_randomness": 3,
         "summary_key": "mixed"
       },
       "weather_locked": true,
-      "rain_level": 0.18,
+      "rain_level": 0.05,
       "game_time": {
         "code": "evening",
         "label": "Evening",
@@ -5655,5 +5655,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-10T22:30:05+03:00"
+  "updated_at": "2026-08-11T09:19:57+03:00"
 }
