@@ -34,10 +34,10 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 34,
+        "ambient_temp_c": 22,
         "cloud_level": 0.2,
         "rain_level": 0.02,
-        "weather_randomness": 3,
+        "weather_randomness": 2,
         "summary_key": "clear"
       },
       "weather_locked": true,
@@ -131,14 +131,14 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 30,
+        "ambient_temp_c": 28,
         "cloud_level": 0.22,
-        "rain_level": 0.0,
-        "weather_randomness": 5,
+        "rain_level": 0.03,
+        "weather_randomness": 4,
         "summary_key": "clear"
       },
       "weather_locked": true,
-      "rain_level": 0.0,
+      "rain_level": 0.03,
       "game_time": {
         "code": "night",
         "label": "Night",
@@ -5646,5 +5646,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-11T22:51:33+03:00"
+  "updated_at": "2026-08-12T09:21:39+03:00"
 }
