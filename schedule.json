@@ -129,14 +129,14 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.44,
-        "rain_level": 0.2,
-        "weather_randomness": 3,
-        "summary_key": "wet"
+        "ambient_temp_c": 26,
+        "cloud_level": 0.2,
+        "rain_level": 0.02,
+        "weather_randomness": 2,
+        "summary_key": "clear"
       },
       "weather_locked": true,
-      "rain_level": 0.2,
+      "rain_level": 0.02,
       "game_time": {
         "code": "evening",
         "label": "Evening",
@@ -5635,5 +5635,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-12T23:00:04+03:00"
+  "updated_at": "2026-08-13T16:00:11+03:00"
 }
