@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-13_2237_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-13T22:37:14+03:00",
+      "finished_at_local": "2026-08-13 22:37",
+      "participants_count": 41,
+      "scoring_participants_count": 39,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Andrei Soldatenkov [ASG]",
+      "winner_public_id": "drv_b466bb6eedd8",
+      "best_lap": "1:47.380",
+      "best_lap_driver": "Andrei Soldatenkov [ASG]",
+      "best_lap_public_id": "drv_b466bb6eedd8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-13_2237_monza.json",
+      "results_repo_path": "260813_223714_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.22,
+        "rain_level": 0.03,
+        "weather_randomness": 4,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 3,
+        "asset_id": "night_deep",
+        "asset": "night_deep"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-12_2230_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,43 +431,7 @@
         "asset_id": "day_neutral",
         "asset": "day_neutral"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-01_2249_nurburgring_24h",
-      "title": "Hourly Race",
-      "track": "nurburgring_24h",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nurburgring 24H",
-      "finished_at": "2026-08-01T22:49:04+03:00",
-      "finished_at_local": "2026-08-01 22:49",
-      "participants_count": 22,
-      "scoring_participants_count": 18,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Andrei Soldatenkov [ASG]",
-      "winner_public_id": "drv_b466bb6eedd8",
-      "best_lap": "8:19.415",
-      "best_lap_driver": "Andrei Soldatenkov [ASG]",
-      "best_lap_public_id": "drv_b466bb6eedd8",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-01_2249_nurburgring_24h.json",
-      "results_repo_path": "260801_224904_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30.0,
-        "cloud_level": 0.3,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 11,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      }
     }
   ],
-  "updated_at": "2026-08-13T16:00:19+03:00"
+  "updated_at": "2026-08-13T22:41:56+03:00"
 }
