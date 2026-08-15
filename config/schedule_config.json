@@ -1232,7 +1232,7 @@
       "server_window_minutes": 240,
       "launch_lead_minutes": 60,
       "points_multiplier": 10.0,
-      "hour_of_day": 19,
+      "hour_of_day": 16,
       "ambient_temp_c": 30,
       "cloud_level": 0.25,
       "rain_level": 0.05,

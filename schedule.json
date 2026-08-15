@@ -45,13 +45,13 @@
       "game_time": {
         "code": "evening",
         "label": "Evening",
-        "hour_of_day": 19,
+        "hour_of_day": 16,
         "asset_id": "evening_warm",
         "asset": "evening_warm"
       },
       "game_time_locked": true,
-      "hour_of_day": 19,
-      "game_time_hour": 19,
+      "hour_of_day": 16,
+      "game_time_hour": 16,
       "game_time_code": "evening",
       "game_time_label": "Evening",
       "game_time_label_ru": null,
@@ -5617,5 +5617,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-14T23:00:03+03:00"
+  "updated_at": "2026-08-15T12:45:21+03:00"
 }
