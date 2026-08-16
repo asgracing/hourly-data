@@ -1503,8 +1503,8 @@
     {
       "date": "2026-08-23",
       "start_time_local": "21:00",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "nurburgring_24h",
+      "track_name": "Norsdschleife",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -1715,8 +1715,8 @@
     {
       "date": "2026-08-29",
       "start_time_local": "21:00",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "suzuka",
+      "track_name": "Suzuka",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "endurance",
