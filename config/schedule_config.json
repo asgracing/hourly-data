@@ -1715,8 +1715,8 @@
     {
       "date": "2026-08-29",
       "start_time_local": "21:00",
-      "track_code": "suzuka",
-      "track_name": "Suzuka",
+      "track_code": "monza",
+      "track_name": "Monza",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "endurance",
@@ -1749,8 +1749,8 @@
     {
       "date": "2026-08-30",
       "start_time_local": "21:00",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "suzuka",
+      "track_name": "Suzuka",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",

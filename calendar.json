@@ -1176,8 +1176,8 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-08",
-      "track_code": "suzuka",
-      "track_name": "Suzuka",
+      "track_code": "monza",
+      "track_name": "Monza",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "endurance",
@@ -1272,8 +1272,8 @@
       "timezone": "UTC+3",
       "weekday": "sunday",
       "month": "2026-08",
-      "track_code": "monza",
-      "track_name": "Monza",
+      "track_code": "suzuka",
+      "track_name": "Suzuka",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "hourly",
@@ -5597,5 +5597,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-16T23:51:10+03:00"
+  "updated_at": "2026-08-17T00:00:09+03:00"
 }
