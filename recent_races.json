@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-16_2232_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-16T22:32:41+03:00",
+      "finished_at_local": "2026-08-16 22:32",
+      "participants_count": 43,
+      "scoring_participants_count": 37,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Dark Skull",
+      "winner_public_id": "drv_a2d1fa171b24",
+      "best_lap": "1:48.025",
+      "best_lap_driver": "Martin Genoverse | SLR",
+      "best_lap_public_id": "drv_7f0228d64103",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-16_2232_monza.json",
+      "results_repo_path": "260816_223241_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.42,
+        "rain_level": 0.18,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 9,
+        "asset_id": "morning_clear",
+        "asset": "morning_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-15_2334_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,43 +431,7 @@
         "asset_id": "evening_warm",
         "asset": "evening_warm"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-04_2230_imola",
-      "title": "Hourly Race",
-      "track": "imola",
-      "track_code": "imola",
-      "track_name": "Imola",
-      "finished_at": "2026-08-04T22:30:05+03:00",
-      "finished_at_local": "2026-08-04 22:30",
-      "participants_count": 28,
-      "scoring_participants_count": 21,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Aleksey Mihin",
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "1:40.700",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-04_2230_imola.json",
-      "results_repo_path": "260804_223005_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26.0,
-        "cloud_level": 0.07,
-        "rain_level": 0.1,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      }
     }
   ],
-  "updated_at": "2026-08-15T23:54:47+03:00"
+  "updated_at": "2026-08-16T23:00:11+03:00"
 }
