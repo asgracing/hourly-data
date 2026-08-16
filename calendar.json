@@ -32,7 +32,7 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 28,
+        "ambient_temp_c": 25,
         "cloud_level": 0.11,
         "rain_level": 0.03,
         "weather_randomness": 3,
@@ -129,7 +129,7 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 36,
+        "ambient_temp_c": 22,
         "cloud_level": 0.3,
         "rain_level": 0.06,
         "weather_randomness": 4,
@@ -228,7 +228,7 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 31,
+        "ambient_temp_c": 28,
         "cloud_level": 0.22,
         "rain_level": 0.04,
         "weather_randomness": 3,
@@ -521,7 +521,7 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 30,
+        "ambient_temp_c": 20,
         "cloud_level": 0.22,
         "rain_level": 0.05,
         "weather_randomness": 5,
@@ -715,7 +715,7 @@
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 34,
+        "ambient_temp_c": 28,
         "cloud_level": 0.33,
         "rain_level": 0.06,
         "weather_randomness": 4,
@@ -5597,5 +5597,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-16T23:00:04+03:00"
+  "updated_at": "2026-08-16T23:45:00+03:00"
 }

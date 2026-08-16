@@ -1,14 +1,14 @@
 {
-  "active_event_id": "hourly_2026-08-16_2100",
+  "active_event_id": null,
   "last_planned_start_local": "2026-08-16T21:00:00+03:00",
   "last_actual_start_local": "2026-08-16T20:00:01+03:00",
   "last_actual_stop_local": "2026-08-16T23:00:01+03:00",
   "last_track_code": "monza",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
   "server_pid": null,
-  "last_status": "publishing",
+  "last_status": "completed",
   "last_error": null,
-  "updated_at": "2026-08-16T23:00:04+03:00",
+  "updated_at": "2026-08-16T23:45:00+03:00",
   "last_result_q_files": [
     "260816_212654_Q.json"
   ],
@@ -17,29 +17,22 @@
   ],
   "last_result_check_at": "2026-08-16T23:00:03+03:00",
   "planned_weather": {
-    "hourly_2026-08-16_2100": {
-      "ambient_temp_c": 34,
-      "cloud_level": 0.42,
-      "rain_level": 0.18,
-      "weather_randomness": 3,
-      "summary_key": "mixed"
-    },
     "hourly_2026-08-17_2100": {
-      "ambient_temp_c": 28,
+      "ambient_temp_c": 25,
       "cloud_level": 0.11,
       "rain_level": 0.03,
       "weather_randomness": 3,
       "summary_key": "clear"
     },
     "hourly_2026-08-18_2100": {
-      "ambient_temp_c": 36,
+      "ambient_temp_c": 22,
       "cloud_level": 0.3,
       "rain_level": 0.06,
       "weather_randomness": 4,
       "summary_key": "mixed"
     },
     "hourly_2026-08-19_2100": {
-      "ambient_temp_c": 31,
+      "ambient_temp_c": 28,
       "cloud_level": 0.22,
       "rain_level": 0.04,
       "weather_randomness": 3,
@@ -60,7 +53,7 @@
       "summary_key": "clear"
     },
     "hourly_2026-08-22_2100": {
-      "ambient_temp_c": 30,
+      "ambient_temp_c": 20,
       "cloud_level": 0.22,
       "rain_level": 0.05,
       "weather_randomness": 5,
@@ -74,7 +67,7 @@
       "summary_key": "clear"
     },
     "hourly_2026-08-24_2100": {
-      "ambient_temp_c": 34,
+      "ambient_temp_c": 28,
       "cloud_level": 0.33,
       "rain_level": 0.06,
       "weather_randomness": 4,
@@ -567,13 +560,6 @@
   "stop_reason": "duration_elapsed",
   "last_championship_result_files": [],
   "planned_game_time": {
-    "hourly_2026-08-16_2100": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 9,
-      "asset_id": "morning_clear",
-      "asset": "morning_clear"
-    },
     "hourly_2026-08-17_2100": {
       "code": "night",
       "label": "Night",
@@ -7536,42 +7522,7 @@
       "updated_at": "2026-07-10T22:54:25+03:00"
     }
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-08-16_2100",
-    "occurrence_id": "hourly_2026-08-16_2100",
-    "slot": {
-      "event_id": "hourly_2026-08-16_2100",
-      "occurrence_id": "hourly_2026-08-16_2100",
-      "date": "2026-08-16",
-      "start_time_local": "21:00",
-      "launch_at": "2026-08-16T20:00+03:00",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "event_type": "hourly",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 34,
-      "cloud_level": 0.42,
-      "rain_level": 0.18,
-      "weather_randomness": 3,
-      "summary_key": "mixed"
-    },
-    "updated_at": "2026-08-16T20:00:01+03:00",
-    "game_time": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 9,
-      "asset_id": "morning_clear",
-      "asset": "morning_clear"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-08-16_2100",
     "occurrence_id": "hourly_2026-08-16_2100",
@@ -7608,7 +7559,7 @@
       "asset": "morning_clear"
     }
   },
-  "orchestrator_pid": 13148,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-08-16T20:00:01+03:00",
   "run_duration_seconds": 10800,
   "expected_stop_at": null,
@@ -7730,6 +7681,6 @@
       "reason": "duration_elapsed"
     }
   },
-  "last_completed_event_id": "hourly_2026-08-15_2100",
-  "last_completion_at": "2026-08-15T23:54:51+03:00"
+  "last_completed_event_id": "hourly_2026-08-16_2100",
+  "last_completion_at": "2026-08-16T23:00:15+03:00"
 }
