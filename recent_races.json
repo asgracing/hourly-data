@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-17_2237_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-17T22:37:36+03:00",
+      "finished_at_local": "2026-08-17 22:37",
+      "participants_count": 50,
+      "scoring_participants_count": 43,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Dark Skull",
+      "winner_public_id": "drv_a2d1fa171b24",
+      "best_lap": "1:46.742",
+      "best_lap_driver": "Andrei Soldatenkov [ASG]",
+      "best_lap_public_id": "drv_b466bb6eedd8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-17_2237_monza.json",
+      "results_repo_path": "260817_223736_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.11,
+        "rain_level": 0.03,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 1,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-16_2232_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,43 +431,7 @@
         "asset_id": "evening_long_shadows",
         "asset": "evening_long_shadows"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-05_2231_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-05T22:31:34+03:00",
-      "finished_at_local": "2026-08-05 22:31",
-      "participants_count": 46,
-      "scoring_participants_count": 40,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Ilya Kosmach",
-      "winner_public_id": "drv_c98693ccbce8",
-      "best_lap": "1:47.285",
-      "best_lap_driver": "Kosso Filippo[ASG]",
-      "best_lap_public_id": "drv_964ce73ba40a",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-05_2231_monza.json",
-      "results_repo_path": "260805_223134_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.34,
-        "rain_level": 0.05,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      }
     }
   ],
-  "updated_at": "2026-08-17T00:00:11+03:00"
+  "updated_at": "2026-08-17T23:00:13+03:00"
 }
