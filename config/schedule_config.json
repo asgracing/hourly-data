@@ -2954,7 +2954,7 @@
   "event_rules_path": "cfg\\eventRules.json",
   "settings_path": "cfg\\settings.json",
   "championship": {
-    "active_slug": "june-2026",
+    "active_slug": "september-2026",
     "results_root": "results_champ",
     "items": [
       {
