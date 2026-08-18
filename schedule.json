@@ -1588,7 +1588,7 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       },
       "weather": {
         "profile_id": null,
@@ -1645,7 +1645,7 @@
       },
       "rules": {
         "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": 20,
+        "pit_window_length_minutes": null,
         "refuelling_allowed_in_race": true,
         "refuelling_time_fixed": true,
         "mandatory_pitstop_refuelling_required": true,
@@ -3715,8 +3715,8 @@
       "timezone": "UTC+3",
       "weekday": "saturday",
       "month": "2026-09",
-      "track_code": "red_bull_ring",
-      "track_name": "Red Bull Ring",
+      "track_code": "spa",
+      "track_name": "Spa",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "endurance",
@@ -5872,5 +5872,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-19T00:29:16+03:00"
+  "updated_at": "2026-08-19T00:31:29+03:00"
 }

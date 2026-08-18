@@ -1959,7 +1959,7 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
+        "pitWindowLengthSec": -1
       }
     },
     {
@@ -2711,8 +2711,8 @@
     {
       "date": "2026-09-26",
       "start_time_local": "21:00",
-      "track_code": "red_bull_ring",
-      "track_name": "Red Bull Ring",
+      "track_code": "spa",
+      "track_name": "Spa",
       "slot_label": "Evening Slot",
       "status": "scheduled",
       "event_type": "endurance",
