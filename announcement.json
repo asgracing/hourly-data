@@ -20,16 +20,16 @@
   "scoring_mode": "hourly_curve_multiplier",
   "voting_disabled": false,
   "badge_label": null,
-  "championship_slug": "july-2026",
-  "championship_title": "ASG Racing July 2026",
+  "championship_slug": "june-2026",
+  "championship_title": "ASG Racing June 2026",
   "championship": {
-    "slug": "july-2026",
-    "title": "ASG Racing July 2026",
+    "slug": "june-2026",
+    "title": "ASG Racing June 2026",
     "status": "finished",
-    "period": "2026-07",
-    "description": "Июльский чемпионат ASG Racing. Две субботние гонки (11 и 25 число), отдельная таблица очков, награда чемпиону."
+    "period": "2026-06",
+    "description": "Июньский чемпионат ASG Racing. Четыре субботние гонки, отдельная таблица очков, награды для топ-3 по итогам месяца. (Призовой фонд сформирован из поддержки проекта от Дмитрия А (Большое спасибо)) P.S. Призы могут изменится в случае форс-мажора."
   },
-  "updated_at": "2026-08-18T23:00:03+03:00",
+  "updated_at": "2026-08-19T00:29:16+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",

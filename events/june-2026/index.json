@@ -1,12 +1,9 @@
 {
   "slug": "june-2026",
   "title": "ASG Racing June 2026",
-  "status": "active",
+  "status": "finished",
   "period": "2026-06",
   "description": "Июньский чемпионат ASG Racing. Четыре субботние гонки, отдельная таблица очков, награды для топ-3 по итогам месяца. (Призовой фонд сформирован из поддержки проекта от Дмитрия А (Большое спасибо)) P.S. Призы могут изменится в случае форс-мажора.",
-  "description_ru": "",
-  "description_en": "",
-  "description_i18n": null,
   "upcoming_races": [],
   "prizes": {
     "prize1": "prize1.jpg",
@@ -1498,7 +1495,9 @@
       "best_lap_public_id": "drv_c33130d69792",
       "status": "finished",
       "details_path": "races/hourly_2026-06-27_2229_silverstone.json",
-      "results_repo_path": "260627_222928_R.json"
+      "results_repo_path": "260627_222928_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-06-20_2230_nurburgring",
@@ -1519,7 +1518,9 @@
       "best_lap_public_id": "drv_ead3d6e9f3b0",
       "status": "finished",
       "details_path": "races/hourly_2026-06-20_2230_nurburgring.json",
-      "results_repo_path": "260620_223047_R.json"
+      "results_repo_path": "260620_223047_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-06-13_2231_spa",
@@ -1540,7 +1541,9 @@
       "best_lap_public_id": "drv_ead3d6e9f3b0",
       "status": "finished",
       "details_path": "races/hourly_2026-06-13_2231_spa.json",
-      "results_repo_path": "260613_223101_R.json"
+      "results_repo_path": "260613_223101_R.json",
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-06-06_2229_monza",
@@ -1561,8 +1564,10 @@
       "best_lap_public_id": "drv_964ce73ba40a",
       "status": "finished",
       "details_path": "races/hourly_2026-06-06_2229_monza.json",
-      "results_repo_path": "260606_222926_R.json"
+      "results_repo_path": "260606_222926_R.json",
+      "weather": null,
+      "game_time": null
     }
   ],
-  "updated_at": "2026-06-28T22:44:29+03:00"
+  "updated_at": "2026-08-19T00:29:18+03:00"
 }
