@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-21_2242_nurburgring_24h",
+      "title": "Hourly Race",
+      "track": "nurburgring_24h",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nurburgring 24H",
+      "finished_at": "2026-08-21T22:42:01+03:00",
+      "finished_at_local": "2026-08-21 22:42",
+      "participants_count": 28,
+      "scoring_participants_count": 22,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "8:12.775",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-21_2242_nurburgring_24h.json",
+      "results_repo_path": "260821_224201_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.16,
+        "rain_level": 0.03,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 10,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-20_2242_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -252,30 +288,7 @@
       "results_repo_path": "260810_222747_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-08-09_2245_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-09T22:45:16+03:00",
-      "finished_at_local": "2026-08-09 22:45",
-      "participants_count": 39,
-      "scoring_participants_count": 33,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Ilya Kosmach [ASG]",
-      "winner_public_id": "drv_c98693ccbce8",
-      "best_lap": "1:47.087",
-      "best_lap_driver": "Ilya Kosmach [ASG]",
-      "best_lap_public_id": "drv_c98693ccbce8",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-09_2245_monza.json",
-      "results_repo_path": "260809_224516_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-08-20T22:44:55+03:00"
+  "updated_at": "2026-08-21T22:42:52+03:00"
 }
