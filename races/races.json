@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-22_2334_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-22T23:34:22+03:00",
+      "finished_at_local": "2026-08-22 23:34",
+      "participants_count": 33,
+      "scoring_participants_count": 31,
+      "points_multiplier": 10.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "1:47.172",
+      "best_lap_driver": "Ilya Ivanik",
+      "best_lap_public_id": "drv_4d46856d85e4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-22_2334_monza.json",
+      "results_repo_path": "260822_233422_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 20,
+        "cloud_level": 0.22,
+        "rain_level": 0.05,
+        "weather_randomness": 5,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 10,
+        "asset_id": "morning_clear",
+        "asset": "morning_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-21_2242_nurburgring_24h",
       "title": "Hourly Race",
       "track": "nurburgring_24h",
@@ -265,30 +301,7 @@
       "results_repo_path": "260811_224206_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-08-10_2227_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-10T22:27:47+03:00",
-      "finished_at_local": "2026-08-10 22:27",
-      "participants_count": 37,
-      "scoring_participants_count": 35,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "William Blazkowicz [ASG]",
-      "winner_public_id": "drv_697cf8978bd7",
-      "best_lap": "1:47.422",
-      "best_lap_driver": "Josh Wirtz",
-      "best_lap_public_id": "drv_4d46856d85e4",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-10_2227_monza.json",
-      "results_repo_path": "260810_222747_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-08-22T18:13:25+03:00"
+  "updated_at": "2026-08-22T23:34:52+03:00"
 }
