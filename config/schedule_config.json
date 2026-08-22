@@ -1526,9 +1526,9 @@
       "points_multiplier": 5.0,
       "hour_of_day": 11,
       "ambient_temp_c": 26,
-      "cloud_level": 0.12,
-      "rain_level": 0.01,
-      "weather_randomness": 3,
+      "cloud_level": 0.35,
+      "rain_level": 0.15,
+      "weather_randomness": 5,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
         "tyreSetCount": 50,

@@ -132,13 +132,13 @@
       "weather": {
         "profile_id": null,
         "ambient_temp_c": 26,
-        "cloud_level": 0.12,
-        "rain_level": 0.01,
-        "weather_randomness": 3,
-        "summary_key": "clear"
+        "cloud_level": 0.35,
+        "rain_level": 0.15,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
       },
       "weather_locked": true,
-      "rain_level": 0.01,
+      "rain_level": 0.15,
       "game_time": {
         "code": "day",
         "label": "Day",
@@ -5843,5 +5843,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-21T22:42:44+03:00"
+  "updated_at": "2026-08-22T18:13:17+03:00"
 }

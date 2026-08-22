@@ -9,59 +9,17 @@
       "reason": "stop_requested"
     }
   },
-  "last_status": "publishing",
+  "last_status": "completed",
   "stop_reason": "stop_requested",
   "last_actual_stop_local": "2026-08-21T22:42:42+03:00",
   "server_pid": null,
-  "orchestrator_pid": 19136,
+  "orchestrator_pid": null,
   "expected_stop_at": null,
-  "active_event_id": "hourly_2026-08-21_2100",
-  "active_event_metadata": {
-    "event_id": "hourly_2026-08-21_2100",
-    "occurrence_id": "hourly_2026-08-21_2100",
-    "slot": {
-      "event_id": "hourly_2026-08-21_2100",
-      "occurrence_id": "hourly_2026-08-21_2100",
-      "date": "2026-08-21",
-      "start_time_local": "21:00",
-      "launch_at": "2026-08-21T20:00+03:00",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nordschleife",
-      "event_type": "hourly",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.16,
-      "rain_level": 0.03,
-      "weather_randomness": 3,
-      "summary_key": "clear"
-    },
-    "updated_at": "2026-08-21T20:00:01+03:00",
-    "game_time": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 10,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft"
-    }
-  },
+  "active_event_id": null,
+  "active_event_metadata": null,
   "last_error": null,
-  "updated_at": "2026-08-21T22:42:44+03:00",
+  "updated_at": "2026-08-22T18:13:17+03:00",
   "planned_weather": {
-    "hourly_2026-08-21_2100": {
-      "ambient_temp_c": 26,
-      "cloud_level": 0.16,
-      "rain_level": 0.03,
-      "weather_randomness": 3,
-      "summary_key": "clear"
-    },
     "hourly_2026-08-22_2100": {
       "ambient_temp_c": 20,
       "cloud_level": 0.22,
@@ -71,10 +29,10 @@
     },
     "hourly_2026-08-23_2100": {
       "ambient_temp_c": 26,
-      "cloud_level": 0.12,
-      "rain_level": 0.01,
-      "weather_randomness": 3,
-      "summary_key": "clear"
+      "cloud_level": 0.35,
+      "rain_level": 0.15,
+      "weather_randomness": 5,
+      "summary_key": "mixed"
     },
     "hourly_2026-08-24_2100": {
       "ambient_temp_c": 28,
@@ -537,13 +495,6 @@
     }
   },
   "planned_game_time": {
-    "hourly_2026-08-21_2100": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 10,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft"
-    },
     "hourly_2026-08-22_2100": {
       "code": "morning",
       "label": "Morning",
@@ -1303,5 +1254,7 @@
       "updated_at": "2026-08-21T22:42:44+03:00"
     }
   },
-  "last_championship_result_files": []
+  "last_championship_result_files": [],
+  "last_completed_event_id": "hourly_2026-08-21_2100",
+  "last_completion_at": "2026-08-21T22:42:56+03:00"
 }
