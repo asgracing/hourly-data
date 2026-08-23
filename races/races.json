@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-23_2248_nurburgring_24h",
+      "title": "Hourly Race",
+      "track": "nurburgring_24h",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nurburgring 24H",
+      "finished_at": "2026-08-23T22:48:32+03:00",
+      "finished_at_local": "2026-08-23 22:48",
+      "participants_count": 20,
+      "scoring_participants_count": 14,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Alan Ortabaev[ASG]",
+      "winner_public_id": "drv_3f376fa37e3e",
+      "best_lap": "8:52.005",
+      "best_lap_driver": "Alan Ortabaev[ASG]",
+      "best_lap_public_id": "drv_3f376fa37e3e",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-23_2248_nurburgring_24h.json",
+      "results_repo_path": "260823_224832_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.35,
+        "rain_level": 0.15,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 11,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-22_2334_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -278,30 +314,7 @@
       "results_repo_path": "260812_223011_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-08-11_2242_spa",
-      "title": "Hourly Race",
-      "track": "spa",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "finished_at": "2026-08-11T22:42:06+03:00",
-      "finished_at_local": "2026-08-11 22:42",
-      "participants_count": 33,
-      "scoring_participants_count": 28,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Dark Skull",
-      "winner_public_id": "drv_a2d1fa171b24",
-      "best_lap": "2:22.327",
-      "best_lap_driver": "Josh Wirtz",
-      "best_lap_public_id": "drv_4d46856d85e4",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-11_2242_spa.json",
-      "results_repo_path": "260811_224206_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-08-22T23:34:52+03:00"
+  "updated_at": "2026-08-23T23:00:11+03:00"
 }
