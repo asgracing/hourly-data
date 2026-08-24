@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-08-24_2100",
-  "date": "2026-08-24",
+  "event_id": "hourly_2026-08-25_2100",
+  "date": "2026-08-25",
   "start_time_local": "21:00",
   "timezone": "UTC+3",
-  "track_code": "monza",
-  "track_name": "Monza",
+  "track_code": "suzuka",
+  "track_name": "Suzuka",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-08-24T20:00+03:00",
+  "launch_at": "2026-08-25T20:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,7 +29,7 @@
     "period": "2026-09",
     "description": "Сентябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-08-23T23:00:04+03:00",
+  "updated_at": "2026-08-24T22:45:39+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -66,17 +66,17 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 28,
-    "cloud_level": 0.33,
-    "rain_level": 0.06,
-    "weather_randomness": 4,
+    "ambient_temp_c": 30,
+    "cloud_level": 0.37,
+    "rain_level": 0.09,
+    "weather_randomness": 5,
     "summary_key": "mixed"
   },
   "game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 19,
-    "asset_id": "evening_warm",
-    "asset": "evening_warm"
+    "code": "day",
+    "label": "Day",
+    "hour_of_day": 15,
+    "asset_id": "day_bright",
+    "asset": "day_bright"
   }
 }
