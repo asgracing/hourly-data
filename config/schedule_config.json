@@ -1613,7 +1613,10 @@
     },
     {
       "date": "2026-08-26",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-08-26_2100",
+      "occurrence_id": "hourly_2026-08-26_2100",
+      "source_start_time_local": "21:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2883,7 +2886,12 @@
       }
     }
   ],
-  "exceptions": [],
+  "exceptions": [
+    {
+      "date": "2026-08-26",
+      "start_time_local": "21:00"
+    }
+  ],
   "weather_planning": {
     "profiles": [
       {

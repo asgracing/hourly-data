@@ -17,6 +17,8 @@
       "status": "scheduled",
       "event_type": "championship",
       "voting_disabled": true,
+      "source_occurrence_id": "hourly_2026-09-04_2100",
+      "source_start_time_local": "21:00",
       "title": "ASG Racing September 2026",
       "race_format": "hourly",
       "competition_mode": "championship",
@@ -82,6 +84,8 @@
       "status": "scheduled",
       "event_type": "championship",
       "voting_disabled": true,
+      "source_occurrence_id": "hourly_2026-09-11_2100",
+      "source_start_time_local": "21:00",
       "title": "ASG Racing September 2026",
       "race_format": "hourly",
       "competition_mode": "championship",
@@ -147,6 +151,8 @@
       "status": "scheduled",
       "event_type": "championship",
       "voting_disabled": true,
+      "source_occurrence_id": "hourly_2026-09-18_2100",
+      "source_start_time_local": "21:00",
       "title": "ASG Racing September 2026",
       "race_format": "hourly",
       "competition_mode": "championship",
@@ -212,6 +218,8 @@
       "status": "scheduled",
       "event_type": "championship",
       "voting_disabled": true,
+      "source_occurrence_id": "hourly_2026-09-25_2100",
+      "source_start_time_local": "21:00",
       "title": "ASG Racing September 2026",
       "race_format": "hourly",
       "competition_mode": "championship",
@@ -274,5 +282,5 @@
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-08-24T22:45:49+03:00"
+  "updated_at": "2026-08-25T09:57:46+03:00"
 }
