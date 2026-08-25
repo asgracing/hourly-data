@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-25_2233_suzuka",
+      "title": "Hourly Race",
+      "track": "suzuka",
+      "track_code": "suzuka",
+      "track_name": "Suzuka",
+      "finished_at": "2026-08-25T22:33:45+03:00",
+      "finished_at_local": "2026-08-25 22:33",
+      "participants_count": 23,
+      "scoring_participants_count": 18,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "William Blazkowicz | GETPC",
+      "winner_public_id": "drv_697cf8978bd7",
+      "best_lap": "2:00.650",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-25_2233_suzuka.json",
+      "results_repo_path": "260825_223345_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.37,
+        "rain_level": 0.09,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 15,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-24_2231_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -304,30 +340,7 @@
       "results_repo_path": "260814_223722_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-08-13_2237_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-13T22:37:14+03:00",
-      "finished_at_local": "2026-08-13 22:37",
-      "participants_count": 41,
-      "scoring_participants_count": 39,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Andrei Soldatenkov [ASG]",
-      "winner_public_id": "drv_b466bb6eedd8",
-      "best_lap": "1:47.380",
-      "best_lap_driver": "Andrei Soldatenkov [ASG]",
-      "best_lap_public_id": "drv_b466bb6eedd8",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-13_2237_monza.json",
-      "results_repo_path": "260813_223714_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-08-25T09:57:46+03:00"
+  "updated_at": "2026-08-25T23:00:12+03:00"
 }
