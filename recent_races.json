@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-26_2137_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-26T21:37:10+03:00",
+      "finished_at_local": "2026-08-26 21:37",
+      "participants_count": 46,
+      "scoring_participants_count": 32,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "1:46.680",
+      "best_lap_driver": "Ilya Ivanik",
+      "best_lap_public_id": "drv_4d46856d85e4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-26_2137_monza.json",
+      "results_repo_path": "260826_213710_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.25,
+        "rain_level": 0.02,
+        "weather_randomness": 1,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 2,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-25_2233_suzuka",
       "title": "Hourly Race",
       "track": "suzuka",
@@ -317,30 +353,7 @@
       "results_repo_path": "260815_233431_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-08-14_2237_spa",
-      "title": "Hourly Race",
-      "track": "spa",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "finished_at": "2026-08-14T22:37:22+03:00",
-      "finished_at_local": "2026-08-14 22:37",
-      "participants_count": 46,
-      "scoring_participants_count": 44,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Aleksey Mihin",
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "2:17.207",
-      "best_lap_driver": "Ilya Ivanik",
-      "best_lap_public_id": "drv_4d46856d85e4",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-14_2237_spa.json",
-      "results_repo_path": "260814_223722_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-08-25T23:00:12+03:00"
+  "updated_at": "2026-08-26T21:48:18+03:00"
 }
