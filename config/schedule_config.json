@@ -1688,7 +1688,10 @@
     },
     {
       "date": "2026-08-28",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-08-28_2100",
+      "occurrence_id": "hourly_2026-08-28_2100",
+      "source_start_time_local": "21:00",
       "track_code": "suzuka",
       "track_name": "Suzuka",
       "slot_label": "Evening Slot",

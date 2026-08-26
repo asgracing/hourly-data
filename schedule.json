@@ -101,7 +101,7 @@
     },
     {
       "date": "2026-08-28",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "timezone": "UTC+3",
       "weekday": "friday",
       "month": "2026-08",
@@ -113,6 +113,7 @@
       "voting_disabled": false,
       "source_occurrence_id": "hourly_2026-08-28_2100",
       "source_start_time_local": "21:00",
+      "occurrence_id": "hourly_2026-08-28_2100",
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
@@ -157,10 +158,9 @@
       "game_time_asset": "morning_soft",
       "game_time_asset_id": "morning_soft",
       "scoring_mode": "hourly_curve_multiplier",
-      "launch_at_local": "2026-08-28 20:00",
-      "launch_at": "2026-08-28T20:00+03:00",
-      "server_window_end_at": "2026-08-28T23:00+03:00",
-      "occurrence_id": "hourly_2026-08-28_2100",
+      "launch_at_local": "2026-08-28 19:00",
+      "launch_at": "2026-08-28T19:00+03:00",
+      "server_window_end_at": "2026-08-28T22:00+03:00",
       "event_id": "hourly_2026-08-28_2100",
       "schedule_conflicts": [],
       "server": {
@@ -5864,5 +5864,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-26T21:48:09+03:00"
+  "updated_at": "2026-08-26T22:48:15+03:00"
 }
