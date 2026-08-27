@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-27_2230_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-27T22:30:28+03:00",
+      "finished_at_local": "2026-08-27 22:30",
+      "participants_count": 39,
+      "scoring_participants_count": 30,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "1:52.677",
+      "best_lap_driver": "Ilya Ivanik",
+      "best_lap_public_id": "drv_4d46856d85e4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-27_2230_monza.json",
+      "results_repo_path": "260827_223028_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.64,
+        "rain_level": 0.27,
+        "weather_randomness": 6,
+        "summary_key": "wet"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 17,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-26_2137_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -330,30 +366,7 @@
       "results_repo_path": "260816_223241_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-08-15_2334_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-15T23:34:31+03:00",
-      "finished_at_local": "2026-08-15 23:34",
-      "participants_count": 58,
-      "scoring_participants_count": 50,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Anatoliy Mikhailov",
-      "winner_public_id": "drv_fde28f699403",
-      "best_lap": "1:47.517",
-      "best_lap_driver": "Martin Genoverse | SLR",
-      "best_lap_public_id": "drv_7f0228d64103",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-15_2334_monza.json",
-      "results_repo_path": "260815_233431_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-08-26T22:58:05+03:00"
+  "updated_at": "2026-08-27T22:39:35+03:00"
 }
