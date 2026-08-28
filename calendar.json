@@ -100,7 +100,7 @@
     },
     {
       "date": "2026-08-30",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "timezone": "UTC+3",
       "weekday": "sunday",
       "month": "2026-08",
@@ -112,6 +112,7 @@
       "voting_disabled": false,
       "source_occurrence_id": "hourly_2026-08-30_2100",
       "source_start_time_local": "21:00",
+      "occurrence_id": "hourly_2026-08-30_2100",
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
@@ -156,10 +157,9 @@
       "game_time_asset": "evening_gold",
       "game_time_asset_id": "evening_gold",
       "scoring_mode": "hourly_curve_multiplier",
-      "launch_at_local": "2026-08-30 20:00",
-      "launch_at": "2026-08-30T20:00+03:00",
-      "server_window_end_at": "2026-08-30T23:00+03:00",
-      "occurrence_id": "hourly_2026-08-30_2100",
+      "launch_at_local": "2026-08-30 19:00",
+      "launch_at": "2026-08-30T19:00+03:00",
+      "server_window_end_at": "2026-08-30T22:00+03:00",
       "event_id": "hourly_2026-08-30_2100",
       "schedule_conflicts": [],
       "server": {
@@ -199,7 +199,7 @@
     },
     {
       "date": "2026-08-31",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "timezone": "UTC+3",
       "weekday": "monday",
       "month": "2026-08",
@@ -211,6 +211,7 @@
       "voting_disabled": false,
       "source_occurrence_id": "hourly_2026-08-31_2100",
       "source_start_time_local": "21:00",
+      "occurrence_id": "hourly_2026-08-31_2100",
       "race_format": "hourly",
       "competition_mode": "standalone",
       "points_multiplier": 5.0,
@@ -255,10 +256,9 @@
       "game_time_asset": "night_deep",
       "game_time_asset_id": "night_deep",
       "scoring_mode": "hourly_curve_multiplier",
-      "launch_at_local": "2026-08-31 20:00",
-      "launch_at": "2026-08-31T20:00+03:00",
-      "server_window_end_at": "2026-08-31T23:00+03:00",
-      "occurrence_id": "hourly_2026-08-31_2100",
+      "launch_at_local": "2026-08-31 19:00",
+      "launch_at": "2026-08-31T19:00+03:00",
+      "server_window_end_at": "2026-08-31T22:00+03:00",
       "event_id": "hourly_2026-08-31_2100",
       "schedule_conflicts": [],
       "server": {
@@ -5842,5 +5842,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-28T22:00:03+03:00"
+  "updated_at": "2026-08-28T22:11:51+03:00"
 }

@@ -1763,7 +1763,10 @@
     },
     {
       "date": "2026-08-30",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-08-30_2100",
+      "occurrence_id": "hourly_2026-08-30_2100",
+      "source_start_time_local": "21:00",
       "track_code": "suzuka",
       "track_name": "Suzuka",
       "slot_label": "Evening Slot",
@@ -1774,6 +1777,9 @@
       "game_time_code": "evening",
       "game_time_label": "Evening",
       "game_time_asset": "evening_gold",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
@@ -1798,7 +1804,10 @@
     },
     {
       "date": "2026-08-31",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-08-31_2100",
+      "occurrence_id": "hourly_2026-08-31_2100",
+      "source_start_time_local": "21:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -1809,6 +1818,9 @@
       "game_time_code": "night",
       "game_time_label": "Night",
       "game_time_asset": "night_deep",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,

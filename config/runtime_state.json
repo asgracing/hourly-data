@@ -37,59 +37,17 @@
       "reason": "duration_elapsed"
     }
   },
-  "last_status": "publishing",
+  "last_status": "completed",
   "stop_reason": "duration_elapsed",
   "last_actual_stop_local": "2026-08-28T22:00:01+03:00",
   "server_pid": null,
-  "orchestrator_pid": 13428,
+  "orchestrator_pid": null,
   "expected_stop_at": null,
-  "active_event_id": "hourly_2026-08-28_2100",
-  "active_event_metadata": {
-    "event_id": "hourly_2026-08-28_2100",
-    "occurrence_id": "hourly_2026-08-28_2100",
-    "slot": {
-      "event_id": "hourly_2026-08-28_2100",
-      "occurrence_id": "hourly_2026-08-28_2100",
-      "date": "2026-08-28",
-      "start_time_local": "20:00",
-      "launch_at": "2026-08-28T19:00+03:00",
-      "track_code": "suzuka",
-      "track_name": "Suzuka",
-      "event_type": "hourly",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 28,
-      "cloud_level": 0.23,
-      "rain_level": 0.01,
-      "weather_randomness": 2,
-      "summary_key": "clear"
-    },
-    "updated_at": "2026-08-28T19:00:01+03:00",
-    "game_time": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 7,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft"
-    }
-  },
+  "active_event_id": null,
+  "active_event_metadata": null,
   "last_error": null,
-  "updated_at": "2026-08-28T22:00:03+03:00",
+  "updated_at": "2026-08-28T22:11:51+03:00",
   "planned_weather": {
-    "hourly_2026-08-28_2100": {
-      "ambient_temp_c": 28,
-      "cloud_level": 0.23,
-      "rain_level": 0.01,
-      "weather_randomness": 2,
-      "summary_key": "clear"
-    },
     "hourly_2026-08-29_2000": {
       "ambient_temp_c": 29,
       "cloud_level": 0.41,
@@ -579,13 +537,6 @@
     }
   },
   "planned_game_time": {
-    "hourly_2026-08-28_2100": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 7,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft"
-    },
     "hourly_2026-08-29_2000": {
       "code": "evening",
       "label": "Evening",
@@ -2536,6 +2487,6 @@
     }
   },
   "last_championship_result_files": [],
-  "last_completed_event_id": "hourly_2026-08-27_2100",
-  "last_completion_at": "2026-08-27T22:39:39+03:00"
+  "last_completed_event_id": "hourly_2026-08-28_2100",
+  "last_completion_at": "2026-08-28T22:00:16+03:00"
 }
