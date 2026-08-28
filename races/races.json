@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-28_2142_suzuka",
+      "title": "Hourly Race",
+      "track": "suzuka",
+      "track_code": "suzuka",
+      "track_name": "Suzuka",
+      "finished_at": "2026-08-28T21:42:28+03:00",
+      "finished_at_local": "2026-08-28 21:42",
+      "participants_count": 28,
+      "scoring_participants_count": 19,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Aleksey Mihin",
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "2:00.615",
+      "best_lap_driver": "Arkadiy Plesovskiy",
+      "best_lap_public_id": "drv_e907098eae56",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-28_2142_suzuka.json",
+      "results_repo_path": "260828_214228_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.23,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 7,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-27_2230_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -343,30 +379,7 @@
       "results_repo_path": "260817_223736_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-08-16_2232_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-16T22:32:41+03:00",
-      "finished_at_local": "2026-08-16 22:32",
-      "participants_count": 43,
-      "scoring_participants_count": 37,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Dark Skull",
-      "winner_public_id": "drv_a2d1fa171b24",
-      "best_lap": "1:48.025",
-      "best_lap_driver": "Martin Genoverse | SLR",
-      "best_lap_public_id": "drv_7f0228d64103",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-16_2232_monza.json",
-      "results_repo_path": "260816_223241_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-08-28T00:19:33+03:00"
+  "updated_at": "2026-08-28T22:00:12+03:00"
 }
