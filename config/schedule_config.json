@@ -1884,7 +1884,7 @@
     },
     {
       "date": "2026-09-02",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "spa",
       "track_name": "Spa",
       "slot_label": "Evening Slot",
@@ -1915,11 +1915,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-02_2100",
+      "occurrence_id": "hourly_2026-09-02_2100"
     },
     {
       "date": "2026-09-03",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -1950,11 +1953,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-03_2100",
+      "occurrence_id": "hourly_2026-09-03_2100"
     },
     {
       "date": "2026-09-04",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "spa",
       "track_name": "Spa",
       "slot_label": "Evening Slot",
@@ -1987,11 +1993,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-04_2100",
+      "occurrence_id": "championship_2026-09-04_2100_september-2026"
     },
     {
       "date": "2026-09-05",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "nurburgring_24h",
       "track_name": "Nordschleife",
       "slot_label": "Evening Slot",
@@ -2024,11 +2033,14 @@
         "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-05_2100",
+      "occurrence_id": "endurance_2026-09-05_2100"
     },
     {
       "date": "2026-09-06",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "zolder",
       "track_name": "Zolder",
       "slot_label": "Evening Slot",
@@ -2059,11 +2071,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-06_2100",
+      "occurrence_id": "hourly_2026-09-06_2100"
     },
     {
       "date": "2026-09-07",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "silverstone",
       "track_name": "Silverstone",
       "slot_label": "Evening Slot",
@@ -2094,11 +2109,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-07_2100",
+      "occurrence_id": "hourly_2026-09-07_2100"
     },
     {
       "date": "2026-09-08",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2129,11 +2147,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-08_2100",
+      "occurrence_id": "hourly_2026-09-08_2100"
     },
     {
       "date": "2026-09-09",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "nurburgring_24h",
       "track_name": "Nordschleife",
       "slot_label": "Evening Slot",
@@ -2164,11 +2185,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-09_2100",
+      "occurrence_id": "hourly_2026-09-09_2100"
     },
     {
       "date": "2026-09-10",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2199,11 +2223,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-10_2100",
+      "occurrence_id": "hourly_2026-09-10_2100"
     },
     {
       "date": "2026-09-11",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "nurburgring_24h",
       "track_name": "Nordschleife",
       "slot_label": "Evening Slot",
@@ -2236,11 +2263,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-11_2100",
+      "occurrence_id": "championship_2026-09-11_2100_september-2026"
     },
     {
       "date": "2026-09-12",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2273,11 +2303,14 @@
         "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-12_2100",
+      "occurrence_id": "endurance_2026-09-12_2100"
     },
     {
       "date": "2026-09-13",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "imola",
       "track_name": "Imola",
       "slot_label": "Evening Slot",
@@ -2307,11 +2340,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-13_2100",
+      "occurrence_id": "hourly_2026-09-13_2100"
     },
     {
       "date": "2026-09-14",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "red_bull_ring",
       "track_name": "Red Bull Ring",
       "slot_label": "Evening Slot",
@@ -2342,11 +2378,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-14_2100",
+      "occurrence_id": "hourly_2026-09-14_2100"
     },
     {
       "date": "2026-09-15",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2377,11 +2416,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-15_2100",
+      "occurrence_id": "hourly_2026-09-15_2100"
     },
     {
       "date": "2026-09-16",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "kyalami",
       "track_name": "Kyalami",
       "slot_label": "Evening Slot",
@@ -2412,11 +2454,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-16_2100",
+      "occurrence_id": "hourly_2026-09-16_2100"
     },
     {
       "date": "2026-09-17",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2447,11 +2492,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-17_2100",
+      "occurrence_id": "hourly_2026-09-17_2100"
     },
     {
       "date": "2026-09-18",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "kyalami",
       "track_name": "Kyalami",
       "slot_label": "Evening Slot",
@@ -2484,11 +2532,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-18_2100",
+      "occurrence_id": "championship_2026-09-18_2100_september-2026"
     },
     {
       "date": "2026-09-19",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "nurburgring",
       "track_name": "Nurburgring",
       "slot_label": "Evening Slot",
@@ -2521,11 +2572,14 @@
         "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-19_2100",
+      "occurrence_id": "endurance_2026-09-19_2100"
     },
     {
       "date": "2026-09-20",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2556,11 +2610,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-20_2100",
+      "occurrence_id": "hourly_2026-09-20_2100"
     },
     {
       "date": "2026-09-21",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "imola",
       "track_name": "Imola",
       "slot_label": "Evening Slot",
@@ -2591,11 +2648,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-21_2100",
+      "occurrence_id": "hourly_2026-09-21_2100"
     },
     {
       "date": "2026-09-22",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2626,11 +2686,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-22_2100",
+      "occurrence_id": "hourly_2026-09-22_2100"
     },
     {
       "date": "2026-09-23",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "spa",
       "track_name": "Spa",
       "slot_label": "Evening Slot",
@@ -2661,11 +2724,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-23_2100",
+      "occurrence_id": "hourly_2026-09-23_2100"
     },
     {
       "date": "2026-09-24",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2696,11 +2762,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-24_2100",
+      "occurrence_id": "hourly_2026-09-24_2100"
     },
     {
       "date": "2026-09-25",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2733,11 +2802,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-25_2100",
+      "occurrence_id": "championship_2026-09-25_2100_september-2026"
     },
     {
       "date": "2026-09-26",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "spa",
       "track_name": "Spa",
       "slot_label": "Evening Slot",
@@ -2770,11 +2842,14 @@
         "pitWindowLengthSec": -1,
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-26_2100",
+      "occurrence_id": "endurance_2026-09-26_2100"
     },
     {
       "date": "2026-09-27",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "nurburgring",
       "track_name": "Nurburgring",
       "slot_label": "Evening Slot",
@@ -2804,11 +2879,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-27_2100",
+      "occurrence_id": "hourly_2026-09-27_2100"
     },
     {
       "date": "2026-09-28",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "barcelona",
       "track_name": "Barcelona",
       "slot_label": "Evening Slot",
@@ -2838,11 +2916,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-28_2100",
+      "occurrence_id": "hourly_2026-09-28_2100"
     },
     {
       "date": "2026-09-29",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2872,11 +2953,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-29_2100",
+      "occurrence_id": "hourly_2026-09-29_2100"
     },
     {
       "date": "2026-09-30",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
       "track_code": "mount_panorama",
       "track_name": "Mount Panorama",
       "slot_label": "Evening Slot",
@@ -2907,21 +2991,16 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      }
+      },
+      "source_start_time_local": "21:00",
+      "target_occurrence_id": "hourly_2026-09-30_2100",
+      "occurrence_id": "hourly_2026-09-30_2100"
     }
   ],
   "exceptions": [
     {
       "date": "2026-08-26",
       "start_time_local": "21:00"
-    },
-    {
-      "date": "2026-09-04",
-      "start_time_local": "20:00"
-    },
-    {
-      "date": "2026-09-11",
-      "start_time_local": "20:00"
     }
   ],
   "weather_planning": {
