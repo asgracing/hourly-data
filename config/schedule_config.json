@@ -9,7 +9,7 @@
   "results_dir": "results",
   "server_window_minutes": 180,
   "launch_times_local": [
-    "21:00"
+    "20:00"
   ],
   "rotation_mode": "global_cycle",
   "tracks": [
@@ -1845,7 +1845,10 @@
     },
     {
       "date": "2026-09-01",
-      "start_time_local": "21:00",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-09-01_2100",
+      "occurrence_id": "hourly_2026-09-01_2100",
+      "source_start_time_local": "21:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -1856,6 +1859,9 @@
       "game_time_code": "day",
       "game_time_label": "Day",
       "game_time_asset": "day_neutral",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
@@ -3009,12 +3015,13 @@
       }
     ]
   },
-  "launch_lead_minutes": 16,
+  "launch_lead_minutes": 60,
   "server_windows_minutes": {
     "endurance": 200
   },
   "calendar": {
     "days_ahead": 62
   },
-  "practice_duration_minutes": 60
+  "practice_duration_minutes": 60,
+  "entrylist_path": ""
 }
