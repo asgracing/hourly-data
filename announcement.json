@@ -1,22 +1,22 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-08-29_2000",
-  "date": "2026-08-29",
+  "event_id": "hourly_2026-08-30_2100",
+  "date": "2026-08-30",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "monza",
-  "track_name": "Monza",
-  "race_duration_minutes": 120,
-  "server_window": "4h",
-  "server_window_minutes": 240,
-  "launch_at": "2026-08-29T19:00+03:00",
+  "track_code": "suzuka",
+  "track_name": "Suzuka",
+  "race_duration_minutes": 60,
+  "server_window": "3h",
+  "server_window_minutes": 180,
+  "launch_at": "2026-08-30T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
-  "event_type": "endurance",
-  "race_format": "endurance",
+  "event_type": "hourly",
+  "race_format": "hourly",
   "competition_mode": "standalone",
-  "points_multiplier": 10.0,
+  "points_multiplier": 5.0,
   "scoring_mode": "hourly_curve_multiplier",
   "voting_disabled": false,
   "badge_label": null,
@@ -29,7 +29,7 @@
     "period": "2026-09",
     "description": "Сентябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-08-28T22:11:51+03:00",
+  "updated_at": "2026-08-29T23:00:03+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -42,10 +42,10 @@
     "is_race_locked": false
   },
   "session": {
-    "format_label": "P 60m + Q 20m + R 120m",
+    "format_label": "P 60m + Q 20m + R 60m",
     "practice_duration_minutes": 60,
     "qualifying_duration_minutes": 20,
-    "race_duration_minutes": 120,
+    "race_duration_minutes": 60,
     "pre_race_waiting_time_seconds": 120,
     "session_over_time_seconds": 600,
     "time_multiplier": 3,
@@ -55,7 +55,7 @@
     "mandatory_pitstop_count": 1,
     "pit_window_length_minutes": null,
     "refuelling_allowed_in_race": true,
-    "refuelling_time_fixed": false,
+    "refuelling_time_fixed": true,
     "mandatory_pitstop_refuelling_required": true,
     "mandatory_pitstop_tyre_change_required": false,
     "mandatory_pitstop_swap_driver_required": false,
@@ -66,17 +66,17 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 29,
-    "cloud_level": 0.41,
-    "rain_level": 0.08,
-    "weather_randomness": 4,
-    "summary_key": "mixed"
+    "ambient_temp_c": 25,
+    "cloud_level": 0.15,
+    "rain_level": 0.03,
+    "weather_randomness": 1,
+    "summary_key": "clear"
   },
   "game_time": {
     "code": "evening",
     "label": "Evening",
-    "hour_of_day": 16,
-    "asset_id": "evening_long_shadows",
-    "asset": "evening_long_shadows"
+    "hour_of_day": 18,
+    "asset_id": "evening_gold",
+    "asset": "evening_gold"
   }
 }
