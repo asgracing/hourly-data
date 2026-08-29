@@ -73,15 +73,7 @@
       "server_window_end_at": "2026-09-04T23:00+03:00",
       "occurrence_id": "championship_2026-09-04_2100_september-2026",
       "event_id": "championship_2026-09-04_2100_september-2026",
-      "schedule_conflicts": [
-        {
-          "code": "server_window_overlap",
-          "event_id": "hourly_2026-09-04_2000",
-          "conflicts_with": "championship_2026-09-04_2100_september-2026",
-          "overlap_start": "2026-09-04T20:00+03:00",
-          "overlap_end": "2026-09-04T22:00+03:00"
-        }
-      ]
+      "schedule_conflicts": []
     },
     {
       "date": "2026-09-11",
@@ -151,15 +143,7 @@
       "server_window_end_at": "2026-09-11T23:00+03:00",
       "occurrence_id": "championship_2026-09-11_2100_september-2026",
       "event_id": "championship_2026-09-11_2100_september-2026",
-      "schedule_conflicts": [
-        {
-          "code": "server_window_overlap",
-          "event_id": "hourly_2026-09-11_2000",
-          "conflicts_with": "championship_2026-09-11_2100_september-2026",
-          "overlap_start": "2026-09-11T20:00+03:00",
-          "overlap_end": "2026-09-11T22:00+03:00"
-        }
-      ]
+      "schedule_conflicts": []
     },
     {
       "date": "2026-09-18",
@@ -326,5 +310,5 @@
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-08-30T00:41:35+03:00"
+  "updated_at": "2026-08-30T00:43:46+03:00"
 }
