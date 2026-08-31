@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-08-31_2150_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-08-31T21:50:53+03:00",
+      "finished_at_local": "2026-08-31 21:50",
+      "participants_count": 39,
+      "scoring_participants_count": 30,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Dark Skull",
+      "winner_public_id": "drv_a2d1fa171b24",
+      "best_lap": "1:47.182",
+      "best_lap_driver": "Dark Skull",
+      "best_lap_public_id": "drv_a2d1fa171b24",
+      "status": "finished",
+      "details_path": "races/hourly_2026-08-31_2150_monza.json",
+      "results_repo_path": "260831_215053_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.33,
+        "rain_level": 0.07,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 2,
+        "asset_id": "night_deep",
+        "asset": "night_deep"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-30_2131_suzuka",
       "title": "Hourly Race",
       "track": "suzuka",
@@ -382,30 +418,7 @@
       "results_repo_path": "260820_224244_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-08-19_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-19T22:29:12+03:00",
-      "finished_at_local": "2026-08-19 22:29",
-      "participants_count": 30,
-      "scoring_participants_count": 28,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Aleksey Mihin",
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "1:47.287",
-      "best_lap_driver": "Anatoliy Mikhailov",
-      "best_lap_public_id": "drv_fde28f699403",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-19_2229_monza.json",
-      "results_repo_path": "260819_222912_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-08-30T22:00:13+03:00"
+  "updated_at": "2026-08-31T22:00:12+03:00"
 }

@@ -2995,6 +2995,43 @@
       "source_start_time_local": "21:00",
       "target_occurrence_id": "hourly_2026-09-30_2100",
       "occurrence_id": "hourly_2026-09-30_2100"
+    },
+    {
+      "date": "2026-10-01",
+      "start_time_local": "20:00",
+      "track_code": "spa",
+      "race_format": "hourly",
+      "points_multiplier": 5.0,
+      "practice_duration_minutes": 60,
+      "race_duration_minutes": 60,
+      "server_window_minutes": 180,
+      "launch_lead_minutes": 60,
+      "hour_of_day": 8,
+      "ambient_temp_c": 31,
+      "cloud_level": 0.23,
+      "rain_level": 0.03,
+      "weather_randomness": 1,
+      "event_config_overrides": {
+        "preRaceWaitingTimeSeconds": 80,
+        "sessionOverTimeSeconds": 120,
+        "sessions": [
+          {
+            "sessionType": "P",
+            "sessionDurationMinutes": 60
+          },
+          {
+            "sessionType": "Q",
+            "sessionDurationMinutes": 20
+          },
+          {
+            "sessionType": "R",
+            "sessionDurationMinutes": 60
+          }
+        ]
+      },
+      "target_occurrence_id": "hourly_2026-10-01_2000",
+      "occurrence_id": "hourly_2026-10-01_2000",
+      "source_start_time_local": "20:00"
     }
   ],
   "exceptions": [
