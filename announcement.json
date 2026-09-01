@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-09-01_2100",
-  "date": "2026-09-01",
+  "event_id": "hourly_2026-09-02_2100",
+  "date": "2026-09-02",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "monza",
-  "track_name": "Monza",
+  "track_code": "spa",
+  "track_name": "Spa",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-09-01T19:00+03:00",
+  "launch_at": "2026-09-02T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,7 +29,7 @@
     "period": "2026-09",
     "description": "Сентябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-08-31T22:00:04+03:00",
+  "updated_at": "2026-09-01T22:00:04+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -66,11 +66,11 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 30,
-    "cloud_level": null,
-    "rain_level": null,
+    "ambient_temp_c": 35,
+    "cloud_level": 0.44,
+    "rain_level": 0.14,
     "weather_randomness": 3,
-    "summary_key": "clear"
+    "summary_key": "mixed"
   },
   "game_time": {
     "code": "day",

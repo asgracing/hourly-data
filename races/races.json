@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-01_2129_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-09-01T21:29:22+03:00",
+      "finished_at_local": "2026-09-01 21:29",
+      "participants_count": 31,
+      "scoring_participants_count": 29,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Dark Skull",
+      "winner_public_id": "drv_a2d1fa171b24",
+      "best_lap": "1:47.595",
+      "best_lap_driver": "Dark Skull",
+      "best_lap_public_id": "drv_a2d1fa171b24",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-01_2129_monza.json",
+      "results_repo_path": "260901_212922_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": null,
+        "rain_level": null,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 15,
+        "asset_id": "day_neutral",
+        "asset": "day_neutral"
+      }
+    },
+    {
       "event_id": "hourly_2026-08-31_2150_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,30 +431,7 @@
         "asset_id": "morning_soft",
         "asset": "morning_soft"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-20_2242_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-20T22:42:44+03:00",
-      "finished_at_local": "2026-08-20 22:42",
-      "participants_count": 27,
-      "scoring_participants_count": 23,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Aleksey Mihin",
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "1:47.382",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-20_2242_monza.json",
-      "results_repo_path": "260820_224244_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-08-31T22:00:12+03:00"
+  "updated_at": "2026-09-01T22:00:13+03:00"
 }

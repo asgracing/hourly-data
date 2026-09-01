@@ -2999,21 +2999,21 @@
     {
       "date": "2026-10-01",
       "start_time_local": "20:00",
-      "track_code": "spa",
-      "race_format": "hourly",
-      "points_multiplier": 5.0,
+      "track_code": "monza",
+      "race_format": "endurance",
+      "points_multiplier": 10.0,
       "practice_duration_minutes": 60,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180,
+      "race_duration_minutes": 120,
+      "server_window_minutes": 240,
       "launch_lead_minutes": 60,
-      "hour_of_day": 8,
-      "ambient_temp_c": 31,
+      "hour_of_day": 14,
+      "ambient_temp_c": 20,
       "cloud_level": 0.23,
-      "rain_level": 0.03,
-      "weather_randomness": 1,
+      "rain_level": 0.1,
+      "weather_randomness": 6,
       "event_config_overrides": {
         "preRaceWaitingTimeSeconds": 80,
-        "sessionOverTimeSeconds": 120,
+        "sessionOverTimeSeconds": 600,
         "sessions": [
           {
             "sessionType": "P",
@@ -3025,7 +3025,7 @@
           },
           {
             "sessionType": "R",
-            "sessionDurationMinutes": 60
+            "sessionDurationMinutes": 120
           }
         ]
       },
@@ -3147,5 +3147,6 @@
     "days_ahead": 62
   },
   "practice_duration_minutes": 60,
-  "entrylist_path": ""
+  "entrylist_path": "",
+  "session_overtime_seconds": 600
 }
