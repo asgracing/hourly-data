@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-02_2132_spa",
+      "title": "Hourly Race",
+      "track": "spa",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "finished_at": "2026-09-02T21:32:44+03:00",
+      "finished_at_local": "2026-09-02 21:32",
+      "participants_count": 35,
+      "scoring_participants_count": 30,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "2:28.100",
+      "best_lap_driver": "Ilya Ivanik",
+      "best_lap_public_id": "drv_4d46856d85e4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-02_2132_spa.json",
+      "results_repo_path": "260902_213244_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 35,
+        "cloud_level": 0.44,
+        "rain_level": 0.14,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 15,
+        "asset_id": "day_neutral",
+        "asset": "day_neutral"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-01_2129_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,43 +431,7 @@
         "asset_id": "morning_clear",
         "asset": "morning_clear"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-21_2242_nurburgring_24h",
-      "title": "Hourly Race",
-      "track": "nurburgring_24h",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nurburgring 24H",
-      "finished_at": "2026-08-21T22:42:01+03:00",
-      "finished_at_local": "2026-08-21 22:42",
-      "participants_count": 28,
-      "scoring_participants_count": 22,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Ilya Ivanik",
-      "winner_public_id": "drv_4d46856d85e4",
-      "best_lap": "8:12.775",
-      "best_lap_driver": "Victor Rovenko",
-      "best_lap_public_id": "drv_de8a222e2e87",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-21_2242_nurburgring_24h.json",
-      "results_repo_path": "260821_224201_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.16,
-        "rain_level": 0.03,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      }
     }
   ],
-  "updated_at": "2026-09-01T22:00:13+03:00"
+  "updated_at": "2026-09-02T22:00:10+03:00"
 }
