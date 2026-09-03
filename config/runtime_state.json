@@ -57,64 +57,22 @@
       "reason": "duration_elapsed"
     }
   },
-  "last_status": "publishing",
+  "last_status": "completed",
   "stop_reason": "duration_elapsed",
   "last_actual_stop_local": "2026-09-02T22:00:01+03:00",
   "server_pid": null,
-  "orchestrator_pid": 23784,
+  "orchestrator_pid": null,
   "expected_stop_at": null,
-  "active_event_id": "hourly_2026-09-02_2100",
-  "active_event_metadata": {
-    "event_id": "hourly_2026-09-02_2100",
-    "occurrence_id": "hourly_2026-09-02_2100",
-    "slot": {
-      "event_id": "hourly_2026-09-02_2100",
-      "occurrence_id": "hourly_2026-09-02_2100",
-      "date": "2026-09-02",
-      "start_time_local": "20:00",
-      "launch_at": "2026-09-02T19:00+03:00",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "event_type": "hourly",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 35,
-      "cloud_level": 0.44,
-      "rain_level": 0.14,
-      "weather_randomness": 3,
-      "summary_key": "mixed"
-    },
-    "updated_at": "2026-09-02T19:00:01+03:00",
-    "game_time": {
-      "code": "day",
-      "label": "Day",
-      "hour_of_day": 15,
-      "asset_id": "day_neutral",
-      "asset": "day_neutral"
-    }
-  },
+  "active_event_id": null,
+  "active_event_metadata": null,
   "last_error": null,
-  "updated_at": "2026-09-02T22:00:03+03:00",
+  "updated_at": "2026-09-03T12:51:10+03:00",
   "planned_weather": {
-    "hourly_2026-09-02_2100": {
-      "ambient_temp_c": 35,
-      "cloud_level": 0.44,
-      "rain_level": 0.14,
-      "weather_randomness": 3,
-      "summary_key": "mixed"
-    },
     "hourly_2026-09-03_2100": {
       "ambient_temp_c": 32,
-      "cloud_level": 0.43,
-      "rain_level": 0.19,
-      "weather_randomness": 3,
+      "cloud_level": 0.3,
+      "rain_level": 0.06,
+      "weather_randomness": 5,
       "summary_key": "mixed"
     },
     "hourly_2026-09-04_2000": {
@@ -609,13 +567,6 @@
     }
   },
   "planned_game_time": {
-    "hourly_2026-09-02_2100": {
-      "code": "day",
-      "label": "Day",
-      "hour_of_day": 15,
-      "asset_id": "day_neutral",
-      "asset": "day_neutral"
-    },
     "hourly_2026-09-03_2100": {
       "code": "evening",
       "label": "Evening",
@@ -3457,6 +3408,6 @@
     }
   },
   "last_championship_result_files": [],
-  "last_completed_event_id": "hourly_2026-09-01_2100",
-  "last_completion_at": "2026-09-01T22:00:17+03:00"
+  "last_completed_event_id": "hourly_2026-09-02_2100",
+  "last_completion_at": "2026-09-02T22:00:14+03:00"
 }

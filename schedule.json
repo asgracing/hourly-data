@@ -33,16 +33,19 @@
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
       },
+      "car_restriction": {
+        "mode": "open"
+      },
       "weather": {
         "profile_id": null,
         "ambient_temp_c": 32,
-        "cloud_level": 0.43,
-        "rain_level": 0.19,
-        "weather_randomness": 3,
+        "cloud_level": 0.3,
+        "rain_level": 0.06,
+        "weather_randomness": 5,
         "summary_key": "mixed"
       },
       "weather_locked": true,
-      "rain_level": 0.19,
+      "rain_level": 0.06,
       "game_time": {
         "code": "evening",
         "label": "Evening",
@@ -59,9 +62,6 @@
       "game_time_asset": "evening_gold",
       "game_time_asset_id": "evening_gold",
       "scoring_mode": "hourly_curve_multiplier",
-      "car_restriction": {
-        "mode": "open"
-      },
       "session_overtime_seconds": 600,
       "launch_at_local": "2026-09-03 19:00",
       "launch_at": "2026-09-03T19:00+03:00",
@@ -6050,5 +6050,5 @@
       }
     }
   ],
-  "updated_at": "2026-09-02T22:00:03+03:00"
+  "updated_at": "2026-09-03T12:51:10+03:00"
 }

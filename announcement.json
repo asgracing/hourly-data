@@ -29,7 +29,7 @@
     "period": "2026-09",
     "description": "Сентябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-09-02T22:00:03+03:00",
+  "updated_at": "2026-09-03T12:51:10+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -67,9 +67,9 @@
   "weather": {
     "profile_id": null,
     "ambient_temp_c": 32,
-    "cloud_level": 0.43,
-    "rain_level": 0.19,
-    "weather_randomness": 3,
+    "cloud_level": 0.3,
+    "rain_level": 0.06,
+    "weather_randomness": 5,
     "summary_key": "mixed"
   },
   "game_time": {
