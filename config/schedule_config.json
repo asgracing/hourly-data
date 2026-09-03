@@ -2120,6 +2120,9 @@
     {
       "date": "2026-09-08",
       "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-09-08_2100",
+      "occurrence_id": "hourly_2026-09-08_2100",
+      "source_start_time_local": "21:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2130,6 +2133,9 @@
       "game_time_code": "evening",
       "game_time_label": "Evening",
       "game_time_asset": "evening_long_shadows",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
@@ -2150,10 +2156,7 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      },
-      "source_start_time_local": "21:00",
-      "target_occurrence_id": "hourly_2026-09-08_2100",
-      "occurrence_id": "hourly_2026-09-08_2100"
+      }
     },
     {
       "date": "2026-09-09",

@@ -66,7 +66,7 @@
   "active_event_id": null,
   "active_event_metadata": null,
   "last_error": null,
-  "updated_at": "2026-09-03T12:51:10+03:00",
+  "updated_at": "2026-09-03T13:59:02+03:00",
   "planned_weather": {
     "hourly_2026-09-03_2100": {
       "ambient_temp_c": 32,
