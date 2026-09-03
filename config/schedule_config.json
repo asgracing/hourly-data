@@ -2134,7 +2134,9 @@
       "game_time_label": "Evening",
       "game_time_asset": "evening_long_shadows",
       "car_restriction": {
-        "mode": "open"
+        "mode": "single_model",
+        "car_model_id": 32,
+        "car_model_name": "Ferrari 296 GT3"
       },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,

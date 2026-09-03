@@ -554,7 +554,9 @@
         "pitWindowLengthSec": -1
       },
       "car_restriction": {
-        "mode": "open"
+        "mode": "single_model",
+        "car_model_id": 32,
+        "car_model_name": "Ferrari 296 GT3"
       },
       "weather": {
         "profile_id": null,
@@ -6050,5 +6052,5 @@
       }
     }
   ],
-  "updated_at": "2026-09-03T13:59:02+03:00"
+  "updated_at": "2026-09-03T15:51:34+03:00"
 }
