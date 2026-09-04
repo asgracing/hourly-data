@@ -1,24 +1,24 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-09-04_2000",
-  "date": "2026-09-04",
+  "event_id": "hourly_2026-09-05_2000",
+  "date": "2026-09-05",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "spa",
-  "track_name": "Spa",
-  "race_duration_minutes": 60,
-  "server_window": "3h",
-  "server_window_minutes": 180,
-  "launch_at": "2026-09-04T19:00+03:00",
+  "track_code": "nurburgring_24h",
+  "track_name": "Nordschleife",
+  "race_duration_minutes": 120,
+  "server_window": "4h",
+  "server_window_minutes": 240,
+  "launch_at": "2026-09-05T19:00+03:00",
   "session_label": "Evening Slot",
-  "details_url": "/hourly/championship/?slug=september-2026",
-  "event_type": "championship",
-  "race_format": "hourly",
-  "competition_mode": "championship",
-  "points_multiplier": 1.0,
-  "scoring_mode": "championship_standard",
-  "voting_disabled": true,
+  "details_url": "/hourly/",
+  "event_type": "endurance",
+  "race_format": "endurance",
+  "competition_mode": "standalone",
+  "points_multiplier": 10.0,
+  "scoring_mode": "hourly_curve_multiplier",
+  "voting_disabled": false,
   "badge_label": null,
   "championship_slug": "september-2026",
   "championship_title": "ASG Racing September 2026",
@@ -29,7 +29,7 @@
     "period": "2026-09",
     "description": "Сентябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-09-03T22:00:04+03:00",
+  "updated_at": "2026-09-04T22:00:04+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -42,17 +42,17 @@
     "is_race_locked": false
   },
   "session": {
-    "format_label": "P 60m + Q 20m + R 60m",
+    "format_label": "P 60m + Q 20m + R 120m",
     "practice_duration_minutes": 60,
     "qualifying_duration_minutes": 20,
-    "race_duration_minutes": 60,
+    "race_duration_minutes": 120,
     "pre_race_waiting_time_seconds": 120,
     "session_over_time_seconds": 600,
     "time_multiplier": 3,
     "practice_time_multiplier": 3
   },
   "rules": {
-    "mandatory_pitstop_count": 1,
+    "mandatory_pitstop_count": 2,
     "pit_window_length_minutes": null,
     "refuelling_allowed_in_race": true,
     "refuelling_time_fixed": true,
@@ -66,17 +66,17 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 34,
-    "cloud_level": 0.47,
-    "rain_level": 0.13,
-    "weather_randomness": 4,
-    "summary_key": "mixed"
+    "ambient_temp_c": 31,
+    "cloud_level": 0.07,
+    "rain_level": 0.01,
+    "weather_randomness": 1,
+    "summary_key": "clear"
   },
   "game_time": {
-    "code": "night",
-    "label": "Night",
-    "hour_of_day": 1,
-    "asset_id": "night_clear",
-    "asset": "night_clear"
+    "code": "day",
+    "label": "Day",
+    "hour_of_day": 15,
+    "asset_id": "day_neutral",
+    "asset": "day_neutral"
   }
 }

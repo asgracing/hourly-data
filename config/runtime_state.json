@@ -59,61 +59,60 @@
     "hourly_2026-09-03_2100": {
       "completed_at": "2026-09-03T22:00:04+03:00",
       "reason": "duration_elapsed"
+    },
+    "championship_2026-09-04_2100_september-2026": {
+      "completed_at": "2026-09-04T22:00:04+03:00",
+      "reason": "duration_elapsed"
     }
   },
   "last_status": "publishing",
   "stop_reason": "duration_elapsed",
-  "last_actual_stop_local": "2026-09-03T22:00:02+03:00",
+  "last_actual_stop_local": "2026-09-04T22:00:02+03:00",
   "server_pid": null,
-  "orchestrator_pid": 11356,
+  "orchestrator_pid": 15424,
   "expected_stop_at": null,
-  "active_event_id": "hourly_2026-09-03_2100",
+  "active_event_id": "hourly_2026-09-04_2000",
   "active_event_metadata": {
-    "event_id": "hourly_2026-09-03_2100",
-    "occurrence_id": "hourly_2026-09-03_2100",
+    "event_id": "hourly_2026-09-04_2000",
+    "occurrence_id": "championship_2026-09-04_2100_september-2026",
     "slot": {
-      "event_id": "hourly_2026-09-03_2100",
-      "occurrence_id": "hourly_2026-09-03_2100",
-      "date": "2026-09-03",
+      "event_id": "hourly_2026-09-04_2000",
+      "occurrence_id": "championship_2026-09-04_2100_september-2026",
+      "date": "2026-09-04",
       "start_time_local": "20:00",
-      "launch_at": "2026-09-03T19:00+03:00",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "event_type": "hourly",
+      "launch_at": "2026-09-04T19:00+03:00",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "event_type": "championship",
       "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
+      "competition_mode": "championship",
+      "scoring_mode": "championship_standard",
+      "points_multiplier": 1.0,
       "race_duration_minutes": 60,
-      "server_window_minutes": 180
+      "server_window_minutes": 180,
+      "championship_slug": "september-2026",
+      "title": "ASG Racing September 2026"
     },
     "weather": {
       "profile_id": null,
-      "ambient_temp_c": 32,
-      "cloud_level": 0.3,
-      "rain_level": 0.06,
-      "weather_randomness": 5,
+      "ambient_temp_c": 34,
+      "cloud_level": 0.47,
+      "rain_level": 0.13,
+      "weather_randomness": 4,
       "summary_key": "mixed"
     },
-    "updated_at": "2026-09-03T19:00:01+03:00",
+    "updated_at": "2026-09-04T19:00:02+03:00",
     "game_time": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 17,
-      "asset_id": "evening_gold",
-      "asset": "evening_gold"
+      "code": "night",
+      "label": "Night",
+      "hour_of_day": 1,
+      "asset_id": "night_clear",
+      "asset": "night_clear"
     }
   },
   "last_error": null,
-  "updated_at": "2026-09-03T22:00:04+03:00",
+  "updated_at": "2026-09-04T22:00:04+03:00",
   "planned_weather": {
-    "hourly_2026-09-03_2100": {
-      "ambient_temp_c": 32,
-      "cloud_level": 0.3,
-      "rain_level": 0.06,
-      "weather_randomness": 5,
-      "summary_key": "mixed"
-    },
     "hourly_2026-09-04_2000": {
       "ambient_temp_c": 34,
       "cloud_level": 0.47,
@@ -308,320 +307,322 @@
       "summary_key": "clear"
     },
     "hourly_2026-10-02_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 36,
-      "cloud_level": 0.55,
-      "rain_level": 0.2,
-      "weather_randomness": 3,
-      "summary_key": "wet",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "profile_id": 2,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.49,
+      "rain_level": 0.13,
+      "weather_randomness": 4,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-03_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 33,
-      "cloud_level": 0.27,
-      "rain_level": 0.2,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-04_2000": {
       "profile_id": 1,
-      "ambient_temp_c": 23,
-      "cloud_level": 0.19,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.17,
       "rain_level": 0.05,
       "weather_randomness": 3,
       "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-04_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 33,
+      "cloud_level": 0.42,
+      "rain_level": 0.07,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-05_2000": {
       "profile_id": 1,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.19,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.0,
       "rain_level": 0.05,
-      "weather_randomness": 3,
+      "weather_randomness": 2,
       "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-06_2000": {
       "profile_id": 1,
-      "ambient_temp_c": 31,
-      "cloud_level": 0.2,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.06,
       "rain_level": 0.01,
-      "weather_randomness": 2,
+      "weather_randomness": 1,
       "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-07_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.43,
-      "rain_level": 0.2,
-      "weather_randomness": 3,
-      "summary_key": "wet",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "profile_id": 1,
+      "ambient_temp_c": 24,
+      "cloud_level": 0.24,
+      "rain_level": 0.03,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-08_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.31,
-      "rain_level": 0.12,
-      "weather_randomness": 5,
-      "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-09_2000": {
       "profile_id": 3,
-      "ambient_temp_c": 37,
-      "cloud_level": 0.43,
-      "rain_level": 0.11,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.64,
+      "rain_level": 0.24,
       "weather_randomness": 4,
       "summary_key": "wet",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-09_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.05,
+      "rain_level": 0.04,
+      "weather_randomness": 3,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-10_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 35,
-      "cloud_level": 0.41,
-      "rain_level": 0.22,
-      "weather_randomness": 6,
-      "summary_key": "wet",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "profile_id": 2,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.25,
+      "rain_level": 0.07,
+      "weather_randomness": 4,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-11_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 31,
-      "cloud_level": 0.4,
-      "rain_level": 0.06,
-      "weather_randomness": 5,
-      "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "profile_id": 1,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.06,
+      "rain_level": 0.03,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-12_2000": {
       "profile_id": 1,
-      "ambient_temp_c": 25,
-      "cloud_level": 0.02,
-      "rain_level": 0.02,
-      "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-13_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.18,
-      "rain_level": 0.03,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.04,
+      "rain_level": 0.05,
       "weather_randomness": 1,
       "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-13_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 32,
+      "cloud_level": 0.4,
+      "rain_level": 0.12,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-14_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.41,
-      "rain_level": 0.11,
-      "weather_randomness": 5,
-      "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "profile_id": 1,
+      "ambient_temp_c": 24,
+      "cloud_level": 0.14,
+      "rain_level": 0.02,
+      "weather_randomness": 1,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-15_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.24,
-      "rain_level": 0.03,
+      "profile_id": 2,
+      "ambient_temp_c": 32,
+      "cloud_level": 0.46,
+      "rain_level": 0.17,
       "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-16_2000": {
       "profile_id": 2,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.27,
-      "rain_level": 0.08,
-      "weather_randomness": 5,
+      "ambient_temp_c": 33,
+      "cloud_level": 0.42,
+      "rain_level": 0.2,
+      "weather_randomness": 4,
       "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-17_2000": {
       "profile_id": 2,
-      "ambient_temp_c": 35,
-      "cloud_level": 0.46,
-      "rain_level": 0.11,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.33,
+      "rain_level": 0.1,
       "weather_randomness": 5,
       "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-18_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 25,
-      "cloud_level": 0.04,
-      "rain_level": 0.03,
-      "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-19_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.0,
-      "rain_level": 0.04,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-20_2000": {
       "profile_id": 2,
-      "ambient_temp_c": 33,
-      "cloud_level": 0.4,
-      "rain_level": 0.19,
+      "ambient_temp_c": 31,
+      "cloud_level": 0.47,
+      "rain_level": 0.1,
       "weather_randomness": 5,
       "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-19_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 26,
+      "cloud_level": 0.32,
+      "rain_level": 0.09,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-20_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 23,
+      "cloud_level": 0.15,
+      "rain_level": 0.04,
+      "weather_randomness": 1,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-21_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 37,
-      "cloud_level": 0.65,
-      "rain_level": 0.18,
-      "weather_randomness": 5,
-      "summary_key": "wet",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "profile_id": 1,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.17,
+      "rain_level": 0.03,
+      "weather_randomness": 1,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-22_2000": {
       "profile_id": 1,
-      "ambient_temp_c": 30,
-      "cloud_level": 0.1,
-      "rain_level": 0.04,
-      "weather_randomness": 2,
+      "ambient_temp_c": 26,
+      "cloud_level": 0.24,
+      "rain_level": 0.02,
+      "weather_randomness": 3,
       "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-23_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.22,
-      "rain_level": 0.14,
+      "profile_id": 1,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.19,
+      "rain_level": 0.0,
       "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-24_2000": {
       "profile_id": 2,
-      "ambient_temp_c": 28,
-      "cloud_level": 0.49,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.35,
       "rain_level": 0.05,
       "weather_randomness": 4,
       "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-25_2000": {
       "profile_id": 1,
       "ambient_temp_c": 24,
+      "cloud_level": 0.12,
+      "rain_level": 0.03,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-26_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 31,
+      "cloud_level": 0.03,
+      "rain_level": 0.02,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-27_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.32,
+      "rain_level": 0.07,
+      "weather_randomness": 4,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-28_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 34,
+      "cloud_level": 0.49,
+      "rain_level": 0.13,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-29_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 33,
+      "cloud_level": 0.2,
+      "rain_level": 0.19,
+      "weather_randomness": 4,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-30_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.44,
+      "rain_level": 0.16,
+      "weather_randomness": 4,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-31_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 28,
+      "cloud_level": 0.03,
+      "rain_level": 0.02,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-11-01_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.31,
+      "rain_level": 0.08,
+      "weather_randomness": 4,
+      "summary_key": "mixed",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-11-02_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.02,
+      "rain_level": 0.04,
+      "weather_randomness": 3,
+      "summary_key": "clear",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-11-03_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 24,
       "cloud_level": 0.04,
       "rain_level": 0.03,
       "weather_randomness": 1,
       "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-26_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 34,
-      "cloud_level": 0.32,
-      "rain_level": 0.19,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-27_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.45,
-      "rain_level": 0.08,
-      "weather_randomness": 4,
-      "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-28_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.1,
-      "rain_level": 0.04,
-      "weather_randomness": 1,
-      "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-29_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 28,
-      "cloud_level": 0.03,
-      "rain_level": 0.04,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-30_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.09,
-      "rain_level": 0.02,
-      "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-31_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 32,
-      "cloud_level": 0.48,
-      "rain_level": 0.18,
-      "weather_randomness": 5,
-      "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-11-01_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.23,
-      "rain_level": 0.03,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-11-02_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 23,
-      "cloud_level": 0.12,
-      "rain_level": 0.05,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-11-03_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 32,
-      "cloud_level": 0.29,
-      "rain_level": 0.11,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-11-04_2000": {
       "profile_id": 1,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.11,
+      "ambient_temp_c": 28,
+      "cloud_level": 0.23,
       "rain_level": 0.01,
-      "weather_randomness": 3,
+      "weather_randomness": 1,
       "summary_key": "clear",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-11-05_2000": {
+      "profile_id": 3,
+      "ambient_temp_c": 37,
+      "cloud_level": 0.6,
+      "rain_level": 0.13,
+      "weather_randomness": 5,
+      "summary_key": "wet",
+      "created_at": "2026-09-04T22:00:04+03:00"
     }
   },
   "planned_game_time": {
-    "hourly_2026-09-03_2100": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 17,
-      "asset_id": "evening_gold",
-      "asset": "evening_gold"
-    },
     "hourly_2026-09-04_2000": {
       "code": "night",
       "label": "Night",
@@ -788,12 +789,12 @@
       "code": "morning",
       "label": "Morning",
       "label_ru": "Утро",
-      "hour_of_day": 9,
-      "asset_id": "morning_clear",
-      "asset": "morning_clear",
-      "asset_label": "Clear Morning",
-      "asset_label_ru": "Ясное утро",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "hour_of_day": 7,
+      "asset_id": "morning_soft",
+      "asset": "morning_soft",
+      "asset_label": "Soft Morning",
+      "asset_label_ru": "Мягкое утро",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-09-28_2100": {
       "code": "evening",
@@ -820,52 +821,52 @@
       "hour_of_day": 14
     },
     "hourly_2026-10-02_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 1,
+      "asset_id": "night_clear",
+      "asset": "night_clear",
+      "asset_label": "Clear Night",
+      "asset_label_ru": "Ясная ночь",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-03_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 0,
+      "asset_id": "night_cool",
+      "asset": "night_cool",
+      "asset_label": "Cool Night",
+      "asset_label_ru": "Прохладная ночь",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-04_2000": {
       "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
       "label_ru": "Утро",
-      "hour_of_day": 9,
+      "hour_of_day": 10,
       "asset_id": "morning_soft",
       "asset": "morning_soft",
       "asset_label": "Soft Morning",
       "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-03_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 12,
-      "asset_id": "day_neutral",
-      "asset": "day_neutral",
-      "asset_label": "Neutral Day",
-      "asset_label_ru": "Нейтральный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-04_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 12,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-05_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 15,
-      "asset_id": "day_bright",
-      "asset": "day_bright",
-      "asset_label": "Bright Day",
-      "asset_label_ru": "Яркий день",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 16,
+      "asset_id": "evening_long_shadows",
+      "asset": "evening_long_shadows",
+      "asset_label": "Long Shadows",
+      "asset_label_ru": "Длинные тени",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-06_2000": {
       "profile_id": "morning",
@@ -877,165 +878,21 @@
       "asset": "morning_soft",
       "asset_label": "Soft Morning",
       "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-07_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 0,
-      "asset_id": "night_deep",
-      "asset": "night_deep",
-      "asset_label": "Deep Night",
-      "asset_label_ru": "Глубокая ночь",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 10,
+      "asset_id": "morning_clear",
+      "asset": "morning_clear",
+      "asset_label": "Clear Morning",
+      "asset_label_ru": "Ясное утро",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-08_2000": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 19,
-      "asset_id": "evening_gold",
-      "asset": "evening_gold",
-      "asset_label": "Golden Hour",
-      "asset_label_ru": "Золотой час",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-09_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 15,
-      "asset_id": "day_bright",
-      "asset": "day_bright",
-      "asset_label": "Bright Day",
-      "asset_label_ru": "Яркий день",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-10_2000": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 17,
-      "asset_id": "evening_long_shadows",
-      "asset": "evening_long_shadows",
-      "asset_label": "Long Shadows",
-      "asset_label_ru": "Длинные тени",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-11_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 8,
-      "asset_id": "morning_clear",
-      "asset": "morning_clear",
-      "asset_label": "Clear Morning",
-      "asset_label_ru": "Ясное утро",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-12_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 11,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-13_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 14,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-14_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 0,
-      "asset_id": "night_clear",
-      "asset": "night_clear",
-      "asset_label": "Clear Night",
-      "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-15_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 1,
-      "asset_id": "night_deep",
-      "asset": "night_deep",
-      "asset_label": "Deep Night",
-      "asset_label_ru": "Глубокая ночь",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-16_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 11,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-17_2000": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 19,
-      "asset_id": "evening_long_shadows",
-      "asset": "evening_long_shadows",
-      "asset_label": "Long Shadows",
-      "asset_label_ru": "Длинные тени",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-18_2000": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 16,
-      "asset_id": "evening_long_shadows",
-      "asset": "evening_long_shadows",
-      "asset_label": "Long Shadows",
-      "asset_label_ru": "Длинные тени",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-19_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 7,
-      "asset_id": "morning_clear",
-      "asset": "morning_clear",
-      "asset_label": "Clear Morning",
-      "asset_label_ru": "Ясное утро",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-20_2000": {
       "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
@@ -1045,9 +902,9 @@
       "asset": "morning_haze",
       "asset_label": "Morning Haze",
       "asset_label_ru": "Утренний туман",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
-    "hourly_2026-10-21_2000": {
+    "hourly_2026-10-09_2000": {
       "profile_id": "day",
       "code": "day",
       "label": "Day",
@@ -1057,9 +914,225 @@
       "asset": "day_clear",
       "asset_label": "Clear Day",
       "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-10_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 3,
+      "asset_id": "night_cool",
+      "asset": "night_cool",
+      "asset_label": "Cool Night",
+      "asset_label_ru": "Прохладная ночь",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-11_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 2,
+      "asset_id": "night_cool",
+      "asset": "night_cool",
+      "asset_label": "Cool Night",
+      "asset_label_ru": "Прохладная ночь",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-12_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 3,
+      "asset_id": "night_clear",
+      "asset": "night_clear",
+      "asset_label": "Clear Night",
+      "asset_label_ru": "Ясная ночь",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-13_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 9,
+      "asset_id": "morning_clear",
+      "asset": "morning_clear",
+      "asset_label": "Clear Morning",
+      "asset_label_ru": "Ясное утро",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-14_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 7,
+      "asset_id": "morning_soft",
+      "asset": "morning_soft",
+      "asset_label": "Soft Morning",
+      "asset_label_ru": "Мягкое утро",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-15_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 8,
+      "asset_id": "morning_soft",
+      "asset": "morning_soft",
+      "asset_label": "Soft Morning",
+      "asset_label_ru": "Мягкое утро",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-16_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 17,
+      "asset_id": "evening_long_shadows",
+      "asset": "evening_long_shadows",
+      "asset_label": "Long Shadows",
+      "asset_label_ru": "Длинные тени",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-17_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 2,
+      "asset_id": "night_clear",
+      "asset": "night_clear",
+      "asset_label": "Clear Night",
+      "asset_label_ru": "Ясная ночь",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-18_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 17,
+      "asset_id": "evening_gold",
+      "asset": "evening_gold",
+      "asset_label": "Golden Hour",
+      "asset_label_ru": "Золотой час",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-19_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 9,
+      "asset_id": "morning_haze",
+      "asset": "morning_haze",
+      "asset_label": "Morning Haze",
+      "asset_label_ru": "Утренний туман",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-20_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 14,
+      "asset_id": "day_neutral",
+      "asset": "day_neutral",
+      "asset_label": "Neutral Day",
+      "asset_label_ru": "Нейтральный день",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-21_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 19,
+      "asset_id": "evening_gold",
+      "asset": "evening_gold",
+      "asset_label": "Golden Hour",
+      "asset_label_ru": "Золотой час",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-22_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 8,
+      "asset_id": "morning_soft",
+      "asset": "morning_soft",
+      "asset_label": "Soft Morning",
+      "asset_label_ru": "Мягкое утро",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-23_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 13,
+      "asset_id": "day_neutral",
+      "asset": "day_neutral",
+      "asset_label": "Neutral Day",
+      "asset_label_ru": "Нейтральный день",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-24_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 19,
+      "asset_id": "evening_warm",
+      "asset": "evening_warm",
+      "asset_label": "Warm Sunset",
+      "asset_label_ru": "Тёплый закат",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-25_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 13,
+      "asset_id": "day_neutral",
+      "asset": "day_neutral",
+      "asset_label": "Neutral Day",
+      "asset_label_ru": "Нейтральный день",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-26_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 10,
+      "asset_id": "morning_haze",
+      "asset": "morning_haze",
+      "asset_label": "Morning Haze",
+      "asset_label_ru": "Утренний туман",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-27_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 0,
+      "asset_id": "night_clear",
+      "asset": "night_clear",
+      "asset_label": "Clear Night",
+      "asset_label_ru": "Ясная ночь",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-10-28_2000": {
       "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
@@ -1069,105 +1142,57 @@
       "asset": "morning_soft",
       "asset_label": "Soft Morning",
       "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-23_2000": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 17,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-24_2000": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 18,
-      "asset_id": "evening_gold",
-      "asset": "evening_gold",
-      "asset_label": "Golden Hour",
-      "asset_label_ru": "Золотой час",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-25_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 11,
-      "asset_id": "day_neutral",
-      "asset": "day_neutral",
-      "asset_label": "Neutral Day",
-      "asset_label_ru": "Нейтральный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-26_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 2,
-      "asset_id": "night_deep",
-      "asset": "night_deep",
-      "asset_label": "Deep Night",
-      "asset_label_ru": "Глубокая ночь",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-27_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 14,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-10-28_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 14,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-29_2000": {
       "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
       "label_ru": "Вечер",
-      "hour_of_day": 16,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "hour_of_day": 18,
+      "asset_id": "evening_gold",
+      "asset": "evening_gold",
+      "asset_label": "Golden Hour",
+      "asset_label_ru": "Золотой час",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-30_2000": {
       "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
       "label_ru": "Вечер",
-      "hour_of_day": 18,
-      "asset_id": "evening_long_shadows",
-      "asset": "evening_long_shadows",
-      "asset_label": "Long Shadows",
-      "asset_label_ru": "Длинные тени",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "hour_of_day": 19,
+      "asset_id": "evening_warm",
+      "asset": "evening_warm",
+      "asset_label": "Warm Sunset",
+      "asset_label_ru": "Тёплый закат",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
     "hourly_2026-10-31_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 10,
+      "asset_id": "morning_haze",
+      "asset": "morning_haze",
+      "asset_label": "Morning Haze",
+      "asset_label_ru": "Утренний туман",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-11-01_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 7,
+      "asset_id": "morning_soft",
+      "asset": "morning_soft",
+      "asset_label": "Soft Morning",
+      "asset_label_ru": "Мягкое утро",
+      "created_at": "2026-09-04T22:00:04+03:00"
+    },
+    "hourly_2026-11-02_2000": {
       "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
@@ -1177,21 +1202,21 @@
       "asset": "evening_gold",
       "asset_label": "Golden Hour",
       "asset_label_ru": "Золотой час",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
-    "hourly_2026-11-01_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 13,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
+    "hourly_2026-11-03_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 2,
+      "asset_id": "night_clear",
+      "asset": "night_clear",
+      "asset_label": "Clear Night",
+      "asset_label_ru": "Ясная ночь",
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
-    "hourly_2026-11-02_2000": {
+    "hourly_2026-11-04_2000": {
       "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
@@ -1201,101 +1226,266 @@
       "asset": "morning_clear",
       "asset_label": "Clear Morning",
       "asset_label_ru": "Ясное утро",
-      "created_at": "2026-09-03T22:00:04+03:00"
+      "created_at": "2026-09-04T22:00:04+03:00"
     },
-    "hourly_2026-11-03_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 13,
-      "asset_id": "day_neutral",
-      "asset": "day_neutral",
-      "asset_label": "Neutral Day",
-      "asset_label_ru": "Нейтральный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
-    },
-    "hourly_2026-11-04_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 15,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-03T22:00:04+03:00"
+    "hourly_2026-11-05_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 17,
+      "asset_id": "evening_gold",
+      "asset": "evening_gold",
+      "asset_label": "Golden Hour",
+      "asset_label_ru": "Золотой час",
+      "created_at": "2026-09-04T22:00:04+03:00"
     }
   },
-  "last_track_code": "monza",
+  "last_track_code": "spa",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
-  "last_planned_start_local": "2026-09-03T20:00:00+03:00",
+  "last_planned_start_local": "2026-09-04T20:00:00+03:00",
   "last_planned_weather": {
     "profile_id": null,
-    "ambient_temp_c": 32,
-    "cloud_level": 0.3,
-    "rain_level": 0.06,
-    "weather_randomness": 5,
+    "ambient_temp_c": 34,
+    "cloud_level": 0.47,
+    "rain_level": 0.13,
+    "weather_randomness": 4,
     "summary_key": "mixed"
   },
   "last_event_metadata": {
-    "event_id": "hourly_2026-09-03_2100",
-    "occurrence_id": "hourly_2026-09-03_2100",
+    "event_id": "hourly_2026-09-04_2000",
+    "occurrence_id": "championship_2026-09-04_2100_september-2026",
     "slot": {
-      "event_id": "hourly_2026-09-03_2100",
-      "occurrence_id": "hourly_2026-09-03_2100",
-      "date": "2026-09-03",
+      "event_id": "hourly_2026-09-04_2000",
+      "occurrence_id": "championship_2026-09-04_2100_september-2026",
+      "date": "2026-09-04",
       "start_time_local": "20:00",
-      "launch_at": "2026-09-03T19:00+03:00",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "event_type": "hourly",
+      "launch_at": "2026-09-04T19:00+03:00",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "event_type": "championship",
       "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
+      "competition_mode": "championship",
+      "scoring_mode": "championship_standard",
+      "points_multiplier": 1.0,
       "race_duration_minutes": 60,
-      "server_window_minutes": 180
+      "server_window_minutes": 180,
+      "championship_slug": "september-2026",
+      "title": "ASG Racing September 2026"
     },
     "weather": {
       "profile_id": null,
-      "ambient_temp_c": 32,
-      "cloud_level": 0.3,
-      "rain_level": 0.06,
-      "weather_randomness": 5,
+      "ambient_temp_c": 34,
+      "cloud_level": 0.47,
+      "rain_level": 0.13,
+      "weather_randomness": 4,
       "summary_key": "mixed"
     },
-    "updated_at": "2026-09-03T19:00:01+03:00",
+    "updated_at": "2026-09-04T19:00:02+03:00",
     "game_time": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 17,
-      "asset_id": "evening_gold",
-      "asset": "evening_gold"
+      "code": "night",
+      "label": "Night",
+      "hour_of_day": 1,
+      "asset_id": "night_clear",
+      "asset": "night_clear"
     }
   },
   "last_planned_game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 17,
-    "asset_id": "evening_gold",
-    "asset": "evening_gold"
+    "code": "night",
+    "label": "Night",
+    "hour_of_day": 1,
+    "asset_id": "night_clear",
+    "asset": "night_clear"
   },
-  "orchestrator_started_at": "2026-09-03T19:00:01+03:00",
+  "orchestrator_started_at": "2026-09-04T19:00:02+03:00",
   "launch_mode": "auto",
   "run_mode": "normal",
   "consume_queue": true,
-  "last_actual_start_local": "2026-09-03T19:00:01+03:00",
+  "last_actual_start_local": "2026-09-04T19:00:02+03:00",
   "run_duration_seconds": 10800,
   "last_result_q_files": [
-    "260903_203122_Q.json"
+    "260904_202510_Q.json"
   ],
   "last_result_r_files": [
-    "260903_213706_R.json"
+    "260904_213705_R.json"
   ],
-  "last_result_check_at": "2026-09-03T22:00:04+03:00",
+  "last_result_check_at": "2026-09-04T22:00:04+03:00",
   "result_metadata_by_source_file": {
+    "260904_190002_FP.json": {
+      "event_id": "hourly_2026-09-04_2000",
+      "slot": {
+        "event_id": "hourly_2026-09-04_2000",
+        "occurrence_id": "championship_2026-09-04_2100_september-2026",
+        "date": "2026-09-04",
+        "start_time_local": "20:00",
+        "launch_at": "2026-09-04T19:00+03:00",
+        "track_code": "spa",
+        "track_name": "Spa",
+        "event_type": "championship",
+        "race_format": "hourly",
+        "competition_mode": "championship",
+        "scoring_mode": "championship_standard",
+        "points_multiplier": 1.0,
+        "server_window_minutes": 180,
+        "status": "scheduled"
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.47,
+        "rain_level": 0.13,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 1,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "updated_at": "2026-09-04T22:00:04+03:00"
+    },
+    "260904_200244_FP.json": {
+      "event_id": "hourly_2026-09-04_2000",
+      "slot": {
+        "event_id": "hourly_2026-09-04_2000",
+        "occurrence_id": "championship_2026-09-04_2100_september-2026",
+        "date": "2026-09-04",
+        "start_time_local": "20:00",
+        "launch_at": "2026-09-04T19:00+03:00",
+        "track_code": "spa",
+        "track_name": "Spa",
+        "event_type": "championship",
+        "race_format": "hourly",
+        "competition_mode": "championship",
+        "scoring_mode": "championship_standard",
+        "points_multiplier": 1.0,
+        "server_window_minutes": 180,
+        "status": "scheduled"
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.47,
+        "rain_level": 0.13,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 1,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "updated_at": "2026-09-04T22:00:04+03:00"
+    },
+    "260904_202510_Q.json": {
+      "event_id": "hourly_2026-09-04_2000",
+      "slot": {
+        "event_id": "hourly_2026-09-04_2000",
+        "occurrence_id": "championship_2026-09-04_2100_september-2026",
+        "date": "2026-09-04",
+        "start_time_local": "20:00",
+        "launch_at": "2026-09-04T19:00+03:00",
+        "track_code": "spa",
+        "track_name": "Spa",
+        "event_type": "championship",
+        "race_format": "hourly",
+        "competition_mode": "championship",
+        "scoring_mode": "championship_standard",
+        "points_multiplier": 1.0,
+        "server_window_minutes": 180,
+        "status": "scheduled"
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.47,
+        "rain_level": 0.13,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 1,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "updated_at": "2026-09-04T22:00:04+03:00"
+    },
+    "260904_213705_R.json": {
+      "event_id": "hourly_2026-09-04_2000",
+      "slot": {
+        "event_id": "hourly_2026-09-04_2000",
+        "occurrence_id": "championship_2026-09-04_2100_september-2026",
+        "date": "2026-09-04",
+        "start_time_local": "20:00",
+        "launch_at": "2026-09-04T19:00+03:00",
+        "track_code": "spa",
+        "track_name": "Spa",
+        "event_type": "championship",
+        "race_format": "hourly",
+        "competition_mode": "championship",
+        "scoring_mode": "championship_standard",
+        "points_multiplier": 1.0,
+        "server_window_minutes": 180,
+        "status": "scheduled"
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.47,
+        "rain_level": 0.13,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 1,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "updated_at": "2026-09-04T22:00:04+03:00"
+    },
+    "260904_214130_FP.json": {
+      "event_id": "hourly_2026-09-04_2000",
+      "slot": {
+        "event_id": "hourly_2026-09-04_2000",
+        "occurrence_id": "championship_2026-09-04_2100_september-2026",
+        "date": "2026-09-04",
+        "start_time_local": "20:00",
+        "launch_at": "2026-09-04T19:00+03:00",
+        "track_code": "spa",
+        "track_name": "Spa",
+        "event_type": "championship",
+        "race_format": "hourly",
+        "competition_mode": "championship",
+        "scoring_mode": "championship_standard",
+        "points_multiplier": 1.0,
+        "server_window_minutes": 180,
+        "status": "scheduled"
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.47,
+        "rain_level": 0.13,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 1,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      },
+      "updated_at": "2026-09-04T22:00:04+03:00"
+    },
     "260903_190002_FP.json": {
       "event_id": "hourly_2026-09-03_2100",
       "slot": {
@@ -3642,7 +3832,13 @@
       "updated_at": "2026-08-21T22:42:44+03:00"
     }
   },
-  "last_championship_result_files": [],
-  "last_completed_event_id": "hourly_2026-09-02_2100",
-  "last_completion_at": "2026-09-02T22:00:14+03:00"
+  "last_championship_result_files": [
+    "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\september-2026\\260904_190002_FP.json",
+    "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\september-2026\\260904_200244_FP.json",
+    "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\september-2026\\260904_202510_Q.json",
+    "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\september-2026\\260904_213705_R.json",
+    "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\september-2026\\260904_214130_FP.json"
+  ],
+  "last_completed_event_id": "hourly_2026-09-03_2100",
+  "last_completion_at": "2026-09-03T22:00:15+03:00"
 }

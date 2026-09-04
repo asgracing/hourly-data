@@ -6,77 +6,6 @@
   "description": "Сентябрьский чемпионат ASG Racing",
   "upcoming_races": [
     {
-      "date": "2026-09-04",
-      "start_time_local": "20:00",
-      "timezone": "UTC+3",
-      "weekday": "friday",
-      "month": "2026-09",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "event_type": "championship",
-      "voting_disabled": true,
-      "source_occurrence_id": "hourly_2026-09-04_2100",
-      "source_start_time_local": "21:00",
-      "occurrence_id": "championship_2026-09-04_2100_september-2026",
-      "title": "ASG Racing September 2026",
-      "race_format": "hourly",
-      "competition_mode": "championship",
-      "points_multiplier": 1.0,
-      "practice_duration_minutes": 60,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180,
-      "launch_lead_minutes": 60,
-      "championship_slug": "september-2026",
-      "details_url": "/hourly/championship/?slug=september-2026",
-      "event_rules_overrides": {
-        "mandatoryPitstopCount": 1,
-        "tyreSetCount": 50,
-        "driverStintTimeSec": -1,
-        "maxTotalDrivingTime": -1,
-        "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": true,
-        "isMandatoryPitstopRefuellingRequired": true,
-        "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": -1
-      },
-      "weather": {
-        "ambient_temp_c": 34,
-        "cloud_level": 0.47,
-        "rain_level": 0.13,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "weather_locked": true,
-      "rain_level": 0.13,
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 1,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "game_time_locked": true,
-      "hour_of_day": 1,
-      "game_time_hour": 1,
-      "game_time_code": "night",
-      "game_time_label": "Night",
-      "game_time_label_ru": null,
-      "game_time_asset": "night_clear",
-      "game_time_asset_id": "night_clear",
-      "scoring_mode": "championship_standard",
-      "car_restriction": {
-        "mode": "open"
-      },
-      "session_overtime_seconds": 600,
-      "launch_at_local": "2026-09-04 19:00",
-      "launch_at": "2026-09-04T19:00+03:00",
-      "server_window_end_at": "2026-09-04T22:00+03:00",
-      "event_id": "championship_2026-09-04_2100_september-2026",
-      "schedule_conflicts": []
-    },
-    {
       "date": "2026-09-11",
       "start_time_local": "20:00",
       "timezone": "UTC+3",
@@ -295,8 +224,606 @@
     "prize2": null,
     "prize3": null
   },
-  "results_top3": [],
-  "standings": [],
-  "races": [],
-  "updated_at": "2026-09-03T22:00:11+03:00"
+  "results_top3": [
+    {
+      "public_id": "drv_de8a222e2e87",
+      "driver": "Victor Rovenko",
+      "races": 1,
+      "wins": 1,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 25,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 25
+      },
+      "rank": 1
+    },
+    {
+      "public_id": "drv_f46727fa9e5b",
+      "driver": "Aleksey Mihin",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 18,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 18
+      },
+      "rank": 2
+    },
+    {
+      "public_id": "drv_0d7087b67346",
+      "driver": "Sergei Sotskov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 1,
+      "points": 16,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 16
+      },
+      "rank": 3
+    }
+  ],
+  "standings": [
+    {
+      "public_id": "drv_de8a222e2e87",
+      "driver": "Victor Rovenko",
+      "races": 1,
+      "wins": 1,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 25,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 25
+      },
+      "rank": 1
+    },
+    {
+      "public_id": "drv_f46727fa9e5b",
+      "driver": "Aleksey Mihin",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 18,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 18
+      },
+      "rank": 2
+    },
+    {
+      "public_id": "drv_0d7087b67346",
+      "driver": "Sergei Sotskov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 1,
+      "points": 16,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 16
+      },
+      "rank": 3
+    },
+    {
+      "public_id": "drv_ead3d6e9f3b0",
+      "driver": "Vahe Gabrielyan",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 12,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 12
+      },
+      "rank": 4
+    },
+    {
+      "public_id": "drv_2d10e36d241a",
+      "driver": "William Miller",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 10,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 10
+      },
+      "rank": 5
+    },
+    {
+      "public_id": "drv_9afd0424ded9",
+      "driver": "Temer Lakerino [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 8,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 8
+      },
+      "rank": 6
+    },
+    {
+      "public_id": "drv_8630dadf7512",
+      "driver": "D Coyot",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 6,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 6
+      },
+      "rank": 7
+    },
+    {
+      "public_id": "drv_4176d09cbc6f",
+      "driver": "Alexander Zaytcev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 4,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 4
+      },
+      "rank": 8
+    },
+    {
+      "public_id": "drv_7ddd34173578",
+      "driver": "Leonidovich Simferopol",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 2,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 2
+      },
+      "rank": 9
+    },
+    {
+      "public_id": "drv_4e5550304be8",
+      "driver": "IGNAT MARTIROSYAN",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 1,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 1
+      },
+      "rank": 10
+    },
+    {
+      "public_id": "drv_39c83180f26a",
+      "driver": "ALEKSEY EPIFANOV [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 11
+    },
+    {
+      "public_id": "drv_3a4046b70d17",
+      "driver": "Alex Pozdeev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 12
+    },
+    {
+      "public_id": "drv_740cceccff0f",
+      "driver": "Artem Diakov [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 13
+    },
+    {
+      "public_id": "drv_2566eee8c548",
+      "driver": "Azat Mazitov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 14
+    },
+    {
+      "public_id": "drv_a2d1fa171b24",
+      "driver": "Dark Skull",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 15
+    },
+    {
+      "public_id": "drv_1c16a3641801",
+      "driver": "Dmitriy Uteikin",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 16
+    },
+    {
+      "public_id": "drv_bdf2f8684ab0",
+      "driver": "Egor Goryunov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 17
+    },
+    {
+      "public_id": "drv_6a121e6d9be4",
+      "driver": "F1rewall",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 18
+    },
+    {
+      "public_id": "drv_37cd1cfc0b88",
+      "driver": "Fedor Pukhov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 19
+    },
+    {
+      "public_id": "drv_05a579454b9e",
+      "driver": "Henryk Wesołowski",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 20
+    },
+    {
+      "public_id": "drv_df81ebc3292b",
+      "driver": "Illia Stebelskyi",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 21
+    },
+    {
+      "public_id": "drv_4d46856d85e4",
+      "driver": "Ilya Ivanik",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 22
+    },
+    {
+      "public_id": "drv_acb77f99b429",
+      "driver": "Ivan Kornienko",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 23
+    },
+    {
+      "public_id": "drv_58f90d1d28b5",
+      "driver": "Maks Kasrelishvili | SM",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 24
+    },
+    {
+      "public_id": "drv_0dcf138e0678",
+      "driver": "Max Hardy",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 25
+    },
+    {
+      "public_id": "drv_90c51096a500",
+      "driver": "Maxim Kovalev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 26
+    },
+    {
+      "public_id": "drv_1a5309597301",
+      "driver": "Nikita Ebatnedolznovskiy",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 27
+    },
+    {
+      "public_id": "drv_66f7e0e69f07",
+      "driver": "Oleg Sergienko",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 28
+    },
+    {
+      "public_id": "drv_886dec66cad0",
+      "driver": "Polina Metelyova [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 29
+    },
+    {
+      "public_id": "drv_8b7b5c2f824b",
+      "driver": "Ruslan Murzabaev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 30
+    },
+    {
+      "public_id": "drv_2352d9041299",
+      "driver": "Saveliy Usatov",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 31
+    },
+    {
+      "public_id": "drv_208a87eea0b5",
+      "driver": "Sergey Saltaev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 32
+    },
+    {
+      "public_id": "drv_550d1bfec470",
+      "driver": "VLADYSLAV HOLOVANOV",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 33
+    },
+    {
+      "public_id": "drv_c3d8facfc255",
+      "driver": "Vadim Belyaev",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 34
+    },
+    {
+      "public_id": "drv_fd00f76750a8",
+      "driver": "Valik Korotkevich",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 35
+    },
+    {
+      "public_id": "drv_56d5d830dbd5",
+      "driver": "Vyacheslav Kovskiy",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 36
+    },
+    {
+      "public_id": "drv_f095c8a1aed2",
+      "driver": "ZLOY TRG",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 37
+    },
+    {
+      "public_id": "drv_8e66e9028dae",
+      "driver": "simple dead [ASG]",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 38
+    },
+    {
+      "public_id": "drv_046c2381a929",
+      "driver": "spartak racer",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 39
+    },
+    {
+      "public_id": "drv_15664c2f0413",
+      "driver": "Сергей Халидов",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-09-04_2137_spa": 0
+      },
+      "rank": 40
+    }
+  ],
+  "races": [
+    {
+      "event_id": "hourly_2026-09-04_2137_spa",
+      "title": "Hourly Race",
+      "track": "spa",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "finished_at": "2026-09-04T21:37:05+03:00",
+      "finished_at_local": "2026-09-04 21:37",
+      "participants_count": 40,
+      "scoring_participants_count": 36,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Victor Rovenko",
+      "winner_public_id": "drv_de8a222e2e87",
+      "best_lap": "2:27.365",
+      "best_lap_driver": "Sergei Sotskov",
+      "best_lap_public_id": "drv_0d7087b67346",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-04_2137_spa.json",
+      "results_repo_path": "260904_213705_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.47,
+        "rain_level": 0.13,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 1,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      }
+    }
+  ],
+  "updated_at": "2026-09-04T22:00:11+03:00"
 }

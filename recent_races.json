@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-04_2137_spa",
+      "title": "Hourly Race",
+      "track": "spa",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "finished_at": "2026-09-04T21:37:05+03:00",
+      "finished_at_local": "2026-09-04 21:37",
+      "participants_count": 40,
+      "scoring_participants_count": 36,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Victor Rovenko",
+      "winner_public_id": "drv_de8a222e2e87",
+      "best_lap": "2:27.365",
+      "best_lap_driver": "Sergei Sotskov",
+      "best_lap_public_id": "drv_0d7087b67346",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-04_2137_spa.json",
+      "results_repo_path": "260904_213705_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 34,
+        "cloud_level": 0.47,
+        "rain_level": 0.13,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 1,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-03_2137_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,43 +431,7 @@
         "asset_id": "evening_warm",
         "asset": "evening_warm"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-23_2248_nurburgring_24h",
-      "title": "Hourly Race",
-      "track": "nurburgring_24h",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nurburgring 24H",
-      "finished_at": "2026-08-23T22:48:32+03:00",
-      "finished_at_local": "2026-08-23 22:48",
-      "participants_count": 20,
-      "scoring_participants_count": 14,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Alan Ortabaev[ASG]",
-      "winner_public_id": "drv_3f376fa37e3e",
-      "best_lap": "8:52.005",
-      "best_lap_driver": "Alan Ortabaev[ASG]",
-      "best_lap_public_id": "drv_3f376fa37e3e",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-23_2248_nurburgring_24h.json",
-      "results_repo_path": "260823_224832_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.35,
-        "rain_level": 0.15,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      }
     }
   ],
-  "updated_at": "2026-09-03T22:00:11+03:00"
+  "updated_at": "2026-09-04T22:00:11+03:00"
 }
