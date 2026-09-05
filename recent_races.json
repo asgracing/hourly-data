@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-05_2246_nurburgring_24h",
+      "title": "Hourly Race",
+      "track": "nurburgring_24h",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nurburgring 24H",
+      "finished_at": "2026-09-05T22:46:10+03:00",
+      "finished_at_local": "2026-09-05 22:46",
+      "participants_count": 30,
+      "scoring_participants_count": 25,
+      "points_multiplier": 10.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Asta Khen",
+      "winner_public_id": "drv_7c33b450e7aa",
+      "best_lap": "8:10.107",
+      "best_lap_driver": "Ilya Ivanik",
+      "best_lap_public_id": "drv_4d46856d85e4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-05_2246_nurburgring_24h.json",
+      "results_repo_path": "260905_224610_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.07,
+        "rain_level": 0.01,
+        "weather_randomness": 1,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 15,
+        "asset_id": "day_neutral",
+        "asset": "day_neutral"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-04_2137_spa",
       "title": "Hourly Race",
       "track": "spa",
@@ -395,43 +431,7 @@
         "asset_id": "day_bright",
         "asset": "day_bright"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-24_2231_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-24T22:31:05+03:00",
-      "finished_at_local": "2026-08-24 22:31",
-      "participants_count": 34,
-      "scoring_participants_count": 30,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Aleksey Mihin",
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "1:47.270",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-24_2231_monza.json",
-      "results_repo_path": "260824_223105_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.33,
-        "rain_level": 0.06,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      }
     }
   ],
-  "updated_at": "2026-09-04T22:00:11+03:00"
+  "updated_at": "2026-09-05T23:00:11+03:00"
 }
