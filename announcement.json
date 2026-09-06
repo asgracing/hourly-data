@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-09-06_2100",
-  "date": "2026-09-06",
+  "event_id": "hourly_2026-09-07_2100",
+  "date": "2026-09-07",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "zolder",
-  "track_name": "Zolder",
+  "track_code": "silverstone",
+  "track_name": "Silverstone",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-09-06T19:00+03:00",
+  "launch_at": "2026-09-07T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,7 +29,7 @@
     "period": "2026-09",
     "description": "Сентябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-09-05T23:00:04+03:00",
+  "updated_at": "2026-09-06T22:00:04+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -66,17 +66,17 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 23,
-    "cloud_level": 0.19,
-    "rain_level": 0.01,
-    "weather_randomness": 2,
-    "summary_key": "clear"
+    "ambient_temp_c": 35,
+    "cloud_level": 0.43,
+    "rain_level": 0.22,
+    "weather_randomness": 6,
+    "summary_key": "wet"
   },
   "game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 18,
-    "asset_id": "evening_gold",
-    "asset": "evening_gold"
+    "code": "day",
+    "label": "Day",
+    "hour_of_day": 14,
+    "asset_id": "day_neutral",
+    "asset": "day_neutral"
   }
 }
