@@ -41,8 +41,11 @@
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
       },
+      "car_restriction": {
+        "mode": "open"
+      },
       "weather": {
-        "ambient_temp_c": 31,
+        "ambient_temp_c": 26,
         "cloud_level": 0.03,
         "rain_level": 0.02,
         "weather_randomness": 2,
@@ -66,9 +69,6 @@
       "game_time_asset": "evening_warm",
       "game_time_asset_id": "evening_warm",
       "scoring_mode": "championship_standard",
-      "car_restriction": {
-        "mode": "open"
-      },
       "session_overtime_seconds": 600,
       "launch_at_local": "2026-09-11 19:00",
       "launch_at": "2026-09-11T19:00+03:00",
@@ -825,5 +825,5 @@
       }
     }
   ],
-  "updated_at": "2026-09-07T10:09:47+03:00"
+  "updated_at": "2026-09-07T21:30:26+03:00"
 }

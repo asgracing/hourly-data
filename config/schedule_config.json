@@ -2147,7 +2147,7 @@
       "launch_lead_minutes": 60,
       "points_multiplier": 5.0,
       "hour_of_day": 19,
-      "ambient_temp_c": 34,
+      "ambient_temp_c": 25,
       "cloud_level": 0.1,
       "rain_level": 0.05,
       "weather_randomness": 4,
@@ -2188,7 +2188,7 @@
       "launch_lead_minutes": 60,
       "points_multiplier": 5.0,
       "hour_of_day": 19,
-      "ambient_temp_c": 35,
+      "ambient_temp_c": 24,
       "cloud_level": 0.2,
       "rain_level": 0.05,
       "weather_randomness": 4,
@@ -2207,6 +2207,9 @@
     {
       "date": "2026-09-10",
       "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-09-10_2100",
+      "occurrence_id": "hourly_2026-09-10_2100",
+      "source_start_time_local": "21:00",
       "track_code": "monza",
       "track_name": "Monza",
       "slot_label": "Evening Slot",
@@ -2217,13 +2220,16 @@
       "game_time_code": "day",
       "game_time_label": "Day",
       "game_time_asset": "day_bright",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
       "launch_lead_minutes": 60,
       "points_multiplier": 5.0,
       "hour_of_day": 12,
-      "ambient_temp_c": 30,
+      "ambient_temp_c": 22,
       "cloud_level": 0.36,
       "rain_level": 0.2,
       "weather_randomness": 3,
@@ -2237,14 +2243,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      },
-      "source_start_time_local": "21:00",
-      "target_occurrence_id": "hourly_2026-09-10_2100",
-      "occurrence_id": "hourly_2026-09-10_2100"
+      }
     },
     {
       "date": "2026-09-11",
       "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-09-11_2100",
+      "occurrence_id": "championship_2026-09-11_2100_september-2026",
+      "source_start_time_local": "21:00",
       "track_code": "nurburgring_24h",
       "track_name": "Nordschleife",
       "slot_label": "Evening Slot",
@@ -2257,13 +2263,16 @@
       "game_time_code": "evening",
       "game_time_label": "Evening",
       "game_time_asset": "evening_warm",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
       "launch_lead_minutes": 60,
       "points_multiplier": 5.0,
       "hour_of_day": 17,
-      "ambient_temp_c": 31,
+      "ambient_temp_c": 26,
       "cloud_level": 0.03,
       "rain_level": 0.02,
       "weather_randomness": 2,
@@ -2277,10 +2286,7 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      },
-      "source_start_time_local": "21:00",
-      "target_occurrence_id": "hourly_2026-09-11_2100",
-      "occurrence_id": "championship_2026-09-11_2100_september-2026"
+      }
     },
     {
       "date": "2026-09-12",
@@ -2325,6 +2331,9 @@
     {
       "date": "2026-09-13",
       "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-09-13_2100",
+      "occurrence_id": "hourly_2026-09-13_2100",
+      "source_start_time_local": "21:00",
       "track_code": "imola",
       "track_name": "Imola",
       "slot_label": "Evening Slot",
@@ -2335,13 +2344,16 @@
       "game_time_code": "day",
       "game_time_label": "Day",
       "game_time_asset": "day_bright",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
       "launch_lead_minutes": 60,
       "points_multiplier": 5.0,
       "hour_of_day": 11,
-      "ambient_temp_c": 25,
+      "ambient_temp_c": 30,
       "cloud_level": 0.05,
       "weather_randomness": 3,
       "event_rules_overrides": {
@@ -2354,14 +2366,14 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      },
-      "source_start_time_local": "21:00",
-      "target_occurrence_id": "hourly_2026-09-13_2100",
-      "occurrence_id": "hourly_2026-09-13_2100"
+      }
     },
     {
       "date": "2026-09-14",
       "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-09-14_2100",
+      "occurrence_id": "hourly_2026-09-14_2100",
+      "source_start_time_local": "21:00",
       "track_code": "red_bull_ring",
       "track_name": "Red Bull Ring",
       "slot_label": "Evening Slot",
@@ -2372,13 +2384,16 @@
       "game_time_code": "morning",
       "game_time_label": "Morning",
       "game_time_asset": "morning_soft",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
       "launch_lead_minutes": 60,
       "points_multiplier": 5.0,
       "hour_of_day": 9,
-      "ambient_temp_c": 32,
+      "ambient_temp_c": 26,
       "cloud_level": 0.27,
       "rain_level": 0.15,
       "weather_randomness": 5,
@@ -2392,10 +2407,7 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      },
-      "source_start_time_local": "21:00",
-      "target_occurrence_id": "hourly_2026-09-14_2100",
-      "occurrence_id": "hourly_2026-09-14_2100"
+      }
     },
     {
       "date": "2026-09-15",
@@ -2438,6 +2450,9 @@
     {
       "date": "2026-09-16",
       "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-09-16_2100",
+      "occurrence_id": "hourly_2026-09-16_2100",
+      "source_start_time_local": "21:00",
       "track_code": "kyalami",
       "track_name": "Kyalami",
       "slot_label": "Evening Slot",
@@ -2448,13 +2463,16 @@
       "game_time_code": "evening",
       "game_time_label": "Evening",
       "game_time_asset": "evening_long_shadows",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
       "launch_lead_minutes": 60,
       "points_multiplier": 5.0,
       "hour_of_day": 17,
-      "ambient_temp_c": 31,
+      "ambient_temp_c": 26,
       "cloud_level": 0.38,
       "rain_level": 0.18,
       "weather_randomness": 5,
@@ -2468,10 +2486,7 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      },
-      "source_start_time_local": "21:00",
-      "target_occurrence_id": "hourly_2026-09-16_2100",
-      "occurrence_id": "hourly_2026-09-16_2100"
+      }
     },
     {
       "date": "2026-09-17",

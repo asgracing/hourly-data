@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-07_2129_silverstone",
+      "title": "Hourly Race",
+      "track": "silverstone",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
+      "finished_at": "2026-09-07T21:29:46+03:00",
+      "finished_at_local": "2026-09-07 21:29",
+      "participants_count": 15,
+      "scoring_participants_count": 14,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Arkadiy Plesovskiy",
+      "winner_public_id": "drv_e907098eae56",
+      "best_lap": "1:59.147",
+      "best_lap_driver": "Dark Skull",
+      "best_lap_public_id": "drv_a2d1fa171b24",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-07_2129_silverstone.json",
+      "results_repo_path": "260907_212946_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 35,
+        "cloud_level": 0.3,
+        "rain_level": 0.03,
+        "weather_randomness": 6,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 14,
+        "asset_id": "day_neutral",
+        "asset": "day_neutral"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-05_2246_nurburgring_24h",
       "title": "Hourly Race",
       "track": "nurburgring_24h",
@@ -395,43 +431,7 @@
         "asset_id": "night_clear",
         "asset": "night_clear"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-25_2233_suzuka",
-      "title": "Hourly Race",
-      "track": "suzuka",
-      "track_code": "suzuka",
-      "track_name": "Suzuka",
-      "finished_at": "2026-08-25T22:33:45+03:00",
-      "finished_at_local": "2026-08-25 22:33",
-      "participants_count": 23,
-      "scoring_participants_count": 18,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "William Blazkowicz | GETPC",
-      "winner_public_id": "drv_697cf8978bd7",
-      "best_lap": "2:00.650",
-      "best_lap_driver": "Victor Rovenko",
-      "best_lap_public_id": "drv_de8a222e2e87",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-25_2233_suzuka.json",
-      "results_repo_path": "260825_223345_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.37,
-        "rain_level": 0.09,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      }
     }
   ],
-  "updated_at": "2026-09-07T10:09:47+03:00"
+  "updated_at": "2026-09-07T21:30:26+03:00"
 }
