@@ -2082,6 +2082,9 @@
     {
       "date": "2026-09-07",
       "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-09-07_2100",
+      "occurrence_id": "hourly_2026-09-07_2100",
+      "source_start_time_local": "21:00",
       "track_code": "silverstone",
       "track_name": "Silverstone",
       "slot_label": "Evening Slot",
@@ -2092,6 +2095,9 @@
       "game_time_code": "day",
       "game_time_label": "Day",
       "game_time_asset": "day_neutral",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
@@ -2099,8 +2105,8 @@
       "points_multiplier": 5.0,
       "hour_of_day": 14,
       "ambient_temp_c": 35,
-      "cloud_level": 0.43,
-      "rain_level": 0.22,
+      "cloud_level": 0.3,
+      "rain_level": 0.03,
       "weather_randomness": 6,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
@@ -2109,13 +2115,10 @@
         "maxTotalDrivingTime": -1,
         "isRefuellingAllowedInRace": true,
         "isRefuellingTimeFixed": true,
-        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopRefuellingRequired": false,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      },
-      "source_start_time_local": "21:00",
-      "target_occurrence_id": "hourly_2026-09-07_2100",
-      "occurrence_id": "hourly_2026-09-07_2100"
+      }
     },
     {
       "date": "2026-09-08",
@@ -2145,8 +2148,8 @@
       "points_multiplier": 5.0,
       "hour_of_day": 19,
       "ambient_temp_c": 34,
-      "cloud_level": 0.51,
-      "rain_level": 0.25,
+      "cloud_level": 0.1,
+      "rain_level": 0.05,
       "weather_randomness": 4,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
@@ -2163,6 +2166,9 @@
     {
       "date": "2026-09-09",
       "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-09-09_2100",
+      "occurrence_id": "hourly_2026-09-09_2100",
+      "source_start_time_local": "21:00",
       "track_code": "nurburgring_24h",
       "track_name": "Nordschleife",
       "slot_label": "Evening Slot",
@@ -2173,6 +2179,9 @@
       "game_time_code": "evening",
       "game_time_label": "Evening",
       "game_time_asset": "evening_long_shadows",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 60,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
@@ -2180,8 +2189,8 @@
       "points_multiplier": 5.0,
       "hour_of_day": 19,
       "ambient_temp_c": 35,
-      "cloud_level": 0.42,
-      "rain_level": 0.12,
+      "cloud_level": 0.2,
+      "rain_level": 0.05,
       "weather_randomness": 4,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
@@ -2193,10 +2202,7 @@
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
         "pitWindowLengthSec": -1
-      },
-      "source_start_time_local": "21:00",
-      "target_occurrence_id": "hourly_2026-09-09_2100",
-      "occurrence_id": "hourly_2026-09-09_2100"
+      }
     },
     {
       "date": "2026-09-10",

@@ -73,79 +73,37 @@
       "reason": "duration_elapsed"
     }
   },
-  "last_status": "publishing",
+  "last_status": "completed",
   "stop_reason": "duration_elapsed",
   "last_actual_stop_local": "2026-09-06T22:00:01+03:00",
   "server_pid": null,
-  "orchestrator_pid": 12548,
+  "orchestrator_pid": null,
   "expected_stop_at": null,
-  "active_event_id": "hourly_2026-09-06_2100",
-  "active_event_metadata": {
-    "event_id": "hourly_2026-09-06_2100",
-    "occurrence_id": "hourly_2026-09-06_2100",
-    "slot": {
-      "event_id": "hourly_2026-09-06_2100",
-      "occurrence_id": "hourly_2026-09-06_2100",
-      "date": "2026-09-06",
-      "start_time_local": "20:00",
-      "launch_at": "2026-09-06T19:00+03:00",
-      "track_code": "zolder",
-      "track_name": "Zolder",
-      "event_type": "hourly",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 23,
-      "cloud_level": 0.19,
-      "rain_level": 0.01,
-      "weather_randomness": 2,
-      "summary_key": "clear"
-    },
-    "updated_at": "2026-09-06T19:00:01+03:00",
-    "game_time": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 18,
-      "asset_id": "evening_gold",
-      "asset": "evening_gold"
-    }
-  },
-  "last_error": "Missing result files: R",
-  "updated_at": "2026-09-06T22:00:04+03:00",
+  "active_event_id": null,
+  "active_event_metadata": null,
+  "last_error": null,
+  "updated_at": "2026-09-07T10:09:41+03:00",
   "planned_weather": {
-    "hourly_2026-09-06_2100": {
-      "ambient_temp_c": 23,
-      "cloud_level": 0.19,
-      "rain_level": 0.01,
-      "weather_randomness": 2,
-      "summary_key": "clear"
-    },
     "hourly_2026-09-07_2100": {
       "ambient_temp_c": 35,
-      "cloud_level": 0.43,
-      "rain_level": 0.22,
+      "cloud_level": 0.3,
+      "rain_level": 0.03,
       "weather_randomness": 6,
-      "summary_key": "wet"
+      "summary_key": "mixed"
     },
     "hourly_2026-09-08_2100": {
       "ambient_temp_c": 34,
-      "cloud_level": 0.51,
-      "rain_level": 0.25,
+      "cloud_level": 0.1,
+      "rain_level": 0.05,
       "weather_randomness": 4,
-      "summary_key": "wet"
+      "summary_key": "clear"
     },
     "hourly_2026-09-09_2100": {
       "ambient_temp_c": 35,
-      "cloud_level": 0.42,
-      "rain_level": 0.12,
+      "cloud_level": 0.2,
+      "rain_level": 0.05,
       "weather_randomness": 4,
-      "summary_key": "mixed"
+      "summary_key": "clear"
     },
     "hourly_2026-09-10_2100": {
       "ambient_temp_c": 30,
@@ -633,13 +591,6 @@
     }
   },
   "planned_game_time": {
-    "hourly_2026-09-06_2100": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 18,
-      "asset_id": "evening_gold",
-      "asset": "evening_gold"
-    },
     "hourly_2026-09-07_2100": {
       "code": "day",
       "label": "Day",
@@ -4164,6 +4115,6 @@
     }
   },
   "last_championship_result_files": [],
-  "last_completed_event_id": "hourly_2026-09-05_2000",
-  "last_completion_at": "2026-09-05T23:00:15+03:00"
+  "last_completed_event_id": "hourly_2026-09-06_2100",
+  "last_completion_at": "2026-09-06T22:00:15+03:00"
 }
