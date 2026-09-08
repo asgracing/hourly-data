@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-08_2133_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-09-08T21:33:47+03:00",
+      "finished_at_local": "2026-09-08 21:33",
+      "participants_count": 35,
+      "scoring_participants_count": 34,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Arkadiy Plesovskiy",
+      "winner_public_id": "drv_e907098eae56",
+      "best_lap": "1:47.167",
+      "best_lap_driver": "Dark Skull",
+      "best_lap_public_id": "drv_a2d1fa171b24",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-08_2133_monza.json",
+      "results_repo_path": "260908_213347_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.1,
+        "rain_level": 0.05,
+        "weather_randomness": 4,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-07_2129_silverstone",
       "title": "Hourly Race",
       "track": "silverstone",
@@ -395,43 +431,7 @@
         "asset_id": "evening_long_shadows",
         "asset": "evening_long_shadows"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-26_2137_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-26T21:37:10+03:00",
-      "finished_at_local": "2026-08-26 21:37",
-      "participants_count": 46,
-      "scoring_participants_count": 32,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Ilya Ivanik",
-      "winner_public_id": "drv_4d46856d85e4",
-      "best_lap": "1:46.680",
-      "best_lap_driver": "Ilya Ivanik",
-      "best_lap_public_id": "drv_4d46856d85e4",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-26_2137_monza.json",
-      "results_repo_path": "260826_213710_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.25,
-        "rain_level": 0.02,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      }
     }
   ],
-  "updated_at": "2026-09-07T21:30:26+03:00"
+  "updated_at": "2026-09-08T21:34:29+03:00"
 }
