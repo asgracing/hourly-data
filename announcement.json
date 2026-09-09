@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-09-09_2100",
-  "date": "2026-09-09",
+  "event_id": "hourly_2026-09-10_2100",
+  "date": "2026-09-10",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "nurburgring_24h",
-  "track_name": "Nordschleife",
+  "track_code": "monza",
+  "track_name": "Monza",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-09-09T19:00+03:00",
+  "launch_at": "2026-09-10T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,7 +29,7 @@
     "period": "2026-09",
     "description": "Сентябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-09-08T21:34:22+03:00",
+  "updated_at": "2026-09-09T21:59:05+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -66,17 +66,17 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 24,
-    "cloud_level": 0.2,
-    "rain_level": 0.05,
-    "weather_randomness": 4,
-    "summary_key": "clear"
+    "ambient_temp_c": 22,
+    "cloud_level": 0.36,
+    "rain_level": 0.2,
+    "weather_randomness": 3,
+    "summary_key": "wet"
   },
   "game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 19,
-    "asset_id": "evening_long_shadows",
-    "asset": "evening_long_shadows"
+    "code": "day",
+    "label": "Day",
+    "hour_of_day": 12,
+    "asset_id": "day_bright",
+    "asset": "day_bright"
   }
 }
