@@ -1,24 +1,24 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-09-10_2100",
-  "date": "2026-09-10",
+  "event_id": "hourly_2026-09-11_2000",
+  "date": "2026-09-11",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "monza",
-  "track_name": "Monza",
+  "track_code": "nurburgring_24h",
+  "track_name": "Nordschleife",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-09-10T19:00+03:00",
+  "launch_at": "2026-09-11T19:00+03:00",
   "session_label": "Evening Slot",
-  "details_url": "/hourly/",
-  "event_type": "hourly",
+  "details_url": "/hourly/championship/?slug=september-2026",
+  "event_type": "championship",
   "race_format": "hourly",
-  "competition_mode": "standalone",
-  "points_multiplier": 5.0,
-  "scoring_mode": "hourly_curve_multiplier",
-  "voting_disabled": false,
+  "competition_mode": "championship",
+  "points_multiplier": 1.0,
+  "scoring_mode": "championship_standard",
+  "voting_disabled": true,
   "badge_label": null,
   "championship_slug": "september-2026",
   "championship_title": "ASG Racing September 2026",
@@ -29,7 +29,7 @@
     "period": "2026-09",
     "description": "Сентябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-09-09T21:59:05+03:00",
+  "updated_at": "2026-09-10T21:32:50+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -62,21 +62,27 @@
     "driver_stint_time_minutes": null,
     "max_total_driving_time_minutes": null,
     "max_drivers_count": 1,
-    "tyre_set_count": 50
+    "tyre_set_count": 50,
+    "car_model": {
+      "mode": "open"
+    }
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 22,
-    "cloud_level": 0.36,
-    "rain_level": 0.2,
-    "weather_randomness": 3,
-    "summary_key": "wet"
+    "ambient_temp_c": 26,
+    "cloud_level": 0.03,
+    "rain_level": 0.02,
+    "weather_randomness": 2,
+    "summary_key": "clear"
   },
   "game_time": {
-    "code": "day",
-    "label": "Day",
-    "hour_of_day": 12,
-    "asset_id": "day_bright",
-    "asset": "day_bright"
+    "code": "evening",
+    "label": "Evening",
+    "hour_of_day": 17,
+    "asset_id": "evening_warm",
+    "asset": "evening_warm"
+  },
+  "car_restriction": {
+    "mode": "open"
   }
 }

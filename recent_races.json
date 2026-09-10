@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-10_2132_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-09-10T21:32:18+03:00",
+      "finished_at_local": "2026-09-10 21:32",
+      "participants_count": 38,
+      "scoring_participants_count": 30,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Sergey Saltaev",
+      "winner_public_id": "drv_208a87eea0b5",
+      "best_lap": "1:53.397",
+      "best_lap_driver": "Temer Lakerino [ASG]",
+      "best_lap_public_id": "drv_9afd0424ded9",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-10_2132_monza.json",
+      "results_repo_path": "260910_213218_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 22,
+        "cloud_level": 0.36,
+        "rain_level": 0.2,
+        "weather_randomness": 3,
+        "summary_key": "wet"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 12,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-09_2158_nurburgring_24h",
       "title": "Hourly Race",
       "track": "nurburgring_24h",
@@ -395,43 +431,7 @@
         "asset_id": "evening_long_shadows",
         "asset": "evening_long_shadows"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-28_2142_suzuka",
-      "title": "Hourly Race",
-      "track": "suzuka",
-      "track_code": "suzuka",
-      "track_name": "Suzuka",
-      "finished_at": "2026-08-28T21:42:28+03:00",
-      "finished_at_local": "2026-08-28 21:42",
-      "participants_count": 28,
-      "scoring_participants_count": 19,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Aleksey Mihin",
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "2:00.615",
-      "best_lap_driver": "Arkadiy Plesovskiy",
-      "best_lap_public_id": "drv_e907098eae56",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-28_2142_suzuka.json",
-      "results_repo_path": "260828_214228_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.23,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 7,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      }
     }
   ],
-  "updated_at": "2026-09-09T21:59:13+03:00"
+  "updated_at": "2026-09-10T21:32:57+03:00"
 }
