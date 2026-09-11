@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-11_2145_nurburgring_24h",
+      "title": "Hourly Race",
+      "track": "nurburgring_24h",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nurburgring 24H",
+      "finished_at": "2026-09-11T21:45:45+03:00",
+      "finished_at_local": "2026-09-11 21:45",
+      "participants_count": 26,
+      "scoring_participants_count": 20,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Aleksey Mihin",
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "8:13.490",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-11_2145_nurburgring_24h.json",
+      "results_repo_path": "260911_214545_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.03,
+        "rain_level": 0.02,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 17,
+        "asset_id": "evening_warm",
+        "asset": "evening_warm"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-10_2132_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,43 +431,7 @@
         "asset_id": "evening_gold",
         "asset": "evening_gold"
       }
-    },
-    {
-      "event_id": "hourly_2026-08-29_2229_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-08-29T22:29:49+03:00",
-      "finished_at_local": "2026-08-29 22:29",
-      "participants_count": 45,
-      "scoring_participants_count": 41,
-      "points_multiplier": 10.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Ilya Ivanik",
-      "winner_public_id": "drv_4d46856d85e4",
-      "best_lap": "1:47.815",
-      "best_lap_driver": "Andrei Soldatenkov [ASG]",
-      "best_lap_public_id": "drv_b466bb6eedd8",
-      "status": "finished",
-      "details_path": "races/hourly_2026-08-29_2229_monza.json",
-      "results_repo_path": "260829_222949_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.41,
-        "rain_level": 0.08,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      }
     }
   ],
-  "updated_at": "2026-09-10T21:32:57+03:00"
+  "updated_at": "2026-09-11T21:46:26+03:00"
 }
