@@ -14,8 +14,8 @@
   "meta_data": "nurburgring_24h",
   "participants_count": 27,
   "scoring_participants_count": 22,
-  "points_multiplier": 5.0,
-  "points_rule": "hourly_curve_multiplier",
+  "points_multiplier": 5,
+  "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
   "race_format": "hourly",
   "competition_mode": "standalone",
   "winner": "Victor Rovenko",
@@ -906,40 +906,5 @@
       ]
     }
   ],
-  "total_penalties": 19,
-  "weather": {
-    "profile_id": null,
-    "ambient_temp_c": 24,
-    "cloud_level": 0.2,
-    "rain_level": 0.05,
-    "weather_randomness": 4,
-    "summary_key": "clear"
-  },
-  "game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 19,
-    "asset_id": "evening_long_shadows",
-    "asset": "evening_long_shadows"
-  },
-  "slot": {
-    "event_id": "hourly_2026-09-09_2100",
-    "occurrence_id": "hourly_2026-09-09_2100",
-    "date": "2026-09-09",
-    "start_time_local": "20:00",
-    "launch_at": "2026-09-09T19:00+03:00",
-    "track_code": "nurburgring_24h",
-    "track_name": "Nordschleife",
-    "event_type": "hourly",
-    "race_format": "hourly",
-    "competition_mode": "standalone",
-    "scoring_mode": "hourly_curve_multiplier",
-    "points_multiplier": 5.0,
-    "car_restriction": {
-      "mode": "open"
-    },
-    "server_window_minutes": 180,
-    "status": "scheduled"
-  },
-  "scheduled_event_id": "hourly_2026-09-09_2100"
+  "total_penalties": 19
 }

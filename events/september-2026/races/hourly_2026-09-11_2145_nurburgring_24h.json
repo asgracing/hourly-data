@@ -17,7 +17,7 @@
   "points_multiplier": 1,
   "points_rule": "scaled_top10_by_classified_plus_best_lap",
   "race_format": "hourly",
-  "competition_mode": "championship",
+  "competition_mode": "standalone",
   "winner": "Aleksey Mihin",
   "winner_public_id": "drv_f46727fa9e5b",
   "best_lap": "8:13.490",
@@ -800,40 +800,5 @@
       "penalties": []
     }
   ],
-  "total_penalties": 7,
-  "weather": {
-    "profile_id": null,
-    "ambient_temp_c": 26,
-    "cloud_level": 0.03,
-    "rain_level": 0.02,
-    "weather_randomness": 2,
-    "summary_key": "clear"
-  },
-  "game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 17,
-    "asset_id": "evening_warm",
-    "asset": "evening_warm"
-  },
-  "slot": {
-    "event_id": "hourly_2026-09-11_2000",
-    "occurrence_id": "championship_2026-09-11_2100_september-2026",
-    "date": "2026-09-11",
-    "start_time_local": "20:00",
-    "launch_at": "2026-09-11T19:00+03:00",
-    "track_code": "nurburgring_24h",
-    "track_name": "Nordschleife",
-    "event_type": "championship",
-    "race_format": "hourly",
-    "competition_mode": "championship",
-    "scoring_mode": "championship_standard",
-    "points_multiplier": 1.0,
-    "car_restriction": {
-      "mode": "open"
-    },
-    "server_window_minutes": 180,
-    "status": "scheduled"
-  },
-  "scheduled_event_id": "hourly_2026-09-11_2000"
+  "total_penalties": 7
 }

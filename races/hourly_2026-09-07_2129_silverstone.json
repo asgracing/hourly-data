@@ -14,8 +14,8 @@
   "meta_data": "silverstone",
   "participants_count": 15,
   "scoring_participants_count": 14,
-  "points_multiplier": 5.0,
-  "points_rule": "hourly_curve_multiplier",
+  "points_multiplier": 5,
+  "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
   "race_format": "hourly",
   "competition_mode": "standalone",
   "winner": "Arkadiy Plesovskiy",
@@ -473,40 +473,5 @@
       "penalties": []
     }
   ],
-  "total_penalties": 4,
-  "weather": {
-    "profile_id": null,
-    "ambient_temp_c": 35,
-    "cloud_level": 0.3,
-    "rain_level": 0.03,
-    "weather_randomness": 6,
-    "summary_key": "mixed"
-  },
-  "game_time": {
-    "code": "day",
-    "label": "Day",
-    "hour_of_day": 14,
-    "asset_id": "day_neutral",
-    "asset": "day_neutral"
-  },
-  "slot": {
-    "event_id": "hourly_2026-09-07_2100",
-    "occurrence_id": "hourly_2026-09-07_2100",
-    "date": "2026-09-07",
-    "start_time_local": "20:00",
-    "launch_at": "2026-09-07T19:00+03:00",
-    "track_code": "silverstone",
-    "track_name": "Silverstone",
-    "event_type": "hourly",
-    "race_format": "hourly",
-    "competition_mode": "standalone",
-    "scoring_mode": "hourly_curve_multiplier",
-    "points_multiplier": 5.0,
-    "car_restriction": {
-      "mode": "open"
-    },
-    "server_window_minutes": 180,
-    "status": "scheduled"
-  },
-  "scheduled_event_id": "hourly_2026-09-07_2100"
+  "total_penalties": 4
 }

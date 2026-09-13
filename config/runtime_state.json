@@ -1,163 +1,5 @@
 {
-  "completed_occurrences": {
-    "hourly_2026-08-20_2100": {
-      "completed_at": "2026-08-20T21:00:30+03:00",
-      "reason": "emergency_stopped"
-    },
-    "hourly_2026-08-21_2100": {
-      "completed_at": "2026-08-21T22:42:44+03:00",
-      "reason": "stop_requested"
-    },
-    "endurance_2026-08-22_2100": {
-      "completed_at": "2026-08-22T23:34:50+03:00",
-      "reason": "stop_requested"
-    },
-    "hourly_2026-08-23_2100": {
-      "completed_at": "2026-08-23T23:00:04+03:00",
-      "reason": "duration_elapsed"
-    },
-    "hourly_2026-08-24_2100": {
-      "completed_at": "2026-08-24T22:45:39+03:00",
-      "reason": "stop_requested"
-    },
-    "hourly_2026-08-25_2100": {
-      "completed_at": "2026-08-25T23:00:03+03:00",
-      "reason": "duration_elapsed"
-    },
-    "hourly_2026-08-26_2100": {
-      "completed_at": "2026-08-26T21:48:09+03:00",
-      "reason": "stop_requested"
-    },
-    "hourly_2026-08-27_2100": {
-      "completed_at": "2026-08-27T22:39:26+03:00",
-      "reason": "stop_requested"
-    },
-    "hourly_2026-08-28_2100": {
-      "completed_at": "2026-08-28T22:00:03+03:00",
-      "reason": "duration_elapsed"
-    },
-    "endurance_2026-08-29_2100": {
-      "completed_at": "2026-08-29T23:00:03+03:00",
-      "reason": "duration_elapsed"
-    },
-    "hourly_2026-08-30_2100": {
-      "completed_at": "2026-08-30T22:00:04+03:00",
-      "reason": "duration_elapsed"
-    },
-    "hourly_2026-08-31_2100": {
-      "completed_at": "2026-08-31T22:00:03+03:00",
-      "reason": "duration_elapsed"
-    },
-    "hourly_2026-09-01_2100": {
-      "completed_at": "2026-09-01T22:00:04+03:00",
-      "reason": "duration_elapsed"
-    },
-    "hourly_2026-09-02_2100": {
-      "completed_at": "2026-09-02T22:00:03+03:00",
-      "reason": "duration_elapsed"
-    },
-    "hourly_2026-09-03_2100": {
-      "completed_at": "2026-09-03T22:00:04+03:00",
-      "reason": "duration_elapsed"
-    },
-    "championship_2026-09-04_2100_september-2026": {
-      "completed_at": "2026-09-04T22:00:04+03:00",
-      "reason": "duration_elapsed"
-    },
-    "endurance_2026-09-05_2100": {
-      "completed_at": "2026-09-05T23:00:04+03:00",
-      "reason": "duration_elapsed"
-    },
-    "hourly_2026-09-06_2100": {
-      "completed_at": "2026-09-06T22:00:03+03:00",
-      "reason": "duration_elapsed"
-    },
-    "hourly_2026-09-07_2100": {
-      "completed_at": "2026-09-07T21:30:19+03:00",
-      "reason": "race_result_ready"
-    },
-    "hourly_2026-09-08_2100": {
-      "completed_at": "2026-09-08T21:34:22+03:00",
-      "reason": "race_result_ready"
-    },
-    "hourly_2026-09-09_2100": {
-      "completed_at": "2026-09-09T21:59:05+03:00",
-      "reason": "race_result_ready"
-    },
-    "hourly_2026-09-10_2100": {
-      "completed_at": "2026-09-10T21:32:50+03:00",
-      "reason": "race_result_ready"
-    },
-    "championship_2026-09-11_2100_september-2026": {
-      "completed_at": "2026-09-11T21:46:19+03:00",
-      "reason": "race_result_ready"
-    }
-  },
-  "last_status": "publishing",
-  "stop_reason": "race_result_ready",
-  "last_actual_stop_local": "2026-09-11T21:46:17+03:00",
-  "server_pid": null,
-  "orchestrator_pid": 7216,
-  "expected_stop_at": null,
-  "active_event_id": "hourly_2026-09-11_2000",
-  "active_event_metadata": {
-    "event_id": "hourly_2026-09-11_2000",
-    "occurrence_id": "championship_2026-09-11_2100_september-2026",
-    "slot": {
-      "event_id": "hourly_2026-09-11_2000",
-      "occurrence_id": "championship_2026-09-11_2100_september-2026",
-      "date": "2026-09-11",
-      "start_time_local": "20:00",
-      "launch_at": "2026-09-11T19:00+03:00",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nordschleife",
-      "event_type": "championship",
-      "race_format": "hourly",
-      "competition_mode": "championship",
-      "scoring_mode": "championship_standard",
-      "points_multiplier": 1.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180,
-      "championship_slug": "september-2026",
-      "title": "ASG Racing September 2026",
-      "car_restriction": {
-        "mode": "open"
-      }
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.03,
-      "rain_level": 0.02,
-      "weather_randomness": 2,
-      "summary_key": "clear"
-    },
-    "updated_at": "2026-09-11T19:00:01+03:00",
-    "game_time": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 17,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
-    }
-  },
-  "last_error": null,
-  "updated_at": "2026-09-11T21:46:19+03:00",
   "planned_weather": {
-    "hourly_2026-09-11_2000": {
-      "ambient_temp_c": 26,
-      "cloud_level": 0.03,
-      "rain_level": 0.02,
-      "weather_randomness": 2,
-      "summary_key": "clear"
-    },
-    "hourly_2026-09-12_2000": {
-      "ambient_temp_c": 29,
-      "cloud_level": 0.27,
-      "rain_level": 0.19,
-      "weather_randomness": 5,
-      "summary_key": "clear"
-    },
     "hourly_2026-09-13_2100": {
       "ambient_temp_c": 30,
       "cloud_level": 0.05,
@@ -290,398 +132,403 @@
     },
     "hourly_2026-10-02_2000": {
       "profile_id": 1,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.14,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.17,
       "rain_level": 0.03,
       "weather_randomness": 2,
       "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-03_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.48,
-      "rain_level": 0.27,
-      "weather_randomness": 5,
-      "summary_key": "wet",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "profile_id": 1,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.07,
+      "rain_level": 0.01,
+      "weather_randomness": 1,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-04_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 25,
-      "cloud_level": 0.14,
-      "rain_level": 0.04,
-      "weather_randomness": 1,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-05_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 25,
-      "cloud_level": 0.12,
-      "rain_level": 0.03,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-06_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.1,
-      "rain_level": 0.03,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-07_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.15,
-      "rain_level": 0.03,
-      "weather_randomness": 1,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-08_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.11,
-      "rain_level": 0.0,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-09_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 36,
-      "cloud_level": 0.66,
-      "rain_level": 0.3,
-      "weather_randomness": 6,
-      "summary_key": "wet",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-10_2000": {
       "profile_id": 2,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.42,
-      "rain_level": 0.06,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-11_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.26,
-      "rain_level": 0.07,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-12_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.45,
-      "rain_level": 0.23,
-      "weather_randomness": 5,
-      "summary_key": "wet",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-13_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 35,
+      "ambient_temp_c": 30,
       "cloud_level": 0.23,
       "rain_level": 0.07,
       "weather_randomness": 4,
       "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-14_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 33,
-      "cloud_level": 0.58,
-      "rain_level": 0.18,
-      "weather_randomness": 3,
-      "summary_key": "wet",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-15_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.59,
-      "rain_level": 0.21,
-      "weather_randomness": 3,
-      "summary_key": "wet",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-16_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 30,
-      "cloud_level": 0.4,
-      "rain_level": 0.09,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-17_2000": {
+    "hourly_2026-10-05_2000": {
       "profile_id": 2,
       "ambient_temp_c": 31,
-      "cloud_level": 0.39,
-      "rain_level": 0.18,
-      "weather_randomness": 4,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-18_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 34,
-      "cloud_level": 0.28,
-      "rain_level": 0.17,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-19_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.16,
-      "rain_level": 0.05,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-20_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.35,
-      "rain_level": 0.08,
+      "cloud_level": 0.46,
+      "rain_level": 0.19,
       "weather_randomness": 5,
       "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-21_2000": {
+    "hourly_2026-10-06_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 31,
+      "cloud_level": 0.3,
+      "rain_level": 0.2,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-07_2000": {
       "profile_id": 1,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.02,
+      "ambient_temp_c": 28,
+      "cloud_level": 0.21,
+      "rain_level": 0.05,
+      "weather_randomness": 1,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-08_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 25,
+      "cloud_level": 0.0,
       "rain_level": 0.01,
       "weather_randomness": 1,
       "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-22_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.21,
-      "rain_level": 0.04,
+    "hourly_2026-10-09_2000": {
+      "profile_id": 3,
+      "ambient_temp_c": 37,
+      "cloud_level": 0.45,
+      "rain_level": 0.18,
       "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "summary_key": "wet",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-23_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 31,
-      "cloud_level": 0.24,
-      "rain_level": 0.05,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-24_2000": {
+    "hourly_2026-10-10_2000": {
       "profile_id": 2,
       "ambient_temp_c": 29,
-      "cloud_level": 0.35,
-      "rain_level": 0.12,
-      "weather_randomness": 3,
+      "cloud_level": 0.33,
+      "rain_level": 0.11,
+      "weather_randomness": 5,
       "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-25_2000": {
+    "hourly_2026-10-11_2000": {
       "profile_id": 1,
-      "ambient_temp_c": 28,
-      "cloud_level": 0.11,
-      "rain_level": 0.05,
-      "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-26_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 30,
+      "ambient_temp_c": 23,
       "cloud_level": 0.12,
       "rain_level": 0.02,
       "weather_randomness": 3,
       "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-27_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.26,
-      "rain_level": 0.16,
-      "weather_randomness": 4,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-28_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.14,
-      "rain_level": 0.04,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-29_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 31,
-      "cloud_level": 0.46,
-      "rain_level": 0.16,
-      "weather_randomness": 4,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-30_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.39,
-      "rain_level": 0.1,
-      "weather_randomness": 5,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-31_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 31,
-      "cloud_level": 0.31,
-      "rain_level": 0.19,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-01_2000": {
+    "hourly_2026-10-12_2000": {
       "profile_id": 1,
       "ambient_temp_c": 28,
       "cloud_level": 0.16,
-      "rain_level": 0.01,
-      "weather_randomness": 1,
+      "rain_level": 0.04,
+      "weather_randomness": 2,
       "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-11-02_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 28,
-      "cloud_level": 0.21,
-      "rain_level": 0.06,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-03_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 33,
-      "cloud_level": 0.27,
-      "rain_level": 0.14,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-04_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.37,
-      "rain_level": 0.08,
-      "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-05_2000": {
+    "hourly_2026-10-13_2000": {
       "profile_id": 1,
       "ambient_temp_c": 24,
-      "cloud_level": 0.24,
-      "rain_level": 0.01,
+      "cloud_level": 0.03,
+      "rain_level": 0.04,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-14_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 33,
+      "cloud_level": 0.37,
+      "rain_level": 0.07,
       "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-11-06_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 31,
-      "cloud_level": 0.13,
-      "rain_level": 0.01,
-      "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-07_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 31,
-      "cloud_level": 0.53,
-      "rain_level": 0.11,
-      "weather_randomness": 5,
-      "summary_key": "wet",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-08_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 29,
-      "cloud_level": 0.12,
-      "rain_level": 0.03,
-      "weather_randomness": 1,
-      "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-09_2000": {
+    "hourly_2026-10-15_2000": {
       "profile_id": 1,
       "ambient_temp_c": 28,
+      "cloud_level": 0.07,
+      "rain_level": 0.04,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-16_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 28,
+      "cloud_level": 0.33,
+      "rain_level": 0.12,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-17_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 31,
+      "cloud_level": 0.25,
+      "rain_level": 0.15,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-18_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 31,
+      "cloud_level": 0.49,
+      "rain_level": 0.09,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-19_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 26,
       "cloud_level": 0.18,
       "rain_level": 0.03,
       "weather_randomness": 2,
       "summary_key": "clear",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-11-10_2000": {
-      "profile_id": 2,
-      "ambient_temp_c": 33,
-      "cloud_level": 0.34,
-      "rain_level": 0.18,
-      "weather_randomness": 5,
-      "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-11_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 28,
-      "cloud_level": 0.43,
-      "rain_level": 0.29,
-      "weather_randomness": 5,
-      "summary_key": "wet",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-12_2000": {
+    "hourly_2026-10-20_2000": {
       "profile_id": 2,
       "ambient_temp_c": 27,
-      "cloud_level": 0.39,
+      "cloud_level": 0.44,
+      "rain_level": 0.08,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-21_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.0,
+      "rain_level": 0.05,
+      "weather_randomness": 1,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-22_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.24,
+      "rain_level": 0.02,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-23_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.43,
+      "rain_level": 0.14,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-24_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 34,
+      "cloud_level": 0.35,
+      "rain_level": 0.17,
+      "weather_randomness": 5,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-25_2000": {
+      "profile_id": 3,
+      "ambient_temp_c": 35,
+      "cloud_level": 0.52,
+      "rain_level": 0.15,
+      "weather_randomness": 4,
+      "summary_key": "wet",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-26_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.05,
+      "rain_level": 0.01,
+      "weather_randomness": 3,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-27_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.12,
+      "rain_level": 0.02,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-28_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 26,
+      "cloud_level": 0.32,
+      "rain_level": 0.16,
+      "weather_randomness": 4,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-29_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 23,
+      "cloud_level": 0.21,
+      "rain_level": 0.01,
+      "weather_randomness": 1,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-30_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 25,
+      "cloud_level": 0.11,
+      "rain_level": 0.0,
+      "weather_randomness": 1,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-31_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 29,
+      "cloud_level": 0.3,
+      "rain_level": 0.1,
+      "weather_randomness": 5,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-01_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.33,
+      "rain_level": 0.14,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-02_2000": {
+      "profile_id": 3,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.53,
+      "rain_level": 0.23,
+      "weather_randomness": 5,
+      "summary_key": "wet",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-03_2000": {
+      "profile_id": 3,
+      "ambient_temp_c": 32,
+      "cloud_level": 0.53,
+      "rain_level": 0.23,
+      "weather_randomness": 6,
+      "summary_key": "wet",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-04_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.41,
+      "rain_level": 0.1,
+      "weather_randomness": 4,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-05_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.0,
+      "rain_level": 0.04,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-06_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 28,
+      "cloud_level": 0.13,
+      "rain_level": 0.03,
+      "weather_randomness": 3,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-07_2000": {
+      "profile_id": 3,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.58,
+      "rain_level": 0.24,
+      "weather_randomness": 6,
+      "summary_key": "wet",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-08_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 24,
+      "cloud_level": 0.12,
+      "rain_level": 0.04,
+      "weather_randomness": 2,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-09_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 33,
+      "cloud_level": 0.48,
       "rain_level": 0.15,
       "weather_randomness": 4,
       "summary_key": "mixed",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-10_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.24,
+      "rain_level": 0.03,
+      "weather_randomness": 3,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-11_2000": {
+      "profile_id": 3,
+      "ambient_temp_c": 27,
+      "cloud_level": 0.59,
+      "rain_level": 0.25,
+      "weather_randomness": 6,
+      "summary_key": "wet",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-12_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 25,
+      "cloud_level": 0.21,
+      "rain_level": 0.04,
+      "weather_randomness": 1,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-13_2000": {
+      "profile_id": 1,
+      "ambient_temp_c": 26,
+      "cloud_level": 0.23,
+      "rain_level": 0.04,
+      "weather_randomness": 3,
+      "summary_key": "clear",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-14_2000": {
+      "profile_id": 2,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.32,
+      "rain_level": 0.15,
+      "weather_randomness": 3,
+      "summary_key": "mixed",
+      "created_at": "2026-09-13T21:29:04+03:00"
     }
   },
+  "updated_at": "2026-09-13T21:29:04+03:00",
   "planned_game_time": {
-    "hourly_2026-09-11_2000": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 17,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
-    },
-    "hourly_2026-09-12_2000": {
-      "code": "day",
-      "label": "Day",
-      "hour_of_day": 12,
-      "asset_id": "day_clear",
-      "asset": "day_clear"
-    },
     "hourly_2026-09-13_2100": {
       "code": "day",
       "label": "Day",
@@ -781,16 +628,16 @@
       "asset": "evening_gold"
     },
     "hourly_2026-09-27_2100": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 19,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 14,
+      "asset_id": "day_bright",
+      "asset": "day_bright",
+      "asset_label": "Bright Day",
+      "asset_label_ru": "Яркий день",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-09-28_2100": {
       "code": "evening",
@@ -817,150 +664,18 @@
       "hour_of_day": 14
     },
     "hourly_2026-10-02_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 10,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft",
-      "asset_label": "Soft Morning",
-      "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-03_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 8,
-      "asset_id": "morning_clear",
-      "asset": "morning_clear",
-      "asset_label": "Clear Morning",
-      "asset_label_ru": "Ясное утро",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-04_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 12,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-05_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 0,
-      "asset_id": "night_cool",
-      "asset": "night_cool",
-      "asset_label": "Cool Night",
-      "asset_label_ru": "Прохладная ночь",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-06_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 0,
-      "asset_id": "night_clear",
-      "asset": "night_clear",
-      "asset_label": "Clear Night",
-      "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-07_2000": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 17,
-      "asset_id": "evening_gold",
-      "asset": "evening_gold",
-      "asset_label": "Golden Hour",
-      "asset_label_ru": "Золотой час",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-08_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 12,
-      "asset_id": "day_neutral",
-      "asset": "day_neutral",
-      "asset_label": "Neutral Day",
-      "asset_label_ru": "Нейтральный день",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-09_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 13,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-10_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 8,
-      "asset_id": "morning_haze",
-      "asset": "morning_haze",
-      "asset_label": "Morning Haze",
-      "asset_label_ru": "Утренний туман",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-11_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 12,
-      "asset_id": "day_neutral",
-      "asset": "day_neutral",
-      "asset_label": "Neutral Day",
-      "asset_label_ru": "Нейтральный день",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-12_2000": {
       "profile_id": "day",
       "code": "day",
       "label": "Day",
       "label_ru": "День",
       "hour_of_day": 11,
-      "asset_id": "day_bright",
-      "asset": "day_bright",
-      "asset_label": "Bright Day",
-      "asset_label_ru": "Яркий день",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "asset_id": "day_clear",
+      "asset": "day_clear",
+      "asset_label": "Clear Day",
+      "asset_label_ru": "Ясный день",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-13_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 3,
-      "asset_id": "night_clear",
-      "asset": "night_clear",
-      "asset_label": "Clear Night",
-      "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-14_2000": {
+    "hourly_2026-10-03_2000": {
       "profile_id": "night",
       "code": "night",
       "label": "Night",
@@ -970,21 +685,33 @@
       "asset": "night_clear",
       "asset_label": "Clear Night",
       "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-15_2000": {
+    "hourly_2026-10-04_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 11,
+      "asset_id": "day_bright",
+      "asset": "day_bright",
+      "asset_label": "Bright Day",
+      "asset_label_ru": "Яркий день",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-05_2000": {
       "profile_id": "night",
       "code": "night",
       "label": "Night",
       "label_ru": "Ночь",
-      "hour_of_day": 2,
-      "asset_id": "night_clear",
-      "asset": "night_clear",
-      "asset_label": "Clear Night",
-      "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "hour_of_day": 0,
+      "asset_id": "night_deep",
+      "asset": "night_deep",
+      "asset_label": "Deep Night",
+      "asset_label_ru": "Глубокая ночь",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-16_2000": {
+    "hourly_2026-10-06_2000": {
       "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
@@ -994,31 +721,151 @@
       "asset": "evening_gold",
       "asset_label": "Golden Hour",
       "asset_label_ru": "Золотой час",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-07_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 10,
+      "asset_id": "morning_clear",
+      "asset": "morning_clear",
+      "asset_label": "Clear Morning",
+      "asset_label_ru": "Ясное утро",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-08_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 19,
+      "asset_id": "evening_long_shadows",
+      "asset": "evening_long_shadows",
+      "asset_label": "Long Shadows",
+      "asset_label_ru": "Длинные тени",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-09_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 14,
+      "asset_id": "day_bright",
+      "asset": "day_bright",
+      "asset_label": "Bright Day",
+      "asset_label_ru": "Яркий день",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-10_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 7,
+      "asset_id": "morning_soft",
+      "asset": "morning_soft",
+      "asset_label": "Soft Morning",
+      "asset_label_ru": "Мягкое утро",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-11_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 19,
+      "asset_id": "evening_warm",
+      "asset": "evening_warm",
+      "asset_label": "Warm Sunset",
+      "asset_label_ru": "Тёплый закат",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-12_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 10,
+      "asset_id": "morning_clear",
+      "asset": "morning_clear",
+      "asset_label": "Clear Morning",
+      "asset_label_ru": "Ясное утро",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-13_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 10,
+      "asset_id": "morning_soft",
+      "asset": "morning_soft",
+      "asset_label": "Soft Morning",
+      "asset_label_ru": "Мягкое утро",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-14_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 11,
+      "asset_id": "day_neutral",
+      "asset": "day_neutral",
+      "asset_label": "Neutral Day",
+      "asset_label_ru": "Нейтральный день",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-15_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 13,
+      "asset_id": "day_clear",
+      "asset": "day_clear",
+      "asset_label": "Clear Day",
+      "asset_label_ru": "Ясный день",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-16_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 15,
+      "asset_id": "day_bright",
+      "asset": "day_bright",
+      "asset_label": "Bright Day",
+      "asset_label_ru": "Яркий день",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-17_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 2,
-      "asset_id": "night_deep",
-      "asset": "night_deep",
-      "asset_label": "Deep Night",
-      "asset_label_ru": "Глубокая ночь",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 16,
+      "asset_id": "evening_warm",
+      "asset": "evening_warm",
+      "asset_label": "Warm Sunset",
+      "asset_label_ru": "Тёплый закат",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-18_2000": {
       "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
       "label_ru": "Вечер",
-      "hour_of_day": 17,
-      "asset_id": "evening_long_shadows",
-      "asset": "evening_long_shadows",
-      "asset_label": "Long Shadows",
-      "asset_label_ru": "Длинные тени",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "hour_of_day": 18,
+      "asset_id": "evening_warm",
+      "asset": "evening_warm",
+      "asset_label": "Warm Sunset",
+      "asset_label_ru": "Тёплый закат",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-19_2000": {
       "profile_id": "day",
@@ -1030,141 +877,213 @@
       "asset": "day_clear",
       "asset_label": "Clear Day",
       "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-20_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 8,
-      "asset_id": "morning_clear",
-      "asset": "morning_clear",
-      "asset_label": "Clear Morning",
-      "asset_label_ru": "Ясное утро",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 13,
+      "asset_id": "day_clear",
+      "asset": "day_clear",
+      "asset_label": "Clear Day",
+      "asset_label_ru": "Ясный день",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-21_2000": {
       "profile_id": "day",
       "code": "day",
       "label": "Day",
       "label_ru": "День",
-      "hour_of_day": 12,
-      "asset_id": "day_bright",
-      "asset": "day_bright",
-      "asset_label": "Bright Day",
-      "asset_label_ru": "Яркий день",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "hour_of_day": 11,
+      "asset_id": "day_clear",
+      "asset": "day_clear",
+      "asset_label": "Clear Day",
+      "asset_label_ru": "Ясный день",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-22_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 9,
-      "asset_id": "morning_haze",
-      "asset": "morning_haze",
-      "asset_label": "Morning Haze",
-      "asset_label_ru": "Утренний туман",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-23_2000": {
       "profile_id": "night",
       "code": "night",
       "label": "Night",
       "label_ru": "Ночь",
-      "hour_of_day": 3,
+      "hour_of_day": 1,
       "asset_id": "night_clear",
       "asset": "night_clear",
       "asset_label": "Clear Night",
       "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-24_2000": {
+    "hourly_2026-10-23_2000": {
       "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
       "label_ru": "Вечер",
       "hour_of_day": 17,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "asset_id": "evening_gold",
+      "asset": "evening_gold",
+      "asset_label": "Golden Hour",
+      "asset_label_ru": "Золотой час",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-24_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 13,
+      "asset_id": "day_bright",
+      "asset": "day_bright",
+      "asset_label": "Bright Day",
+      "asset_label_ru": "Яркий день",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-25_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 9,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft",
-      "asset_label": "Soft Morning",
-      "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 14,
+      "asset_id": "day_neutral",
+      "asset": "day_neutral",
+      "asset_label": "Neutral Day",
+      "asset_label_ru": "Нейтральный день",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-26_2000": {
       "profile_id": "day",
       "code": "day",
       "label": "Day",
       "label_ru": "День",
-      "hour_of_day": 15,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "hour_of_day": 11,
+      "asset_id": "day_neutral",
+      "asset": "day_neutral",
+      "asset_label": "Neutral Day",
+      "asset_label_ru": "Нейтральный день",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-27_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 9,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft",
-      "asset_label": "Soft Morning",
-      "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-10-28_2000": {
       "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
       "label_ru": "Вечер",
-      "hour_of_day": 16,
+      "hour_of_day": 17,
       "asset_id": "evening_warm",
       "asset": "evening_warm",
       "asset_label": "Warm Sunset",
       "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-28_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 0,
+      "asset_id": "night_cool",
+      "asset": "night_cool",
+      "asset_label": "Cool Night",
+      "asset_label_ru": "Прохладная ночь",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-29_2000": {
       "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
       "label_ru": "Утро",
-      "hour_of_day": 9,
-      "asset_id": "morning_haze",
-      "asset": "morning_haze",
-      "asset_label": "Morning Haze",
-      "asset_label_ru": "Утренний туман",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "hour_of_day": 10,
+      "asset_id": "morning_clear",
+      "asset": "morning_clear",
+      "asset_label": "Clear Morning",
+      "asset_label_ru": "Ясное утро",
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-10-30_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 0,
+      "asset_id": "night_clear",
+      "asset": "night_clear",
+      "asset_label": "Clear Night",
+      "asset_label_ru": "Ясная ночь",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-10-31_2000": {
       "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
       "label_ru": "Вечер",
-      "hour_of_day": 17,
+      "hour_of_day": 19,
       "asset_id": "evening_long_shadows",
       "asset": "evening_long_shadows",
       "asset_label": "Long Shadows",
       "asset_label_ru": "Длинные тени",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-10-31_2000": {
+    "hourly_2026-11-01_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 9,
+      "asset_id": "morning_clear",
+      "asset": "morning_clear",
+      "asset_label": "Clear Morning",
+      "asset_label_ru": "Ясное утро",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-02_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 13,
+      "asset_id": "day_clear",
+      "asset": "day_clear",
+      "asset_label": "Clear Day",
+      "asset_label_ru": "Ясный день",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-03_2000": {
+      "profile_id": "morning",
+      "code": "morning",
+      "label": "Morning",
+      "label_ru": "Утро",
+      "hour_of_day": 10,
+      "asset_id": "morning_clear",
+      "asset": "morning_clear",
+      "asset_label": "Clear Morning",
+      "asset_label_ru": "Ясное утро",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-04_2000": {
+      "profile_id": "day",
+      "code": "day",
+      "label": "Day",
+      "label_ru": "День",
+      "hour_of_day": 15,
+      "asset_id": "day_neutral",
+      "asset": "day_neutral",
+      "asset_label": "Neutral Day",
+      "asset_label_ru": "Нейтральный день",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-05_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 16,
+      "asset_id": "evening_gold",
+      "asset": "evening_gold",
+      "asset_label": "Golden Hour",
+      "asset_label_ru": "Золотой час",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-06_2000": {
       "profile_id": "day",
       "code": "day",
       "label": "Day",
@@ -1174,69 +1093,9 @@
       "asset": "day_bright",
       "asset_label": "Bright Day",
       "asset_label_ru": "Яркий день",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-11-01_2000": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 18,
-      "asset_id": "evening_long_shadows",
-      "asset": "evening_long_shadows",
-      "asset_label": "Long Shadows",
-      "asset_label_ru": "Длинные тени",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-02_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 3,
-      "asset_id": "night_clear",
-      "asset": "night_clear",
-      "asset_label": "Clear Night",
-      "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-03_2000": {
-      "profile_id": "evening",
-      "code": "evening",
-      "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 17,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-04_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 9,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft",
-      "asset_label": "Soft Morning",
-      "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-05_2000": {
-      "profile_id": "night",
-      "code": "night",
-      "label": "Night",
-      "label_ru": "Ночь",
-      "hour_of_day": 2,
-      "asset_id": "night_cool",
-      "asset": "night_cool",
-      "asset_label": "Cool Night",
-      "asset_label_ru": "Прохладная ночь",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-06_2000": {
+    "hourly_2026-11-07_2000": {
       "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
@@ -1246,9 +1105,33 @@
       "asset": "morning_clear",
       "asset_label": "Clear Morning",
       "asset_label_ru": "Ясное утро",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
-    "hourly_2026-11-07_2000": {
+    "hourly_2026-11-08_2000": {
+      "profile_id": "night",
+      "code": "night",
+      "label": "Night",
+      "label_ru": "Ночь",
+      "hour_of_day": 0,
+      "asset_id": "night_clear",
+      "asset": "night_clear",
+      "asset_label": "Clear Night",
+      "asset_label_ru": "Ясная ночь",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-09_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 16,
+      "asset_id": "evening_gold",
+      "asset": "evening_gold",
+      "asset_label": "Golden Hour",
+      "asset_label_ru": "Золотой час",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-10_2000": {
       "profile_id": "day",
       "code": "day",
       "label": "Day",
@@ -1258,3944 +1141,166 @@
       "asset": "day_clear",
       "asset_label": "Clear Day",
       "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-08_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 15,
-      "asset_id": "day_bright",
-      "asset": "day_bright",
-      "asset_label": "Bright Day",
-      "asset_label_ru": "Яркий день",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-09_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 9,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft",
-      "asset_label": "Soft Morning",
-      "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-09-11T21:46:19+03:00"
-    },
-    "hourly_2026-11-10_2000": {
-      "profile_id": "morning",
-      "code": "morning",
-      "label": "Morning",
-      "label_ru": "Утро",
-      "hour_of_day": 9,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft",
-      "asset_label": "Soft Morning",
-      "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-11-11_2000": {
       "profile_id": "day",
       "code": "day",
       "label": "Day",
       "label_ru": "День",
-      "hour_of_day": 15,
+      "hour_of_day": 14,
       "asset_id": "day_clear",
       "asset": "day_clear",
       "asset_label": "Clear Day",
       "asset_label_ru": "Ясный день",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     },
     "hourly_2026-11-12_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 19,
+      "asset_id": "evening_long_shadows",
+      "asset": "evening_long_shadows",
+      "asset_label": "Long Shadows",
+      "asset_label_ru": "Длинные тени",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-13_2000": {
+      "profile_id": "evening",
+      "code": "evening",
+      "label": "Evening",
+      "label_ru": "Вечер",
+      "hour_of_day": 17,
+      "asset_id": "evening_long_shadows",
+      "asset": "evening_long_shadows",
+      "asset_label": "Long Shadows",
+      "asset_label_ru": "Длинные тени",
+      "created_at": "2026-09-13T21:29:04+03:00"
+    },
+    "hourly_2026-11-14_2000": {
       "profile_id": "day",
       "code": "day",
       "label": "Day",
       "label_ru": "День",
-      "hour_of_day": 12,
+      "hour_of_day": 14,
       "asset_id": "day_bright",
       "asset": "day_bright",
       "asset_label": "Bright Day",
       "asset_label_ru": "Яркий день",
-      "created_at": "2026-09-11T21:46:19+03:00"
+      "created_at": "2026-09-13T21:29:04+03:00"
     }
   },
-  "last_track_code": "nurburgring_24h",
+  "last_track_code": "imola",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
-  "last_planned_start_local": "2026-09-11T20:00:00+03:00",
+  "active_event_id": "hourly_2026-09-13_2100",
+  "last_planned_start_local": "2026-09-13T20:00:00+03:00",
   "last_planned_weather": {
     "profile_id": null,
-    "ambient_temp_c": 26,
-    "cloud_level": 0.03,
-    "rain_level": 0.02,
-    "weather_randomness": 2,
+    "ambient_temp_c": 30,
+    "cloud_level": 0.05,
+    "rain_level": null,
+    "weather_randomness": 3,
     "summary_key": "clear"
   },
-  "last_event_metadata": {
-    "event_id": "hourly_2026-09-11_2000",
-    "occurrence_id": "championship_2026-09-11_2100_september-2026",
+  "active_event_metadata": {
+    "event_id": "hourly_2026-09-13_2100",
+    "occurrence_id": "hourly_2026-09-13_2100",
     "slot": {
-      "event_id": "hourly_2026-09-11_2000",
-      "occurrence_id": "championship_2026-09-11_2100_september-2026",
-      "date": "2026-09-11",
+      "event_id": "hourly_2026-09-13_2100",
+      "occurrence_id": "hourly_2026-09-13_2100",
+      "date": "2026-09-13",
       "start_time_local": "20:00",
-      "launch_at": "2026-09-11T19:00+03:00",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nordschleife",
-      "event_type": "championship",
+      "launch_at": "2026-09-13T19:00+03:00",
+      "track_code": "imola",
+      "track_name": "Imola",
+      "event_type": "hourly",
       "race_format": "hourly",
-      "competition_mode": "championship",
-      "scoring_mode": "championship_standard",
-      "points_multiplier": 1.0,
+      "competition_mode": "standalone",
+      "scoring_mode": "hourly_curve_multiplier",
+      "points_multiplier": 5.0,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
-      "championship_slug": "september-2026",
-      "title": "ASG Racing September 2026",
       "car_restriction": {
         "mode": "open"
       }
     },
     "weather": {
       "profile_id": null,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.03,
-      "rain_level": 0.02,
-      "weather_randomness": 2,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.05,
+      "rain_level": null,
+      "weather_randomness": 3,
       "summary_key": "clear"
     },
-    "updated_at": "2026-09-11T19:00:01+03:00",
+    "updated_at": "2026-09-13T19:00:00+03:00",
     "game_time": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 17,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
+      "code": "day",
+      "label": "Day",
+      "hour_of_day": 11,
+      "asset_id": "day_bright",
+      "asset": "day_bright"
     }
   },
-  "last_planned_game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 17,
-    "asset_id": "evening_warm",
-    "asset": "evening_warm"
+  "last_event_metadata": {
+    "event_id": "hourly_2026-09-13_2100",
+    "occurrence_id": "hourly_2026-09-13_2100",
+    "slot": {
+      "event_id": "hourly_2026-09-13_2100",
+      "occurrence_id": "hourly_2026-09-13_2100",
+      "date": "2026-09-13",
+      "start_time_local": "20:00",
+      "launch_at": "2026-09-13T19:00+03:00",
+      "track_code": "imola",
+      "track_name": "Imola",
+      "event_type": "hourly",
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "scoring_mode": "hourly_curve_multiplier",
+      "points_multiplier": 5.0,
+      "race_duration_minutes": 60,
+      "server_window_minutes": 180,
+      "car_restriction": {
+        "mode": "open"
+      }
+    },
+    "weather": {
+      "profile_id": null,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.05,
+      "rain_level": null,
+      "weather_randomness": 3,
+      "summary_key": "clear"
+    },
+    "updated_at": "2026-09-13T19:00:00+03:00",
+    "game_time": {
+      "code": "day",
+      "label": "Day",
+      "hour_of_day": 11,
+      "asset_id": "day_bright",
+      "asset": "day_bright"
+    }
   },
-  "orchestrator_started_at": "2026-09-11T19:00:00+03:00",
+  "last_status": "publishing",
+  "last_error": null,
+  "last_planned_game_time": {
+    "code": "day",
+    "label": "Day",
+    "hour_of_day": 11,
+    "asset_id": "day_bright",
+    "asset": "day_bright"
+  },
+  "orchestrator_pid": 3772,
+  "orchestrator_started_at": "2026-09-13T19:00:00+03:00",
   "launch_mode": "auto",
   "run_mode": "normal",
   "consume_queue": true,
-  "last_actual_start_local": "2026-09-11T19:00:01+03:00",
+  "server_pid": null,
+  "last_actual_start_local": "2026-09-13T19:00:00+03:00",
+  "last_actual_stop_local": "2026-09-13T21:29:02+03:00",
   "run_duration_seconds": 10800,
-  "last_result_q_files": [
-    "260911_202539_Q.json"
-  ],
-  "last_result_r_files": [
-    "260911_214545_R.json"
-  ],
-  "last_result_check_at": "2026-09-11T21:46:19+03:00",
-  "result_metadata_by_source_file": {
-    "260911_190001_FP.json": {
-      "event_id": "hourly_2026-09-11_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-11_2000",
-        "occurrence_id": "championship_2026-09-11_2100_september-2026",
-        "date": "2026-09-11",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-11T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "championship",
-        "race_format": "hourly",
-        "competition_mode": "championship",
-        "scoring_mode": "championship_standard",
-        "points_multiplier": 1.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.03,
-        "rain_level": 0.02,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      },
-      "updated_at": "2026-09-11T21:46:19+03:00"
-    },
-    "260911_200005_FP.json": {
-      "event_id": "hourly_2026-09-11_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-11_2000",
-        "occurrence_id": "championship_2026-09-11_2100_september-2026",
-        "date": "2026-09-11",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-11T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "championship",
-        "race_format": "hourly",
-        "competition_mode": "championship",
-        "scoring_mode": "championship_standard",
-        "points_multiplier": 1.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.03,
-        "rain_level": 0.02,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      },
-      "updated_at": "2026-09-11T21:46:19+03:00"
-    },
-    "260911_202539_Q.json": {
-      "event_id": "hourly_2026-09-11_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-11_2000",
-        "occurrence_id": "championship_2026-09-11_2100_september-2026",
-        "date": "2026-09-11",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-11T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "championship",
-        "race_format": "hourly",
-        "competition_mode": "championship",
-        "scoring_mode": "championship_standard",
-        "points_multiplier": 1.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.03,
-        "rain_level": 0.02,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      },
-      "updated_at": "2026-09-11T21:46:19+03:00"
-    },
-    "260911_214545_R.json": {
-      "event_id": "hourly_2026-09-11_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-11_2000",
-        "occurrence_id": "championship_2026-09-11_2100_september-2026",
-        "date": "2026-09-11",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-11T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "championship",
-        "race_format": "hourly",
-        "competition_mode": "championship",
-        "scoring_mode": "championship_standard",
-        "points_multiplier": 1.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.03,
-        "rain_level": 0.02,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      },
-      "updated_at": "2026-09-11T21:46:19+03:00"
-    },
-    "260910_190003_FP.json": {
-      "event_id": "hourly_2026-09-10_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-10_2100",
-        "occurrence_id": "hourly_2026-09-10_2100",
-        "date": "2026-09-10",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-10T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.36,
-        "rain_level": 0.2,
-        "weather_randomness": 3,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 12,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-09-10T21:32:50+03:00"
-    },
-    "260910_190602_FP.json": {
-      "event_id": "hourly_2026-09-10_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-10_2100",
-        "occurrence_id": "hourly_2026-09-10_2100",
-        "date": "2026-09-10",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-10T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.36,
-        "rain_level": 0.2,
-        "weather_randomness": 3,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 12,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-09-10T21:32:50+03:00"
-    },
-    "260910_190619_FP.json": {
-      "event_id": "hourly_2026-09-10_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-10_2100",
-        "occurrence_id": "hourly_2026-09-10_2100",
-        "date": "2026-09-10",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-10T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.36,
-        "rain_level": 0.2,
-        "weather_randomness": 3,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 12,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-09-10T21:32:50+03:00"
-    },
-    "260910_190638_FP.json": {
-      "event_id": "hourly_2026-09-10_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-10_2100",
-        "occurrence_id": "hourly_2026-09-10_2100",
-        "date": "2026-09-10",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-10T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.36,
-        "rain_level": 0.2,
-        "weather_randomness": 3,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 12,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-09-10T21:32:50+03:00"
-    },
-    "260910_200028_FP.json": {
-      "event_id": "hourly_2026-09-10_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-10_2100",
-        "occurrence_id": "hourly_2026-09-10_2100",
-        "date": "2026-09-10",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-10T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.36,
-        "rain_level": 0.2,
-        "weather_randomness": 3,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 12,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-09-10T21:32:50+03:00"
-    },
-    "260910_202218_Q.json": {
-      "event_id": "hourly_2026-09-10_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-10_2100",
-        "occurrence_id": "hourly_2026-09-10_2100",
-        "date": "2026-09-10",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-10T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.36,
-        "rain_level": 0.2,
-        "weather_randomness": 3,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 12,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-09-10T21:32:50+03:00"
-    },
-    "260910_213218_R.json": {
-      "event_id": "hourly_2026-09-10_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-10_2100",
-        "occurrence_id": "hourly_2026-09-10_2100",
-        "date": "2026-09-10",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-10T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 22,
-        "cloud_level": 0.36,
-        "rain_level": 0.2,
-        "weather_randomness": 3,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 12,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-09-10T21:32:50+03:00"
-    },
-    "260909_190001_FP.json": {
-      "event_id": "hourly_2026-09-09_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-09_2100",
-        "occurrence_id": "hourly_2026-09-09_2100",
-        "date": "2026-09-09",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-09T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.2,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-09-09T21:59:05+03:00"
-    },
-    "260909_190436_FP.json": {
-      "event_id": "hourly_2026-09-09_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-09_2100",
-        "occurrence_id": "hourly_2026-09-09_2100",
-        "date": "2026-09-09",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-09T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.2,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-09-09T21:59:05+03:00"
-    },
-    "260909_200819_FP.json": {
-      "event_id": "hourly_2026-09-09_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-09_2100",
-        "occurrence_id": "hourly_2026-09-09_2100",
-        "date": "2026-09-09",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-09T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.2,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-09-09T21:59:05+03:00"
-    },
-    "260909_203625_Q.json": {
-      "event_id": "hourly_2026-09-09_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-09_2100",
-        "occurrence_id": "hourly_2026-09-09_2100",
-        "date": "2026-09-09",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-09T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.2,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-09-09T21:59:05+03:00"
-    },
-    "260909_215832_R.json": {
-      "event_id": "hourly_2026-09-09_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-09_2100",
-        "occurrence_id": "hourly_2026-09-09_2100",
-        "date": "2026-09-09",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-09T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.2,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-09-09T21:59:05+03:00"
-    },
-    "260908_190002_FP.json": {
-      "event_id": "hourly_2026-09-08_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-08_2100",
-        "occurrence_id": "hourly_2026-09-08_2100",
-        "date": "2026-09-08",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-08T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "single_model",
-          "car_model_id": 32,
-          "car_model_name": "Ferrari 296 GT3"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.1,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-09-08T21:34:22+03:00"
-    },
-    "260908_200336_FP.json": {
-      "event_id": "hourly_2026-09-08_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-08_2100",
-        "occurrence_id": "hourly_2026-09-08_2100",
-        "date": "2026-09-08",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-08T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "single_model",
-          "car_model_id": 32,
-          "car_model_name": "Ferrari 296 GT3"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.1,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-09-08T21:34:22+03:00"
-    },
-    "260908_202526_Q.json": {
-      "event_id": "hourly_2026-09-08_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-08_2100",
-        "occurrence_id": "hourly_2026-09-08_2100",
-        "date": "2026-09-08",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-08T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "single_model",
-          "car_model_id": 32,
-          "car_model_name": "Ferrari 296 GT3"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.1,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-09-08T21:34:22+03:00"
-    },
-    "260908_213347_R.json": {
-      "event_id": "hourly_2026-09-08_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-08_2100",
-        "occurrence_id": "hourly_2026-09-08_2100",
-        "date": "2026-09-08",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-08T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "single_model",
-          "car_model_id": 32,
-          "car_model_name": "Ferrari 296 GT3"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.1,
-        "rain_level": 0.05,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-09-08T21:34:22+03:00"
-    },
-    "260907_190002_FP.json": {
-      "event_id": "hourly_2026-09-07_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-07_2100",
-        "occurrence_id": "hourly_2026-09-07_2100",
-        "date": "2026-09-07",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-07T19:00+03:00",
-        "track_code": "silverstone",
-        "track_name": "Silverstone",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.3,
-        "rain_level": 0.03,
-        "weather_randomness": 6,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 14,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-07T21:30:19+03:00"
-    },
-    "260907_190047_FP.json": {
-      "event_id": "hourly_2026-09-07_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-07_2100",
-        "occurrence_id": "hourly_2026-09-07_2100",
-        "date": "2026-09-07",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-07T19:00+03:00",
-        "track_code": "silverstone",
-        "track_name": "Silverstone",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.3,
-        "rain_level": 0.03,
-        "weather_randomness": 6,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 14,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-07T21:30:19+03:00"
-    },
-    "260907_200322_FP.json": {
-      "event_id": "hourly_2026-09-07_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-07_2100",
-        "occurrence_id": "hourly_2026-09-07_2100",
-        "date": "2026-09-07",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-07T19:00+03:00",
-        "track_code": "silverstone",
-        "track_name": "Silverstone",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.3,
-        "rain_level": 0.03,
-        "weather_randomness": 6,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 14,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-07T21:30:19+03:00"
-    },
-    "260907_202359_Q.json": {
-      "event_id": "hourly_2026-09-07_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-07_2100",
-        "occurrence_id": "hourly_2026-09-07_2100",
-        "date": "2026-09-07",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-07T19:00+03:00",
-        "track_code": "silverstone",
-        "track_name": "Silverstone",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.3,
-        "rain_level": 0.03,
-        "weather_randomness": 6,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 14,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-07T21:30:19+03:00"
-    },
-    "260907_212946_R.json": {
-      "event_id": "hourly_2026-09-07_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-07_2100",
-        "occurrence_id": "hourly_2026-09-07_2100",
-        "date": "2026-09-07",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-07T19:00+03:00",
-        "track_code": "silverstone",
-        "track_name": "Silverstone",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "car_restriction": {
-          "mode": "open"
-        },
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.3,
-        "rain_level": 0.03,
-        "weather_randomness": 6,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 14,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-07T21:30:19+03:00"
-    },
-    "260906_190002_FP.json": {
-      "event_id": "hourly_2026-09-06_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-06_2100",
-        "occurrence_id": "hourly_2026-09-06_2100",
-        "date": "2026-09-06",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-06T19:00+03:00",
-        "track_code": "zolder",
-        "track_name": "Zolder",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 23,
-        "cloud_level": 0.19,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-09-06T22:00:03+03:00"
-    },
-    "260906_193102_FP.json": {
-      "event_id": "hourly_2026-09-06_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-06_2100",
-        "occurrence_id": "hourly_2026-09-06_2100",
-        "date": "2026-09-06",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-06T19:00+03:00",
-        "track_code": "zolder",
-        "track_name": "Zolder",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 23,
-        "cloud_level": 0.19,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-09-06T22:00:03+03:00"
-    },
-    "260906_203405_FP.json": {
-      "event_id": "hourly_2026-09-06_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-06_2100",
-        "occurrence_id": "hourly_2026-09-06_2100",
-        "date": "2026-09-06",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-06T19:00+03:00",
-        "track_code": "zolder",
-        "track_name": "Zolder",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 23,
-        "cloud_level": 0.19,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-09-06T22:00:03+03:00"
-    },
-    "260906_205530_Q.json": {
-      "event_id": "hourly_2026-09-06_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-06_2100",
-        "occurrence_id": "hourly_2026-09-06_2100",
-        "date": "2026-09-06",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-06T19:00+03:00",
-        "track_code": "zolder",
-        "track_name": "Zolder",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 23,
-        "cloud_level": 0.19,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-09-06T22:00:03+03:00"
-    },
-    "260905_190002_FP.json": {
-      "event_id": "hourly_2026-09-05_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-05_2000",
-        "occurrence_id": "endurance_2026-09-05_2100",
-        "date": "2026-09-05",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-05T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.07,
-        "rain_level": 0.01,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-05T23:00:04+03:00"
-    },
-    "260905_200322_FP.json": {
-      "event_id": "hourly_2026-09-05_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-05_2000",
-        "occurrence_id": "endurance_2026-09-05_2100",
-        "date": "2026-09-05",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-05T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.07,
-        "rain_level": 0.01,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-05T23:00:04+03:00"
-    },
-    "260905_203004_Q.json": {
-      "event_id": "hourly_2026-09-05_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-05_2000",
-        "occurrence_id": "endurance_2026-09-05_2100",
-        "date": "2026-09-05",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-05T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.07,
-        "rain_level": 0.01,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-05T23:00:04+03:00"
-    },
-    "260905_224610_R.json": {
-      "event_id": "hourly_2026-09-05_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-05_2000",
-        "occurrence_id": "endurance_2026-09-05_2100",
-        "date": "2026-09-05",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-05T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.07,
-        "rain_level": 0.01,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-05T23:00:04+03:00"
-    },
-    "260905_225310_FP.json": {
-      "event_id": "hourly_2026-09-05_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-05_2000",
-        "occurrence_id": "endurance_2026-09-05_2100",
-        "date": "2026-09-05",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-05T19:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.07,
-        "rain_level": 0.01,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-05T23:00:04+03:00"
-    },
-    "260904_190002_FP.json": {
-      "event_id": "hourly_2026-09-04_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-04_2000",
-        "occurrence_id": "championship_2026-09-04_2100_september-2026",
-        "date": "2026-09-04",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-04T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "championship",
-        "race_format": "hourly",
-        "competition_mode": "championship",
-        "scoring_mode": "championship_standard",
-        "points_multiplier": 1.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 34,
-        "cloud_level": 0.47,
-        "rain_level": 0.13,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 1,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-09-04T22:00:04+03:00"
-    },
-    "260904_200244_FP.json": {
-      "event_id": "hourly_2026-09-04_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-04_2000",
-        "occurrence_id": "championship_2026-09-04_2100_september-2026",
-        "date": "2026-09-04",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-04T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "championship",
-        "race_format": "hourly",
-        "competition_mode": "championship",
-        "scoring_mode": "championship_standard",
-        "points_multiplier": 1.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 34,
-        "cloud_level": 0.47,
-        "rain_level": 0.13,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 1,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-09-04T22:00:04+03:00"
-    },
-    "260904_202510_Q.json": {
-      "event_id": "hourly_2026-09-04_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-04_2000",
-        "occurrence_id": "championship_2026-09-04_2100_september-2026",
-        "date": "2026-09-04",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-04T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "championship",
-        "race_format": "hourly",
-        "competition_mode": "championship",
-        "scoring_mode": "championship_standard",
-        "points_multiplier": 1.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 34,
-        "cloud_level": 0.47,
-        "rain_level": 0.13,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 1,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-09-04T22:00:04+03:00"
-    },
-    "260904_213705_R.json": {
-      "event_id": "hourly_2026-09-04_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-04_2000",
-        "occurrence_id": "championship_2026-09-04_2100_september-2026",
-        "date": "2026-09-04",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-04T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "championship",
-        "race_format": "hourly",
-        "competition_mode": "championship",
-        "scoring_mode": "championship_standard",
-        "points_multiplier": 1.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 34,
-        "cloud_level": 0.47,
-        "rain_level": 0.13,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 1,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-09-04T22:00:04+03:00"
-    },
-    "260904_214130_FP.json": {
-      "event_id": "hourly_2026-09-04_2000",
-      "slot": {
-        "event_id": "hourly_2026-09-04_2000",
-        "occurrence_id": "championship_2026-09-04_2100_september-2026",
-        "date": "2026-09-04",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-04T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "championship",
-        "race_format": "hourly",
-        "competition_mode": "championship",
-        "scoring_mode": "championship_standard",
-        "points_multiplier": 1.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 34,
-        "cloud_level": 0.47,
-        "rain_level": 0.13,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 1,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-09-04T22:00:04+03:00"
-    },
-    "260903_190002_FP.json": {
-      "event_id": "hourly_2026-09-03_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-03_2100",
-        "occurrence_id": "hourly_2026-09-03_2100",
-        "date": "2026-09-03",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-03T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 32,
-        "cloud_level": 0.3,
-        "rain_level": 0.06,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-09-03T22:00:04+03:00"
-    },
-    "260903_190353_FP.json": {
-      "event_id": "hourly_2026-09-03_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-03_2100",
-        "occurrence_id": "hourly_2026-09-03_2100",
-        "date": "2026-09-03",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-03T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 32,
-        "cloud_level": 0.3,
-        "rain_level": 0.06,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-09-03T22:00:04+03:00"
-    },
-    "260903_200910_FP.json": {
-      "event_id": "hourly_2026-09-03_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-03_2100",
-        "occurrence_id": "hourly_2026-09-03_2100",
-        "date": "2026-09-03",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-03T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 32,
-        "cloud_level": 0.3,
-        "rain_level": 0.06,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-09-03T22:00:04+03:00"
-    },
-    "260903_203122_Q.json": {
-      "event_id": "hourly_2026-09-03_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-03_2100",
-        "occurrence_id": "hourly_2026-09-03_2100",
-        "date": "2026-09-03",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-03T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 32,
-        "cloud_level": 0.3,
-        "rain_level": 0.06,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-09-03T22:00:04+03:00"
-    },
-    "260903_213706_R.json": {
-      "event_id": "hourly_2026-09-03_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-03_2100",
-        "occurrence_id": "hourly_2026-09-03_2100",
-        "date": "2026-09-03",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-03T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 32,
-        "cloud_level": 0.3,
-        "rain_level": 0.06,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-09-03T22:00:04+03:00"
-    },
-    "260902_190001_FP.json": {
-      "event_id": "hourly_2026-09-02_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-02_2100",
-        "occurrence_id": "hourly_2026-09-02_2100",
-        "date": "2026-09-02",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-02T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.44,
-        "rain_level": 0.14,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-02T22:00:03+03:00"
-    },
-    "260902_190127_FP.json": {
-      "event_id": "hourly_2026-09-02_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-02_2100",
-        "occurrence_id": "hourly_2026-09-02_2100",
-        "date": "2026-09-02",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-02T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.44,
-        "rain_level": 0.14,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-02T22:00:03+03:00"
-    },
-    "260902_200219_FP.json": {
-      "event_id": "hourly_2026-09-02_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-02_2100",
-        "occurrence_id": "hourly_2026-09-02_2100",
-        "date": "2026-09-02",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-02T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.44,
-        "rain_level": 0.14,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-02T22:00:03+03:00"
-    },
-    "260902_202342_Q.json": {
-      "event_id": "hourly_2026-09-02_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-02_2100",
-        "occurrence_id": "hourly_2026-09-02_2100",
-        "date": "2026-09-02",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-02T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.44,
-        "rain_level": 0.14,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-02T22:00:03+03:00"
-    },
-    "260902_213244_R.json": {
-      "event_id": "hourly_2026-09-02_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-02_2100",
-        "occurrence_id": "hourly_2026-09-02_2100",
-        "date": "2026-09-02",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-02T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.44,
-        "rain_level": 0.14,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-02T22:00:03+03:00"
-    },
-    "260902_213629_FP.json": {
-      "event_id": "hourly_2026-09-02_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-02_2100",
-        "occurrence_id": "hourly_2026-09-02_2100",
-        "date": "2026-09-02",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-02T19:00+03:00",
-        "track_code": "spa",
-        "track_name": "Spa",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 35,
-        "cloud_level": 0.44,
-        "rain_level": 0.14,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-02T22:00:03+03:00"
-    },
-    "260901_190002_FP.json": {
-      "event_id": "hourly_2026-09-01_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-01_2100",
-        "occurrence_id": "hourly_2026-09-01_2100",
-        "date": "2026-09-01",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-01T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": null,
-        "rain_level": null,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-01T22:00:04+03:00"
-    },
-    "260901_200203_FP.json": {
-      "event_id": "hourly_2026-09-01_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-01_2100",
-        "occurrence_id": "hourly_2026-09-01_2100",
-        "date": "2026-09-01",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-01T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": null,
-        "rain_level": null,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-01T22:00:04+03:00"
-    },
-    "260901_202355_Q.json": {
-      "event_id": "hourly_2026-09-01_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-01_2100",
-        "occurrence_id": "hourly_2026-09-01_2100",
-        "date": "2026-09-01",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-01T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": null,
-        "rain_level": null,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-01T22:00:04+03:00"
-    },
-    "260901_212922_R.json": {
-      "event_id": "hourly_2026-09-01_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-01_2100",
-        "occurrence_id": "hourly_2026-09-01_2100",
-        "date": "2026-09-01",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-01T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": null,
-        "rain_level": null,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-01T22:00:04+03:00"
-    },
-    "260901_214418_FP.json": {
-      "event_id": "hourly_2026-09-01_2100",
-      "slot": {
-        "event_id": "hourly_2026-09-01_2100",
-        "occurrence_id": "hourly_2026-09-01_2100",
-        "date": "2026-09-01",
-        "start_time_local": "20:00",
-        "launch_at": "2026-09-01T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": null,
-        "rain_level": null,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      },
-      "updated_at": "2026-09-01T22:00:04+03:00"
-    },
-    "260831_190002_FP.json": {
-      "event_id": "hourly_2026-08-31_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-31_2100",
-        "occurrence_id": "hourly_2026-08-31_2100",
-        "date": "2026-08-31",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-31T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.33,
-        "rain_level": 0.07,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_deep",
-        "asset": "night_deep"
-      },
-      "updated_at": "2026-08-31T22:00:03+03:00"
-    },
-    "260831_202352_FP.json": {
-      "event_id": "hourly_2026-08-31_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-31_2100",
-        "occurrence_id": "hourly_2026-08-31_2100",
-        "date": "2026-08-31",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-31T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.33,
-        "rain_level": 0.07,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_deep",
-        "asset": "night_deep"
-      },
-      "updated_at": "2026-08-31T22:00:03+03:00"
-    },
-    "260831_204543_Q.json": {
-      "event_id": "hourly_2026-08-31_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-31_2100",
-        "occurrence_id": "hourly_2026-08-31_2100",
-        "date": "2026-08-31",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-31T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.33,
-        "rain_level": 0.07,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_deep",
-        "asset": "night_deep"
-      },
-      "updated_at": "2026-08-31T22:00:03+03:00"
-    },
-    "260831_215053_R.json": {
-      "event_id": "hourly_2026-08-31_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-31_2100",
-        "occurrence_id": "hourly_2026-08-31_2100",
-        "date": "2026-08-31",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-31T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.33,
-        "rain_level": 0.07,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_deep",
-        "asset": "night_deep"
-      },
-      "updated_at": "2026-08-31T22:00:03+03:00"
-    },
-    "260830_190003_FP.json": {
-      "event_id": "hourly_2026-08-30_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-30_2100",
-        "occurrence_id": "hourly_2026-08-30_2100",
-        "date": "2026-08-30",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-30T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.15,
-        "rain_level": 0.03,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-08-30T22:00:04+03:00"
-    },
-    "260830_200328_FP.json": {
-      "event_id": "hourly_2026-08-30_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-30_2100",
-        "occurrence_id": "hourly_2026-08-30_2100",
-        "date": "2026-08-30",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-30T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.15,
-        "rain_level": 0.03,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-08-30T22:00:04+03:00"
-    },
-    "260830_202445_Q.json": {
-      "event_id": "hourly_2026-08-30_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-30_2100",
-        "occurrence_id": "hourly_2026-08-30_2100",
-        "date": "2026-08-30",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-30T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.15,
-        "rain_level": 0.03,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-08-30T22:00:04+03:00"
-    },
-    "260830_213136_R.json": {
-      "event_id": "hourly_2026-08-30_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-30_2100",
-        "occurrence_id": "hourly_2026-08-30_2100",
-        "date": "2026-08-30",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-30T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.15,
-        "rain_level": 0.03,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-08-30T22:00:04+03:00"
-    },
-    "260830_213516_FP.json": {
-      "event_id": "hourly_2026-08-30_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-30_2100",
-        "occurrence_id": "hourly_2026-08-30_2100",
-        "date": "2026-08-30",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-30T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.15,
-        "rain_level": 0.03,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 18,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      },
-      "updated_at": "2026-08-30T22:00:04+03:00"
-    },
-    "260829_190001_FP.json": {
-      "event_id": "hourly_2026-08-29_2000",
-      "slot": {
-        "event_id": "hourly_2026-08-29_2000",
-        "occurrence_id": "endurance_2026-08-29_2100",
-        "date": "2026-08-29",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-29T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.41,
-        "rain_level": 0.08,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-08-29T23:00:03+03:00"
-    },
-    "260829_200151_FP.json": {
-      "event_id": "hourly_2026-08-29_2000",
-      "slot": {
-        "event_id": "hourly_2026-08-29_2000",
-        "occurrence_id": "endurance_2026-08-29_2100",
-        "date": "2026-08-29",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-29T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.41,
-        "rain_level": 0.08,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-08-29T23:00:03+03:00"
-    },
-    "260829_202440_Q.json": {
-      "event_id": "hourly_2026-08-29_2000",
-      "slot": {
-        "event_id": "hourly_2026-08-29_2000",
-        "occurrence_id": "endurance_2026-08-29_2100",
-        "date": "2026-08-29",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-29T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.41,
-        "rain_level": 0.08,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-08-29T23:00:03+03:00"
-    },
-    "260829_222949_R.json": {
-      "event_id": "hourly_2026-08-29_2000",
-      "slot": {
-        "event_id": "hourly_2026-08-29_2000",
-        "occurrence_id": "endurance_2026-08-29_2100",
-        "date": "2026-08-29",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-29T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.41,
-        "rain_level": 0.08,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-08-29T23:00:03+03:00"
-    },
-    "260829_224024_FP.json": {
-      "event_id": "hourly_2026-08-29_2000",
-      "slot": {
-        "event_id": "hourly_2026-08-29_2000",
-        "occurrence_id": "endurance_2026-08-29_2100",
-        "date": "2026-08-29",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-29T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.41,
-        "rain_level": 0.08,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-08-29T23:00:03+03:00"
-    },
-    "260828_190001_FP.json": {
-      "event_id": "hourly_2026-08-28_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-28_2100",
-        "occurrence_id": "hourly_2026-08-28_2100",
-        "date": "2026-08-28",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-28T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.23,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 7,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-28T22:00:03+03:00"
-    },
-    "260828_191301_FP.json": {
-      "event_id": "hourly_2026-08-28_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-28_2100",
-        "occurrence_id": "hourly_2026-08-28_2100",
-        "date": "2026-08-28",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-28T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.23,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 7,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-28T22:00:03+03:00"
-    },
-    "260828_201507_FP.json": {
-      "event_id": "hourly_2026-08-28_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-28_2100",
-        "occurrence_id": "hourly_2026-08-28_2100",
-        "date": "2026-08-28",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-28T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.23,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 7,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-28T22:00:03+03:00"
-    },
-    "260828_203649_Q.json": {
-      "event_id": "hourly_2026-08-28_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-28_2100",
-        "occurrence_id": "hourly_2026-08-28_2100",
-        "date": "2026-08-28",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-28T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.23,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 7,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-28T22:00:03+03:00"
-    },
-    "260828_214228_R.json": {
-      "event_id": "hourly_2026-08-28_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-28_2100",
-        "occurrence_id": "hourly_2026-08-28_2100",
-        "date": "2026-08-28",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-28T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.23,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 7,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-28T22:00:03+03:00"
-    },
-    "260828_214643_FP.json": {
-      "event_id": "hourly_2026-08-28_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-28_2100",
-        "occurrence_id": "hourly_2026-08-28_2100",
-        "date": "2026-08-28",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-28T19:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.23,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 7,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-28T22:00:03+03:00"
-    },
-    "260827_200002_FP.json": {
-      "event_id": "hourly_2026-08-27_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-27_2100",
-        "occurrence_id": "hourly_2026-08-27_2100",
-        "date": "2026-08-27",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-27T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.64,
-        "rain_level": 0.27,
-        "weather_randomness": 6,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-08-27T22:39:26+03:00"
-    },
-    "260827_210258_FP.json": {
-      "event_id": "hourly_2026-08-27_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-27_2100",
-        "occurrence_id": "hourly_2026-08-27_2100",
-        "date": "2026-08-27",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-27T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.64,
-        "rain_level": 0.27,
-        "weather_randomness": 6,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-08-27T22:39:26+03:00"
-    },
-    "260827_212428_Q.json": {
-      "event_id": "hourly_2026-08-27_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-27_2100",
-        "occurrence_id": "hourly_2026-08-27_2100",
-        "date": "2026-08-27",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-27T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.64,
-        "rain_level": 0.27,
-        "weather_randomness": 6,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-08-27T22:39:26+03:00"
-    },
-    "260827_223028_R.json": {
-      "event_id": "hourly_2026-08-27_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-27_2100",
-        "occurrence_id": "hourly_2026-08-27_2100",
-        "date": "2026-08-27",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-27T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.64,
-        "rain_level": 0.27,
-        "weather_randomness": 6,
-        "summary_key": "wet"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      },
-      "updated_at": "2026-08-27T22:39:26+03:00"
-    },
-    "260826_190001_FP.json": {
-      "event_id": "hourly_2026-08-26_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-26_2100",
-        "occurrence_id": "hourly_2026-08-26_2100",
-        "date": "2026-08-26",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-26T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.25,
-        "rain_level": 0.02,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-08-26T21:48:09+03:00"
-    },
-    "260826_200459_FP.json": {
-      "event_id": "hourly_2026-08-26_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-26_2100",
-        "occurrence_id": "hourly_2026-08-26_2100",
-        "date": "2026-08-26",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-26T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.25,
-        "rain_level": 0.02,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-08-26T21:48:09+03:00"
-    },
-    "260826_202645_Q.json": {
-      "event_id": "hourly_2026-08-26_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-26_2100",
-        "occurrence_id": "hourly_2026-08-26_2100",
-        "date": "2026-08-26",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-26T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.25,
-        "rain_level": 0.02,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-08-26T21:48:09+03:00"
-    },
-    "260826_213710_R.json": {
-      "event_id": "hourly_2026-08-26_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-26_2100",
-        "occurrence_id": "hourly_2026-08-26_2100",
-        "date": "2026-08-26",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-26T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.25,
-        "rain_level": 0.02,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-08-26T21:48:09+03:00"
-    },
-    "260826_214315_FP.json": {
-      "event_id": "hourly_2026-08-26_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-26_2100",
-        "occurrence_id": "hourly_2026-08-26_2100",
-        "date": "2026-08-26",
-        "start_time_local": "20:00",
-        "launch_at": "2026-08-26T19:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.25,
-        "rain_level": 0.02,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      },
-      "updated_at": "2026-08-26T21:48:09+03:00"
-    },
-    "260825_200001_FP.json": {
-      "event_id": "hourly_2026-08-25_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-25_2100",
-        "occurrence_id": "hourly_2026-08-25_2100",
-        "date": "2026-08-25",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-25T20:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.37,
-        "rain_level": 0.09,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-08-25T23:00:03+03:00"
-    },
-    "260825_210304_FP.json": {
-      "event_id": "hourly_2026-08-25_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-25_2100",
-        "occurrence_id": "hourly_2026-08-25_2100",
-        "date": "2026-08-25",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-25T20:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.37,
-        "rain_level": 0.09,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-08-25T23:00:03+03:00"
-    },
-    "260825_212307_Q.json": {
-      "event_id": "hourly_2026-08-25_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-25_2100",
-        "occurrence_id": "hourly_2026-08-25_2100",
-        "date": "2026-08-25",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-25T20:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.37,
-        "rain_level": 0.09,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-08-25T23:00:03+03:00"
-    },
-    "260825_223345_R.json": {
-      "event_id": "hourly_2026-08-25_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-25_2100",
-        "occurrence_id": "hourly_2026-08-25_2100",
-        "date": "2026-08-25",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-25T20:00+03:00",
-        "track_code": "suzuka",
-        "track_name": "Suzuka",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.37,
-        "rain_level": 0.09,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 15,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-08-25T23:00:03+03:00"
-    },
-    "260824_200001_FP.json": {
-      "event_id": "hourly_2026-08-24_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-24_2100",
-        "occurrence_id": "hourly_2026-08-24_2100",
-        "date": "2026-08-24",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-24T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.33,
-        "rain_level": 0.06,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      },
-      "updated_at": "2026-08-24T22:45:39+03:00"
-    },
-    "260824_210019_FP.json": {
-      "event_id": "hourly_2026-08-24_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-24_2100",
-        "occurrence_id": "hourly_2026-08-24_2100",
-        "date": "2026-08-24",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-24T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.33,
-        "rain_level": 0.06,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      },
-      "updated_at": "2026-08-24T22:45:39+03:00"
-    },
-    "260824_212209_Q.json": {
-      "event_id": "hourly_2026-08-24_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-24_2100",
-        "occurrence_id": "hourly_2026-08-24_2100",
-        "date": "2026-08-24",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-24T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.33,
-        "rain_level": 0.06,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      },
-      "updated_at": "2026-08-24T22:45:39+03:00"
-    },
-    "260824_223105_R.json": {
-      "event_id": "hourly_2026-08-24_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-24_2100",
-        "occurrence_id": "hourly_2026-08-24_2100",
-        "date": "2026-08-24",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-24T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.33,
-        "rain_level": 0.06,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      },
-      "updated_at": "2026-08-24T22:45:39+03:00"
-    },
-    "260824_223709_FP.json": {
-      "event_id": "hourly_2026-08-24_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-24_2100",
-        "occurrence_id": "hourly_2026-08-24_2100",
-        "date": "2026-08-24",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-24T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.33,
-        "rain_level": 0.06,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
-      },
-      "updated_at": "2026-08-24T22:45:39+03:00"
-    },
-    "260823_200002_FP.json": {
-      "event_id": "hourly_2026-08-23_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-23_2100",
-        "occurrence_id": "hourly_2026-08-23_2100",
-        "date": "2026-08-23",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-23T20:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.35,
-        "rain_level": 0.15,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-08-23T23:00:04+03:00"
-    },
-    "260823_210723_FP.json": {
-      "event_id": "hourly_2026-08-23_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-23_2100",
-        "occurrence_id": "hourly_2026-08-23_2100",
-        "date": "2026-08-23",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-23T20:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.35,
-        "rain_level": 0.15,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-08-23T23:00:04+03:00"
-    },
-    "260823_212900_Q.json": {
-      "event_id": "hourly_2026-08-23_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-23_2100",
-        "occurrence_id": "hourly_2026-08-23_2100",
-        "date": "2026-08-23",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-23T20:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.35,
-        "rain_level": 0.15,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-08-23T23:00:04+03:00"
-    },
-    "260823_224832_R.json": {
-      "event_id": "hourly_2026-08-23_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-23_2100",
-        "occurrence_id": "hourly_2026-08-23_2100",
-        "date": "2026-08-23",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-23T20:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.35,
-        "rain_level": 0.15,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-08-23T23:00:04+03:00"
-    },
-    "260823_225126_FP.json": {
-      "event_id": "hourly_2026-08-23_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-23_2100",
-        "occurrence_id": "hourly_2026-08-23_2100",
-        "date": "2026-08-23",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-23T20:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.35,
-        "rain_level": 0.15,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      },
-      "updated_at": "2026-08-23T23:00:04+03:00"
-    },
-    "260822_200002_FP.json": {
-      "event_id": "hourly_2026-08-22_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-22_2100",
-        "occurrence_id": "endurance_2026-08-22_2100",
-        "date": "2026-08-22",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-22T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 20,
-        "cloud_level": 0.22,
-        "rain_level": 0.05,
-        "weather_randomness": 5,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_clear",
-        "asset": "morning_clear"
-      },
-      "updated_at": "2026-08-22T23:34:50+03:00"
-    },
-    "260822_210618_FP.json": {
-      "event_id": "hourly_2026-08-22_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-22_2100",
-        "occurrence_id": "endurance_2026-08-22_2100",
-        "date": "2026-08-22",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-22T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 20,
-        "cloud_level": 0.22,
-        "rain_level": 0.05,
-        "weather_randomness": 5,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_clear",
-        "asset": "morning_clear"
-      },
-      "updated_at": "2026-08-22T23:34:50+03:00"
-    },
-    "260822_212759_Q.json": {
-      "event_id": "hourly_2026-08-22_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-22_2100",
-        "occurrence_id": "endurance_2026-08-22_2100",
-        "date": "2026-08-22",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-22T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 20,
-        "cloud_level": 0.22,
-        "rain_level": 0.05,
-        "weather_randomness": 5,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_clear",
-        "asset": "morning_clear"
-      },
-      "updated_at": "2026-08-22T23:34:50+03:00"
-    },
-    "260822_233422_R.json": {
-      "event_id": "hourly_2026-08-22_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-22_2100",
-        "occurrence_id": "endurance_2026-08-22_2100",
-        "date": "2026-08-22",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-22T20:00+03:00",
-        "track_code": "monza",
-        "track_name": "Monza",
-        "event_type": "endurance",
-        "race_format": "endurance",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 10.0,
-        "server_window_minutes": 240,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 20,
-        "cloud_level": 0.22,
-        "rain_level": 0.05,
-        "weather_randomness": 5,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_clear",
-        "asset": "morning_clear"
-      },
-      "updated_at": "2026-08-22T23:34:50+03:00"
-    },
-    "260821_200001_FP.json": {
-      "event_id": "hourly_2026-08-21_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-21_2100",
-        "occurrence_id": "hourly_2026-08-21_2100",
-        "date": "2026-08-21",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-21T20:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.16,
-        "rain_level": 0.03,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-21T22:42:44+03:00"
-    },
-    "260821_210052_FP.json": {
-      "event_id": "hourly_2026-08-21_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-21_2100",
-        "occurrence_id": "hourly_2026-08-21_2100",
-        "date": "2026-08-21",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-21T20:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.16,
-        "rain_level": 0.03,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-21T22:42:44+03:00"
-    },
-    "260821_212910_Q.json": {
-      "event_id": "hourly_2026-08-21_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-21_2100",
-        "occurrence_id": "hourly_2026-08-21_2100",
-        "date": "2026-08-21",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-21T20:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.16,
-        "rain_level": 0.03,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-21T22:42:44+03:00"
-    },
-    "260821_224201_R.json": {
-      "event_id": "hourly_2026-08-21_2100",
-      "slot": {
-        "event_id": "hourly_2026-08-21_2100",
-        "occurrence_id": "hourly_2026-08-21_2100",
-        "date": "2026-08-21",
-        "start_time_local": "21:00",
-        "launch_at": "2026-08-21T20:00+03:00",
-        "track_code": "nurburgring_24h",
-        "track_name": "Nordschleife",
-        "event_type": "hourly",
-        "race_format": "hourly",
-        "competition_mode": "standalone",
-        "scoring_mode": "hourly_curve_multiplier",
-        "points_multiplier": 5.0,
-        "server_window_minutes": 180,
-        "status": "scheduled"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.16,
-        "rain_level": 0.03,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "updated_at": "2026-08-21T22:42:44+03:00"
-    }
-  },
-  "last_championship_result_files": [
-    "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\september-2026\\260911_190001_FP.json",
-    "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\september-2026\\260911_200005_FP.json",
-    "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\september-2026\\260911_202539_Q.json",
-    "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\september-2026\\260911_214545_R.json"
-  ],
-  "last_completed_event_id": "hourly_2026-09-10_2100",
-  "last_completion_at": "2026-09-10T21:33:02+03:00",
+  "expected_stop_at": null,
   "completion_guard_enabled": true,
   "completion_guard_state": "safe_to_stop",
   "completion_guard_stop_requested": false,
@@ -5203,22 +1308,181 @@
   "completion_guard_race_phase": "session completed",
   "completion_guard_race_started": true,
   "completion_guard_race_completed": true,
-  "completion_guard_result_candidate_file": "260911_214545_R.json",
-  "completion_guard_result_file": "260911_214545_R.json",
+  "completion_guard_result_candidate_file": "260913_212830_R.json",
+  "completion_guard_result_file": "260913_212830_R.json",
   "completion_guard_window_extended_seconds": 0,
   "completion_guard_warning": null,
-  "entrylist_override": {
-    "active": false,
-    "event_id": "hourly_2026-09-08_2100",
-    "car_model_id": 32,
-    "car_model_name": "Ferrari 296 GT3",
-    "entrylist_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\entrylist.json",
-    "backup_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\hourly-data\\config\\entrylist_override_backup.json",
-    "baseline_sha256": "1c1bc71cb09b976c79c9752e88a11e4562bd79643f4e16ffe501b18eecd7ee8f",
-    "applied_sha256": "bd1f2cbec5f4f219a0b0def93e94ceae726e489ed52929c05c2973608fca8e1d",
-    "baseline_force_entry_list": 0,
-    "applied_at": "2026-09-08T19:00:01+03:00",
-    "restored_at": "2026-09-08T21:34:20+03:00",
-    "restore_mode": "normalized_current"
-  }
+  "completed_occurrences": {
+    "hourly_2026-09-12_2000": {
+      "completed_at": "2026-09-12T20:36:01+03:00",
+      "reason": "emergency_stopped"
+    },
+    "hourly_2026-09-13_2100": {
+      "completed_at": "2026-09-13T21:29:04+03:00",
+      "reason": "race_result_ready"
+    }
+  },
+  "stop_reason": "race_result_ready",
+  "last_result_q_files": [
+    "260913_202416_Q.json"
+  ],
+  "last_result_r_files": [
+    "260913_212830_R.json"
+  ],
+  "last_result_check_at": "2026-09-13T21:29:04+03:00",
+  "result_metadata_by_source_file": {
+    "260913_190001_FP.json": {
+      "event_id": "hourly_2026-09-13_2100",
+      "slot": {
+        "event_id": "hourly_2026-09-13_2100",
+        "occurrence_id": "hourly_2026-09-13_2100",
+        "date": "2026-09-13",
+        "start_time_local": "20:00",
+        "launch_at": "2026-09-13T19:00+03:00",
+        "track_code": "imola",
+        "track_name": "Imola",
+        "event_type": "hourly",
+        "race_format": "hourly",
+        "competition_mode": "standalone",
+        "scoring_mode": "hourly_curve_multiplier",
+        "points_multiplier": 5.0,
+        "car_restriction": {
+          "mode": "open"
+        },
+        "server_window_minutes": 180,
+        "status": "scheduled"
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.05,
+        "rain_level": null,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 11,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "updated_at": "2026-09-13T21:29:04+03:00"
+    },
+    "260913_200329_FP.json": {
+      "event_id": "hourly_2026-09-13_2100",
+      "slot": {
+        "event_id": "hourly_2026-09-13_2100",
+        "occurrence_id": "hourly_2026-09-13_2100",
+        "date": "2026-09-13",
+        "start_time_local": "20:00",
+        "launch_at": "2026-09-13T19:00+03:00",
+        "track_code": "imola",
+        "track_name": "Imola",
+        "event_type": "hourly",
+        "race_format": "hourly",
+        "competition_mode": "standalone",
+        "scoring_mode": "hourly_curve_multiplier",
+        "points_multiplier": 5.0,
+        "car_restriction": {
+          "mode": "open"
+        },
+        "server_window_minutes": 180,
+        "status": "scheduled"
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.05,
+        "rain_level": null,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 11,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "updated_at": "2026-09-13T21:29:04+03:00"
+    },
+    "260913_202416_Q.json": {
+      "event_id": "hourly_2026-09-13_2100",
+      "slot": {
+        "event_id": "hourly_2026-09-13_2100",
+        "occurrence_id": "hourly_2026-09-13_2100",
+        "date": "2026-09-13",
+        "start_time_local": "20:00",
+        "launch_at": "2026-09-13T19:00+03:00",
+        "track_code": "imola",
+        "track_name": "Imola",
+        "event_type": "hourly",
+        "race_format": "hourly",
+        "competition_mode": "standalone",
+        "scoring_mode": "hourly_curve_multiplier",
+        "points_multiplier": 5.0,
+        "car_restriction": {
+          "mode": "open"
+        },
+        "server_window_minutes": 180,
+        "status": "scheduled"
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.05,
+        "rain_level": null,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 11,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "updated_at": "2026-09-13T21:29:04+03:00"
+    },
+    "260913_212830_R.json": {
+      "event_id": "hourly_2026-09-13_2100",
+      "slot": {
+        "event_id": "hourly_2026-09-13_2100",
+        "occurrence_id": "hourly_2026-09-13_2100",
+        "date": "2026-09-13",
+        "start_time_local": "20:00",
+        "launch_at": "2026-09-13T19:00+03:00",
+        "track_code": "imola",
+        "track_name": "Imola",
+        "event_type": "hourly",
+        "race_format": "hourly",
+        "competition_mode": "standalone",
+        "scoring_mode": "hourly_curve_multiplier",
+        "points_multiplier": 5.0,
+        "car_restriction": {
+          "mode": "open"
+        },
+        "server_window_minutes": 180,
+        "status": "scheduled"
+      },
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.05,
+        "rain_level": null,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 11,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      },
+      "updated_at": "2026-09-13T21:29:04+03:00"
+    }
+  },
+  "last_championship_result_files": []
 }

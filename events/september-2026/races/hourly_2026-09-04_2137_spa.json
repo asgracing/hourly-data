@@ -17,7 +17,7 @@
   "points_multiplier": 1,
   "points_rule": "scaled_top10_by_classified_plus_best_lap",
   "race_format": "hourly",
-  "competition_mode": "championship",
+  "competition_mode": "standalone",
   "winner": "Victor Rovenko",
   "winner_public_id": "drv_de8a222e2e87",
   "best_lap": "2:27.365",
@@ -1301,37 +1301,5 @@
       "penalties": []
     }
   ],
-  "total_penalties": 24,
-  "weather": {
-    "profile_id": null,
-    "ambient_temp_c": 34,
-    "cloud_level": 0.47,
-    "rain_level": 0.13,
-    "weather_randomness": 4,
-    "summary_key": "mixed"
-  },
-  "game_time": {
-    "code": "night",
-    "label": "Night",
-    "hour_of_day": 1,
-    "asset_id": "night_clear",
-    "asset": "night_clear"
-  },
-  "slot": {
-    "event_id": "hourly_2026-09-04_2000",
-    "occurrence_id": "championship_2026-09-04_2100_september-2026",
-    "date": "2026-09-04",
-    "start_time_local": "20:00",
-    "launch_at": "2026-09-04T19:00+03:00",
-    "track_code": "spa",
-    "track_name": "Spa",
-    "event_type": "championship",
-    "race_format": "hourly",
-    "competition_mode": "championship",
-    "scoring_mode": "championship_standard",
-    "points_multiplier": 1.0,
-    "server_window_minutes": 180,
-    "status": "scheduled"
-  },
-  "scheduled_event_id": "hourly_2026-09-04_2000"
+  "total_penalties": 24
 }
