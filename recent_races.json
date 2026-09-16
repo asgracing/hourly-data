@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-16_2129_kyalami",
+      "title": "Hourly Race",
+      "track": "kyalami",
+      "track_code": "kyalami",
+      "track_name": "Kyalami",
+      "finished_at": "2026-09-16T21:29:20+03:00",
+      "finished_at_local": "2026-09-16 21:29",
+      "participants_count": 21,
+      "scoring_participants_count": 17,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Arkadiy Plesovskiy",
+      "winner_public_id": "drv_e907098eae56",
+      "best_lap": "1:41.742",
+      "best_lap_driver": "Arkadiy Plesovskiy",
+      "best_lap_public_id": "drv_e907098eae56",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-16_2129_kyalami.json",
+      "results_repo_path": "260916_212920_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 26,
+        "cloud_level": 0.38,
+        "rain_level": 0.18,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 17,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-15_2130_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -291,30 +327,7 @@
       "results_repo_path": "260903_213706_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-09-02_2132_spa",
-      "title": "Hourly Race",
-      "track": "spa",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "finished_at": "2026-09-02T21:32:44+03:00",
-      "finished_at_local": "2026-09-02 21:32",
-      "participants_count": 35,
-      "scoring_participants_count": 30,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Ilya Ivanik",
-      "winner_public_id": "drv_4d46856d85e4",
-      "best_lap": "2:28.100",
-      "best_lap_driver": "Ilya Ivanik",
-      "best_lap_public_id": "drv_4d46856d85e4",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-02_2132_spa.json",
-      "results_repo_path": "260902_213244_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-09-15T21:31:11+03:00"
+  "updated_at": "2026-09-16T21:30:01+03:00"
 }
