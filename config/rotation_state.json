@@ -1,7 +1,6 @@
 {
-  "next_track_index": 14,
+  "next_track_index": 12,
   "track_queue_codes": [
-    "nurburgring",
     "nurburgring_24h",
     "misano",
     "zolder",
@@ -62,8 +61,9 @@
     "zandvoort",
     "laguna_seca",
     "spa",
-    "nurburgring"
+    "nurburgring",
+    "nurburgring_24h"
   ],
-  "last_track_code": "kyalami",
-  "last_rotation_at": "2026-09-18T19:00:01+03:00"
+  "last_track_code": "nurburgring",
+  "last_rotation_at": "2026-09-19T19:00:02+03:00"
 }

@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-19_2232_nurburgring",
+      "title": "Hourly Race",
+      "track": "nurburgring",
+      "track_code": "nurburgring",
+      "track_name": "Nurburgring",
+      "finished_at": "2026-09-19T22:32:07+03:00",
+      "finished_at_local": "2026-09-19 22:32",
+      "participants_count": 29,
+      "scoring_participants_count": 22,
+      "points_multiplier": 10.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Vahe Gabrielyan",
+      "winner_public_id": "drv_ead3d6e9f3b0",
+      "best_lap": "2:02.617",
+      "best_lap_driver": "Ilya Ivanik",
+      "best_lap_public_id": "drv_4d46856d85e4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-19_2232_nurburgring.json",
+      "results_repo_path": "260919_223207_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 38,
+        "cloud_level": 0.43,
+        "rain_level": 0.19,
+        "weather_randomness": 6,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 8,
+        "asset_id": "morning_haze",
+        "asset": "morning_haze"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-18_2128_kyalami",
       "title": "Hourly Race",
       "track": "kyalami",
@@ -330,30 +366,7 @@
       "results_repo_path": "260907_212946_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-09-05_2246_nurburgring_24h",
-      "title": "Hourly Race",
-      "track": "nurburgring_24h",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nurburgring 24H",
-      "finished_at": "2026-09-05T22:46:10+03:00",
-      "finished_at_local": "2026-09-05 22:46",
-      "participants_count": 30,
-      "scoring_participants_count": 25,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Asta Khen",
-      "winner_public_id": "drv_7c33b450e7aa",
-      "best_lap": "8:10.107",
-      "best_lap_driver": "Ilya Ivanik",
-      "best_lap_public_id": "drv_4d46856d85e4",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-05_2246_nurburgring_24h.json",
-      "results_repo_path": "260905_224610_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-09-18T21:28:51+03:00"
+  "updated_at": "2026-09-19T22:32:48+03:00"
 }
