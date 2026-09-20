@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-20_2135_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-09-20T21:35:21+03:00",
+      "finished_at_local": "2026-09-20 21:35",
+      "participants_count": 42,
+      "scoring_participants_count": 38,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Alexander Chikin",
+      "winner_public_id": "drv_e53bdcf65922",
+      "best_lap": "1:47.152",
+      "best_lap_driver": "Stanislav Kartavykh",
+      "best_lap_public_id": "drv_7c54878f4df5",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-20_2135_monza.json",
+      "results_repo_path": "260920_213521_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.32,
+        "rain_level": 0.12,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-19_2232_nurburgring",
       "title": "Hourly Race",
       "track": "nurburgring",
@@ -343,30 +379,7 @@
       "results_repo_path": "260908_213347_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-09-07_2129_silverstone",
-      "title": "Hourly Race",
-      "track": "silverstone",
-      "track_code": "silverstone",
-      "track_name": "Silverstone",
-      "finished_at": "2026-09-07T21:29:46+03:00",
-      "finished_at_local": "2026-09-07 21:29",
-      "participants_count": 15,
-      "scoring_participants_count": 14,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Arkadiy Plesovskiy",
-      "winner_public_id": "drv_e907098eae56",
-      "best_lap": "1:59.147",
-      "best_lap_driver": "Dark Skull",
-      "best_lap_public_id": "drv_a2d1fa171b24",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-07_2129_silverstone.json",
-      "results_repo_path": "260907_212946_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-09-19T22:32:48+03:00"
+  "updated_at": "2026-09-20T21:36:03+03:00"
 }
