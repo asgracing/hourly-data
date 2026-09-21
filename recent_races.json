@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-21_2132_imola",
+      "title": "Hourly Race",
+      "track": "imola",
+      "track_code": "imola",
+      "track_name": "Imola",
+      "finished_at": "2026-09-21T21:32:10+03:00",
+      "finished_at_local": "2026-09-21 21:32",
+      "participants_count": 28,
+      "scoring_participants_count": 25,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Arkadiy Plesovskiy",
+      "winner_public_id": "drv_e907098eae56",
+      "best_lap": "1:41.225",
+      "best_lap_driver": "Aleksey Mihin",
+      "best_lap_public_id": "drv_f46727fa9e5b",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-21_2132_imola.json",
+      "results_repo_path": "260921_213210_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.24,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 8,
+        "asset_id": "morning_haze",
+        "asset": "morning_haze"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-20_2135_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -356,30 +392,7 @@
       "results_repo_path": "260909_215832_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-09-08_2133_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-09-08T21:33:47+03:00",
-      "finished_at_local": "2026-09-08 21:33",
-      "participants_count": 35,
-      "scoring_participants_count": 34,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Arkadiy Plesovskiy",
-      "winner_public_id": "drv_e907098eae56",
-      "best_lap": "1:47.167",
-      "best_lap_driver": "Dark Skull",
-      "best_lap_public_id": "drv_a2d1fa171b24",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-08_2133_monza.json",
-      "results_repo_path": "260908_213347_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-09-20T21:36:03+03:00"
+  "updated_at": "2026-09-21T21:32:52+03:00"
 }
