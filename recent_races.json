@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-23_2131_spa",
+      "title": "Hourly Race",
+      "track": "spa",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "finished_at": "2026-09-23T21:31:11+03:00",
+      "finished_at_local": "2026-09-23 21:31",
+      "participants_count": 41,
+      "scoring_participants_count": 35,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "2:17.320",
+      "best_lap_driver": "Sergei Sotskov",
+      "best_lap_public_id": "drv_0d7087b67346",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-23_2131_spa.json",
+      "results_repo_path": "260923_213111_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.23,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 13,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-22_2129_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -382,30 +418,7 @@
       "results_repo_path": "260911_214545_R.json",
       "weather": null,
       "game_time": null
-    },
-    {
-      "event_id": "hourly_2026-09-10_2132_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-09-10T21:32:18+03:00",
-      "finished_at_local": "2026-09-10 21:32",
-      "participants_count": 38,
-      "scoring_participants_count": 30,
-      "points_multiplier": 5,
-      "points_rule": "scaled_25_to_1_by_classified_x5_all_participants",
-      "winner": "Sergey Saltaev",
-      "winner_public_id": "drv_208a87eea0b5",
-      "best_lap": "1:53.397",
-      "best_lap_driver": "Temer Lakerino [ASG]",
-      "best_lap_public_id": "drv_9afd0424ded9",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-10_2132_monza.json",
-      "results_repo_path": "260910_213218_R.json",
-      "weather": null,
-      "game_time": null
     }
   ],
-  "updated_at": "2026-09-22T21:30:08+03:00"
+  "updated_at": "2026-09-23T21:31:52+03:00"
 }
