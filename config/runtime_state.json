@@ -1,14 +1,7 @@
 {
   "planned_weather": {
-    "hourly_2026-09-24_2100": {
-      "ambient_temp_c": 34,
-      "cloud_level": 0.44,
-      "rain_level": 0.1,
-      "weather_randomness": 4,
-      "summary_key": "mixed"
-    },
     "hourly_2026-09-25_2000": {
-      "ambient_temp_c": 28,
+      "ambient_temp_c": 22,
       "cloud_level": 0.12,
       "rain_level": 0.04,
       "weather_randomness": 2,
@@ -550,15 +543,8 @@
       "created_at": "2026-09-24T21:34:17+03:00"
     }
   },
-  "updated_at": "2026-09-24T21:34:17+03:00",
+  "updated_at": "2026-09-24T21:52:12+03:00",
   "planned_game_time": {
-    "hourly_2026-09-24_2100": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 9,
-      "asset_id": "morning_clear",
-      "asset": "morning_clear"
-    },
     "hourly_2026-09-25_2000": {
       "code": "evening",
       "label": "Evening",
@@ -1272,7 +1258,7 @@
   },
   "last_track_code": "monza",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
-  "active_event_id": "hourly_2026-09-24_2100",
+  "active_event_id": null,
   "last_planned_start_local": "2026-09-24T20:00:00+03:00",
   "last_planned_weather": {
     "profile_id": null,
@@ -1282,45 +1268,7 @@
     "weather_randomness": 4,
     "summary_key": "mixed"
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-09-24_2100",
-    "occurrence_id": "hourly_2026-09-24_2100",
-    "slot": {
-      "event_id": "hourly_2026-09-24_2100",
-      "occurrence_id": "hourly_2026-09-24_2100",
-      "date": "2026-09-24",
-      "start_time_local": "20:00",
-      "launch_at": "2026-09-24T19:00+03:00",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "event_type": "hourly",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 5.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180,
-      "car_restriction": {
-        "mode": "open"
-      }
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 34,
-      "cloud_level": 0.44,
-      "rain_level": 0.1,
-      "weather_randomness": 4,
-      "summary_key": "mixed"
-    },
-    "updated_at": "2026-09-24T19:00:01+03:00",
-    "game_time": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 9,
-      "asset_id": "morning_clear",
-      "asset": "morning_clear"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-09-24_2100",
     "occurrence_id": "hourly_2026-09-24_2100",
@@ -1360,7 +1308,7 @@
       "asset": "morning_clear"
     }
   },
-  "last_status": "publishing",
+  "last_status": "completed",
   "last_error": null,
   "last_planned_game_time": {
     "code": "morning",
@@ -1369,7 +1317,7 @@
     "asset_id": "morning_clear",
     "asset": "morning_clear"
   },
-  "orchestrator_pid": 7236,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-09-24T19:00:01+03:00",
   "launch_mode": "auto",
   "run_mode": "normal",
@@ -3469,6 +3417,6 @@
     }
   },
   "last_championship_result_files": [],
-  "last_completed_event_id": "hourly_2026-09-23_2100",
-  "last_completion_at": "2026-09-23T21:31:55+03:00"
+  "last_completed_event_id": "hourly_2026-09-24_2100",
+  "last_completion_at": "2026-09-24T21:34:34+03:00"
 }
