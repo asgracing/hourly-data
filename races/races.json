@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-25_2156_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-09-25T21:56:40+03:00",
+      "finished_at_local": "2026-09-25 21:56",
+      "participants_count": 48,
+      "scoring_participants_count": 44,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Aleksey Mihin",
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "1:46.740",
+      "best_lap_driver": "Ilya Kosmach [ASG]",
+      "best_lap_public_id": "drv_c98693ccbce8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-25_2156_monza.json",
+      "results_repo_path": "260925_215640_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 22,
+        "cloud_level": 0.12,
+        "rain_level": 0.04,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 17,
+        "asset_id": "evening_long_shadows",
+        "asset": "evening_long_shadows"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-24_2133_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,43 +431,7 @@
         "asset_id": "morning_soft",
         "asset": "morning_soft"
       }
-    },
-    {
-      "event_id": "hourly_2026-09-13_2128_imola",
-      "title": "Hourly Race",
-      "track": "imola",
-      "track_code": "imola",
-      "track_name": "Imola",
-      "finished_at": "2026-09-13T21:28:30+03:00",
-      "finished_at_local": "2026-09-13 21:28",
-      "participants_count": 18,
-      "scoring_participants_count": 10,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Henryk Wesołowski",
-      "winner_public_id": "drv_05a579454b9e",
-      "best_lap": "1:43.417",
-      "best_lap_driver": "Vahe Gabrielyan",
-      "best_lap_public_id": "drv_ead3d6e9f3b0",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-13_2128_imola.json",
-      "results_repo_path": "260913_212830_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.05,
-        "rain_level": null,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      }
     }
   ],
-  "updated_at": "2026-09-24T21:52:20+03:00"
+  "updated_at": "2026-09-25T21:57:22+03:00"
 }
