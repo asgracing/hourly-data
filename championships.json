@@ -5,11 +5,11 @@
       "title": "ASG Racing October 2026",
       "status": "active",
       "period": "2026-10",
-      "description": "Сентябрьский чемпионат ASG Racing",
+      "description": "Октябрьский чемпионат ASG Racing",
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-09-26T18:25:52+03:00",
+      "updated_at": "2026-09-26T18:37:05+03:00",
       "race_count": 0,
       "driver_count": 0,
       "winner": null,
@@ -120,5 +120,5 @@
       "cover_track": "silverstone"
     }
   ],
-  "updated_at": "2026-09-26T18:25:52+03:00"
+  "updated_at": "2026-09-26T18:37:05+03:00"
 }
