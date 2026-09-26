@@ -1,7 +1,7 @@
 {
   "slug": "september-2026",
   "title": "ASG Racing September 2026",
-  "status": "active",
+  "status": "finished",
   "period": "2026-09",
   "description": "Сентябрьский чемпионат ASG Racing",
   "upcoming_races": [],
@@ -1336,5 +1336,5 @@
       "game_time": null
     }
   ],
-  "updated_at": "2026-09-25T21:57:22+03:00"
+  "updated_at": "2026-09-26T16:07:28+03:00"
 }
