@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-09-27_2100",
-  "date": "2026-09-27",
+  "event_id": "hourly_2026-09-28_2100",
+  "date": "2026-09-28",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "nurburgring",
-  "track_name": "Nurburgring",
+  "track_code": "barcelona",
+  "track_name": "Barcelona",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-09-27T19:00+03:00",
+  "launch_at": "2026-09-28T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,7 +29,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-09-26T22:30:06+03:00",
+  "updated_at": "2026-09-27T21:34:49+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -70,21 +70,17 @@
   "weather": {
     "profile_id": null,
     "ambient_temp_c": 27,
-    "cloud_level": 0.56,
-    "rain_level": 0.15,
-    "weather_randomness": 5,
-    "summary_key": "mixed"
+    "cloud_level": 0.22,
+    "rain_level": null,
+    "weather_randomness": 3,
+    "summary_key": "clear"
   },
   "game_time": {
-    "profile_id": "day",
-    "code": "day",
-    "label": "Day",
-    "label_ru": "День",
-    "hour_of_day": 15,
-    "asset_id": "day_neutral",
-    "asset": "day_neutral",
-    "asset_label": "Neutral Day",
-    "asset_label_ru": "Нейтральный день"
+    "code": "evening",
+    "label": "Evening",
+    "hour_of_day": 16,
+    "asset_id": "evening_gold",
+    "asset": "evening_gold"
   },
   "car_restriction": {
     "mode": "open"
