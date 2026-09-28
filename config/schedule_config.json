@@ -4370,6 +4370,241 @@
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
       }
+    },
+    {
+      "date": "2026-11-03",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-11-03_2000",
+      "occurrence_id": "hourly_2026-11-03_2000",
+      "source_start_time_local": "20:00",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_asset": "night_cool",
+      "car_restriction": {
+        "mode": "open"
+      },
+      "practice_duration_minutes": 60,
+      "race_duration_minutes": 60,
+      "server_window_minutes": 180,
+      "launch_lead_minutes": 60,
+      "points_multiplier": 5.0,
+      "hour_of_day": 3,
+      "ambient_temp_c": 26,
+      "cloud_level": 0.53,
+      "rain_level": 0.22,
+      "weather_randomness": 6,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-11-09_2000",
+      "occurrence_id": "hourly_2026-11-09_2000",
+      "source_start_time_local": "20:00",
+      "track_code": "laguna_seca",
+      "track_name": "Laguna Seca",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "game_time_code": "morning",
+      "game_time_label": "Morning",
+      "game_time_asset": "morning_clear",
+      "car_restriction": {
+        "mode": "open"
+      },
+      "practice_duration_minutes": 60,
+      "race_duration_minutes": 60,
+      "server_window_minutes": 180,
+      "launch_lead_minutes": 60,
+      "points_multiplier": 5.0,
+      "hour_of_day": 10,
+      "ambient_temp_c": 26,
+      "cloud_level": 0.39,
+      "rain_level": 0.1,
+      "weather_randomness": 4,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "hourly_2026-11-10_2000",
+      "occurrence_id": "hourly_2026-11-10_2000",
+      "source_start_time_local": "20:00",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_asset": "evening_long_shadows",
+      "car_restriction": {
+        "mode": "open"
+      },
+      "practice_duration_minutes": 60,
+      "race_duration_minutes": 60,
+      "server_window_minutes": 180,
+      "launch_lead_minutes": 60,
+      "points_multiplier": 5.0,
+      "hour_of_day": 16,
+      "ambient_temp_c": 30,
+      "cloud_level": 0.46,
+      "rain_level": 0.14,
+      "weather_randomness": 4,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "championship_2026-11-13_2000_november-2026",
+      "occurrence_id": "championship_2026-11-13_2000_november-2026",
+      "source_start_time_local": "20:00",
+      "track_code": "nurburgring",
+      "track_name": "Nurburgring",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "championship",
+      "race_format": "hourly",
+      "competition_mode": "championship",
+      "title": "ASG Racing November 2026",
+      "championship_slug": "november-2026",
+      "badge_label": "Championship Event",
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_asset": "evening_warm",
+      "car_restriction": {
+        "mode": "open"
+      },
+      "practice_duration_minutes": 60,
+      "race_duration_minutes": 60,
+      "server_window_minutes": 180,
+      "launch_lead_minutes": 60,
+      "points_multiplier": 1.0,
+      "hour_of_day": 17,
+      "ambient_temp_c": 24,
+      "cloud_level": 0.42,
+      "rain_level": 0.11,
+      "weather_randomness": 5,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": 1200
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "endurance_2026-11-14_2000",
+      "occurrence_id": "endurance_2026-11-14_2000",
+      "source_start_time_local": "20:00",
+      "track_code": "misano",
+      "track_name": "Misano",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "endurance",
+      "race_format": "endurance",
+      "competition_mode": "standalone",
+      "game_time_code": "night",
+      "game_time_label": "Night",
+      "game_time_asset": "night_clear",
+      "car_restriction": {
+        "mode": "open"
+      },
+      "practice_duration_minutes": 60,
+      "race_duration_minutes": 120,
+      "server_window_minutes": 240,
+      "launch_lead_minutes": 60,
+      "points_multiplier": 10.0,
+      "hour_of_day": 2,
+      "ambient_temp_c": 24,
+      "cloud_level": 0.1,
+      "rain_level": 0.01,
+      "weather_randomness": 2,
+      "event_rules_overrides": {
+        "maxDriversCount": 1,
+        "isMandatoryPitstopSwapDriverRequired": false
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "start_time_local": "20:00",
+      "target_occurrence_id": "endurance_2026-11-21_2000",
+      "occurrence_id": "endurance_2026-11-21_2000",
+      "source_start_time_local": "20:00",
+      "track_code": "suzuka",
+      "track_name": "Suzuka",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "endurance",
+      "race_format": "endurance",
+      "competition_mode": "standalone",
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_asset": "evening_long_shadows",
+      "car_restriction": {
+        "mode": "open"
+      },
+      "practice_duration_minutes": 60,
+      "race_duration_minutes": 120,
+      "server_window_minutes": 200,
+      "launch_lead_minutes": 60,
+      "points_multiplier": 10.0,
+      "hour_of_day": 17,
+      "ambient_temp_c": 32,
+      "cloud_level": 0.48,
+      "rain_level": 0.07,
+      "weather_randomness": 4,
+      "event_rules_overrides": {
+        "maxDriversCount": 1,
+        "isMandatoryPitstopSwapDriverRequired": false
+      }
     }
   ],
   "exceptions": [
@@ -4392,7 +4627,7 @@
         "weight": 50,
         "ambient_temp_range_c": [
           23.0,
-          31.0
+          28.0
         ],
         "cloud_range": [
           0.0,
@@ -4412,8 +4647,8 @@
         "summary_key": "mixed",
         "weight": 40,
         "ambient_temp_range_c": [
-          26.0,
-          35.0
+          22.0,
+          30.0
         ],
         "cloud_range": [
           0.2,
@@ -4433,8 +4668,8 @@
         "summary_key": "wet",
         "weight": 10,
         "ambient_temp_range_c": [
-          26.0,
-          38.0
+          24.0,
+          29.0
         ],
         "cloud_range": [
           0.4,
@@ -4487,17 +4722,56 @@
         "status": "active",
         "period": "2026-10",
         "description": "Октябрьский чемпионат ASG Racing"
+      },
+      {
+        "description": "Октябрьский чемпионат ASG Racing",
+        "slug": "november-2026",
+        "title": "ASG Racing November 2026",
+        "period": "2026-11",
+        "status": "scheduled"
       }
     ]
   },
   "launch_lead_minutes": 60,
   "server_windows_minutes": {
-    "endurance": 200
+    "endurance": 240
   },
   "calendar": {
     "days_ahead": 62
   },
   "practice_duration_minutes": 60,
   "entrylist_path": "",
-  "session_overtime_seconds": 600
+  "session_overtime_seconds": 600,
+  "calendar_policy": {
+    "enabled": true,
+    "starts_on": "2026-11-01",
+    "primary_start_time_local": "20:00",
+    "timezone": "UTC+3",
+    "monza_track_code": "monza",
+    "preferred_cooldown_days": 7,
+    "avoid_adjacent_repeats": true,
+    "exclude_monza_from_balancing": true,
+    "weekday_roles": {
+      "0": "mixed",
+      "1": "monza",
+      "2": "championship_practice",
+      "3": "monza",
+      "4": "championship",
+      "5": "endurance",
+      "6": "mixed"
+    }
+  },
+  "event_formats": {
+    "endurance": {
+      "race_duration_minutes": 120,
+      "event_rules": {
+        "mandatoryPitstopCount": 2,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopSwapDriverRequired": false,
+        "maxDriversCount": 1
+      }
+    }
+  }
 }

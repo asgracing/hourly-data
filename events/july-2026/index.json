@@ -712,21 +712,8 @@
       "status": "finished",
       "details_path": "races/hourly_2026-07-26_2246_nurburgring_24h.json",
       "results_repo_path": "260726_224618_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26.0,
-        "cloud_level": 0.2,
-        "rain_level": 0.03,
-        "weather_randomness": 6,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 14,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      }
+      "weather": null,
+      "game_time": null
     },
     {
       "event_id": "hourly_2026-07-11_2246_nurburgring_24h",
@@ -748,22 +735,9 @@
       "status": "finished",
       "details_path": "races/hourly_2026-07-11_2246_nurburgring_24h.json",
       "results_repo_path": "260711_224642_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 27.0,
-        "cloud_level": 0.09,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 4,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      }
+      "weather": null,
+      "game_time": null
     }
   ],
-  "updated_at": "2026-08-18T23:00:15+03:00"
+  "updated_at": "2026-09-29T00:17:05+03:00"
 }

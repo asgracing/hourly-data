@@ -9,12 +9,29 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-09-28T21:30:33+03:00",
+      "updated_at": "2026-09-29T00:17:06+03:00",
       "race_count": 0,
       "driver_count": 0,
       "winner": null,
       "results_top3": [],
       "details_url": "/hourly/championship/?slug=october-2026",
+      "cover_track": null
+    },
+    {
+      "slug": "november-2026",
+      "title": "ASG Racing November 2026",
+      "status": "scheduled",
+      "period": "2026-11",
+      "description": "Октябрьский чемпионат ASG Racing",
+      "description_ru": "",
+      "description_en": "",
+      "description_i18n": null,
+      "updated_at": "2026-09-29T00:17:06+03:00",
+      "race_count": 0,
+      "driver_count": 0,
+      "winner": null,
+      "results_top3": [],
+      "details_url": "/hourly/championship/?slug=november-2026",
       "cover_track": null
     },
     {
@@ -120,5 +137,5 @@
       "cover_track": "silverstone"
     }
   ],
-  "updated_at": "2026-09-28T21:30:33+03:00"
+  "updated_at": "2026-09-29T00:17:06+03:00"
 }

@@ -955,30 +955,5 @@
       ]
     }
   ],
-  "total_penalties": 9,
-  "weather": {
-    "profile_id": null,
-    "ambient_temp_c": 27.0,
-    "cloud_level": 0.09,
-    "rain_level": 0.01,
-    "weather_randomness": 2,
-    "summary_key": "clear"
-  },
-  "game_time": {
-    "code": "night",
-    "label": "Night",
-    "hour_of_day": 4,
-    "asset_id": "night_clear",
-    "asset": "night_clear"
-  },
-  "slot": {
-    "event_id": "hourly_2026-07-11_2100",
-    "date": "2026-07-11",
-    "start_time_local": "21:00",
-    "track_code": "nurburgring_24h",
-    "track_name": "Nordschleife",
-    "event_type": "championship",
-    "status": "scheduled"
-  },
-  "scheduled_event_id": "hourly_2026-07-11_2100"
+  "total_penalties": 9
 }
