@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-28_2129_barcelona",
+      "title": "Hourly Race",
+      "track": "barcelona",
+      "track_code": "barcelona",
+      "track_name": "Barcelona",
+      "finished_at": "2026-09-28T21:29:50+03:00",
+      "finished_at_local": "2026-09-28 21:29",
+      "participants_count": 27,
+      "scoring_participants_count": 23,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Stanislav Kartavykh",
+      "winner_public_id": "drv_7c54878f4df5",
+      "best_lap": "1:43.582",
+      "best_lap_driver": "Stanislav Kartavykh",
+      "best_lap_public_id": "drv_7c54878f4df5",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-28_2129_barcelona.json",
+      "results_repo_path": "260928_212950_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.22,
+        "rain_level": null,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 16,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-27_2134_nurburgring",
       "title": "Hourly Race",
       "track": "nurburgring",
@@ -399,43 +435,7 @@
         "asset_id": "morning_clear",
         "asset": "morning_clear"
       }
-    },
-    {
-      "event_id": "hourly_2026-09-16_2129_kyalami",
-      "title": "Hourly Race",
-      "track": "kyalami",
-      "track_code": "kyalami",
-      "track_name": "Kyalami",
-      "finished_at": "2026-09-16T21:29:20+03:00",
-      "finished_at_local": "2026-09-16 21:29",
-      "participants_count": 21,
-      "scoring_participants_count": 17,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Arkadiy Plesovskiy",
-      "winner_public_id": "drv_e907098eae56",
-      "best_lap": "1:41.742",
-      "best_lap_driver": "Arkadiy Plesovskiy",
-      "best_lap_public_id": "drv_e907098eae56",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-16_2129_kyalami.json",
-      "results_repo_path": "260916_212920_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 26,
-        "cloud_level": 0.38,
-        "rain_level": 0.18,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      }
     }
   ],
-  "updated_at": "2026-09-27T21:34:57+03:00"
+  "updated_at": "2026-09-28T21:30:33+03:00"
 }
