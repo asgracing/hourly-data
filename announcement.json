@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-09-29_2100",
-  "date": "2026-09-29",
+  "event_id": "hourly_2026-09-30_2100",
+  "date": "2026-09-30",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "monza",
-  "track_name": "Monza",
+  "track_code": "mount_panorama",
+  "track_name": "Mount Panorama",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-09-29T19:00+03:00",
+  "launch_at": "2026-09-30T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,7 +29,7 @@
     "period": "2026-11",
     "description": "Ноябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-09-29T18:36:23+03:00",
+  "updated_at": "2026-09-29T21:30:27+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -69,18 +69,18 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 30,
-    "cloud_level": 0.2,
-    "rain_level": null,
+    "ambient_temp_c": 28,
+    "cloud_level": 0.23,
+    "rain_level": 0.02,
     "weather_randomness": 2,
     "summary_key": "clear"
   },
   "game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 16,
-    "asset_id": "evening_gold",
-    "asset": "evening_gold"
+    "code": "night",
+    "label": "Night",
+    "hour_of_day": 3,
+    "asset_id": "night_cool",
+    "asset": "night_cool"
   },
   "car_restriction": {
     "mode": "open"
