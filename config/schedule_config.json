@@ -4271,7 +4271,7 @@
       "launch_lead_minutes": 60,
       "points_multiplier": 5.0,
       "hour_of_day": 9,
-      "ambient_temp_c": 30,
+      "ambient_temp_c": 25,
       "cloud_level": 0.19,
       "rain_level": 0.03,
       "weather_randomness": 1,
