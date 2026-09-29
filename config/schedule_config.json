@@ -4689,7 +4689,7 @@
   "event_rules_path": "cfg\\eventRules.json",
   "settings_path": "cfg\\settings.json",
   "championship": {
-    "active_slug": "october-2026",
+    "active_slug": "november-2026",
     "results_root": "results_champ",
     "items": [
       {
@@ -4724,11 +4724,11 @@
         "description": "Октябрьский чемпионат ASG Racing"
       },
       {
-        "description": "Октябрьский чемпионат ASG Racing",
         "slug": "november-2026",
         "title": "ASG Racing November 2026",
+        "status": "scheduled",
         "period": "2026-11",
-        "status": "scheduled"
+        "description": "Ноябрьский чемпионат ASG Racing"
       }
     ]
   },

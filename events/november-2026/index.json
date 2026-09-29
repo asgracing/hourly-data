@@ -3,7 +3,7 @@
   "title": "ASG Racing November 2026",
   "status": "scheduled",
   "period": "2026-11",
-  "description": "Октябрьский чемпионат ASG Racing",
+  "description": "Ноябрьский чемпионат ASG Racing",
   "upcoming_races": [
     {
       "date": "2026-11-06",
@@ -437,5 +437,5 @@
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-09-29T00:17:06+03:00"
+  "updated_at": "2026-09-29T18:13:04+03:00"
 }
