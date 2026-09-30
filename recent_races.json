@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-09-30_2128_mount_panorama",
+      "title": "Hourly Race",
+      "track": "mount_panorama",
+      "track_code": "mount_panorama",
+      "track_name": "Mount Panorama",
+      "finished_at": "2026-09-30T21:28:45+03:00",
+      "finished_at_local": "2026-09-30 21:28",
+      "participants_count": 22,
+      "scoring_participants_count": 17,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Alexander Zaytcev",
+      "winner_public_id": "drv_4176d09cbc6f",
+      "best_lap": "2:00.895",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-09-30_2128_mount_panorama.json",
+      "results_repo_path": "260930_212845_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.23,
+        "rain_level": 0.02,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 3,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-29_2129_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -399,43 +435,7 @@
         "asset_id": "morning_haze",
         "asset": "morning_haze"
       }
-    },
-    {
-      "event_id": "hourly_2026-09-18_2128_kyalami",
-      "title": "Hourly Race",
-      "track": "kyalami",
-      "track_code": "kyalami",
-      "track_name": "Kyalami",
-      "finished_at": "2026-09-18T21:28:09+03:00",
-      "finished_at_local": "2026-09-18 21:28",
-      "participants_count": 21,
-      "scoring_participants_count": 17,
-      "points_multiplier": 1,
-      "points_rule": "scaled_top10_by_classified_plus_best_lap",
-      "winner": "Victor Rovenko",
-      "winner_public_id": "drv_de8a222e2e87",
-      "best_lap": "1:40.667",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-18_2128_kyalami.json",
-      "results_repo_path": "260918_212809_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.22,
-        "rain_level": 0.11,
-        "weather_randomness": 4,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 3,
-        "asset_id": "night_cool",
-        "asset": "night_cool"
-      }
     }
   ],
-  "updated_at": "2026-09-29T21:30:35+03:00"
+  "updated_at": "2026-09-30T21:29:26+03:00"
 }
