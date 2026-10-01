@@ -64,10 +64,38 @@
     "nurburgring",
     "nurburgring_24h",
     "nurburgring_24h",
-    "silverstone"
+    "silverstone",
+    "nurburgring_24h",
+    "silverstone",
+    "nurburgring",
+    "spa",
+    "red_bull_ring",
+    "monza",
+    "imola",
+    "laguna_seca",
+    "zandvoort",
+    "paul_ricard",
+    "barcelona",
+    "mount_panorama",
+    "suzuka",
+    "hungaroring",
+    "kyalami",
+    "zolder",
+    "misano",
+    "nurburgring_24h",
+    "silverstone",
+    "nurburgring",
+    "spa",
+    "red_bull_ring",
+    "monza",
+    "imola",
+    "laguna_seca",
+    "zandvoort",
+    "paul_ricard",
+    "barcelona"
   ],
-  "last_track_code": "mount_panorama",
-  "last_rotation_at": "2026-09-30T19:00:01+03:00",
+  "last_track_code": "monza",
+  "last_rotation_at": "2026-10-01T19:00:02+03:00",
   "calendar_assignments": {
     "2026-11-01|20:00": {
       "track_code": "nurburgring_24h",
@@ -600,6 +628,186 @@
     "2027-01-28|20:00": {
       "track_code": "monza",
       "role": "monza",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-01-29|20:00": {
+      "track_code": "spa",
+      "role": "championship",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-01-30|20:00": {
+      "track_code": "barcelona",
+      "role": "endurance",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-01-31|20:00": {
+      "track_code": "misano",
+      "role": "mixed",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-01|20:00": {
+      "track_code": "paul_ricard",
+      "role": "mixed",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-02|20:00": {
+      "track_code": "monza",
+      "role": "monza",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-03|20:00": {
+      "track_code": "zandvoort",
+      "role": "championship_practice",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-04|20:00": {
+      "track_code": "monza",
+      "role": "monza",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-05|20:00": {
+      "track_code": "zandvoort",
+      "role": "championship",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-06|20:00": {
+      "track_code": "hungaroring",
+      "role": "endurance",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-07|20:00": {
+      "track_code": "barcelona",
+      "role": "mixed",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-08|20:00": {
+      "track_code": "laguna_seca",
+      "role": "mixed",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-09|20:00": {
+      "track_code": "monza",
+      "role": "monza",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-10|20:00": {
+      "track_code": "spa",
+      "role": "championship_practice",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-11|20:00": {
+      "track_code": "monza",
+      "role": "monza",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-12|20:00": {
+      "track_code": "spa",
+      "role": "championship",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-13|20:00": {
+      "track_code": "silverstone",
+      "role": "endurance",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-14|20:00": {
+      "track_code": "red_bull_ring",
+      "role": "mixed",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-15|20:00": {
+      "track_code": "zolder",
+      "role": "mixed",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-16|20:00": {
+      "track_code": "monza",
+      "role": "monza",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-17|20:00": {
+      "track_code": "nurburgring_24h",
+      "role": "championship_practice",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-18|20:00": {
+      "track_code": "monza",
+      "role": "monza",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-19|20:00": {
+      "track_code": "nurburgring_24h",
+      "role": "championship",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-20|20:00": {
+      "track_code": "nurburgring",
+      "role": "endurance",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-21|20:00": {
+      "track_code": "imola",
+      "role": "mixed",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-22|20:00": {
+      "track_code": "suzuka",
+      "role": "mixed",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-23|20:00": {
+      "track_code": "monza",
+      "role": "monza",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-24|20:00": {
+      "track_code": "mount_panorama",
+      "role": "championship_practice",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-25|20:00": {
+      "track_code": "monza",
+      "role": "monza",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-26|20:00": {
+      "track_code": "mount_panorama",
+      "role": "championship",
+      "source": "saved_assignment",
+      "policy_version": 1
+    },
+    "2027-02-27|20:00": {
+      "track_code": "misano",
+      "role": "endurance",
       "source": "saved_assignment",
       "policy_version": 1
     }

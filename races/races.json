@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-01_2129_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-10-01T21:29:22+03:00",
+      "finished_at_local": "2026-10-01 21:29",
+      "participants_count": 41,
+      "scoring_participants_count": 35,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Andrei Soldatenkov [ASG]",
+      "winner_public_id": "drv_b466bb6eedd8",
+      "best_lap": "1:46.707",
+      "best_lap_driver": "Sergei Sotskov",
+      "best_lap_public_id": "drv_0d7087b67346",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-01_2129_monza.json",
+      "results_repo_path": "261001_212922_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 20,
+        "cloud_level": 0.23,
+        "rain_level": 0.1,
+        "weather_randomness": 6,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-09-30_2128_mount_panorama",
       "title": "Hourly Race",
       "track": "mount_panorama",
@@ -399,43 +435,7 @@
         "asset_id": "evening_gold",
         "asset": "evening_gold"
       }
-    },
-    {
-      "event_id": "hourly_2026-09-19_2232_nurburgring",
-      "title": "Hourly Race",
-      "track": "nurburgring",
-      "track_code": "nurburgring",
-      "track_name": "Nurburgring",
-      "finished_at": "2026-09-19T22:32:07+03:00",
-      "finished_at_local": "2026-09-19 22:32",
-      "participants_count": 29,
-      "scoring_participants_count": 22,
-      "points_multiplier": 10.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Vahe Gabrielyan",
-      "winner_public_id": "drv_ead3d6e9f3b0",
-      "best_lap": "2:02.617",
-      "best_lap_driver": "Ilya Ivanik",
-      "best_lap_public_id": "drv_4d46856d85e4",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-19_2232_nurburgring.json",
-      "results_repo_path": "260919_223207_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 38,
-        "cloud_level": 0.43,
-        "rain_level": 0.19,
-        "weather_randomness": 6,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 8,
-        "asset_id": "morning_haze",
-        "asset": "morning_haze"
-      }
     }
   ],
-  "updated_at": "2026-09-30T21:29:26+03:00"
+  "updated_at": "2026-10-01T21:30:04+03:00"
 }
