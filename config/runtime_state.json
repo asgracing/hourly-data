@@ -1,12 +1,5 @@
 {
   "planned_weather": {
-    "hourly_2026-10-02_2000": {
-      "ambient_temp_c": 28,
-      "cloud_level": 0.08,
-      "rain_level": 0.03,
-      "weather_randomness": 3,
-      "summary_key": "clear"
-    },
     "hourly_2026-10-03_2000": {
       "ambient_temp_c": 27,
       "cloud_level": 0.19,
@@ -757,15 +750,8 @@
       "created_at": "2026-10-02T21:33:23+03:00"
     }
   },
-  "updated_at": "2026-10-02T21:33:23+03:00",
+  "updated_at": "2026-10-02T22:21:17+03:00",
   "planned_game_time": {
-    "hourly_2026-10-02_2000": {
-      "code": "day",
-      "label": "Day",
-      "hour_of_day": 11,
-      "asset_id": "day_clear",
-      "asset": "day_clear"
-    },
     "hourly_2026-10-03_2000": {
       "code": "night",
       "label": "Night",
@@ -1686,7 +1672,7 @@
   },
   "last_track_code": "spa",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
-  "active_event_id": "hourly_2026-10-02_2000",
+  "active_event_id": null,
   "last_planned_start_local": "2026-10-02T20:00:00+03:00",
   "last_planned_weather": {
     "profile_id": null,
@@ -1696,47 +1682,7 @@
     "weather_randomness": 3,
     "summary_key": "clear"
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-10-02_2000",
-    "occurrence_id": "hourly_2026-10-02_2000",
-    "slot": {
-      "event_id": "hourly_2026-10-02_2000",
-      "occurrence_id": "hourly_2026-10-02_2000",
-      "date": "2026-10-02",
-      "start_time_local": "20:00",
-      "launch_at": "2026-10-02T19:00+03:00",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "event_type": "championship",
-      "race_format": "hourly",
-      "competition_mode": "championship",
-      "scoring_mode": "championship_standard",
-      "points_multiplier": 1.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180,
-      "championship_slug": "october-2026",
-      "title": "ASG Racing October 2026",
-      "car_restriction": {
-        "mode": "open"
-      }
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 28,
-      "cloud_level": 0.08,
-      "rain_level": 0.03,
-      "weather_randomness": 3,
-      "summary_key": "clear"
-    },
-    "updated_at": "2026-10-02T19:00:01+03:00",
-    "game_time": {
-      "code": "day",
-      "label": "Day",
-      "hour_of_day": 11,
-      "asset_id": "day_clear",
-      "asset": "day_clear"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-10-02_2000",
     "occurrence_id": "hourly_2026-10-02_2000",
@@ -1778,7 +1724,7 @@
       "asset": "day_clear"
     }
   },
-  "last_status": "publishing",
+  "last_status": "completed",
   "last_error": null,
   "last_planned_game_time": {
     "code": "day",
@@ -1787,7 +1733,7 @@
     "asset_id": "day_clear",
     "asset": "day_clear"
   },
-  "orchestrator_pid": 6532,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-10-02T19:00:01+03:00",
   "launch_mode": "auto",
   "run_mode": "normal",
@@ -5156,6 +5102,6 @@
     "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\october-2026\\261002_202601_Q.json",
     "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\october-2026\\261002_213249_R.json"
   ],
-  "last_completed_event_id": "hourly_2026-10-01_2000",
-  "last_completion_at": "2026-10-01T21:30:18+03:00"
+  "last_completed_event_id": "hourly_2026-10-02_2000",
+  "last_completion_at": "2026-10-02T21:33:35+03:00"
 }

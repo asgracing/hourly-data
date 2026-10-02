@@ -20,16 +20,16 @@
   "scoring_mode": "hourly_curve_multiplier",
   "voting_disabled": false,
   "badge_label": null,
-  "championship_slug": "november-2026",
-  "championship_title": "ASG Racing November 2026",
+  "championship_slug": "october-2026",
+  "championship_title": "ASG Racing October 2026",
   "championship": {
-    "slug": "november-2026",
-    "title": "ASG Racing November 2026",
-    "status": "scheduled",
-    "period": "2026-11",
-    "description": "Ноябрьский чемпионат ASG Racing"
+    "slug": "october-2026",
+    "title": "ASG Racing October 2026",
+    "status": "active",
+    "period": "2026-10",
+    "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-02T21:33:23+03:00",
+  "updated_at": "2026-10-02T22:21:17+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
