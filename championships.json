@@ -1,37 +1,37 @@
 {
   "items": [
     {
-      "slug": "november-2026",
-      "title": "ASG Racing November 2026",
-      "status": "active",
-      "period": "2026-11",
-      "description": "Ноябрьский чемпионат ASG Racing",
-      "description_ru": "",
-      "description_en": "",
-      "description_i18n": null,
-      "updated_at": "2026-10-01T21:30:05+03:00",
-      "race_count": 0,
-      "driver_count": 0,
-      "winner": null,
-      "results_top3": [],
-      "details_url": "/hourly/championship/?slug=november-2026",
-      "cover_track": null
-    },
-    {
       "slug": "october-2026",
       "title": "ASG Racing October 2026",
-      "status": "archived",
+      "status": "active",
       "period": "2026-10",
       "description": "Октябрьский чемпионат ASG Racing",
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-09-29T00:17:06+03:00",
+      "updated_at": "2026-10-02T18:05:36+03:00",
       "race_count": 0,
       "driver_count": 0,
       "winner": null,
       "results_top3": [],
       "details_url": "/hourly/championship/?slug=october-2026",
+      "cover_track": null
+    },
+    {
+      "slug": "november-2026",
+      "title": "ASG Racing November 2026",
+      "status": "scheduled",
+      "period": "2026-11",
+      "description": "Ноябрьский чемпионат ASG Racing",
+      "description_ru": "",
+      "description_en": "",
+      "description_i18n": null,
+      "updated_at": "2026-10-02T18:05:36+03:00",
+      "race_count": 0,
+      "driver_count": 0,
+      "winner": null,
+      "results_top3": [],
+      "details_url": "/hourly/championship/?slug=november-2026",
       "cover_track": null
     },
     {
@@ -43,13 +43,65 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-09-26T18:25:52+03:00",
-      "race_count": 0,
-      "driver_count": 0,
-      "winner": null,
-      "results_top3": [],
+      "updated_at": "2026-10-02T18:05:36+03:00",
+      "race_count": 4,
+      "driver_count": 85,
+      "winner": {
+        "driver": "Aleksey Mihin",
+        "public_id": "drv_f46727fa9e5b",
+        "points": 73
+      },
+      "results_top3": [
+        {
+          "public_id": "drv_f46727fa9e5b",
+          "driver": "Aleksey Mihin",
+          "races": 4,
+          "wins": 2,
+          "podiums": 4,
+          "best_laps": 1,
+          "points": 73,
+          "race_points": {
+            "hourly_2026-09-04_2137_spa": 18,
+            "hourly_2026-09-11_2145_nurburgring_24h": 20,
+            "hourly_2026-09-18_2128_kyalami": 10,
+            "hourly_2026-09-25_2156_monza": 25
+          },
+          "rank": 1
+        },
+        {
+          "public_id": "drv_de8a222e2e87",
+          "driver": "Victor Rovenko",
+          "races": 3,
+          "wins": 2,
+          "podiums": 3,
+          "best_laps": 1,
+          "points": 53,
+          "race_points": {
+            "hourly_2026-09-04_2137_spa": 25,
+            "hourly_2026-09-11_2145_nurburgring_24h": 13,
+            "hourly_2026-09-18_2128_kyalami": 15
+          },
+          "rank": 2
+        },
+        {
+          "public_id": "drv_9afd0424ded9",
+          "driver": "Temer Lakerino [ASG]",
+          "races": 4,
+          "wins": 0,
+          "podiums": 0,
+          "best_laps": 0,
+          "points": 26,
+          "race_points": {
+            "hourly_2026-09-04_2137_spa": 8,
+            "hourly_2026-09-11_2145_nurburgring_24h": 6,
+            "hourly_2026-09-18_2128_kyalami": 0,
+            "hourly_2026-09-25_2156_monza": 12
+          },
+          "rank": 3
+        }
+      ],
       "details_url": "/hourly/championship/?slug=september-2026",
-      "cover_track": null
+      "cover_track": "spa"
     },
     {
       "slug": "july-2026",
@@ -60,13 +112,59 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-07-09T22:54:29+03:00",
-      "race_count": 0,
-      "driver_count": 0,
-      "winner": null,
-      "results_top3": [],
+      "updated_at": "2026-10-02T18:05:36+03:00",
+      "race_count": 2,
+      "driver_count": 48,
+      "winner": {
+        "driver": "Aleksey Mihin",
+        "public_id": "drv_f46727fa9e5b",
+        "points": 47
+      },
+      "results_top3": [
+        {
+          "public_id": "drv_f46727fa9e5b",
+          "driver": "Aleksey Mihin",
+          "races": 2,
+          "wins": 2,
+          "podiums": 2,
+          "best_laps": 2,
+          "points": 47,
+          "race_points": {
+            "hourly_2026-07-11_2246_nurburgring_24h": 21,
+            "hourly_2026-07-26_2246_nurburgring_24h": 26
+          },
+          "rank": 1
+        },
+        {
+          "public_id": "drv_9afd0424ded9",
+          "driver": "Temer Lakerino [ASG]",
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "best_laps": 0,
+          "points": 18,
+          "race_points": {
+            "hourly_2026-07-11_2246_nurburgring_24h": 3,
+            "hourly_2026-07-26_2246_nurburgring_24h": 15
+          },
+          "rank": 2
+        },
+        {
+          "public_id": "drv_697cf8978bd7",
+          "driver": "William Blazkowicz [ASG]",
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "best_laps": 0,
+          "points": 18,
+          "race_points": {
+            "hourly_2026-07-26_2246_nurburgring_24h": 18
+          },
+          "rank": 3
+        }
+      ],
       "details_url": "/hourly/championship/?slug=july-2026",
-      "cover_track": null
+      "cover_track": "nurburgring_24h"
     },
     {
       "slug": "june-2026",
@@ -77,7 +175,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-06-28T22:44:29+03:00",
+      "updated_at": "2026-10-02T18:05:36+03:00",
       "race_count": 4,
       "driver_count": 104,
       "winner": {
@@ -137,5 +235,5 @@
       "cover_track": "silverstone"
     }
   ],
-  "updated_at": "2026-10-01T21:30:05+03:00"
+  "updated_at": "2026-10-02T18:05:36+03:00"
 }
