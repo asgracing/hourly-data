@@ -9,13 +9,57 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-02T18:05:36+03:00",
-      "race_count": 0,
-      "driver_count": 0,
-      "winner": null,
-      "results_top3": [],
+      "updated_at": "2026-10-02T21:33:32+03:00",
+      "race_count": 1,
+      "driver_count": 46,
+      "winner": {
+        "driver": "Sergei Sotskov",
+        "public_id": "drv_0d7087b67346",
+        "points": 26
+      },
+      "results_top3": [
+        {
+          "public_id": "drv_0d7087b67346",
+          "driver": "Sergei Sotskov",
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "best_laps": 1,
+          "points": 26,
+          "race_points": {
+            "hourly_2026-10-02_2132_spa": 26
+          },
+          "rank": 1
+        },
+        {
+          "public_id": "drv_f46727fa9e5b",
+          "driver": "Aleksey Mihin",
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "best_laps": 0,
+          "points": 18,
+          "race_points": {
+            "hourly_2026-10-02_2132_spa": 18
+          },
+          "rank": 2
+        },
+        {
+          "public_id": "drv_c98693ccbce8",
+          "driver": "Ilya Kosmach [ASG]",
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "best_laps": 0,
+          "points": 15,
+          "race_points": {
+            "hourly_2026-10-02_2132_spa": 15
+          },
+          "rank": 3
+        }
+      ],
       "details_url": "/hourly/championship/?slug=october-2026",
-      "cover_track": null
+      "cover_track": "spa"
     },
     {
       "slug": "november-2026",
@@ -26,7 +70,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-02T18:05:36+03:00",
+      "updated_at": "2026-10-02T21:33:32+03:00",
       "race_count": 0,
       "driver_count": 0,
       "winner": null,
@@ -43,7 +87,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-02T18:05:36+03:00",
+      "updated_at": "2026-10-02T21:33:32+03:00",
       "race_count": 4,
       "driver_count": 85,
       "winner": {
@@ -112,7 +156,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-02T18:05:36+03:00",
+      "updated_at": "2026-10-02T21:33:31+03:00",
       "race_count": 2,
       "driver_count": 48,
       "winner": {
@@ -175,7 +219,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-02T18:05:36+03:00",
+      "updated_at": "2026-10-02T21:33:31+03:00",
       "race_count": 4,
       "driver_count": 104,
       "winner": {
@@ -235,5 +279,5 @@
       "cover_track": "silverstone"
     }
   ],
-  "updated_at": "2026-10-02T18:05:36+03:00"
+  "updated_at": "2026-10-02T21:33:32+03:00"
 }
