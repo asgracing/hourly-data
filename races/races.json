@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-03_2234_nurburgring_24h",
+      "title": "Hourly Race",
+      "track": "nurburgring_24h",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nurburgring 24H",
+      "finished_at": "2026-10-03T22:34:56+03:00",
+      "finished_at_local": "2026-10-03 22:34",
+      "participants_count": 32,
+      "scoring_participants_count": 26,
+      "points_multiplier": 10.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Aleksey Mihin",
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "8:14.770",
+      "best_lap_driver": "Aleksey Mihin",
+      "best_lap_public_id": "drv_f46727fa9e5b",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-03_2234_nurburgring_24h.json",
+      "results_repo_path": "261003_223456_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 27,
+        "cloud_level": 0.19,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 2,
+        "asset_id": "night_cool",
+        "asset": "night_cool"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-02_2132_spa",
       "title": "Hourly Race",
       "track": "spa",
@@ -399,43 +435,7 @@
         "asset_id": "day_clear",
         "asset": "day_clear"
       }
-    },
-    {
-      "event_id": "hourly_2026-09-21_2132_imola",
-      "title": "Hourly Race",
-      "track": "imola",
-      "track_code": "imola",
-      "track_name": "Imola",
-      "finished_at": "2026-09-21T21:32:10+03:00",
-      "finished_at_local": "2026-09-21 21:32",
-      "participants_count": 28,
-      "scoring_participants_count": 25,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Arkadiy Plesovskiy",
-      "winner_public_id": "drv_e907098eae56",
-      "best_lap": "1:41.225",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-21_2132_imola.json",
-      "results_repo_path": "260921_213210_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.24,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 8,
-        "asset_id": "morning_haze",
-        "asset": "morning_haze"
-      }
     }
   ],
-  "updated_at": "2026-10-02T22:21:26+03:00"
+  "updated_at": "2026-10-03T22:35:39+03:00"
 }

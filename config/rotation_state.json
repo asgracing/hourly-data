@@ -1,7 +1,6 @@
 {
-  "next_track_index": 12,
+  "next_track_index": 11,
   "track_queue_codes": [
-    "nurburgring_24h",
     "misano",
     "zolder",
     "kyalami",
@@ -94,8 +93,8 @@
     "paul_ricard",
     "barcelona"
   ],
-  "last_track_code": "spa",
-  "last_rotation_at": "2026-10-02T19:00:01+03:00",
+  "last_track_code": "nurburgring_24h",
+  "last_rotation_at": "2026-10-03T19:00:01+03:00",
   "calendar_assignments": {
     "2026-11-01|20:00": {
       "track_code": "nurburgring_24h",
