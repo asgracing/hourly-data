@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-10-04_2000",
-  "date": "2026-10-04",
+  "event_id": "hourly_2026-10-05_2000",
+  "date": "2026-10-05",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "barcelona",
-  "track_name": "Barcelona",
+  "track_code": "silverstone",
+  "track_name": "Silverstone",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-10-04T19:00+03:00",
+  "launch_at": "2026-10-05T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -29,7 +29,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-03T22:35:31+03:00",
+  "updated_at": "2026-10-04T21:33:00+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -64,25 +64,29 @@
     "max_drivers_count": 1,
     "tyre_set_count": 50,
     "car_model": {
-      "mode": "open"
+      "mode": "single_model",
+      "car_model_id": 8,
+      "car_model_name": "Bentley Continental GT3 2018"
     }
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 27,
-    "cloud_level": 0.42,
-    "rain_level": 0.17,
-    "weather_randomness": 4,
+    "ambient_temp_c": 31,
+    "cloud_level": 0.44,
+    "rain_level": 0.08,
+    "weather_randomness": 5,
     "summary_key": "mixed"
   },
   "game_time": {
     "code": "evening",
     "label": "Evening",
-    "hour_of_day": 16,
+    "hour_of_day": 19,
     "asset_id": "evening_gold",
     "asset": "evening_gold"
   },
   "car_restriction": {
-    "mode": "open"
+    "mode": "single_model",
+    "car_model_id": 8,
+    "car_model_name": "Bentley Continental GT3 2018"
   }
 }
