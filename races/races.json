@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-06_2136_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-10-06T21:36:45+03:00",
+      "finished_at_local": "2026-10-06 21:36",
+      "participants_count": 42,
+      "scoring_participants_count": 37,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Kosmach [ASG]",
+      "winner_public_id": "drv_c98693ccbce8",
+      "best_lap": "1:46.870",
+      "best_lap_driver": "Ilya Ivanik",
+      "best_lap_public_id": "drv_4d46856d85e4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-06_2136_monza.json",
+      "results_repo_path": "261006_213645_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.07,
+        "rain_level": 0.0,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-05_2132_silverstone",
       "title": "Hourly Race",
       "track": "silverstone",
@@ -399,43 +435,7 @@
         "asset_id": "evening_long_shadows",
         "asset": "evening_long_shadows"
       }
-    },
-    {
-      "event_id": "hourly_2026-09-24_2133_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-09-24T21:33:43+03:00",
-      "finished_at_local": "2026-09-24 21:33",
-      "participants_count": 43,
-      "scoring_participants_count": 40,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Ilya Ivanik",
-      "winner_public_id": "drv_4d46856d85e4",
-      "best_lap": "1:47.772",
-      "best_lap_driver": "Ilya Ivanik",
-      "best_lap_public_id": "drv_4d46856d85e4",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-24_2133_monza.json",
-      "results_repo_path": "260924_213343_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 34,
-        "cloud_level": 0.44,
-        "rain_level": 0.1,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 9,
-        "asset_id": "morning_clear",
-        "asset": "morning_clear"
-      }
     }
   ],
-  "updated_at": "2026-10-05T21:33:11+03:00"
+  "updated_at": "2026-10-06T21:37:27+03:00"
 }
