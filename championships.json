@@ -9,7 +9,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-07T21:32:29+03:00",
+      "updated_at": "2026-10-08T21:31:27+03:00",
       "race_count": 1,
       "driver_count": 46,
       "winner": {
@@ -70,7 +70,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-07T21:32:29+03:00",
+      "updated_at": "2026-10-08T21:31:27+03:00",
       "race_count": 0,
       "driver_count": 0,
       "winner": null,
@@ -87,7 +87,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-07T21:32:29+03:00",
+      "updated_at": "2026-10-08T21:31:27+03:00",
       "race_count": 4,
       "driver_count": 85,
       "winner": {
@@ -156,7 +156,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-07T21:32:29+03:00",
+      "updated_at": "2026-10-08T21:31:27+03:00",
       "race_count": 2,
       "driver_count": 48,
       "winner": {
@@ -219,7 +219,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-07T21:32:29+03:00",
+      "updated_at": "2026-10-08T21:31:27+03:00",
       "race_count": 4,
       "driver_count": 104,
       "winner": {
@@ -279,5 +279,5 @@
       "cover_track": "silverstone"
     }
   ],
-  "updated_at": "2026-10-07T21:32:29+03:00"
+  "updated_at": "2026-10-08T21:31:27+03:00"
 }
