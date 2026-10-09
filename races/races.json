@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-09_2130_suzuka",
+      "title": "Hourly Race",
+      "track": "suzuka",
+      "track_code": "suzuka",
+      "track_name": "Suzuka",
+      "finished_at": "2026-10-09T21:30:30+03:00",
+      "finished_at_local": "2026-10-09 21:30",
+      "participants_count": 23,
+      "scoring_participants_count": 17,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Ilya Ivanik",
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "2:00.375",
+      "best_lap_driver": "Ilya Ivanik",
+      "best_lap_public_id": "drv_4d46856d85e4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-09_2130_suzuka.json",
+      "results_repo_path": "261009_213030_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.12,
+        "rain_level": 0.05,
+        "weather_randomness": 1,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 9,
+        "asset_id": "morning_haze",
+        "asset": "morning_haze"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-08_2130_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -395,47 +431,7 @@
         "asset_id": "evening_gold",
         "asset": "evening_gold"
       }
-    },
-    {
-      "event_id": "hourly_2026-09-27_2134_nurburgring",
-      "title": "Hourly Race",
-      "track": "nurburgring",
-      "track_code": "nurburgring",
-      "track_name": "Nurburgring",
-      "finished_at": "2026-09-27T21:34:15+03:00",
-      "finished_at_local": "2026-09-27 21:34",
-      "participants_count": 25,
-      "scoring_participants_count": 21,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Stanislav Kartavykh",
-      "winner_public_id": "drv_7c54878f4df5",
-      "best_lap": "1:55.745",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-27_2134_nurburgring.json",
-      "results_repo_path": "260927_213415_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.56,
-        "rain_level": 0.15,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "profile_id": "day",
-        "code": "day",
-        "label": "Day",
-        "label_ru": "День",
-        "hour_of_day": 15,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral",
-        "asset_label": "Neutral Day",
-        "asset_label_ru": "Нейтральный день"
-      }
     }
   ],
-  "updated_at": "2026-10-08T21:31:27+03:00"
+  "updated_at": "2026-10-09T21:31:13+03:00"
 }
