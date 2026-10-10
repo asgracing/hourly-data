@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-10_2229_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-10-10T22:29:29+03:00",
+      "finished_at_local": "2026-10-10 22:29",
+      "participants_count": 60,
+      "scoring_participants_count": 56,
+      "points_multiplier": 10.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "1:47.200",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-10_2229_monza.json",
+      "results_repo_path": "261010_222929_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.27,
+        "rain_level": 0.17,
+        "weather_randomness": 5,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 11,
+        "asset_id": "day_neutral",
+        "asset": "day_neutral"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-09_2130_suzuka",
       "title": "Hourly Race",
       "track": "suzuka",
@@ -395,43 +431,7 @@
         "asset_id": "evening_gold",
         "asset": "evening_gold"
       }
-    },
-    {
-      "event_id": "hourly_2026-09-28_2129_barcelona",
-      "title": "Hourly Race",
-      "track": "barcelona",
-      "track_code": "barcelona",
-      "track_name": "Barcelona",
-      "finished_at": "2026-09-28T21:29:50+03:00",
-      "finished_at_local": "2026-09-28 21:29",
-      "participants_count": 27,
-      "scoring_participants_count": 23,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Stanislav Kartavykh",
-      "winner_public_id": "drv_7c54878f4df5",
-      "best_lap": "1:43.582",
-      "best_lap_driver": "Stanislav Kartavykh",
-      "best_lap_public_id": "drv_7c54878f4df5",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-28_2129_barcelona.json",
-      "results_repo_path": "260928_212950_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.22,
-        "rain_level": null,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      }
     }
   ],
-  "updated_at": "2026-10-09T21:31:13+03:00"
+  "updated_at": "2026-10-10T22:30:11+03:00"
 }
