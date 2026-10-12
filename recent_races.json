@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-12_2128_zolder",
+      "title": "Hourly Race",
+      "track": "zolder",
+      "track_code": "zolder",
+      "track_name": "Zolder",
+      "finished_at": "2026-10-12T21:28:00+03:00",
+      "finished_at_local": "2026-10-12 21:28",
+      "participants_count": 26,
+      "scoring_participants_count": 24,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Victor Rovenko",
+      "winner_public_id": "drv_de8a222e2e87",
+      "best_lap": "1:28.377",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-12_2128_zolder.json",
+      "results_repo_path": "261012_212800_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 32,
+        "cloud_level": 0.46,
+        "rain_level": 0.07,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 14,
+        "asset_id": "day_bright",
+        "asset": "day_bright"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-11_2131_mount_panorama",
       "title": "Hourly Race",
       "track": "mount_panorama",
@@ -395,43 +431,7 @@
         "asset_id": "day_clear",
         "asset": "day_clear"
       }
-    },
-    {
-      "event_id": "hourly_2026-09-30_2128_mount_panorama",
-      "title": "Hourly Race",
-      "track": "mount_panorama",
-      "track_code": "mount_panorama",
-      "track_name": "Mount Panorama",
-      "finished_at": "2026-09-30T21:28:45+03:00",
-      "finished_at_local": "2026-09-30 21:28",
-      "participants_count": 22,
-      "scoring_participants_count": 17,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Alexander Zaytcev",
-      "winner_public_id": "drv_4176d09cbc6f",
-      "best_lap": "2:00.895",
-      "best_lap_driver": "Victor Rovenko",
-      "best_lap_public_id": "drv_de8a222e2e87",
-      "status": "finished",
-      "details_path": "races/hourly_2026-09-30_2128_mount_panorama.json",
-      "results_repo_path": "260930_212845_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.23,
-        "rain_level": 0.02,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 3,
-        "asset_id": "night_cool",
-        "asset": "night_cool"
-      }
     }
   ],
-  "updated_at": "2026-10-11T21:31:42+03:00"
+  "updated_at": "2026-10-12T21:28:42+03:00"
 }
