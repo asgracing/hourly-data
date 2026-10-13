@@ -14,6 +14,7 @@
     {
       "public_id": "drv_f46727fa9e5b",
       "driver": "Aleksey Mihin",
+      "team_id": null,
       "races": 4,
       "wins": 2,
       "podiums": 4,
@@ -30,6 +31,7 @@
     {
       "public_id": "drv_de8a222e2e87",
       "driver": "Victor Rovenko",
+      "team_id": null,
       "races": 3,
       "wins": 2,
       "podiums": 3,
@@ -45,6 +47,7 @@
     {
       "public_id": "drv_9afd0424ded9",
       "driver": "Temer Lakerino [ASG]",
+      "team_id": null,
       "races": 4,
       "wins": 0,
       "podiums": 0,
@@ -63,6 +66,7 @@
     {
       "public_id": "drv_f46727fa9e5b",
       "driver": "Aleksey Mihin",
+      "team_id": null,
       "races": 4,
       "wins": 2,
       "podiums": 4,
@@ -79,6 +83,7 @@
     {
       "public_id": "drv_de8a222e2e87",
       "driver": "Victor Rovenko",
+      "team_id": null,
       "races": 3,
       "wins": 2,
       "podiums": 3,
@@ -94,6 +99,7 @@
     {
       "public_id": "drv_9afd0424ded9",
       "driver": "Temer Lakerino [ASG]",
+      "team_id": null,
       "races": 4,
       "wins": 0,
       "podiums": 0,
@@ -110,6 +116,7 @@
     {
       "public_id": "drv_c98693ccbce8",
       "driver": "Ilya Kosmach [ASG]",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 1,
@@ -124,6 +131,7 @@
     {
       "public_id": "drv_7ddd34173578",
       "driver": "Leonidovich Simferopol",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 1,
@@ -138,6 +146,7 @@
     {
       "public_id": "drv_208a87eea0b5",
       "driver": "Sergey Saltaev",
+      "team_id": null,
       "races": 4,
       "wins": 0,
       "podiums": 0,
@@ -154,6 +163,7 @@
     {
       "public_id": "drv_0d7087b67346",
       "driver": "Sergei Sotskov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 1,
@@ -167,6 +177,7 @@
     {
       "public_id": "drv_4d46856d85e4",
       "driver": "Ilya Ivanik",
+      "team_id": null,
       "races": 3,
       "wins": 0,
       "podiums": 1,
@@ -182,6 +193,7 @@
     {
       "public_id": "drv_ead3d6e9f3b0",
       "driver": "Vahe Gabrielyan",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -195,6 +207,7 @@
     {
       "public_id": "drv_e907098eae56",
       "driver": "Arkadiy Plesovskiy",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 1,
@@ -208,6 +221,7 @@
     {
       "public_id": "drv_0614f33165de",
       "driver": "Ivan Mikhailau | RB Team",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -222,6 +236,7 @@
     {
       "public_id": "drv_2008a3f40692",
       "driver": "Plaguat Bebroy [ASG]",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -235,6 +250,7 @@
     {
       "public_id": "drv_2d10e36d241a",
       "driver": "William Miller",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -249,6 +265,7 @@
     {
       "public_id": "drv_feb4365278a9",
       "driver": "mister antibmw",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -262,6 +279,7 @@
     {
       "public_id": "drv_af37ffd32b91",
       "driver": "Danila Kozak",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -276,6 +294,7 @@
     {
       "public_id": "drv_8630dadf7512",
       "driver": "D Coyot",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -289,6 +308,7 @@
     {
       "public_id": "drv_bdf2f8684ab0",
       "driver": "Egor Goryunov",
+      "team_id": null,
       "races": 3,
       "wins": 0,
       "podiums": 0,
@@ -304,6 +324,7 @@
     {
       "public_id": "drv_4176d09cbc6f",
       "driver": "Alexander Zaytcev",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -317,6 +338,7 @@
     {
       "public_id": "drv_34302acdd8d3",
       "driver": "Dmitry Smirnov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -330,6 +352,7 @@
     {
       "public_id": "drv_4e5550304be8",
       "driver": "IGNAT MARTIROSYAN",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -344,6 +367,7 @@
     {
       "public_id": "drv_39c83180f26a",
       "driver": "ALEKSEY EPIFANOV [ASG]",
+      "team_id": null,
       "races": 3,
       "wins": 0,
       "podiums": 0,
@@ -359,6 +383,7 @@
     {
       "public_id": "drv_941416356e56",
       "driver": "Ivan Fomenkov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -372,6 +397,7 @@
     {
       "public_id": "drv_4889c0fb80e0",
       "driver": "Yan Seydaridi",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -385,6 +411,7 @@
     {
       "public_id": "drv_ddd1511c3d7b",
       "driver": "Aleksandr Ivanov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -398,6 +425,7 @@
     {
       "public_id": "drv_3a4046b70d17",
       "driver": "Alex Pozdeev",
+      "team_id": null,
       "races": 4,
       "wins": 0,
       "podiums": 0,
@@ -414,6 +442,7 @@
     {
       "public_id": "drv_740cceccff0f",
       "driver": "Artem Diakov [ASG]",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -428,6 +457,7 @@
     {
       "public_id": "drv_1f1ae68929be",
       "driver": "Mikhail Bayakin [URL]",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -441,6 +471,7 @@
     {
       "public_id": "drv_3f376fa37e3e",
       "driver": "Alan Ortabaev[ASG]",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -454,6 +485,7 @@
     {
       "public_id": "drv_7702d4ff79f1",
       "driver": "Alexander Kustov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -467,6 +499,7 @@
     {
       "public_id": "drv_b466bb6eedd8",
       "driver": "Andrei Soldatenkov [ASG]",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -480,6 +513,7 @@
     {
       "public_id": "drv_44d8c551a24e",
       "driver": "Andrew GT [ASG]",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -494,6 +528,7 @@
     {
       "public_id": "drv_2566eee8c548",
       "driver": "Azat Mazitov",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -508,6 +543,7 @@
     {
       "public_id": "drv_d947d23035e3",
       "driver": "Daniel Buda",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -521,6 +557,7 @@
     {
       "public_id": "drv_16ec8c6d1fee",
       "driver": "Daniil Chebykin",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -534,6 +571,7 @@
     {
       "public_id": "drv_f32c4be853a4",
       "driver": "Danny Khukhrev [BOO]",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -547,6 +585,7 @@
     {
       "public_id": "drv_a2d1fa171b24",
       "driver": "Dark Skull",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -561,6 +600,7 @@
     {
       "public_id": "drv_77db632bca83",
       "driver": "Denis Sviridov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -574,6 +614,7 @@
     {
       "public_id": "drv_9d7a68f1ad52",
       "driver": "Dmitriy Smirnov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -587,6 +628,7 @@
     {
       "public_id": "drv_1c16a3641801",
       "driver": "Dmitriy Uteikin",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -600,6 +642,7 @@
     {
       "public_id": "drv_f9285d0d908a",
       "driver": "Dmitry Vorobyev | NT | ASG",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -613,6 +656,7 @@
     {
       "public_id": "drv_e0910883e77e",
       "driver": "Dr. Vahmurka",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -627,6 +671,7 @@
     {
       "public_id": "drv_6a121e6d9be4",
       "driver": "F1rewall",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -641,6 +686,7 @@
     {
       "public_id": "drv_ff8f9bd0a325",
       "driver": "FARUK NAN",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -654,6 +700,7 @@
     {
       "public_id": "drv_37cd1cfc0b88",
       "driver": "Fedor Pukhov",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -668,6 +715,7 @@
     {
       "public_id": "drv_6fe3533e96ac",
       "driver": "German Mukhametshin",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -681,6 +729,7 @@
     {
       "public_id": "drv_39fbb535653f",
       "driver": "Gleb Luckyanchev",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -695,6 +744,7 @@
     {
       "public_id": "drv_b0a4f1c8a2b4",
       "driver": "Greg Kozin",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -708,6 +758,7 @@
     {
       "public_id": "drv_05a579454b9e",
       "driver": "Henryk Wesołowski",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -721,6 +772,7 @@
     {
       "public_id": "drv_3da6cfe76196",
       "driver": "I SynHuiChai [ASG]",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -734,6 +786,7 @@
     {
       "public_id": "drv_df81ebc3292b",
       "driver": "Illia Stebelskyi",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -747,6 +800,7 @@
     {
       "public_id": "drv_732c6fb3bef6",
       "driver": "Ilya Milyanov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -760,6 +814,7 @@
     {
       "public_id": "drv_378357a4d49d",
       "driver": "Ivan Chai",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -773,6 +828,7 @@
     {
       "public_id": "drv_acb77f99b429",
       "driver": "Ivan Kornienko",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -786,6 +842,7 @@
     {
       "public_id": "drv_566347522d94",
       "driver": "Ivan Kornienko",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -799,6 +856,7 @@
     {
       "public_id": "drv_2613265fd143",
       "driver": "Jur Koto [ASG] ru",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -812,6 +870,7 @@
     {
       "public_id": "drv_15b77435a459",
       "driver": "Kirill Dryagalin",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -826,6 +885,7 @@
     {
       "public_id": "drv_964ce73ba40a",
       "driver": "Kosso Filippo[ASG]",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -840,6 +900,7 @@
     {
       "public_id": "drv_58f90d1d28b5",
       "driver": "Maks Kasrelishvili | SM",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -854,6 +915,7 @@
     {
       "public_id": "drv_af005bd6c39f",
       "driver": "Markus Retro",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -867,6 +929,7 @@
     {
       "public_id": "drv_0dcf138e0678",
       "driver": "Max Hardy",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -880,6 +943,7 @@
     {
       "public_id": "drv_90c51096a500",
       "driver": "Maxim Kovalev",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -893,6 +957,7 @@
     {
       "public_id": "drv_1a5309597301",
       "driver": "Nikita Ebatnedolznovskiy",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -906,6 +971,7 @@
     {
       "public_id": "drv_6a74e6945ef7",
       "driver": "Nikolai Lapukhovskii",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -919,6 +985,7 @@
     {
       "public_id": "drv_66f7e0e69f07",
       "driver": "Oleg Sergienko",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -932,6 +999,7 @@
     {
       "public_id": "drv_a7396334c543",
       "driver": "Pavel Walridow",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -945,6 +1013,7 @@
     {
       "public_id": "drv_886dec66cad0",
       "driver": "Polina Metelyova [ASG]",
+      "team_id": null,
       "races": 4,
       "wins": 0,
       "podiums": 0,
@@ -961,6 +1030,7 @@
     {
       "public_id": "drv_cc07da6da07a",
       "driver": "Roman Agapov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -974,6 +1044,7 @@
     {
       "public_id": "drv_cc0a4882a8c7",
       "driver": "Roman Dynin (wolk) [ASG]",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -987,6 +1058,7 @@
     {
       "public_id": "drv_8b7b5c2f824b",
       "driver": "Ruslan Murzabaev",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -1001,6 +1073,7 @@
     {
       "public_id": "drv_71bf0ed2e600",
       "driver": "Sania Tuchkov",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1014,6 +1087,7 @@
     {
       "public_id": "drv_2352d9041299",
       "driver": "Saveliy Usatov",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -1028,6 +1102,7 @@
     {
       "public_id": "drv_e70b7a3afdcd",
       "driver": "Serhio Rozenfeld",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1041,6 +1116,7 @@
     {
       "public_id": "drv_7c54878f4df5",
       "driver": "Stanislav Kartavykh",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1054,6 +1130,7 @@
     {
       "public_id": "drv_d12cc77b8b81",
       "driver": "Stanislav Kiriak",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1067,6 +1144,7 @@
     {
       "public_id": "drv_5f9bf0f0ce6c",
       "driver": "Turer V",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1080,6 +1158,7 @@
     {
       "public_id": "drv_550d1bfec470",
       "driver": "VLADYSLAV HOLOVANOV",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1093,6 +1172,7 @@
     {
       "public_id": "drv_c3d8facfc255",
       "driver": "Vadim Belyaev",
+      "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 0,
@@ -1107,6 +1187,7 @@
     {
       "public_id": "drv_fd00f76750a8",
       "driver": "Valik Korotkevich",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1120,6 +1201,7 @@
     {
       "public_id": "drv_56d5d830dbd5",
       "driver": "Vyacheslav Kovskiy",
+      "team_id": null,
       "races": 3,
       "wins": 0,
       "podiums": 0,
@@ -1135,6 +1217,7 @@
     {
       "public_id": "drv_d56295305721",
       "driver": "Yura Kalinin",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1148,6 +1231,7 @@
     {
       "public_id": "drv_f095c8a1aed2",
       "driver": "ZLOY TRG",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1161,6 +1245,7 @@
     {
       "public_id": "drv_8e66e9028dae",
       "driver": "simple dead [ASG]",
+      "team_id": null,
       "races": 3,
       "wins": 0,
       "podiums": 0,
@@ -1176,6 +1261,7 @@
     {
       "public_id": "drv_046c2381a929",
       "driver": "spartak racer",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1189,6 +1275,7 @@
     {
       "public_id": "drv_ef3333cd4685",
       "driver": "Павел Сороковых",
+      "team_id": null,
       "races": 1,
       "wins": 0,
       "podiums": 0,
@@ -1202,6 +1289,7 @@
     {
       "public_id": "drv_15664c2f0413",
       "driver": "Сергей Халидов",
+      "team_id": null,
       "races": 4,
       "wins": 0,
       "podiums": 0,
@@ -1230,6 +1318,9 @@
       "points_multiplier": 1,
       "points_rule": "scaled_top10_by_classified_plus_best_lap",
       "winner": "Aleksey Mihin",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
       "winner_public_id": "drv_f46727fa9e5b",
       "best_lap": "1:46.740",
       "best_lap_driver": "Ilya Kosmach [ASG]",
@@ -1266,6 +1357,9 @@
       "points_multiplier": 1,
       "points_rule": "scaled_top10_by_classified_plus_best_lap",
       "winner": "Victor Rovenko",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
       "winner_public_id": "drv_de8a222e2e87",
       "best_lap": "1:40.667",
       "best_lap_driver": "Aleksey Mihin",
@@ -1302,6 +1396,9 @@
       "points_multiplier": 1,
       "points_rule": "scaled_top10_by_classified_plus_best_lap",
       "winner": "Aleksey Mihin",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
       "winner_public_id": "drv_f46727fa9e5b",
       "best_lap": "8:13.490",
       "best_lap_driver": "Victor Rovenko",
@@ -1325,6 +1422,9 @@
       "points_multiplier": 1,
       "points_rule": "scaled_top10_by_classified_plus_best_lap",
       "winner": "Victor Rovenko",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
       "winner_public_id": "drv_de8a222e2e87",
       "best_lap": "2:27.365",
       "best_lap_driver": "Sergei Sotskov",
@@ -1336,5 +1436,5 @@
       "game_time": null
     }
   ],
-  "updated_at": "2026-10-12T21:28:43+03:00"
+  "updated_at": "2026-10-13T21:35:23+03:00"
 }
