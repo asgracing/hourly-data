@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-10-14_2000",
-  "date": "2026-10-14",
+  "event_id": "hourly_2026-10-15_2000",
+  "date": "2026-10-15",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "imola",
-  "track_name": "Imola",
+  "track_code": "monza",
+  "track_name": "Monza",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-10-14T19:00+03:00",
+  "launch_at": "2026-10-15T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-13T21:35:14+03:00",
+  "updated_at": "2026-10-14T21:31:40+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -72,18 +72,18 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 29,
-    "cloud_level": 0.42,
-    "rain_level": 0.13,
-    "weather_randomness": 5,
+    "ambient_temp_c": 28,
+    "cloud_level": 0.44,
+    "rain_level": 0.19,
+    "weather_randomness": 3,
     "summary_key": "mixed"
   },
   "game_time": {
-    "code": "night",
-    "label": "Night",
-    "hour_of_day": 2,
-    "asset_id": "night_clear",
-    "asset": "night_clear"
+    "code": "evening",
+    "label": "Evening",
+    "hour_of_day": 19,
+    "asset_id": "evening_warm",
+    "asset": "evening_warm"
   },
   "car_restriction": {
     "mode": "open"

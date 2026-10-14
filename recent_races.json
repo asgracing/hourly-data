@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-14_2131_imola",
+      "title": "Hourly Race",
+      "track": "imola",
+      "track_code": "imola",
+      "track_name": "Imola",
+      "finished_at": "2026-10-14T21:31:07+03:00",
+      "finished_at_local": "2026-10-14 21:31",
+      "participants_count": 31,
+      "scoring_participants_count": 25,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Alexander Chikin",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_e53bdcf65922",
+      "best_lap": "1:40.732",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-14_2131_imola.json",
+      "results_repo_path": "261014_213107_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.42,
+        "rain_level": 0.13,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "night",
+        "label": "Night",
+        "hour_of_day": 2,
+        "asset_id": "night_clear",
+        "asset": "night_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-13_2134_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -428,46 +467,7 @@
         "asset_id": "night_cool",
         "asset": "night_cool"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-02_2132_spa",
-      "title": "Hourly Race",
-      "track": "spa",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "finished_at": "2026-10-02T21:32:49+03:00",
-      "finished_at_local": "2026-10-02 21:32",
-      "participants_count": 46,
-      "scoring_participants_count": 40,
-      "points_multiplier": 1,
-      "points_rule": "scaled_top10_by_classified_plus_best_lap",
-      "winner": "Sergei Sotskov",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_0d7087b67346",
-      "best_lap": "2:17.692",
-      "best_lap_driver": "Sergei Sotskov",
-      "best_lap_public_id": "drv_0d7087b67346",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-02_2132_spa.json",
-      "results_repo_path": "261002_213249_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.08,
-        "rain_level": 0.03,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_clear",
-        "asset": "day_clear"
-      }
     }
   ],
-  "updated_at": "2026-10-13T21:35:22+03:00"
+  "updated_at": "2026-10-14T21:31:51+03:00"
 }
