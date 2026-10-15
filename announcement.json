@@ -1,27 +1,27 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-10-15_2000",
-  "date": "2026-10-15",
+  "event_id": "hourly_2026-10-16_2000",
+  "date": "2026-10-16",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "monza",
-  "track_name": "Monza",
+  "track_code": "imola",
+  "track_name": "Imola",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-10-15T19:00+03:00",
+  "launch_at": "2026-10-16T19:00+03:00",
   "session_label": "Evening Slot",
-  "details_url": "/hourly/",
-  "event_type": "hourly",
+  "details_url": "/hourly/championship/?slug=october-2026",
+  "event_type": "championship",
   "race_format": "hourly",
-  "competition_mode": "standalone",
+  "competition_mode": "championship",
   "participation_mode": "individual",
   "team_max_drivers": null,
   "registration_closes_at": null,
-  "points_multiplier": 5.0,
-  "scoring_mode": "hourly_curve_multiplier",
-  "voting_disabled": false,
+  "points_multiplier": 1.0,
+  "scoring_mode": "championship_standard",
+  "voting_disabled": true,
   "badge_label": null,
   "championship_slug": "october-2026",
   "championship_title": "ASG Racing October 2026",
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-15T00:21:59+03:00",
+  "updated_at": "2026-10-15T21:30:03+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -73,17 +73,17 @@
   "weather": {
     "profile_id": null,
     "ambient_temp_c": 28,
-    "cloud_level": 0.44,
-    "rain_level": 0.19,
+    "cloud_level": 0.14,
+    "rain_level": 0.04,
     "weather_randomness": 3,
-    "summary_key": "mixed"
+    "summary_key": "clear"
   },
   "game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 19,
-    "asset_id": "evening_warm",
-    "asset": "evening_warm"
+    "code": "day",
+    "label": "Day",
+    "hour_of_day": 11,
+    "asset_id": "day_clear",
+    "asset": "day_clear"
   },
   "car_restriction": {
     "mode": "open"

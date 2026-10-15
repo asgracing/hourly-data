@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-15_2129_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-10-15T21:29:29+03:00",
+      "finished_at_local": "2026-10-15 21:29",
+      "participants_count": 28,
+      "scoring_participants_count": 25,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Axel Phowley",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_6aeeee77c5c4",
+      "best_lap": "1:53.587",
+      "best_lap_driver": "Axel Phowley",
+      "best_lap_public_id": "drv_6aeeee77c5c4",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-15_2129_monza.json",
+      "results_repo_path": "261015_212929_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.44,
+        "rain_level": 0.19,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_warm",
+        "asset": "evening_warm"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-14_2131_imola",
       "title": "Hourly Race",
       "track": "imola",
@@ -428,46 +467,7 @@
         "asset_id": "evening_gold",
         "asset": "evening_gold"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-03_2234_nurburgring_24h",
-      "title": "Hourly Race",
-      "track": "nurburgring_24h",
-      "track_code": "nurburgring_24h",
-      "track_name": "Nurburgring 24H",
-      "finished_at": "2026-10-03T22:34:56+03:00",
-      "finished_at_local": "2026-10-03 22:34",
-      "participants_count": 32,
-      "scoring_participants_count": 26,
-      "points_multiplier": 10.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Aleksey Mihin",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "8:14.770",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-03_2234_nurburgring_24h.json",
-      "results_repo_path": "261003_223456_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.19,
-        "rain_level": 0.01,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_cool",
-        "asset": "night_cool"
-      }
     }
   ],
-  "updated_at": "2026-10-15T00:22:09+03:00"
+  "updated_at": "2026-10-15T21:30:13+03:00"
 }
