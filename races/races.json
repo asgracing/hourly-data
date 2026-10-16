@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-16_2129_imola",
+      "title": "Hourly Race",
+      "track": "imola",
+      "track_code": "imola",
+      "track_name": "Imola",
+      "finished_at": "2026-10-16T21:29:20+03:00",
+      "finished_at_local": "2026-10-16 21:29",
+      "participants_count": 22,
+      "scoring_participants_count": 22,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Aleksey Mihin",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "1:41.877",
+      "best_lap_driver": "Aleksey Mihin",
+      "best_lap_public_id": "drv_f46727fa9e5b",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-16_2129_imola.json",
+      "results_repo_path": "261016_212920_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.14,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 11,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-15_2129_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -428,46 +467,7 @@
         "asset_id": "evening_gold",
         "asset": "evening_gold"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-04_2132_barcelona",
-      "title": "Hourly Race",
-      "track": "barcelona",
-      "track_code": "barcelona",
-      "track_name": "Barcelona",
-      "finished_at": "2026-10-04T21:32:26+03:00",
-      "finished_at_local": "2026-10-04 21:32",
-      "participants_count": 31,
-      "scoring_participants_count": 28,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Victor Rovenko",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_de8a222e2e87",
-      "best_lap": "1:43.905",
-      "best_lap_driver": "Victor Rovenko",
-      "best_lap_public_id": "drv_de8a222e2e87",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-04_2132_barcelona.json",
-      "results_repo_path": "261004_213226_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.42,
-        "rain_level": 0.17,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      }
     }
   ],
-  "updated_at": "2026-10-15T21:30:13+03:00"
+  "updated_at": "2026-10-16T21:30:05+03:00"
 }

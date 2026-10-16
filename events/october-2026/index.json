@@ -6,116 +6,6 @@
   "description": "Октябрьский чемпионат ASG Racing",
   "upcoming_races": [
     {
-      "date": "2026-10-16",
-      "start_time_local": "20:00",
-      "timezone": "UTC+3",
-      "weekday": "friday",
-      "month": "2026-10",
-      "track_code": "imola",
-      "track_name": "Imola",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "event_type": "championship",
-      "voting_disabled": true,
-      "source_occurrence_id": "hourly_2026-10-16_2000",
-      "source_start_time_local": "20:00",
-      "occurrence_id": "hourly_2026-10-16_2000",
-      "title": "ASG Racing October 2026",
-      "race_format": "hourly",
-      "competition_mode": "championship",
-      "points_multiplier": 1.0,
-      "practice_duration_minutes": 60,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180,
-      "launch_lead_minutes": 60,
-      "championship_slug": "october-2026",
-      "details_url": "/hourly/championship/?slug=october-2026",
-      "event_rules_overrides": {
-        "mandatoryPitstopCount": 1,
-        "tyreSetCount": 50,
-        "driverStintTimeSec": -1,
-        "maxTotalDrivingTime": -1,
-        "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": true,
-        "isMandatoryPitstopRefuellingRequired": true,
-        "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": -1
-      },
-      "car_restriction": {
-        "mode": "open"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.14,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "weather_locked": true,
-      "rain_level": 0.04,
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_clear",
-        "asset": "day_clear"
-      },
-      "game_time_locked": true,
-      "hour_of_day": 11,
-      "game_time_hour": 11,
-      "game_time_code": "day",
-      "game_time_label": "Day",
-      "game_time_label_ru": null,
-      "game_time_asset": "day_clear",
-      "game_time_asset_id": "day_clear",
-      "participation_mode": "individual",
-      "scoring_mode": "championship_standard",
-      "session_overtime_seconds": 600,
-      "launch_at_local": "2026-10-16 19:00",
-      "launch_at": "2026-10-16T19:00+03:00",
-      "server_window_end_at": "2026-10-16T22:00+03:00",
-      "event_id": "hourly_2026-10-16_2000",
-      "schedule_conflicts": [],
-      "server": {
-        "name": "ASG Racing Race",
-        "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
-        "password": "ghbdtn",
-        "car_group": "GT3",
-        "max_car_slots": 85,
-        "safety_rating_requirement": 50,
-        "track_medals_requirement": false,
-        "racecraft_rating_requirement": -1,
-        "is_race_locked": false
-      },
-      "session": {
-        "format_label": "P 60m + Q 20m + R 60m",
-        "practice_duration_minutes": 60,
-        "qualifying_duration_minutes": 20,
-        "race_duration_minutes": 60,
-        "pre_race_waiting_time_seconds": 120,
-        "session_over_time_seconds": 600,
-        "time_multiplier": 3,
-        "practice_time_multiplier": 3
-      },
-      "rules": {
-        "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": null,
-        "refuelling_allowed_in_race": true,
-        "refuelling_time_fixed": true,
-        "mandatory_pitstop_refuelling_required": true,
-        "mandatory_pitstop_tyre_change_required": false,
-        "mandatory_pitstop_swap_driver_required": false,
-        "driver_stint_time_minutes": null,
-        "max_total_driving_time_minutes": null,
-        "max_drivers_count": 1,
-        "tyre_set_count": 50,
-        "car_model": {
-          "mode": "open"
-        }
-      }
-    },
-    {
       "date": "2026-10-23",
       "start_time_local": "20:00",
       "timezone": "UTC+3",
@@ -233,6 +123,22 @@
   },
   "results_top3": [
     {
+      "public_id": "drv_f46727fa9e5b",
+      "driver": "Aleksey Mihin",
+      "team_id": null,
+      "races": 3,
+      "wins": 1,
+      "podiums": 2,
+      "best_laps": 1,
+      "points": 46,
+      "race_points": {
+        "hourly_2026-10-02_2132_spa": 18,
+        "hourly_2026-10-09_2130_suzuka": 7,
+        "hourly_2026-10-16_2129_imola": 21
+      },
+      "rank": 1
+    },
+    {
       "public_id": "drv_0d7087b67346",
       "driver": "Sergei Sotskov",
       "team_id": null,
@@ -244,40 +150,42 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 26
       },
-      "rank": 1
+      "rank": 2
     },
     {
-      "public_id": "drv_f46727fa9e5b",
-      "driver": "Aleksey Mihin",
+      "public_id": "drv_e53bdcf65922",
+      "driver": "Alexander Chikin",
       "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 1,
       "best_laps": 0,
-      "points": 25,
+      "points": 19,
       "race_points": {
-        "hourly_2026-10-02_2132_spa": 18,
-        "hourly_2026-10-09_2130_suzuka": 7
-      },
-      "rank": 2
-    },
-    {
-      "public_id": "drv_4d46856d85e4",
-      "driver": "Ilya Ivanik",
-      "team_id": null,
-      "races": 1,
-      "wins": 1,
-      "podiums": 1,
-      "best_laps": 1,
-      "points": 16,
-      "race_points": {
-        "hourly_2026-10-09_2130_suzuka": 16
+        "hourly_2026-10-09_2130_suzuka": 5,
+        "hourly_2026-10-16_2129_imola": 14
       },
       "rank": 3
     }
   ],
   "standings": [
     {
+      "public_id": "drv_f46727fa9e5b",
+      "driver": "Aleksey Mihin",
+      "team_id": null,
+      "races": 3,
+      "wins": 1,
+      "podiums": 2,
+      "best_laps": 1,
+      "points": 46,
+      "race_points": {
+        "hourly_2026-10-02_2132_spa": 18,
+        "hourly_2026-10-09_2130_suzuka": 7,
+        "hourly_2026-10-16_2129_imola": 21
+      },
+      "rank": 1
+    },
+    {
       "public_id": "drv_0d7087b67346",
       "driver": "Sergei Sotskov",
       "team_id": null,
@@ -289,22 +197,22 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 26
       },
-      "rank": 1
+      "rank": 2
     },
     {
-      "public_id": "drv_f46727fa9e5b",
-      "driver": "Aleksey Mihin",
+      "public_id": "drv_e53bdcf65922",
+      "driver": "Alexander Chikin",
       "team_id": null,
       "races": 2,
       "wins": 0,
       "podiums": 1,
       "best_laps": 0,
-      "points": 25,
+      "points": 19,
       "race_points": {
-        "hourly_2026-10-02_2132_spa": 18,
-        "hourly_2026-10-09_2130_suzuka": 7
+        "hourly_2026-10-09_2130_suzuka": 5,
+        "hourly_2026-10-16_2129_imola": 14
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "public_id": "drv_4d46856d85e4",
@@ -318,7 +226,7 @@
       "race_points": {
         "hourly_2026-10-09_2130_suzuka": 16
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "public_id": "drv_208a87eea0b5",
@@ -333,7 +241,7 @@
         "hourly_2026-10-02_2132_spa": 10,
         "hourly_2026-10-09_2130_suzuka": 6
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "public_id": "drv_c98693ccbce8",
@@ -347,7 +255,22 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 15
       },
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "public_id": "drv_964ce73ba40a",
+      "driver": "Kosso Filippo[ASG]",
+      "team_id": null,
+      "races": 2,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 12,
+      "race_points": {
+        "hourly_2026-10-02_2132_spa": 0,
+        "hourly_2026-10-16_2129_imola": 12
+      },
+      "rank": 7
     },
     {
       "public_id": "drv_8630dadf7512",
@@ -361,7 +284,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 12
       },
-      "rank": 6
+      "rank": 8
     },
     {
       "public_id": "drv_a2d1fa171b24",
@@ -375,22 +298,70 @@
       "race_points": {
         "hourly_2026-10-09_2130_suzuka": 11
       },
-      "rank": 7
+      "rank": 9
+    },
+    {
+      "public_id": "drv_9afd0424ded9",
+      "driver": "Temer Lakerino [ASG]",
+      "team_id": null,
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 11,
+      "race_points": {
+        "hourly_2026-10-02_2132_spa": 6,
+        "hourly_2026-10-09_2130_suzuka": 0,
+        "hourly_2026-10-16_2129_imola": 5
+      },
+      "rank": 10
+    },
+    {
+      "public_id": "drv_bdf2f8684ab0",
+      "driver": "Egor Goryunov",
+      "team_id": null,
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 10,
+      "race_points": {
+        "hourly_2026-10-02_2132_spa": 0,
+        "hourly_2026-10-09_2130_suzuka": 0,
+        "hourly_2026-10-16_2129_imola": 10
+      },
+      "rank": 11
     },
     {
       "public_id": "drv_e907098eae56",
       "driver": "Arkadiy Plesovskiy",
       "team_id": null,
-      "races": 2,
+      "races": 3,
       "wins": 0,
       "podiums": 1,
       "best_laps": 0,
       "points": 9,
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0,
-        "hourly_2026-10-09_2130_suzuka": 9
+        "hourly_2026-10-09_2130_suzuka": 9,
+        "hourly_2026-10-16_2129_imola": 0
       },
-      "rank": 8
+      "rank": 12
+    },
+    {
+      "public_id": "drv_2352d9041299",
+      "driver": "Saveliy Usatov",
+      "team_id": null,
+      "races": 2,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 8,
+      "race_points": {
+        "hourly_2026-10-02_2132_spa": 0,
+        "hourly_2026-10-16_2129_imola": 8
+      },
+      "rank": 13
     },
     {
       "public_id": "drv_4889c0fb80e0",
@@ -404,11 +375,11 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 8
       },
-      "rank": 9
+      "rank": 14
     },
     {
-      "public_id": "drv_9afd0424ded9",
-      "driver": "Temer Lakerino [ASG]",
+      "public_id": "drv_6a121e6d9be4",
+      "driver": "F1rewall`ASG",
       "team_id": null,
       "races": 2,
       "wins": 0,
@@ -416,24 +387,10 @@
       "best_laps": 0,
       "points": 6,
       "race_points": {
-        "hourly_2026-10-02_2132_spa": 6,
-        "hourly_2026-10-09_2130_suzuka": 0
+        "hourly_2026-10-09_2130_suzuka": 0,
+        "hourly_2026-10-16_2129_imola": 6
       },
-      "rank": 10
-    },
-    {
-      "public_id": "drv_e53bdcf65922",
-      "driver": "Alexander Chikin",
-      "team_id": null,
-      "races": 1,
-      "wins": 0,
-      "podiums": 0,
-      "best_laps": 0,
-      "points": 5,
-      "race_points": {
-        "hourly_2026-10-09_2130_suzuka": 5
-      },
-      "rank": 11
+      "rank": 15
     },
     {
       "public_id": "drv_2566eee8c548",
@@ -447,7 +404,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 4
       },
-      "rank": 12
+      "rank": 16
     },
     {
       "public_id": "drv_39c83180f26a",
@@ -462,7 +419,35 @@
         "hourly_2026-10-02_2132_spa": 0,
         "hourly_2026-10-09_2130_suzuka": 3
       },
-      "rank": 13
+      "rank": 17
+    },
+    {
+      "public_id": "drv_ec25e6733dcb",
+      "driver": "Serg Konon",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 3,
+      "race_points": {
+        "hourly_2026-10-16_2129_imola": 3
+      },
+      "rank": 18
+    },
+    {
+      "public_id": "drv_ed0c1ffb507b",
+      "driver": "Artyom Zinin",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 2,
+      "race_points": {
+        "hourly_2026-10-16_2129_imola": 2
+      },
+      "rank": 19
     },
     {
       "public_id": "drv_566347522d94",
@@ -477,7 +462,7 @@
         "hourly_2026-10-02_2132_spa": 0,
         "hourly_2026-10-09_2130_suzuka": 2
       },
-      "rank": 14
+      "rank": 20
     },
     {
       "public_id": "drv_54ef257d71a5",
@@ -491,7 +476,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 2
       },
-      "rank": 15
+      "rank": 21
     },
     {
       "public_id": "drv_34302acdd8d3",
@@ -505,7 +490,23 @@
       "race_points": {
         "hourly_2026-10-09_2130_suzuka": 1
       },
-      "rank": 16
+      "rank": 22
+    },
+    {
+      "public_id": "drv_f9285d0d908a",
+      "driver": "Dmitry Vorobyev | NT | ASG",
+      "team_id": null,
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 1,
+      "race_points": {
+        "hourly_2026-10-02_2132_spa": 0,
+        "hourly_2026-10-09_2130_suzuka": 0,
+        "hourly_2026-10-16_2129_imola": 1
+      },
+      "rank": 23
     },
     {
       "public_id": "drv_37cd1cfc0b88",
@@ -520,37 +521,67 @@
         "hourly_2026-10-02_2132_spa": 1,
         "hourly_2026-10-09_2130_suzuka": 0
       },
-      "rank": 17
+      "rank": 24
     },
     {
       "public_id": "drv_020131e9a68e",
       "driver": "StS M",
       "team_id": null,
-      "races": 2,
+      "races": 3,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 1,
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0,
-        "hourly_2026-10-09_2130_suzuka": 1
+        "hourly_2026-10-09_2130_suzuka": 1,
+        "hourly_2026-10-16_2129_imola": 0
       },
-      "rank": 18
+      "rank": 25
+    },
+    {
+      "public_id": "drv_5b23191f0c23",
+      "driver": "ANDREY DJERAI [ASG]",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-10-16_2129_imola": 0
+      },
+      "rank": 26
+    },
+    {
+      "public_id": "drv_ddd1511c3d7b",
+      "driver": "Aleksandr Ivanov",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-10-16_2129_imola": 0
+      },
+      "rank": 27
     },
     {
       "public_id": "drv_3a4046b70d17",
       "driver": "Alex Pozdeev",
       "team_id": null,
-      "races": 2,
+      "races": 3,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 0,
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0,
-        "hourly_2026-10-09_2130_suzuka": 0
+        "hourly_2026-10-09_2130_suzuka": 0,
+        "hourly_2026-10-16_2129_imola": 0
       },
-      "rank": 19
+      "rank": 28
     },
     {
       "public_id": "drv_4aae7cb7f43d",
@@ -564,7 +595,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 20
+      "rank": 29
     },
     {
       "public_id": "drv_c2ccc56ff2f6",
@@ -578,7 +609,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 21
+      "rank": 30
     },
     {
       "public_id": "drv_c9144564d28d",
@@ -592,7 +623,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 22
+      "rank": 31
     },
     {
       "public_id": "drv_740cceccff0f",
@@ -606,7 +637,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 23
+      "rank": 32
     },
     {
       "public_id": "drv_b1fd7b57da41",
@@ -620,7 +651,7 @@
       "race_points": {
         "hourly_2026-10-09_2130_suzuka": 0
       },
-      "rank": 24
+      "rank": 33
     },
     {
       "public_id": "drv_696b8b039453",
@@ -634,7 +665,7 @@
       "race_points": {
         "hourly_2026-10-09_2130_suzuka": 0
       },
-      "rank": 25
+      "rank": 34
     },
     {
       "public_id": "drv_4ceba5f0966a",
@@ -648,7 +679,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 26
+      "rank": 35
     },
     {
       "public_id": "drv_4817c9a9ac46",
@@ -662,7 +693,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 27
+      "rank": 36
     },
     {
       "public_id": "drv_af37ffd32b91",
@@ -676,22 +707,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 28
-    },
-    {
-      "public_id": "drv_f9285d0d908a",
-      "driver": "Dmitry Vorobyev | NT | ASG",
-      "team_id": null,
-      "races": 2,
-      "wins": 0,
-      "podiums": 0,
-      "best_laps": 0,
-      "points": 0,
-      "race_points": {
-        "hourly_2026-10-02_2132_spa": 0,
-        "hourly_2026-10-09_2130_suzuka": 0
-      },
-      "rank": 29
+      "rank": 37
     },
     {
       "public_id": "drv_54ff6347c0db",
@@ -705,26 +721,11 @@
       "race_points": {
         "hourly_2026-10-09_2130_suzuka": 0
       },
-      "rank": 30
+      "rank": 38
     },
     {
-      "public_id": "drv_bdf2f8684ab0",
-      "driver": "Egor Goryunov",
-      "team_id": null,
-      "races": 2,
-      "wins": 0,
-      "podiums": 0,
-      "best_laps": 0,
-      "points": 0,
-      "race_points": {
-        "hourly_2026-10-02_2132_spa": 0,
-        "hourly_2026-10-09_2130_suzuka": 0
-      },
-      "rank": 31
-    },
-    {
-      "public_id": "drv_6a121e6d9be4",
-      "driver": "F1rewall`ASG",
+      "public_id": "drv_69d3dd933dc6",
+      "driver": "German Cherezov[ASG]",
       "team_id": null,
       "races": 1,
       "wins": 0,
@@ -732,9 +733,9 @@
       "best_laps": 0,
       "points": 0,
       "race_points": {
-        "hourly_2026-10-09_2130_suzuka": 0
+        "hourly_2026-10-16_2129_imola": 0
       },
-      "rank": 32
+      "rank": 39
     },
     {
       "public_id": "drv_6fe3533e96ac",
@@ -748,7 +749,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 33
+      "rank": 40
     },
     {
       "public_id": "drv_7e21a6ce11a1",
@@ -762,7 +763,21 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 34
+      "rank": 41
+    },
+    {
+      "public_id": "drv_bdc423a2e335",
+      "driver": "Gregory _-_KAVALER_-_",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-10-16_2129_imola": 0
+      },
+      "rank": 42
     },
     {
       "public_id": "drv_3da6cfe76196",
@@ -776,7 +791,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 35
+      "rank": 43
     },
     {
       "public_id": "drv_a682881d1c4c",
@@ -790,7 +805,7 @@
       "race_points": {
         "hourly_2026-10-09_2130_suzuka": 0
       },
-      "rank": 36
+      "rank": 44
     },
     {
       "public_id": "drv_732c6fb3bef6",
@@ -804,7 +819,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 37
+      "rank": 45
     },
     {
       "public_id": "drv_378357a4d49d",
@@ -818,35 +833,22 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 38
-    },
-    {
-      "public_id": "drv_964ce73ba40a",
-      "driver": "Kosso Filippo[ASG]",
-      "team_id": null,
-      "races": 1,
-      "wins": 0,
-      "podiums": 0,
-      "best_laps": 0,
-      "points": 0,
-      "race_points": {
-        "hourly_2026-10-02_2132_spa": 0
-      },
-      "rank": 39
+      "rank": 46
     },
     {
       "public_id": "drv_7ddd34173578",
       "driver": "Leonidovich Simferopol",
       "team_id": null,
-      "races": 1,
+      "races": 2,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 0,
       "race_points": {
-        "hourly_2026-10-02_2132_spa": 0
+        "hourly_2026-10-02_2132_spa": 0,
+        "hourly_2026-10-16_2129_imola": 0
       },
-      "rank": 40
+      "rank": 47
     },
     {
       "public_id": "drv_76968ef39da4",
@@ -860,7 +862,7 @@
       "race_points": {
         "hourly_2026-10-09_2130_suzuka": 0
       },
-      "rank": 41
+      "rank": 48
     },
     {
       "public_id": "drv_58c2cb1d1a52",
@@ -874,7 +876,21 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 42
+      "rank": 49
+    },
+    {
+      "public_id": "drv_b949e13f6914",
+      "driver": "Nikitos Baykov [DSQ]",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-10-16_2129_imola": 0
+      },
+      "rank": 50
     },
     {
       "public_id": "drv_66f7e0e69f07",
@@ -888,7 +904,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 43
+      "rank": 51
     },
     {
       "public_id": "drv_5e35859cd042",
@@ -902,22 +918,51 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 44
+      "rank": 52
+    },
+    {
+      "public_id": "drv_886dec66cad0",
+      "driver": "Polina Metelyova [ASG] | NT",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-10-16_2129_imola": 0
+      },
+      "rank": 53
     },
     {
       "public_id": "drv_cc0a4882a8c7",
       "driver": "Roman Dunin (wolk) [ASG] | DBT",
       "team_id": null,
-      "races": 2,
+      "races": 3,
       "wins": 0,
       "podiums": 0,
       "best_laps": 0,
       "points": 0,
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0,
-        "hourly_2026-10-09_2130_suzuka": 0
+        "hourly_2026-10-09_2130_suzuka": 0,
+        "hourly_2026-10-16_2129_imola": 0
       },
-      "rank": 45
+      "rank": 54
+    },
+    {
+      "public_id": "drv_9a8e64fe649d",
+      "driver": "Roman Panov",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-10-16_2129_imola": 0
+      },
+      "rank": 55
     },
     {
       "public_id": "drv_71bf0ed2e600",
@@ -931,21 +976,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 46
-    },
-    {
-      "public_id": "drv_2352d9041299",
-      "driver": "Saveliy Usatov",
-      "team_id": null,
-      "races": 1,
-      "wins": 0,
-      "podiums": 0,
-      "best_laps": 0,
-      "points": 0,
-      "race_points": {
-        "hourly_2026-10-02_2132_spa": 0
-      },
-      "rank": 47
+      "rank": 56
     },
     {
       "public_id": "drv_7ea4b7518b3b",
@@ -959,7 +990,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 48
+      "rank": 57
     },
     {
       "public_id": "drv_e70b7a3afdcd",
@@ -973,7 +1004,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 49
+      "rank": 58
     },
     {
       "public_id": "drv_bb33e2931005",
@@ -987,7 +1018,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 50
+      "rank": 59
     },
     {
       "public_id": "drv_6063d6ee6cf1",
@@ -1001,7 +1032,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 51
+      "rank": 60
     },
     {
       "public_id": "drv_fd00f76750a8",
@@ -1015,7 +1046,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 52
+      "rank": 61
     },
     {
       "public_id": "drv_9913eac2b32e",
@@ -1029,7 +1060,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 53
+      "rank": 62
     },
     {
       "public_id": "drv_f571ed2a2242",
@@ -1043,7 +1074,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 54
+      "rank": 63
     },
     {
       "public_id": "drv_4aead7e6b836",
@@ -1057,7 +1088,7 @@
       "race_points": {
         "hourly_2026-10-09_2130_suzuka": 0
       },
-      "rank": 55
+      "rank": 64
     },
     {
       "public_id": "drv_94e033a77f2a",
@@ -1071,7 +1102,7 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 56
+      "rank": 65
     },
     {
       "public_id": "drv_c7504552946e",
@@ -1085,10 +1116,49 @@
       "race_points": {
         "hourly_2026-10-02_2132_spa": 0
       },
-      "rank": 57
+      "rank": 66
     }
   ],
   "races": [
+    {
+      "event_id": "hourly_2026-10-16_2129_imola",
+      "title": "Hourly Race",
+      "track": "imola",
+      "track_code": "imola",
+      "track_name": "Imola",
+      "finished_at": "2026-10-16T21:29:20+03:00",
+      "finished_at_local": "2026-10-16 21:29",
+      "participants_count": 22,
+      "scoring_participants_count": 22,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Aleksey Mihin",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "1:41.877",
+      "best_lap_driver": "Aleksey Mihin",
+      "best_lap_public_id": "drv_f46727fa9e5b",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-16_2129_imola.json",
+      "results_repo_path": "261016_212920_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.14,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 11,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      }
+    },
     {
       "event_id": "hourly_2026-10-09_2130_suzuka",
       "title": "Hourly Race",
@@ -1168,5 +1238,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-15T21:30:13+03:00"
+  "updated_at": "2026-10-16T21:30:06+03:00"
 }

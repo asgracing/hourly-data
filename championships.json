@@ -9,15 +9,31 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-15T21:30:13+03:00",
-      "race_count": 2,
-      "driver_count": 57,
+      "updated_at": "2026-10-16T21:30:06+03:00",
+      "race_count": 3,
+      "driver_count": 66,
       "winner": {
         "driver": "Sergei Sotskov",
         "public_id": "drv_0d7087b67346",
         "points": 26
       },
       "results_top3": [
+        {
+          "public_id": "drv_f46727fa9e5b",
+          "driver": "Aleksey Mihin",
+          "team_id": null,
+          "races": 3,
+          "wins": 1,
+          "podiums": 2,
+          "best_laps": 1,
+          "points": 46,
+          "race_points": {
+            "hourly_2026-10-02_2132_spa": 18,
+            "hourly_2026-10-09_2130_suzuka": 7,
+            "hourly_2026-10-16_2129_imola": 21
+          },
+          "rank": 1
+        },
         {
           "public_id": "drv_0d7087b67346",
           "driver": "Sergei Sotskov",
@@ -30,34 +46,20 @@
           "race_points": {
             "hourly_2026-10-02_2132_spa": 26
           },
-          "rank": 1
+          "rank": 2
         },
         {
-          "public_id": "drv_f46727fa9e5b",
-          "driver": "Aleksey Mihin",
+          "public_id": "drv_e53bdcf65922",
+          "driver": "Alexander Chikin",
           "team_id": null,
           "races": 2,
           "wins": 0,
           "podiums": 1,
           "best_laps": 0,
-          "points": 25,
+          "points": 19,
           "race_points": {
-            "hourly_2026-10-02_2132_spa": 18,
-            "hourly_2026-10-09_2130_suzuka": 7
-          },
-          "rank": 2
-        },
-        {
-          "public_id": "drv_4d46856d85e4",
-          "driver": "Ilya Ivanik",
-          "team_id": null,
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "best_laps": 1,
-          "points": 16,
-          "race_points": {
-            "hourly_2026-10-09_2130_suzuka": 16
+            "hourly_2026-10-09_2130_suzuka": 5,
+            "hourly_2026-10-16_2129_imola": 14
           },
           "rank": 3
         }
@@ -74,7 +76,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-15T21:30:13+03:00",
+      "updated_at": "2026-10-16T21:30:06+03:00",
       "race_count": 0,
       "driver_count": 0,
       "winner": null,
@@ -91,7 +93,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-15T21:30:13+03:00",
+      "updated_at": "2026-10-16T21:30:05+03:00",
       "race_count": 4,
       "driver_count": 85,
       "winner": {
@@ -163,7 +165,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-15T21:30:13+03:00",
+      "updated_at": "2026-10-16T21:30:05+03:00",
       "race_count": 2,
       "driver_count": 48,
       "winner": {
@@ -229,7 +231,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-10-15T21:30:13+03:00",
+      "updated_at": "2026-10-16T21:30:05+03:00",
       "race_count": 4,
       "driver_count": 104,
       "winner": {
@@ -292,5 +294,5 @@
       "cover_track": "silverstone"
     }
   ],
-  "updated_at": "2026-10-15T21:30:13+03:00"
+  "updated_at": "2026-10-16T21:30:06+03:00"
 }
