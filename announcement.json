@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-10-18_2000",
-  "date": "2026-10-18",
+  "event_id": "hourly_2026-10-19_2000",
+  "date": "2026-10-19",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "nurburgring_24h",
-  "track_name": "Nordschleife",
+  "track_code": "red_bull_ring",
+  "track_name": "Red Bull Ring",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-10-18T19:00+03:00",
+  "launch_at": "2026-10-19T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-17T22:29:11+03:00",
+  "updated_at": "2026-10-18T21:49:43+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -67,29 +67,25 @@
     "max_drivers_count": 1,
     "tyre_set_count": 50,
     "car_model": {
-      "mode": "single_model",
-      "car_model_id": 30,
-      "car_model_name": "BMW M4 GT3"
+      "mode": "open"
     }
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 27,
-    "cloud_level": 0.34,
-    "rain_level": 0.13,
-    "weather_randomness": 3,
+    "ambient_temp_c": 28,
+    "cloud_level": 0.3,
+    "rain_level": 0.06,
+    "weather_randomness": 4,
     "summary_key": "mixed"
   },
   "game_time": {
-    "code": "day",
-    "label": "Day",
-    "hour_of_day": 11,
-    "asset_id": "day_neutral",
-    "asset": "day_neutral"
+    "code": "evening",
+    "label": "Evening",
+    "hour_of_day": 19,
+    "asset_id": "evening_gold",
+    "asset": "evening_gold"
   },
   "car_restriction": {
-    "mode": "single_model",
-    "car_model_id": 30,
-    "car_model_name": "BMW M4 GT3"
+    "mode": "open"
   }
 }
