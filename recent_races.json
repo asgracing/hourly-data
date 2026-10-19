@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-19_2127_red_bull_ring",
+      "title": "Hourly Race",
+      "track": "red_bull_ring",
+      "track_code": "red_bull_ring",
+      "track_name": "Red Bull Ring",
+      "finished_at": "2026-10-19T21:27:15+03:00",
+      "finished_at_local": "2026-10-19 21:27",
+      "participants_count": 17,
+      "scoring_participants_count": 11,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Vahe Gabrielyan",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_ead3d6e9f3b0",
+      "best_lap": "1:28.582",
+      "best_lap_driver": "Vahe Gabrielyan",
+      "best_lap_public_id": "drv_ead3d6e9f3b0",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-19_2127_red_bull_ring.json",
+      "results_repo_path": "261019_212715_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 28,
+        "cloud_level": 0.3,
+        "rain_level": 0.06,
+        "weather_randomness": 4,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-18_2149_nurburgring_24h",
       "title": "Hourly Race",
       "track": "nurburgring_24h",
@@ -428,46 +467,7 @@
         "asset_id": "morning_clear",
         "asset": "morning_clear"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-07_2131_suzuka",
-      "title": "Hourly Race",
-      "track": "suzuka",
-      "track_code": "suzuka",
-      "track_name": "Suzuka",
-      "finished_at": "2026-10-07T21:31:45+03:00",
-      "finished_at_local": "2026-10-07 21:31",
-      "participants_count": 13,
-      "scoring_participants_count": 12,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Aleksey Mihin",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "2:01.385",
-      "best_lap_driver": "Arkadiy Plesovskiy",
-      "best_lap_public_id": "drv_e907098eae56",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-07_2131_suzuka.json",
-      "results_repo_path": "261007_213145_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 30,
-        "cloud_level": 0.08,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_neutral",
-        "asset": "day_neutral"
-      }
     }
   ],
-  "updated_at": "2026-10-19T15:07:20+03:00"
+  "updated_at": "2026-10-19T21:27:59+03:00"
 }

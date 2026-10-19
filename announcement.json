@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-10-19_1500",
-  "date": "2026-10-19",
-  "start_time_local": "15:30",
+  "event_id": "hourly_2026-10-20_2000",
+  "date": "2026-10-20",
+  "start_time_local": "20:00",
   "timezone": "UTC+3",
   "track_code": "monza",
   "track_name": "Monza",
-  "race_duration_minutes": 20,
-  "server_window": "1.16667h",
-  "server_window_minutes": 70,
-  "launch_at": "2026-10-19T15:20+03:00",
+  "race_duration_minutes": 60,
+  "server_window": "3h",
+  "server_window_minutes": 180,
+  "launch_at": "2026-10-20T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-19T15:07:10+03:00",
+  "updated_at": "2026-10-19T21:27:50+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -45,14 +45,14 @@
     "is_race_locked": false
   },
   "session": {
-    "format_label": "P 2m + Q 2m + R 20m",
-    "practice_duration_minutes": 2,
-    "qualifying_duration_minutes": 2,
-    "race_duration_minutes": 20,
-    "pre_race_waiting_time_seconds": 80,
+    "format_label": "P 60m + Q 20m + R 60m",
+    "practice_duration_minutes": 60,
+    "qualifying_duration_minutes": 20,
+    "race_duration_minutes": 60,
+    "pre_race_waiting_time_seconds": 120,
     "session_over_time_seconds": 600,
-    "time_multiplier": null,
-    "practice_time_multiplier": null
+    "time_multiplier": 3,
+    "practice_time_multiplier": 3
   },
   "rules": {
     "mandatory_pitstop_count": 1,
@@ -72,11 +72,11 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 28,
-    "cloud_level": 0.3,
-    "rain_level": 0.06,
-    "weather_randomness": 4,
-    "summary_key": "mixed"
+    "ambient_temp_c": 29,
+    "cloud_level": 0.09,
+    "rain_level": 0.03,
+    "weather_randomness": 2,
+    "summary_key": "clear"
   },
   "game_time": {
     "code": "evening",

@@ -3834,27 +3834,24 @@
     },
     {
       "date": "2026-10-19",
-      "start_time_local": "15:30",
+      "start_time_local": "15:40",
       "target_occurrence_id": "hourly_2026-10-19_1500",
       "occurrence_id": "hourly_2026-10-19_1500",
       "source_start_time_local": "15:00",
       "track_code": "monza",
       "track_name": "Monza",
-      "slot_label": "Evening Slot",
+      "slot_label": "Afternoon Slot",
       "status": "scheduled",
       "event_type": "hourly",
       "race_format": "hourly",
       "competition_mode": "standalone",
-      "game_time_code": "evening",
-      "game_time_label": "Evening",
-      "game_time_asset": "evening_gold",
       "car_restriction": {
         "mode": "open"
       },
       "practice_duration_minutes": 2,
-      "race_duration_minutes": 20,
-      "server_window_minutes": 70,
-      "launch_lead_minutes": 10,
+      "race_duration_minutes": 10,
+      "server_window_minutes": 44,
+      "launch_lead_minutes": 2,
       "points_multiplier": 5.0,
       "hour_of_day": 19,
       "ambient_temp_c": 28,
@@ -3863,7 +3860,7 @@
       "weather_randomness": 4,
       "event_config_overrides": {
         "preRaceWaitingTimeSeconds": 80,
-        "sessionOverTimeSeconds": 600,
+        "sessionOverTimeSeconds": 180,
         "sessions": [
           {
             "sessionType": "P",
@@ -3875,7 +3872,7 @@
           },
           {
             "sessionType": "R",
-            "sessionDurationMinutes": 20
+            "sessionDurationMinutes": 10
           }
         ]
       },
