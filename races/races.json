@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-20_2136_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-10-20T21:36:46+03:00",
+      "finished_at_local": "2026-10-20 21:36",
+      "participants_count": 36,
+      "scoring_participants_count": 33,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Sergei Sotskov",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_0d7087b67346",
+      "best_lap": "1:47.355",
+      "best_lap_driver": "Sergei Sotskov",
+      "best_lap_public_id": "drv_0d7087b67346",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-20_2136_monza.json",
+      "results_repo_path": "261020_213646_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 29,
+        "cloud_level": 0.09,
+        "rain_level": 0.03,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-19_2127_red_bull_ring",
       "title": "Hourly Race",
       "track": "red_bull_ring",
@@ -428,46 +467,7 @@
         "asset_id": "morning_haze",
         "asset": "morning_haze"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-08_2130_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-10-08T21:30:44+03:00",
-      "finished_at_local": "2026-10-08 21:30",
-      "participants_count": 37,
-      "scoring_participants_count": 33,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "F1rewall`ASG",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_6a121e6d9be4",
-      "best_lap": "1:48.145",
-      "best_lap_driver": "Sergey Borzov",
-      "best_lap_public_id": "drv_7ea4b7518b3b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-08_2130_monza.json",
-      "results_repo_path": "261008_213044_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.28,
-        "rain_level": 0.11,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 9,
-        "asset_id": "morning_clear",
-        "asset": "morning_clear"
-      }
     }
   ],
-  "updated_at": "2026-10-19T21:27:59+03:00"
+  "updated_at": "2026-10-20T21:37:28+03:00"
 }
