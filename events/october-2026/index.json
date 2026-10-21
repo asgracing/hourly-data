@@ -71,6 +71,7 @@
       "game_time_asset_id": "evening_warm",
       "participation_mode": "individual",
       "scoring_mode": "championship_standard",
+      "qualifying_duration_minutes": 20,
       "session_overtime_seconds": 600,
       "launch_at_local": "2026-10-23 19:00",
       "launch_at": "2026-10-23T19:00+03:00",
@@ -1238,5 +1239,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-21T15:12:58+03:00"
+  "updated_at": "2026-10-21T18:12:56+03:00"
 }

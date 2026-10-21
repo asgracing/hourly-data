@@ -4678,20 +4678,25 @@
     {
       "date": "2026-11-07",
       "start_time_local": "19:00",
+      "target_occurrence_id": "endurance_2026-11-07_2000",
+      "occurrence_id": "endurance_2026-11-07_2000",
+      "source_start_time_local": "20:00",
       "track_code": "silverstone",
+      "track_name": "Silverstone",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
       "race_format": "hourly",
-      "participation_mode": "individual",
-      "team_max_drivers": 4,
-      "points_multiplier": 5.0,
+      "competition_mode": "standalone",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 10,
+      "qualifying_duration_minutes": 30,
       "race_duration_minutes": 90,
       "server_window_minutes": 200,
       "launch_lead_minutes": 40,
-      "hour_of_day": 17,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.23,
-      "rain_level": 0.16,
-      "weather_randomness": 5,
+      "points_multiplier": 5.0,
       "event_config_overrides": {
         "preRaceWaitingTimeSeconds": 80,
         "sessionOverTimeSeconds": 600,
@@ -4710,9 +4715,22 @@
           }
         ]
       },
-      "target_occurrence_id": "endurance_2026-11-07_2000",
-      "occurrence_id": "endurance_2026-11-07_2000",
-      "source_start_time_local": "20:00"
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": -1
+      },
+      "hour_of_day": 17,
+      "ambient_temp_c": 24,
+      "cloud_level": 0.23,
+      "rain_level": 0.16,
+      "weather_randomness": 5
     },
     {
       "date": "2026-11-08",
@@ -4942,15 +4960,11 @@
         "mode": "open"
       },
       "practice_duration_minutes": 60,
+      "qualifying_duration_minutes": 20,
       "race_duration_minutes": 60,
       "server_window_minutes": 180,
       "launch_lead_minutes": 60,
       "points_multiplier": 1.0,
-      "hour_of_day": 17,
-      "ambient_temp_c": 24,
-      "cloud_level": 0.42,
-      "rain_level": 0.11,
-      "weather_randomness": 5,
       "event_rules_overrides": {
         "mandatoryPitstopCount": 1,
         "tyreSetCount": 50,
@@ -4960,8 +4974,13 @@
         "isRefuellingTimeFixed": true,
         "isMandatoryPitstopRefuellingRequired": true,
         "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": 1200
-      }
+        "pitWindowLengthSec": -1
+      },
+      "hour_of_day": 17,
+      "ambient_temp_c": 24,
+      "cloud_level": 0.42,
+      "rain_level": 0.11,
+      "weather_randomness": 5
     },
     {
       "date": "2026-11-14",
@@ -5544,20 +5563,25 @@
     {
       "date": "2026-11-28",
       "start_time_local": "19:00",
+      "target_occurrence_id": "endurance_2026-11-28_2000",
+      "occurrence_id": "endurance_2026-11-28_2000",
+      "source_start_time_local": "20:00",
       "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
       "race_format": "hourly",
-      "participation_mode": "individual",
-      "team_max_drivers": 4,
-      "points_multiplier": 5.0,
+      "competition_mode": "standalone",
+      "car_restriction": {
+        "mode": "open"
+      },
       "practice_duration_minutes": 10,
+      "qualifying_duration_minutes": 30,
       "race_duration_minutes": 90,
       "server_window_minutes": 200,
       "launch_lead_minutes": 40,
-      "hour_of_day": 10,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.18,
-      "rain_level": 0.02,
-      "weather_randomness": 1,
+      "points_multiplier": 5.0,
       "event_config_overrides": {
         "preRaceWaitingTimeSeconds": 80,
         "sessionOverTimeSeconds": 600,
@@ -5576,9 +5600,22 @@
           }
         ]
       },
-      "target_occurrence_id": "endurance_2026-11-28_2000",
-      "occurrence_id": "endurance_2026-11-28_2000",
-      "source_start_time_local": "20:00"
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": -1
+      },
+      "hour_of_day": 10,
+      "ambient_temp_c": 26,
+      "cloud_level": 0.18,
+      "rain_level": 0.02,
+      "weather_randomness": 1
     },
     {
       "date": "2026-11-29",
