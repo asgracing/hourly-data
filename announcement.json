@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-10-21_2000",
-  "date": "2026-10-21",
+  "event_id": "hourly_2026-10-22_2000",
+  "date": "2026-10-22",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "kyalami",
-  "track_name": "Kyalami",
+  "track_code": "monza",
+  "track_name": "Monza",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-10-21T19:00+03:00",
+  "launch_at": "2026-10-22T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-21T18:12:45+03:00",
+  "updated_at": "2026-10-21T21:29:00+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -72,18 +72,18 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 24,
-    "cloud_level": 0.13,
-    "rain_level": 0.02,
-    "weather_randomness": 3,
-    "summary_key": "clear"
+    "ambient_temp_c": 28,
+    "cloud_level": 0.68,
+    "rain_level": 0.15,
+    "weather_randomness": 5,
+    "summary_key": "cloudy"
   },
   "game_time": {
-    "code": "morning",
-    "label": "Morning",
-    "hour_of_day": 8,
-    "asset_id": "morning_clear",
-    "asset": "morning_clear"
+    "code": "evening",
+    "label": "Evening",
+    "hour_of_day": 19,
+    "asset_id": "evening_gold",
+    "asset": "evening_gold"
   },
   "car_restriction": {
     "mode": "open"

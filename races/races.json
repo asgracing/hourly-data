@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-21_2128_kyalami",
+      "title": "Hourly Race",
+      "track": "kyalami",
+      "track_code": "kyalami",
+      "track_name": "Kyalami",
+      "finished_at": "2026-10-21T21:28:25+03:00",
+      "finished_at_local": "2026-10-21 21:28",
+      "participants_count": 25,
+      "scoring_participants_count": 22,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "1:40.470",
+      "best_lap_driver": "Sergei Sotskov",
+      "best_lap_public_id": "drv_0d7087b67346",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-21_2128_kyalami.json",
+      "results_repo_path": "261021_212825_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.13,
+        "rain_level": 0.02,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 8,
+        "asset_id": "morning_clear",
+        "asset": "morning_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-20_2136_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -428,46 +467,7 @@
         "asset_id": "day_neutral",
         "asset": "day_neutral"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-09_2130_suzuka",
-      "title": "Hourly Race",
-      "track": "suzuka",
-      "track_code": "suzuka",
-      "track_name": "Suzuka",
-      "finished_at": "2026-10-09T21:30:30+03:00",
-      "finished_at_local": "2026-10-09 21:30",
-      "participants_count": 23,
-      "scoring_participants_count": 17,
-      "points_multiplier": 1,
-      "points_rule": "scaled_top10_by_classified_plus_best_lap",
-      "winner": "Ilya Ivanik",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_4d46856d85e4",
-      "best_lap": "2:00.375",
-      "best_lap_driver": "Ilya Ivanik",
-      "best_lap_public_id": "drv_4d46856d85e4",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-09_2130_suzuka.json",
-      "results_repo_path": "261009_213030_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.12,
-        "rain_level": 0.05,
-        "weather_randomness": 1,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 9,
-        "asset_id": "morning_haze",
-        "asset": "morning_haze"
-      }
     }
   ],
-  "updated_at": "2026-10-21T18:12:55+03:00"
+  "updated_at": "2026-10-21T21:29:03+03:00"
 }
