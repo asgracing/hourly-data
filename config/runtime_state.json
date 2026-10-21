@@ -77,22 +77,18 @@
       "summary_key": "clear"
     },
     "hourly_2026-11-01_2000": {
-      "profile_id": 2,
       "ambient_temp_c": 23,
       "cloud_level": 0.37,
       "rain_level": 0.11,
       "weather_randomness": 5,
-      "summary_key": "mixed",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "mixed"
     },
     "hourly_2026-11-02_2000": {
-      "profile_id": 2,
       "ambient_temp_c": 30,
       "cloud_level": 0.27,
       "rain_level": 0.07,
       "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-03_2000": {
       "ambient_temp_c": 26,
@@ -102,40 +98,32 @@
       "summary_key": "wet"
     },
     "hourly_2026-11-04_2000": {
-      "profile_id": 1,
       "ambient_temp_c": 26,
       "cloud_level": 0.07,
       "rain_level": 0.01,
       "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-05_2000": {
-      "profile_id": 1,
       "ambient_temp_c": 24,
       "cloud_level": 0.16,
       "rain_level": 0.05,
       "weather_randomness": 1,
-      "summary_key": "clear",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-06_2000": {
-      "profile_id": 3,
       "ambient_temp_c": 25,
       "cloud_level": 0.64,
       "rain_level": 0.22,
       "weather_randomness": 6,
-      "summary_key": "wet",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "wet"
     },
     "hourly_2026-11-08_2000": {
-      "profile_id": 1,
       "ambient_temp_c": 27,
       "cloud_level": 0.23,
       "rain_level": 0.01,
       "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-09_2000": {
       "ambient_temp_c": 26,
@@ -152,22 +140,18 @@
       "summary_key": "mixed"
     },
     "hourly_2026-11-11_2000": {
-      "profile_id": 2,
       "ambient_temp_c": 28,
       "cloud_level": 0.26,
       "rain_level": 0.07,
       "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-12_2000": {
-      "profile_id": 3,
       "ambient_temp_c": 26,
       "cloud_level": 0.68,
       "rain_level": 0.23,
       "weather_randomness": 5,
-      "summary_key": "wet",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "wet"
     },
     "hourly_2026-11-13_2000": {
       "ambient_temp_c": 24,
@@ -184,58 +168,46 @@
       "summary_key": "clear"
     },
     "hourly_2026-11-15_2000": {
-      "profile_id": 2,
       "ambient_temp_c": 28,
       "cloud_level": 0.33,
       "rain_level": 0.05,
       "weather_randomness": 4,
-      "summary_key": "mixed",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "mixed"
     },
     "hourly_2026-11-16_2000": {
-      "profile_id": 1,
       "ambient_temp_c": 24,
       "cloud_level": 0.06,
       "rain_level": 0.0,
       "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-17_2000": {
-      "profile_id": 2,
       "ambient_temp_c": 27,
       "cloud_level": 0.47,
       "rain_level": 0.12,
       "weather_randomness": 4,
-      "summary_key": "mixed",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "mixed"
     },
     "hourly_2026-11-18_2000": {
-      "profile_id": 1,
       "ambient_temp_c": 24,
       "cloud_level": 0.02,
       "rain_level": 0.04,
       "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-19_2000": {
-      "profile_id": 2,
       "ambient_temp_c": 29,
       "cloud_level": 0.32,
       "rain_level": 0.14,
       "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "mixed"
     },
     "hourly_2026-11-20_2000": {
-      "profile_id": 1,
       "ambient_temp_c": 24,
       "cloud_level": 0.04,
       "rain_level": 0.03,
       "weather_randomness": 1,
-      "summary_key": "clear",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-21_2000": {
       "ambient_temp_c": 32,
@@ -245,76 +217,60 @@
       "summary_key": "mixed"
     },
     "hourly_2026-11-22_2000": {
-      "profile_id": 3,
       "ambient_temp_c": 24,
       "cloud_level": 0.69,
       "rain_level": 0.27,
       "weather_randomness": 4,
-      "summary_key": "wet",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "wet"
     },
     "hourly_2026-11-23_2000": {
-      "profile_id": 2,
       "ambient_temp_c": 29,
       "cloud_level": 0.34,
       "rain_level": 0.13,
       "weather_randomness": 5,
-      "summary_key": "mixed",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "mixed"
     },
     "hourly_2026-11-24_2000": {
-      "profile_id": 3,
       "ambient_temp_c": 25,
       "cloud_level": 0.42,
       "rain_level": 0.22,
       "weather_randomness": 3,
-      "summary_key": "wet",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "wet"
     },
     "hourly_2026-11-25_2000": {
-      "profile_id": 1,
       "ambient_temp_c": 26,
       "cloud_level": 0.16,
       "rain_level": 0.03,
       "weather_randomness": 1,
-      "summary_key": "clear",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-26_2000": {
-      "profile_id": 2,
       "ambient_temp_c": 24,
       "cloud_level": 0.4,
       "rain_level": 0.14,
       "weather_randomness": 3,
-      "summary_key": "mixed",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "mixed"
     },
     "hourly_2026-11-27_2000": {
-      "profile_id": 1,
       "ambient_temp_c": 27,
       "cloud_level": 0.08,
       "rain_level": 0.01,
       "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-29_2000": {
-      "profile_id": 2,
       "ambient_temp_c": 27,
       "cloud_level": 0.21,
       "rain_level": 0.06,
       "weather_randomness": 5,
-      "summary_key": "mixed",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-11-30_2000": {
-      "profile_id": 1,
       "ambient_temp_c": 24,
       "cloud_level": 0.14,
       "rain_level": 0.04,
       "weather_randomness": 3,
-      "summary_key": "clear",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "summary_key": "clear"
     },
     "hourly_2026-12-01_2000": {
       "profile_id": 2,
@@ -610,7 +566,7 @@
       "summary_key": "clear"
     }
   },
-  "updated_at": "2026-10-21T14:10:54+03:00",
+  "updated_at": "2026-10-21T15:12:55+03:00",
   "planned_game_time": {
     "hourly_2026-10-21_2000": {
       "code": "morning",
@@ -690,28 +646,18 @@
       "asset": "day_bright"
     },
     "hourly_2026-11-01_2000": {
-      "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
-      "label_ru": "Вечер",
       "hour_of_day": 19,
       "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "evening_warm"
     },
     "hourly_2026-11-02_2000": {
-      "profile_id": "day",
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 15,
       "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "day_clear"
     },
     "hourly_2026-11-03_2000": {
       "code": "night",
@@ -721,52 +667,32 @@
       "asset": "night_cool"
     },
     "hourly_2026-11-04_2000": {
-      "profile_id": "day",
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 14,
       "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "day_clear"
     },
     "hourly_2026-11-05_2000": {
-      "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
-      "label_ru": "Вечер",
       "hour_of_day": 17,
       "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "evening_warm"
     },
     "hourly_2026-11-06_2000": {
-      "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
-      "label_ru": "Утро",
       "hour_of_day": 10,
       "asset_id": "morning_soft",
-      "asset": "morning_soft",
-      "asset_label": "Soft Morning",
-      "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "morning_soft"
     },
     "hourly_2026-11-08_2000": {
-      "profile_id": "day",
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 11,
       "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "day_clear"
     },
     "hourly_2026-11-09_2000": {
       "code": "morning",
@@ -783,28 +709,18 @@
       "asset": "evening_long_shadows"
     },
     "hourly_2026-11-11_2000": {
-      "profile_id": "night",
       "code": "night",
       "label": "Night",
-      "label_ru": "Ночь",
       "hour_of_day": 0,
       "asset_id": "night_clear",
-      "asset": "night_clear",
-      "asset_label": "Clear Night",
-      "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "night_clear"
     },
     "hourly_2026-11-12_2000": {
-      "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
-      "label_ru": "Вечер",
       "hour_of_day": 18,
       "asset_id": "evening_gold",
-      "asset": "evening_gold",
-      "asset_label": "Golden Hour",
-      "asset_label_ru": "Золотой час",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "evening_gold"
     },
     "hourly_2026-11-13_2000": {
       "code": "evening",
@@ -821,76 +737,46 @@
       "asset": "night_clear"
     },
     "hourly_2026-11-15_2000": {
-      "profile_id": "day",
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 14,
       "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "day_clear"
     },
     "hourly_2026-11-16_2000": {
-      "profile_id": "day",
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 14,
       "asset_id": "day_bright",
-      "asset": "day_bright",
-      "asset_label": "Bright Day",
-      "asset_label_ru": "Яркий день",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "day_bright"
     },
     "hourly_2026-11-17_2000": {
-      "profile_id": "day",
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 14,
       "asset_id": "day_bright",
-      "asset": "day_bright",
-      "asset_label": "Bright Day",
-      "asset_label_ru": "Яркий день",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "day_bright"
     },
     "hourly_2026-11-18_2000": {
-      "profile_id": "night",
       "code": "night",
       "label": "Night",
-      "label_ru": "Ночь",
       "hour_of_day": 1,
       "asset_id": "night_clear",
-      "asset": "night_clear",
-      "asset_label": "Clear Night",
-      "asset_label_ru": "Ясная ночь",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "night_clear"
     },
     "hourly_2026-11-19_2000": {
-      "profile_id": "night",
       "code": "night",
       "label": "Night",
-      "label_ru": "Ночь",
       "hour_of_day": 0,
       "asset_id": "night_cool",
-      "asset": "night_cool",
-      "asset_label": "Cool Night",
-      "asset_label_ru": "Прохладная ночь",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "night_cool"
     },
     "hourly_2026-11-20_2000": {
-      "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
-      "label_ru": "Утро",
       "hour_of_day": 7,
       "asset_id": "morning_clear",
-      "asset": "morning_clear",
-      "asset_label": "Clear Morning",
-      "asset_label_ru": "Ясное утро",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "morning_clear"
     },
     "hourly_2026-11-21_2000": {
       "code": "evening",
@@ -900,100 +786,60 @@
       "asset": "evening_long_shadows"
     },
     "hourly_2026-11-22_2000": {
-      "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
-      "label_ru": "Вечер",
       "hour_of_day": 19,
       "asset_id": "evening_gold",
-      "asset": "evening_gold",
-      "asset_label": "Golden Hour",
-      "asset_label_ru": "Золотой час",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "evening_gold"
     },
     "hourly_2026-11-23_2000": {
-      "profile_id": "day",
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 14,
       "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "day_clear"
     },
     "hourly_2026-11-24_2000": {
-      "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
-      "label_ru": "Вечер",
       "hour_of_day": 19,
       "asset_id": "evening_long_shadows",
-      "asset": "evening_long_shadows",
-      "asset_label": "Long Shadows",
-      "asset_label_ru": "Длинные тени",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "evening_long_shadows"
     },
     "hourly_2026-11-25_2000": {
-      "profile_id": "day",
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 13,
       "asset_id": "day_bright",
-      "asset": "day_bright",
-      "asset_label": "Bright Day",
-      "asset_label_ru": "Яркий день",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "day_bright"
     },
     "hourly_2026-11-26_2000": {
-      "profile_id": "day",
       "code": "day",
       "label": "Day",
-      "label_ru": "День",
       "hour_of_day": 11,
       "asset_id": "day_neutral",
-      "asset": "day_neutral",
-      "asset_label": "Neutral Day",
-      "asset_label_ru": "Нейтральный день",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "day_neutral"
     },
     "hourly_2026-11-27_2000": {
-      "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
-      "label_ru": "Утро",
       "hour_of_day": 7,
       "asset_id": "morning_soft",
-      "asset": "morning_soft",
-      "asset_label": "Soft Morning",
-      "asset_label_ru": "Мягкое утро",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "morning_soft"
     },
     "hourly_2026-11-29_2000": {
-      "profile_id": "evening",
       "code": "evening",
       "label": "Evening",
-      "label_ru": "Вечер",
       "hour_of_day": 18,
       "asset_id": "evening_long_shadows",
-      "asset": "evening_long_shadows",
-      "asset_label": "Long Shadows",
-      "asset_label_ru": "Длинные тени",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "evening_long_shadows"
     },
     "hourly_2026-11-30_2000": {
-      "profile_id": "morning",
       "code": "morning",
       "label": "Morning",
-      "label_ru": "Утро",
       "hour_of_day": 9,
       "asset_id": "morning_clear",
-      "asset": "morning_clear",
-      "asset_label": "Clear Morning",
-      "asset_label_ru": "Ясное утро",
-      "created_at": "2026-10-20T21:37:19+03:00"
+      "asset": "morning_clear"
     },
     "hourly_2026-12-01_2000": {
       "profile_id": "evening",
@@ -1368,18 +1214,10 @@
       "created_at": "2026-10-20T21:37:19+03:00"
     },
     "hourly_2026-11-07_1900": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 17,
-      "asset_id": "evening_gold",
-      "asset": "evening_gold"
+      "hour_of_day": 17
     },
     "hourly_2026-11-28_1900": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 10,
-      "asset_id": "evening_long_shadows",
-      "asset": "evening_long_shadows"
+      "hour_of_day": 10
     }
   },
   "last_track_code": "monza",
