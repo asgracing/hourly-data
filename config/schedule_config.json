@@ -4468,6 +4468,47 @@
       }
     },
     {
+      "date": "2026-11-07",
+      "start_time_local": "19:00",
+      "target_occurrence_id": "endurance_2026-11-07_2000",
+      "occurrence_id": "endurance_2026-11-07_2000",
+      "source_start_time_local": "20:00",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_asset": "evening_gold",
+      "car_restriction": {
+        "mode": "open"
+      },
+      "practice_duration_minutes": 10,
+      "race_duration_minutes": 90,
+      "server_window_minutes": 200,
+      "launch_lead_minutes": 40,
+      "points_multiplier": 5.0,
+      "hour_of_day": 17,
+      "ambient_temp_c": 24,
+      "cloud_level": 0.23,
+      "rain_level": 0.16,
+      "weather_randomness": 5,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": true,
+        "pitWindowLengthSec": -1
+      }
+    },
+    {
       "date": "2026-11-09",
       "start_time_local": "20:00",
       "target_occurrence_id": "hourly_2026-11-09_2000",
@@ -4659,6 +4700,47 @@
       "event_rules_overrides": {
         "maxDriversCount": 1,
         "isMandatoryPitstopSwapDriverRequired": false
+      }
+    },
+    {
+      "date": "2026-11-28",
+      "start_time_local": "19:00",
+      "target_occurrence_id": "endurance_2026-11-28_2000",
+      "occurrence_id": "endurance_2026-11-28_2000",
+      "source_start_time_local": "20:00",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_asset": "evening_long_shadows",
+      "car_restriction": {
+        "mode": "open"
+      },
+      "practice_duration_minutes": 10,
+      "race_duration_minutes": 90,
+      "server_window_minutes": 200,
+      "launch_lead_minutes": 40,
+      "points_multiplier": 5.0,
+      "hour_of_day": 10,
+      "ambient_temp_c": 26,
+      "cloud_level": 0.18,
+      "rain_level": 0.02,
+      "weather_randomness": 1,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": true,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": true,
+        "pitWindowLengthSec": -1
       }
     }
   ],
