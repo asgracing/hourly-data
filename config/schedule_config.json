@@ -4053,6 +4053,45 @@
       }
     },
     {
+      "date": "2026-10-22",
+      "start_time_local": "21:00",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "slot_label": "Evening Slot",
+      "status": "scheduled",
+      "event_type": "hourly",
+      "race_format": "hourly",
+      "competition_mode": "standalone",
+      "game_time_code": "evening",
+      "game_time_label": "Evening",
+      "game_time_asset": "evening_gold",
+      "car_restriction": {
+        "mode": "open"
+      },
+      "practice_duration_minutes": 60,
+      "qualifying_duration_minutes": 20,
+      "race_duration_minutes": 60,
+      "server_window_minutes": 180,
+      "launch_lead_minutes": 60,
+      "points_multiplier": 5.0,
+      "event_rules_overrides": {
+        "mandatoryPitstopCount": 1,
+        "tyreSetCount": 50,
+        "driverStintTimeSec": -1,
+        "maxTotalDrivingTime": -1,
+        "isRefuellingAllowedInRace": true,
+        "isRefuellingTimeFixed": false,
+        "isMandatoryPitstopRefuellingRequired": true,
+        "isMandatoryPitstopTyreChangeRequired": false,
+        "pitWindowLengthSec": -1
+      },
+      "hour_of_day": 19,
+      "ambient_temp_c": 28,
+      "cloud_level": 0.68,
+      "rain_level": 0.15,
+      "weather_randomness": 5
+    },
+    {
       "date": "2026-10-23",
       "start_time_local": "20:00",
       "target_occurrence_id": "hourly_2026-10-23_2000",

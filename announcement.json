@@ -1,8 +1,8 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-10-22_2000",
-  "date": "2026-10-22",
+  "event_id": "hourly_2026-10-23_2000",
+  "date": "2026-10-23",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
   "track_code": "monza",
@@ -10,18 +10,18 @@
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-10-22T19:00+03:00",
+  "launch_at": "2026-10-23T19:00+03:00",
   "session_label": "Evening Slot",
-  "details_url": "/hourly/",
-  "event_type": "hourly",
+  "details_url": "/hourly/championship/?slug=october-2026",
+  "event_type": "championship",
   "race_format": "hourly",
-  "competition_mode": "standalone",
+  "competition_mode": "championship",
   "participation_mode": "individual",
   "team_max_drivers": null,
   "registration_closes_at": null,
-  "points_multiplier": 5.0,
-  "scoring_mode": "hourly_curve_multiplier",
-  "voting_disabled": false,
+  "points_multiplier": 1.0,
+  "scoring_mode": "championship_standard",
+  "voting_disabled": true,
   "badge_label": null,
   "championship_slug": "october-2026",
   "championship_title": "ASG Racing October 2026",
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-21T21:29:00+03:00",
+  "updated_at": "2026-10-22T22:12:43+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -72,18 +72,18 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 28,
-    "cloud_level": 0.68,
-    "rain_level": 0.15,
+    "ambient_temp_c": 32,
+    "cloud_level": 0.49,
+    "rain_level": 0.1,
     "weather_randomness": 5,
-    "summary_key": "cloudy"
+    "summary_key": "mixed"
   },
   "game_time": {
     "code": "evening",
     "label": "Evening",
-    "hour_of_day": 19,
-    "asset_id": "evening_gold",
-    "asset": "evening_gold"
+    "hour_of_day": 18,
+    "asset_id": "evening_warm",
+    "asset": "evening_warm"
   },
   "car_restriction": {
     "mode": "open"
