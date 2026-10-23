@@ -4137,45 +4137,42 @@
     {
       "date": "2026-10-24",
       "start_time_local": "20:00",
-      "target_occurrence_id": "hourly_2026-10-24_2000",
-      "occurrence_id": "hourly_2026-10-24_2000",
-      "source_start_time_local": "20:00",
       "track_code": "spa",
-      "track_name": "Spa",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "event_type": "endurance",
       "race_format": "endurance",
-      "competition_mode": "standalone",
-      "game_time_code": "evening",
-      "game_time_label": "Evening",
-      "game_time_asset": "evening_warm",
-      "car_restriction": {
-        "mode": "open"
-      },
+      "participation_mode": "individual",
+      "team_max_drivers": 4,
+      "points_multiplier": 10.0,
       "practice_duration_minutes": 60,
+      "qualifying_duration_minutes": 20,
       "race_duration_minutes": 120,
       "server_window_minutes": 240,
       "launch_lead_minutes": 60,
-      "points_multiplier": 10.0,
       "hour_of_day": 16,
-      "ambient_temp_c": 31,
+      "ambient_temp_c": 24,
       "cloud_level": 0.14,
       "rain_level": 0.03,
       "weather_randomness": 3,
-      "event_rules_overrides": {
-        "mandatoryPitstopCount": 1,
-        "tyreSetCount": 50,
-        "driverStintTimeSec": -1,
-        "maxTotalDrivingTime": -1,
-        "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": false,
-        "isMandatoryPitstopRefuellingRequired": true,
-        "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": -1,
-        "maxDriversCount": 1,
-        "isMandatoryPitstopSwapDriverRequired": false
-      }
+      "event_config_overrides": {
+        "preRaceWaitingTimeSeconds": 120,
+        "sessionOverTimeSeconds": 600,
+        "sessions": [
+          {
+            "sessionType": "P",
+            "sessionDurationMinutes": 60
+          },
+          {
+            "sessionType": "Q",
+            "sessionDurationMinutes": 20
+          },
+          {
+            "sessionType": "R",
+            "sessionDurationMinutes": 120
+          }
+        ]
+      },
+      "target_occurrence_id": "hourly_2026-10-24_2000",
+      "occurrence_id": "hourly_2026-10-24_2000",
+      "source_start_time_local": "20:00"
     },
     {
       "date": "2026-10-25",

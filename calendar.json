@@ -16,31 +16,35 @@
       "source_start_time_local": "20:00",
       "occurrence_id": "hourly_2026-10-24_2000",
       "race_format": "endurance",
-      "competition_mode": "standalone",
+      "participation_mode": "individual",
+      "team_max_drivers": 4,
       "points_multiplier": 10.0,
       "practice_duration_minutes": 60,
+      "qualifying_duration_minutes": 20,
       "race_duration_minutes": 120,
       "server_window_minutes": 240,
       "launch_lead_minutes": 60,
-      "event_rules_overrides": {
-        "mandatoryPitstopCount": 1,
-        "tyreSetCount": 50,
-        "driverStintTimeSec": -1,
-        "maxTotalDrivingTime": -1,
-        "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": false,
-        "isMandatoryPitstopRefuellingRequired": true,
-        "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": -1,
-        "maxDriversCount": 1,
-        "isMandatoryPitstopSwapDriverRequired": false
-      },
-      "car_restriction": {
-        "mode": "open"
+      "event_config_overrides": {
+        "preRaceWaitingTimeSeconds": 120,
+        "sessionOverTimeSeconds": 600,
+        "sessions": [
+          {
+            "sessionType": "P",
+            "sessionDurationMinutes": 60
+          },
+          {
+            "sessionType": "Q",
+            "sessionDurationMinutes": 20
+          },
+          {
+            "sessionType": "R",
+            "sessionDurationMinutes": 120
+          }
+        ]
       },
       "weather": {
         "profile_id": null,
-        "ambient_temp_c": 31,
+        "ambient_temp_c": 24,
         "cloud_level": 0.14,
         "rain_level": 0.03,
         "weather_randomness": 3,
@@ -49,22 +53,21 @@
       "weather_locked": true,
       "rain_level": 0.03,
       "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_warm",
-        "asset": "evening_warm"
+        "hour_of_day": 16
       },
       "game_time_locked": true,
       "hour_of_day": 16,
       "game_time_hour": 16,
-      "game_time_code": "evening",
-      "game_time_label": "Evening",
+      "game_time_code": null,
+      "game_time_label": null,
       "game_time_label_ru": null,
-      "game_time_asset": "evening_warm",
-      "game_time_asset_id": "evening_warm",
-      "participation_mode": "individual",
+      "game_time_asset": null,
+      "game_time_asset_id": null,
+      "competition_mode": "standalone",
       "scoring_mode": "hourly_curve_multiplier",
+      "car_restriction": {
+        "mode": "open"
+      },
       "session_overtime_seconds": 600,
       "launch_at_local": "2026-10-24 19:00",
       "launch_at": "2026-10-24T19:00+03:00",
@@ -7514,5 +7517,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-23T21:32:04+03:00"
+  "updated_at": "2026-10-23T23:14:29+03:00"
 }

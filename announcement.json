@@ -17,7 +17,7 @@
   "race_format": "endurance",
   "competition_mode": "standalone",
   "participation_mode": "individual",
-  "team_max_drivers": null,
+  "team_max_drivers": 4,
   "registration_closes_at": null,
   "points_multiplier": 10.0,
   "scoring_mode": "hourly_curve_multiplier",
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-23T21:32:04+03:00",
+  "updated_at": "2026-10-23T23:14:29+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -72,18 +72,14 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 31,
+    "ambient_temp_c": 24,
     "cloud_level": 0.14,
     "rain_level": 0.03,
     "weather_randomness": 3,
     "summary_key": "clear"
   },
   "game_time": {
-    "code": "evening",
-    "label": "Evening",
-    "hour_of_day": 16,
-    "asset_id": "evening_warm",
-    "asset": "evening_warm"
+    "hour_of_day": 16
   },
   "car_restriction": {
     "mode": "open"

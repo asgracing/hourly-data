@@ -1,14 +1,7 @@
 {
   "planned_weather": {
-    "hourly_2026-10-23_2000": {
-      "ambient_temp_c": 32,
-      "cloud_level": 0.49,
-      "rain_level": 0.1,
-      "weather_randomness": 5,
-      "summary_key": "mixed"
-    },
     "hourly_2026-10-24_2000": {
-      "ambient_temp_c": 31,
+      "ambient_temp_c": 24,
       "cloud_level": 0.14,
       "rain_level": 0.03,
       "weather_randomness": 3,
@@ -561,21 +554,10 @@
       "created_at": "2026-10-23T21:32:04+03:00"
     }
   },
-  "updated_at": "2026-10-23T21:32:04+03:00",
+  "updated_at": "2026-10-23T23:14:29+03:00",
   "planned_game_time": {
-    "hourly_2026-10-23_2000": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 18,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
-    },
     "hourly_2026-10-24_2000": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 16,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
+      "hour_of_day": 16
     },
     "hourly_2026-10-25_2000": {
       "code": "morning",
@@ -1215,7 +1197,7 @@
   },
   "last_track_code": "monza",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
-  "active_event_id": "hourly_2026-10-23_2000",
+  "active_event_id": null,
   "last_planned_start_local": "2026-10-23T20:00:00+03:00",
   "last_planned_weather": {
     "profile_id": null,
@@ -1225,48 +1207,7 @@
     "weather_randomness": 5,
     "summary_key": "mixed"
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-10-23_2000",
-    "occurrence_id": "hourly_2026-10-23_2000",
-    "slot": {
-      "event_id": "hourly_2026-10-23_2000",
-      "occurrence_id": "hourly_2026-10-23_2000",
-      "date": "2026-10-23",
-      "start_time_local": "20:00",
-      "launch_at": "2026-10-23T19:00+03:00",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "event_type": "championship",
-      "race_format": "hourly",
-      "competition_mode": "championship",
-      "participation_mode": "individual",
-      "scoring_mode": "championship_standard",
-      "points_multiplier": 1.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180,
-      "championship_slug": "october-2026",
-      "title": "ASG Racing October 2026",
-      "car_restriction": {
-        "mode": "open"
-      }
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 32,
-      "cloud_level": 0.49,
-      "rain_level": 0.1,
-      "weather_randomness": 5,
-      "summary_key": "mixed"
-    },
-    "updated_at": "2026-10-23T19:00:01+03:00",
-    "game_time": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 18,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-10-23_2000",
     "occurrence_id": "hourly_2026-10-23_2000",
@@ -1309,7 +1250,7 @@
       "asset": "evening_warm"
     }
   },
-  "last_status": "publishing",
+  "last_status": "completed",
   "last_error": null,
   "last_planned_game_time": {
     "code": "evening",
@@ -1318,7 +1259,7 @@
     "asset_id": "evening_warm",
     "asset": "evening_warm"
   },
-  "orchestrator_pid": 11384,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-10-23T19:00:01+03:00",
   "launch_mode": "auto",
   "run_mode": "normal",
@@ -8023,8 +7964,8 @@
     "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\october-2026\\261023_202500_Q.json",
     "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\october-2026\\261023_213130_R.json"
   ],
-  "last_completed_event_id": "hourly_2026-10-22_2100",
-  "last_completion_at": "2026-10-22T22:12:58+03:00",
+  "last_completed_event_id": "hourly_2026-10-23_2000",
+  "last_completion_at": "2026-10-23T21:32:19+03:00",
   "entrylist_override": {
     "active": false,
     "event_id": "hourly_2026-10-18_2000",
