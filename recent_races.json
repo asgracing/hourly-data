@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-23_2131_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-10-23T21:31:30+03:00",
+      "finished_at_local": "2026-10-23 21:31",
+      "participants_count": 38,
+      "scoring_participants_count": 36,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Ilya Ivanik",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "1:49.265",
+      "best_lap_driver": "Gregory _-_KAVALER_-_",
+      "best_lap_public_id": "drv_bdc423a2e335",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-23_2131_monza.json",
+      "results_repo_path": "261023_213130_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 32,
+        "cloud_level": 0.49,
+        "rain_level": 0.1,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 18,
+        "asset_id": "evening_warm",
+        "asset": "evening_warm"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-22_2212_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -428,46 +467,7 @@
         "asset_id": "day_bright",
         "asset": "day_bright"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-11_2131_mount_panorama",
-      "title": "Hourly Race",
-      "track": "mount_panorama",
-      "track_code": "mount_panorama",
-      "track_name": "Mount Panorama",
-      "finished_at": "2026-10-11T21:31:00+03:00",
-      "finished_at_local": "2026-10-11 21:31",
-      "participants_count": 32,
-      "scoring_participants_count": 24,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Gregory _-_KAVALER_-_",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_bdc423a2e335",
-      "best_lap": "2:00.955",
-      "best_lap_driver": "Stanislav Kartavykh",
-      "best_lap_public_id": "drv_7c54878f4df5",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-11_2131_mount_panorama.json",
-      "results_repo_path": "261011_213100_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.02,
-        "rain_level": 0.04,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_long_shadows",
-        "asset": "evening_long_shadows"
-      }
     }
   ],
-  "updated_at": "2026-10-22T22:12:54+03:00"
+  "updated_at": "2026-10-23T21:32:14+03:00"
 }
