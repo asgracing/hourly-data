@@ -1,25 +1,25 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-10-24_2000",
-  "date": "2026-10-24",
+  "event_id": "hourly_2026-10-25_2000",
+  "date": "2026-10-25",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "spa",
-  "track_name": "Spa",
-  "race_duration_minutes": 120,
-  "server_window": "4h",
-  "server_window_minutes": 240,
-  "launch_at": "2026-10-24T19:00+03:00",
+  "track_code": "nurburgring",
+  "track_name": "Nurburgring",
+  "race_duration_minutes": 60,
+  "server_window": "3h",
+  "server_window_minutes": 180,
+  "launch_at": "2026-10-25T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
-  "event_type": "endurance",
-  "race_format": "endurance",
+  "event_type": "hourly",
+  "race_format": "hourly",
   "competition_mode": "standalone",
   "participation_mode": "individual",
-  "team_max_drivers": 4,
+  "team_max_drivers": null,
   "registration_closes_at": null,
-  "points_multiplier": 10.0,
+  "points_multiplier": 5.0,
   "scoring_mode": "hourly_curve_multiplier",
   "voting_disabled": false,
   "badge_label": null,
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-23T23:14:29+03:00",
+  "updated_at": "2026-10-24T22:37:20+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -45,10 +45,10 @@
     "is_race_locked": false
   },
   "session": {
-    "format_label": "P 60m + Q 20m + R 120m",
+    "format_label": "P 60m + Q 20m + R 60m",
     "practice_duration_minutes": 60,
     "qualifying_duration_minutes": 20,
-    "race_duration_minutes": 120,
+    "race_duration_minutes": 60,
     "pre_race_waiting_time_seconds": 120,
     "session_over_time_seconds": 600,
     "time_multiplier": 3,
@@ -72,14 +72,18 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 24,
-    "cloud_level": 0.14,
-    "rain_level": 0.03,
+    "ambient_temp_c": 27,
+    "cloud_level": 0.33,
+    "rain_level": 0.13,
     "weather_randomness": 3,
-    "summary_key": "clear"
+    "summary_key": "mixed"
   },
   "game_time": {
-    "hour_of_day": 16
+    "code": "morning",
+    "label": "Morning",
+    "hour_of_day": 8,
+    "asset_id": "morning_clear",
+    "asset": "morning_clear"
   },
   "car_restriction": {
     "mode": "open"

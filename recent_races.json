@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-24_2236_spa",
+      "title": "Hourly Race",
+      "track": "spa",
+      "track_code": "spa",
+      "track_name": "Spa",
+      "finished_at": "2026-10-24T22:36:47+03:00",
+      "finished_at_local": "2026-10-24 22:36",
+      "participants_count": 40,
+      "scoring_participants_count": 37,
+      "points_multiplier": 10.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Stanislav Kartavykh",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_7c54878f4df5",
+      "best_lap": "2:16.807",
+      "best_lap_driver": "Stanislav Kartavykh",
+      "best_lap_public_id": "drv_7c54878f4df5",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-24_2236_spa.json",
+      "results_repo_path": "261024_223647_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.14,
+        "rain_level": 0.03,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "hour_of_day": 16
+      }
+    },
+    {
       "event_id": "hourly_2026-10-23_2131_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -428,46 +463,7 @@
         "asset_id": "day_clear",
         "asset": "day_clear"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-12_2128_zolder",
-      "title": "Hourly Race",
-      "track": "zolder",
-      "track_code": "zolder",
-      "track_name": "Zolder",
-      "finished_at": "2026-10-12T21:28:00+03:00",
-      "finished_at_local": "2026-10-12 21:28",
-      "participants_count": 26,
-      "scoring_participants_count": 24,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Victor Rovenko",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_de8a222e2e87",
-      "best_lap": "1:28.377",
-      "best_lap_driver": "Victor Rovenko",
-      "best_lap_public_id": "drv_de8a222e2e87",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-12_2128_zolder.json",
-      "results_repo_path": "261012_212800_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 32,
-        "cloud_level": 0.46,
-        "rain_level": 0.07,
-        "weather_randomness": 4,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 14,
-        "asset_id": "day_bright",
-        "asset": "day_bright"
-      }
     }
   ],
-  "updated_at": "2026-10-23T23:14:39+03:00"
+  "updated_at": "2026-10-24T22:37:30+03:00"
 }
