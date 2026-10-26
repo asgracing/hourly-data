@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-26_2133_mount_panorama",
+      "title": "Hourly Race",
+      "track": "mount_panorama",
+      "track_code": "mount_panorama",
+      "track_name": "Mount Panorama",
+      "finished_at": "2026-10-26T21:33:26+03:00",
+      "finished_at_local": "2026-10-26 21:33",
+      "participants_count": 15,
+      "scoring_participants_count": 11,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Dan Terehov ]DBT[",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_fb33a4bc4917",
+      "best_lap": "2:03.882",
+      "best_lap_driver": "Saveliy Usatov",
+      "best_lap_public_id": "drv_2352d9041299",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-26_2133_mount_panorama.json",
+      "results_repo_path": "261026_213326_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.42,
+        "rain_level": 0.1,
+        "weather_randomness": 3,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 17,
+        "asset_id": "evening_gold",
+        "asset": "evening_gold"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-25_2127_nurburgring",
       "title": "Hourly Race",
       "track": "nurburgring",
@@ -424,46 +463,7 @@
         "asset_id": "evening_warm",
         "asset": "evening_warm"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-14_2131_imola",
-      "title": "Hourly Race",
-      "track": "imola",
-      "track_code": "imola",
-      "track_name": "Imola",
-      "finished_at": "2026-10-14T21:31:07+03:00",
-      "finished_at_local": "2026-10-14 21:31",
-      "participants_count": 31,
-      "scoring_participants_count": 25,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Alexander Chikin",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_e53bdcf65922",
-      "best_lap": "1:40.732",
-      "best_lap_driver": "Victor Rovenko",
-      "best_lap_public_id": "drv_de8a222e2e87",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-14_2131_imola.json",
-      "results_repo_path": "261014_213107_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 29,
-        "cloud_level": 0.42,
-        "rain_level": 0.13,
-        "weather_randomness": 5,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "night",
-        "label": "Night",
-        "hour_of_day": 2,
-        "asset_id": "night_clear",
-        "asset": "night_clear"
-      }
     }
   ],
-  "updated_at": "2026-10-25T21:27:49+03:00"
+  "updated_at": "2026-10-26T21:34:10+03:00"
 }
