@@ -1,16 +1,16 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-10-27_2000",
-  "date": "2026-10-27",
+  "event_id": "hourly_2026-10-28_2000",
+  "date": "2026-10-28",
   "start_time_local": "20:00",
   "timezone": "UTC+3",
-  "track_code": "monza",
-  "track_name": "Monza",
+  "track_code": "paul_ricard",
+  "track_name": "Paul Ricard",
   "race_duration_minutes": 60,
   "server_window": "3h",
   "server_window_minutes": 180,
-  "launch_at": "2026-10-27T19:00+03:00",
+  "launch_at": "2026-10-28T19:00+03:00",
   "session_label": "Evening Slot",
   "details_url": "/hourly/",
   "event_type": "hourly",
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-26T21:34:00+03:00",
+  "updated_at": "2026-10-27T21:30:01+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -72,18 +72,18 @@
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 32,
-    "cloud_level": 0.39,
-    "rain_level": 0.14,
+    "ambient_temp_c": 31,
+    "cloud_level": 0.19,
+    "rain_level": 0.04,
     "weather_randomness": 3,
-    "summary_key": "mixed"
+    "summary_key": "clear"
   },
   "game_time": {
-    "code": "morning",
-    "label": "Morning",
-    "hour_of_day": 10,
-    "asset_id": "morning_soft",
-    "asset": "morning_soft"
+    "code": "evening",
+    "label": "Evening",
+    "hour_of_day": 19,
+    "asset_id": "evening_warm",
+    "asset": "evening_warm"
   },
   "car_restriction": {
     "mode": "open"
