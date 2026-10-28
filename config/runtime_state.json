@@ -14,13 +14,6 @@
       "weather_randomness": 1,
       "summary_key": "clear"
     },
-    "hourly_2026-10-28_1400": {
-      "ambient_temp_c": 31,
-      "cloud_level": 0.19,
-      "rain_level": 0.04,
-      "weather_randomness": 3,
-      "summary_key": "clear"
-    },
     "hourly_2026-10-30_2000": {
       "ambient_temp_c": 28,
       "cloud_level": 0.04,
@@ -514,17 +507,15 @@
       "summary_key": "clear",
       "created_at": "2026-10-28T13:58:35+03:00"
     },
-    "hourly_2026-12-31_2000": {
-      "profile_id": 3,
-      "ambient_temp_c": 27,
-      "cloud_level": 0.63,
-      "rain_level": 0.26,
-      "weather_randomness": 4,
-      "summary_key": "wet",
-      "created_at": "2026-10-28T13:58:35+03:00"
+    "hourly_2026-10-28_1800": {
+      "ambient_temp_c": 31,
+      "cloud_level": 0.19,
+      "rain_level": 0.04,
+      "weather_randomness": 3,
+      "summary_key": "clear"
     }
   },
-  "updated_at": "2026-10-28T13:58:35+03:00",
+  "updated_at": "2026-10-28T14:18:32+03:00",
   "planned_game_time": {
     "hourly_2026-10-28_2000": {
       "code": "evening",
@@ -539,13 +530,6 @@
       "hour_of_day": 9,
       "asset_id": "morning_soft",
       "asset": "morning_soft"
-    },
-    "hourly_2026-10-28_1400": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 19,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
     },
     "hourly_2026-10-30_2000": {
       "code": "day",
@@ -1123,22 +1107,17 @@
       "asset_label_ru": "Ясный день",
       "created_at": "2026-10-28T13:58:35+03:00"
     },
-    "hourly_2026-12-31_2000": {
-      "profile_id": "evening",
+    "hourly_2026-10-28_1800": {
       "code": "evening",
       "label": "Evening",
-      "label_ru": "Вечер",
-      "hour_of_day": 18,
+      "hour_of_day": 19,
       "asset_id": "evening_warm",
-      "asset": "evening_warm",
-      "asset_label": "Warm Sunset",
-      "asset_label_ru": "Тёплый закат",
-      "created_at": "2026-10-28T13:58:35+03:00"
+      "asset": "evening_warm"
     }
   },
   "last_track_code": "monza",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
-  "active_event_id": "hourly_2026-10-28_1400",
+  "active_event_id": null,
   "last_planned_start_local": "2026-10-28T14:00:00+03:00",
   "last_planned_weather": {
     "profile_id": null,
@@ -1148,48 +1127,7 @@
     "weather_randomness": 3,
     "summary_key": "clear"
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-10-28_1400",
-    "occurrence_id": "hourly_2026-10-28_1400",
-    "slot": {
-      "event_id": "hourly_2026-10-28_1400",
-      "occurrence_id": "hourly_2026-10-28_1400",
-      "date": "2026-10-28",
-      "start_time_local": "14:00",
-      "launch_at": "2026-10-28T13:58+03:00",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "event_type": "hourly",
-      "race_format": "hourly",
-      "competition_mode": "standalone",
-      "participation_mode": "team",
-      "team_max_drivers": 4,
-      "scoring_mode": "hourly_curve_multiplier",
-      "points_multiplier": 1.0,
-      "race_duration_minutes": 10,
-      "server_window_minutes": 40,
-      "car_restriction": {
-        "mode": "open"
-      },
-      "team_racing_manifest_sha256": "6b489f02a43c71e3200f7b888dc1f7f140c3ee9cb721d99fbb1d3d48b7c89af6"
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 31,
-      "cloud_level": 0.19,
-      "rain_level": 0.04,
-      "weather_randomness": 3,
-      "summary_key": "clear"
-    },
-    "updated_at": "2026-10-28T13:58:02+03:00",
-    "game_time": {
-      "code": "evening",
-      "label": "Evening",
-      "hour_of_day": 19,
-      "asset_id": "evening_warm",
-      "asset": "evening_warm"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-10-28_1400",
     "occurrence_id": "hourly_2026-10-28_1400",
@@ -1232,8 +1170,8 @@
       "asset": "evening_warm"
     }
   },
-  "last_status": "publishing",
-  "last_error": "Missing result files: Q, R",
+  "last_status": "completed",
+  "last_error": null,
   "last_planned_game_time": {
     "code": "evening",
     "label": "Evening",
@@ -1241,7 +1179,7 @@
     "asset_id": "evening_warm",
     "asset": "evening_warm"
   },
-  "orchestrator_pid": 1340,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-10-28T13:58:02+03:00",
   "launch_mode": "auto",
   "run_mode": "normal",
@@ -8565,8 +8503,8 @@
     }
   },
   "last_championship_result_files": [],
-  "last_completed_event_id": "hourly_2026-10-27_2000",
-  "last_completion_at": "2026-10-27T21:30:17+03:00",
+  "last_completed_event_id": "hourly_2026-10-28_1400",
+  "last_completion_at": "2026-10-28T13:58:41+03:00",
   "entrylist_override": {
     "active": false,
     "event_id": "hourly_2026-10-18_2000",
