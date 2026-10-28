@@ -16,6 +16,8 @@
       "game_time_code": "evening",
       "game_time_label": "Evening",
       "game_time_asset": "evening_warm",
+      "participation_mode": "team",
+      "team_max_drivers": 4,
       "car_restriction": {
         "mode": "open"
       },
@@ -44,7 +46,7 @@
       "timezone": "UTC+3",
       "weekday": "wednesday",
       "month": "2026-10",
-      "voting_disabled": false,
+      "voting_disabled": true,
       "source_occurrence_id": "hourly_2026-10-28_1400",
       "weather": {
         "profile_id": null,
@@ -66,11 +68,12 @@
       "game_time_hour": 19,
       "game_time_label_ru": null,
       "game_time_asset_id": "evening_warm",
-      "participation_mode": "individual",
       "scoring_mode": "hourly_curve_multiplier",
+      "team_min_drivers": 1,
       "session_overtime_seconds": 600,
       "launch_at_local": "2026-10-28 13:58",
       "launch_at": "2026-10-28T13:58+03:00",
+      "registration_closes_at": "2026-10-28T13:48+03:00",
       "server_window_end_at": "2026-10-28T14:38+03:00",
       "event_id": "hourly_2026-10-28_1400",
       "schedule_conflicts": [],
@@ -105,7 +108,7 @@
         "mandatory_pitstop_swap_driver_required": false,
         "driver_stint_time_minutes": null,
         "max_total_driving_time_minutes": null,
-        "max_drivers_count": 1,
+        "max_drivers_count": 4,
         "tyre_set_count": 50,
         "car_model": {
           "mode": "open"
@@ -6987,5 +6990,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-28T11:53:23+03:00"
+  "updated_at": "2026-10-28T13:13:12+03:00"
 }

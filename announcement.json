@@ -16,12 +16,12 @@
   "event_type": "hourly",
   "race_format": "hourly",
   "competition_mode": "standalone",
-  "participation_mode": "individual",
-  "team_max_drivers": null,
-  "registration_closes_at": null,
+  "participation_mode": "team",
+  "team_max_drivers": 4,
+  "registration_closes_at": "2026-10-28T13:48+03:00",
   "points_multiplier": 1.0,
   "scoring_mode": "hourly_curve_multiplier",
-  "voting_disabled": false,
+  "voting_disabled": true,
   "badge_label": null,
   "championship_slug": "october-2026",
   "championship_title": "ASG Racing October 2026",
@@ -32,7 +32,7 @@
     "period": "2026-10",
     "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-10-28T11:53:23+03:00",
+  "updated_at": "2026-10-28T13:13:12+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -64,7 +64,7 @@
     "mandatory_pitstop_swap_driver_required": false,
     "driver_stint_time_minutes": null,
     "max_total_driving_time_minutes": null,
-    "max_drivers_count": 1,
+    "max_drivers_count": 4,
     "tyre_set_count": 50,
     "car_model": {
       "mode": "open"
