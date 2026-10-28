@@ -1,0 +1,161 @@
+{
+  "event_id": "hourly_2026-10-28_1527_monza",
+  "race_id": "261028_152712_R.json",
+  "source_file": "261028_152712_R.json",
+  "details_path": "races/hourly_2026-10-28_1527_monza.json",
+  "date": "2026-10-28",
+  "finished_at": "2026-10-28T15:27:12+03:00",
+  "finished_at_local": "2026-10-28 15:27",
+  "track": "monza",
+  "track_code": "monza",
+  "track_name": "Monza",
+  "session_type": "R",
+  "server_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
+  "meta_data": "monza",
+  "participants_count": 2,
+  "scoring_participants_count": 2,
+  "points_multiplier": 1.0,
+  "points_rule": "hourly_curve_multiplier",
+  "race_format": "hourly",
+  "competition_mode": "standalone",
+  "winner": "ASG Racing FORD POWER",
+  "winner_public_id": null,
+  "best_lap": "1:52.845",
+  "best_lap_driver": "Kosso Filippo[ASG]",
+  "best_lap_public_id": "drv_964ce73ba40a",
+  "status": "finished",
+  "results": [],
+  "total_penalties": 1,
+  "weather": {
+    "profile_id": null,
+    "ambient_temp_c": 31,
+    "cloud_level": 0.19,
+    "rain_level": 0.04,
+    "weather_randomness": 3,
+    "summary_key": "clear"
+  },
+  "game_time": {
+    "code": "evening",
+    "label": "Evening",
+    "hour_of_day": 19,
+    "asset_id": "evening_warm",
+    "asset": "evening_warm"
+  },
+  "slot": {
+    "event_id": "hourly_2026-10-28_1800",
+    "occurrence_id": "hourly_2026-10-28_1800",
+    "date": "2026-10-28",
+    "start_time_local": "15:10",
+    "launch_at": "2026-10-28T15:08+03:00",
+    "track_code": "monza",
+    "track_name": "Monza",
+    "event_type": "hourly",
+    "race_format": "hourly",
+    "competition_mode": "standalone",
+    "participation_mode": "team",
+    "team_racing_manifest_sha256": "b3e646830dcc00e9db9392d440c3a572f44b64c54b911463f1e00645e5069c82",
+    "scoring_mode": "hourly_curve_multiplier",
+    "points_multiplier": 1.0,
+    "car_restriction": {
+      "mode": "open"
+    },
+    "server_window_minutes": 40,
+    "status": "scheduled"
+  },
+  "scheduled_event_id": "hourly_2026-10-28_1800",
+  "participation_mode": "team",
+  "occurrence_id": "hourly_2026-10-28_1800",
+  "team_results": [
+    {
+      "registration_id": "tr_b3105708dfda4301b76593a169a67087",
+      "team_id": "tm_76c6de0b5fe249d293f0adc49d056d92",
+      "team_name": "ASG Racing FORD POWER",
+      "club_id": "clb_47cfb7b7ad14408f8f352df4df9c6854",
+      "position": 1,
+      "race_number": 33,
+      "car_id": 1001,
+      "car_model": 36,
+      "lap_count": 5,
+      "total_time_ms": 691614,
+      "best_lap_ms": 112845,
+      "status": "classified",
+      "points": 3,
+      "had_best_lap": true,
+      "drivers": [
+        {
+          "public_id": "drv_964ce73ba40a",
+          "driver_index": 0,
+          "lap_count": 2,
+          "participated": true,
+          "acc_driving_time": 255108.875,
+          "best_lap_ms": null,
+          "drove_best_lap": false,
+          "display_name": "Kosso Filippo[ASG]"
+        },
+        {
+          "public_id": "drv_180cf5cae8ff",
+          "driver_index": 1,
+          "lap_count": 3,
+          "participated": true,
+          "acc_driving_time": 358342.5,
+          "best_lap_ms": 112845,
+          "drove_best_lap": true,
+          "display_name": "Arsenii Kapustin [ASG]"
+        }
+      ],
+      "penalties": [],
+      "car_model_id": 36,
+      "car_name_raw": "Ford Mustang GT3",
+      "car_name": "Ford Mustang GT3",
+      "best_lap": "1:52.845"
+    },
+    {
+      "registration_id": "tr_b7438e82df7c4dfd9c9d6e85576e5525",
+      "team_id": "tm_79019f3a1d2347b0bff57a4e94258fd1",
+      "team_name": "Who is that?",
+      "club_id": "clb_61cef06f0c65465aaba435cf9f9710d2",
+      "position": 2,
+      "race_number": 847,
+      "car_id": 1002,
+      "car_model": 24,
+      "lap_count": 5,
+      "total_time_ms": 751920,
+      "best_lap_ms": 2147483647,
+      "status": "classified",
+      "points": 2,
+      "had_best_lap": false,
+      "drivers": [
+        {
+          "public_id": "drv_4d46856d85e4",
+          "driver_index": 0,
+          "lap_count": 5,
+          "participated": true,
+          "acc_driving_time": 662432.5,
+          "best_lap_ms": null,
+          "drove_best_lap": false,
+          "display_name": "Ilya Ivanik"
+        }
+      ],
+      "penalties": [
+        {
+          "driver_public_id": "drv_4d46856d85e4",
+          "reason": "Cutting",
+          "penalty": "StopAndGo_20",
+          "penalty_value": 3
+        },
+        {
+          "driver_public_id": "drv_4d46856d85e4",
+          "reason": "Cutting",
+          "penalty": "PostRaceTime",
+          "penalty_value": 50
+        }
+      ],
+      "car_model_id": 24,
+      "car_name_raw": "Ferrari 488 GT3 Evo 2020",
+      "car_name": "Ferrari 488 GT3 Evo",
+      "best_lap": null
+    }
+  ],
+  "winner_team": "ASG Racing FORD POWER",
+  "winner_team_id": "tm_76c6de0b5fe249d293f0adc49d056d92"
+}

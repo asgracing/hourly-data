@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-28_1527_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-10-28T15:27:12+03:00",
+      "finished_at_local": "2026-10-28 15:27",
+      "participants_count": 2,
+      "scoring_participants_count": 2,
+      "points_multiplier": 1.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "ASG Racing FORD POWER",
+      "participation_mode": "team",
+      "winner_team": "ASG Racing FORD POWER",
+      "winner_team_id": "tm_76c6de0b5fe249d293f0adc49d056d92",
+      "winner_public_id": null,
+      "best_lap": "1:52.845",
+      "best_lap_driver": "Kosso Filippo[ASG]",
+      "best_lap_public_id": "drv_964ce73ba40a",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-28_1527_monza.json",
+      "results_repo_path": "261028_152712_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.19,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_warm",
+        "asset": "evening_warm"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-27_2129_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -424,46 +463,7 @@
         "asset_id": "evening_gold",
         "asset": "evening_gold"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-16_2129_imola",
-      "title": "Hourly Race",
-      "track": "imola",
-      "track_code": "imola",
-      "track_name": "Imola",
-      "finished_at": "2026-10-16T21:29:20+03:00",
-      "finished_at_local": "2026-10-16 21:29",
-      "participants_count": 22,
-      "scoring_participants_count": 22,
-      "points_multiplier": 1,
-      "points_rule": "scaled_top10_by_classified_plus_best_lap",
-      "winner": "Aleksey Mihin",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "1:41.877",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-16_2129_imola.json",
-      "results_repo_path": "261016_212920_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.14,
-        "rain_level": 0.04,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "day",
-        "label": "Day",
-        "hour_of_day": 11,
-        "asset_id": "day_clear",
-        "asset": "day_clear"
-      }
     }
   ],
-  "updated_at": "2026-10-28T14:45:12+03:00"
+  "updated_at": "2026-10-28T15:28:03+03:00"
 }
