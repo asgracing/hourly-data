@@ -2,7 +2,7 @@
   "items": [
     {
       "date": "2026-10-28",
-      "start_time_local": "16:00",
+      "start_time_local": "15:10",
       "target_occurrence_id": "hourly_2026-10-28_1800",
       "occurrence_id": "hourly_2026-10-28_1800",
       "source_start_time_local": "18:00",
@@ -71,10 +71,10 @@
       "scoring_mode": "hourly_curve_multiplier",
       "team_min_drivers": 1,
       "session_overtime_seconds": 600,
-      "launch_at_local": "2026-10-28 15:58",
-      "launch_at": "2026-10-28T15:58+03:00",
-      "registration_closes_at": "2026-10-28T15:48+03:00",
-      "server_window_end_at": "2026-10-28T16:38+03:00",
+      "launch_at_local": "2026-10-28 15:08",
+      "launch_at": "2026-10-28T15:08+03:00",
+      "registration_closes_at": "2026-10-28T14:58+03:00",
+      "server_window_end_at": "2026-10-28T15:48+03:00",
       "event_id": "hourly_2026-10-28_1800",
       "schedule_conflicts": [],
       "server": {
@@ -6990,5 +6990,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-28T14:18:32+03:00"
+  "updated_at": "2026-10-28T14:45:09+03:00"
 }
