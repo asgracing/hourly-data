@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-10-28_2129_paul_ricard",
+      "title": "Hourly Race",
+      "track": "paul_ricard",
+      "track_code": "paul_ricard",
+      "track_name": "Paul Ricard",
+      "finished_at": "2026-10-28T21:29:12+03:00",
+      "finished_at_local": "2026-10-28 21:29",
+      "participants_count": 20,
+      "scoring_participants_count": 17,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Victor Rovenko",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_de8a222e2e87",
+      "best_lap": "1:53.490",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-10-28_2129_paul_ricard.json",
+      "results_repo_path": "261028_212912_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 31,
+        "cloud_level": 0.19,
+        "rain_level": 0.04,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_warm",
+        "asset": "evening_warm"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-28_1527_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -424,46 +463,7 @@
         "asset_id": "day_neutral",
         "asset": "day_neutral"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-17_2228_silverstone",
-      "title": "Hourly Race",
-      "track": "silverstone",
-      "track_code": "silverstone",
-      "track_name": "Silverstone",
-      "finished_at": "2026-10-17T22:28:37+03:00",
-      "finished_at_local": "2026-10-17 22:28",
-      "participants_count": 16,
-      "scoring_participants_count": 11,
-      "points_multiplier": 10.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Aleksey Mihin",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_f46727fa9e5b",
-      "best_lap": "1:58.742",
-      "best_lap_driver": "Aleksey Mihin",
-      "best_lap_public_id": "drv_f46727fa9e5b",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-17_2228_silverstone.json",
-      "results_repo_path": "261017_222837_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.19,
-        "rain_level": 0.02,
-        "weather_randomness": 2,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 16,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      }
     }
   ],
-  "updated_at": "2026-10-28T15:28:03+03:00"
+  "updated_at": "2026-10-28T21:29:58+03:00"
 }

@@ -90,7 +90,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 30,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -207,7 +207,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 30,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -324,7 +324,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 30,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -441,7 +441,7 @@
         "password": "ghbdtn",
         "car_group": "GT3",
         "max_car_slots": 85,
-        "safety_rating_requirement": 30,
+        "safety_rating_requirement": 50,
         "track_medals_requirement": false,
         "racecraft_rating_requirement": -1,
         "is_race_locked": false
@@ -482,5 +482,5 @@
   "results_top3": [],
   "standings": [],
   "races": [],
-  "updated_at": "2026-10-28T15:28:04+03:00"
+  "updated_at": "2026-10-28T21:29:59+03:00"
 }
