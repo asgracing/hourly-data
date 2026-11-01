@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-11-01_2154_nurburgring_24h",
+      "title": "Hourly Race",
+      "track": "nurburgring_24h",
+      "track_code": "nurburgring_24h",
+      "track_name": "Nurburgring 24H",
+      "finished_at": "2026-11-01T21:54:24+03:00",
+      "finished_at_local": "2026-11-01 21:54",
+      "participants_count": 24,
+      "scoring_participants_count": 19,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "8:09.107",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-11-01_2154_nurburgring_24h.json",
+      "results_repo_path": "261101_215424_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 23,
+        "cloud_level": 0.37,
+        "rain_level": 0.11,
+        "weather_randomness": 5,
+        "summary_key": "mixed"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 19,
+        "asset_id": "evening_warm",
+        "asset": "evening_warm"
+      }
+    },
+    {
       "event_id": "hourly_2026-10-31_2229_red_bull_ring",
       "title": "Hourly Race",
       "track": "red_bull_ring",
@@ -424,46 +463,7 @@
         "asset_id": "evening_gold",
         "asset": "evening_gold"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-21_2128_kyalami",
-      "title": "Hourly Race",
-      "track": "kyalami",
-      "track_code": "kyalami",
-      "track_name": "Kyalami",
-      "finished_at": "2026-10-21T21:28:25+03:00",
-      "finished_at_local": "2026-10-21 21:28",
-      "participants_count": 25,
-      "scoring_participants_count": 22,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Ilya Ivanik",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_4d46856d85e4",
-      "best_lap": "1:40.470",
-      "best_lap_driver": "Sergei Sotskov",
-      "best_lap_public_id": "drv_0d7087b67346",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-21_2128_kyalami.json",
-      "results_repo_path": "261021_212825_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.13,
-        "rain_level": 0.02,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 8,
-        "asset_id": "morning_clear",
-        "asset": "morning_clear"
-      }
     }
   ],
-  "updated_at": "2026-10-31T22:30:06+03:00"
+  "updated_at": "2026-11-01T21:55:08+03:00"
 }
