@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-11-02_2127_barcelona",
+      "title": "Hourly Race",
+      "track": "barcelona",
+      "track_code": "barcelona",
+      "track_name": "Barcelona",
+      "finished_at": "2026-11-02T21:27:11+03:00",
+      "finished_at_local": "2026-11-02 21:27",
+      "participants_count": 25,
+      "scoring_participants_count": 22,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Stanislav Kartavykh",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_7c54878f4df5",
+      "best_lap": "1:43.825",
+      "best_lap_driver": "Stanislav Kartavykh",
+      "best_lap_public_id": "drv_7c54878f4df5",
+      "status": "finished",
+      "details_path": "races/hourly_2026-11-02_2127_barcelona.json",
+      "results_repo_path": "261102_212711_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 30,
+        "cloud_level": 0.27,
+        "rain_level": 0.07,
+        "weather_randomness": 3,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 15,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-11-01_2154_nurburgring_24h",
       "title": "Hourly Race",
       "track": "nurburgring_24h",
@@ -424,46 +463,7 @@
         "asset_id": "evening_warm",
         "asset": "evening_warm"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-22_2212_monza",
-      "title": "Hourly Race",
-      "track": "monza",
-      "track_code": "monza",
-      "track_name": "Monza",
-      "finished_at": "2026-10-22T22:12:11+03:00",
-      "finished_at_local": "2026-10-22 22:12",
-      "participants_count": 20,
-      "scoring_participants_count": 15,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Temer Lakerino [ASG]",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_9afd0424ded9",
-      "best_lap": "1:52.985",
-      "best_lap_driver": "Temer Lakerino [ASG]",
-      "best_lap_public_id": "drv_9afd0424ded9",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-22_2212_monza.json",
-      "results_repo_path": "261022_221211_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 28,
-        "cloud_level": 0.68,
-        "rain_level": 0.15,
-        "weather_randomness": 5,
-        "summary_key": "cloudy"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 19,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      }
     }
   ],
-  "updated_at": "2026-11-01T21:55:08+03:00"
+  "updated_at": "2026-11-02T21:27:55+03:00"
 }
