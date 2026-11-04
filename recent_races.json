@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-11-04_2130_silverstone",
+      "title": "Hourly Race",
+      "track": "silverstone",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
+      "finished_at": "2026-11-04T21:30:37+03:00",
+      "finished_at_local": "2026-11-04 21:30",
+      "participants_count": 25,
+      "scoring_participants_count": 20,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Ivanik",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_4d46856d85e4",
+      "best_lap": "1:58.260",
+      "best_lap_driver": "Victor Rovenko",
+      "best_lap_public_id": "drv_de8a222e2e87",
+      "status": "finished",
+      "details_path": "races/hourly_2026-11-04_2130_silverstone.json",
+      "results_repo_path": "261104_213037_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 22,
+        "cloud_level": 0.07,
+        "rain_level": 0.01,
+        "weather_randomness": 2,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "day",
+        "label": "Day",
+        "hour_of_day": 14,
+        "asset_id": "day_clear",
+        "asset": "day_clear"
+      }
+    },
+    {
       "event_id": "hourly_2026-11-03_2141_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -428,42 +467,7 @@
         "asset_id": "morning_clear",
         "asset": "morning_clear"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-24_2236_spa",
-      "title": "Hourly Race",
-      "track": "spa",
-      "track_code": "spa",
-      "track_name": "Spa",
-      "finished_at": "2026-10-24T22:36:47+03:00",
-      "finished_at_local": "2026-10-24 22:36",
-      "participants_count": 40,
-      "scoring_participants_count": 37,
-      "points_multiplier": 10.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Stanislav Kartavykh",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_7c54878f4df5",
-      "best_lap": "2:16.807",
-      "best_lap_driver": "Stanislav Kartavykh",
-      "best_lap_public_id": "drv_7c54878f4df5",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-24_2236_spa.json",
-      "results_repo_path": "261024_223647_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 24,
-        "cloud_level": 0.14,
-        "rain_level": 0.03,
-        "weather_randomness": 3,
-        "summary_key": "clear"
-      },
-      "game_time": {
-        "hour_of_day": 16
-      }
     }
   ],
-  "updated_at": "2026-11-03T21:41:45+03:00"
+  "updated_at": "2026-11-04T21:31:27+03:00"
 }
