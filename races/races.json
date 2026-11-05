@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-11-05_2132_monza",
+      "title": "Hourly Race",
+      "track": "monza",
+      "track_code": "monza",
+      "track_name": "Monza",
+      "finished_at": "2026-11-05T21:32:21+03:00",
+      "finished_at_local": "2026-11-05 21:32",
+      "participants_count": 37,
+      "scoring_participants_count": 32,
+      "points_multiplier": 5.0,
+      "points_rule": "hourly_curve_multiplier",
+      "winner": "Ilya Kosmach [ASG]",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_c98693ccbce8",
+      "best_lap": "1:46.812",
+      "best_lap_driver": "Ilya Kosmach [ASG]",
+      "best_lap_public_id": "drv_c98693ccbce8",
+      "status": "finished",
+      "details_path": "races/hourly_2026-11-05_2132_monza.json",
+      "results_repo_path": "261105_213221_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 24,
+        "cloud_level": 0.16,
+        "rain_level": 0.05,
+        "weather_randomness": 1,
+        "summary_key": "clear"
+      },
+      "game_time": {
+        "code": "evening",
+        "label": "Evening",
+        "hour_of_day": 17,
+        "asset_id": "evening_warm",
+        "asset": "evening_warm"
+      }
+    },
+    {
       "event_id": "hourly_2026-11-04_2130_silverstone",
       "title": "Hourly Race",
       "track": "silverstone",
@@ -428,46 +467,7 @@
         "asset_id": "evening_gold",
         "asset": "evening_gold"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-25_2127_nurburgring",
-      "title": "Hourly Race",
-      "track": "nurburgring",
-      "track_code": "nurburgring",
-      "track_name": "Nurburgring",
-      "finished_at": "2026-10-25T21:27:06+03:00",
-      "finished_at_local": "2026-10-25 21:27",
-      "participants_count": 31,
-      "scoring_participants_count": 28,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Ilya Kosmach [ASG]",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_c98693ccbce8",
-      "best_lap": "1:56.452",
-      "best_lap_driver": "Ilya Kosmach [ASG]",
-      "best_lap_public_id": "drv_c98693ccbce8",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-25_2127_nurburgring.json",
-      "results_repo_path": "261025_212706_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 27,
-        "cloud_level": 0.33,
-        "rain_level": 0.13,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 8,
-        "asset_id": "morning_clear",
-        "asset": "morning_clear"
-      }
     }
   ],
-  "updated_at": "2026-11-04T21:31:27+03:00"
+  "updated_at": "2026-11-05T21:33:09+03:00"
 }
