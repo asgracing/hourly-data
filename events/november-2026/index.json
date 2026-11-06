@@ -6,124 +6,6 @@
   "description": "Ноябрьский чемпионат ASG Racing",
   "upcoming_races": [
     {
-      "date": "2026-11-06",
-      "start_time_local": "20:00",
-      "calendar_role": "championship",
-      "calendar_policy_version": 1,
-      "track_code": "silverstone",
-      "track_name": "Silverstone",
-      "calendar_source": "manual_override",
-      "event_type": "championship",
-      "competition_mode": "championship",
-      "race_format": "hourly",
-      "championship_slug": "november-2026",
-      "championship_title": "ASG Racing November 2026",
-      "participation_mode": "individual",
-      "team_max_drivers": 4,
-      "title": "ASG Racing November 2026",
-      "badge_label": "Championship Event",
-      "details_url": "/hourly/championship/?slug=november-2026",
-      "voting_disabled": true,
-      "timezone": "UTC+3",
-      "weekday": "friday",
-      "month": "2026-11",
-      "slot_label": "Evening Slot",
-      "status": "scheduled",
-      "source_occurrence_id": "championship_2026-11-06_2000_november-2026",
-      "source_start_time_local": "20:00",
-      "occurrence_id": "championship_2026-11-06_2000_november-2026",
-      "points_multiplier": 1.0,
-      "practice_duration_minutes": 60,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180,
-      "launch_lead_minutes": 60,
-      "event_rules_overrides": {
-        "mandatoryPitstopCount": 1,
-        "tyreSetCount": 50,
-        "driverStintTimeSec": -1,
-        "maxTotalDrivingTime": -1,
-        "isRefuellingAllowedInRace": true,
-        "isRefuellingTimeFixed": true,
-        "isMandatoryPitstopRefuellingRequired": true,
-        "isMandatoryPitstopTyreChangeRequired": false,
-        "pitWindowLengthSec": -1
-      },
-      "car_restriction": {
-        "mode": "open"
-      },
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 25,
-        "cloud_level": 0.64,
-        "rain_level": 0.22,
-        "weather_randomness": 6,
-        "summary_key": "wet"
-      },
-      "weather_locked": true,
-      "rain_level": 0.22,
-      "game_time": {
-        "code": "morning",
-        "label": "Morning",
-        "hour_of_day": 10,
-        "asset_id": "morning_soft",
-        "asset": "morning_soft"
-      },
-      "game_time_locked": true,
-      "hour_of_day": 10,
-      "game_time_hour": 10,
-      "game_time_code": "morning",
-      "game_time_label": "Morning",
-      "game_time_label_ru": null,
-      "game_time_asset": "morning_soft",
-      "game_time_asset_id": "morning_soft",
-      "scoring_mode": "championship_standard",
-      "qualifying_duration_minutes": 20,
-      "session_overtime_seconds": 600,
-      "launch_at_local": "2026-11-06 19:00",
-      "launch_at": "2026-11-06T19:00+03:00",
-      "server_window_end_at": "2026-11-06T22:00+03:00",
-      "event_id": "hourly_2026-11-06_2000",
-      "schedule_conflicts": [],
-      "server": {
-        "name": "ASG Racing Race",
-        "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
-        "password": "ghbdtn",
-        "car_group": "GT3",
-        "max_car_slots": 85,
-        "safety_rating_requirement": 50,
-        "track_medals_requirement": false,
-        "racecraft_rating_requirement": -1,
-        "sr_requirement": 3.3,
-        "is_race_locked": false
-      },
-      "session": {
-        "format_label": "P 60m + Q 20m + R 60m",
-        "practice_duration_minutes": 60,
-        "qualifying_duration_minutes": 20,
-        "race_duration_minutes": 60,
-        "pre_race_waiting_time_seconds": 120,
-        "session_over_time_seconds": 600,
-        "time_multiplier": 3,
-        "practice_time_multiplier": 3
-      },
-      "rules": {
-        "mandatory_pitstop_count": 1,
-        "pit_window_length_minutes": null,
-        "refuelling_allowed_in_race": true,
-        "refuelling_time_fixed": true,
-        "mandatory_pitstop_refuelling_required": true,
-        "mandatory_pitstop_tyre_change_required": false,
-        "mandatory_pitstop_swap_driver_required": false,
-        "driver_stint_time_minutes": null,
-        "max_total_driving_time_minutes": null,
-        "max_drivers_count": 1,
-        "tyre_set_count": 50,
-        "car_model": {
-          "mode": "open"
-        }
-      }
-    },
-    {
       "date": "2026-11-13",
       "start_time_local": "20:00",
       "calendar_role": "championship",
@@ -483,8 +365,344 @@
     "prize2": null,
     "prize3": null
   },
-  "results_top3": [],
-  "standings": [],
-  "races": [],
-  "updated_at": "2026-11-05T21:33:10+03:00"
+  "results_top3": [
+    {
+      "public_id": "drv_f46727fa9e5b",
+      "driver": "Aleksey Mihin",
+      "team_id": null,
+      "races": 1,
+      "wins": 1,
+      "podiums": 1,
+      "best_laps": 1,
+      "points": 16,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 16
+      },
+      "rank": 1
+    },
+    {
+      "public_id": "drv_e53bdcf65922",
+      "driver": "Alexander Chikin",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 11,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 11
+      },
+      "rank": 2
+    },
+    {
+      "public_id": "drv_c98693ccbce8",
+      "driver": "Ilya Kosmach [ASG]",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 9,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 9
+      },
+      "rank": 3
+    }
+  ],
+  "standings": [
+    {
+      "public_id": "drv_f46727fa9e5b",
+      "driver": "Aleksey Mihin",
+      "team_id": null,
+      "races": 1,
+      "wins": 1,
+      "podiums": 1,
+      "best_laps": 1,
+      "points": 16,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 16
+      },
+      "rank": 1
+    },
+    {
+      "public_id": "drv_e53bdcf65922",
+      "driver": "Alexander Chikin",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 11,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 11
+      },
+      "rank": 2
+    },
+    {
+      "public_id": "drv_c98693ccbce8",
+      "driver": "Ilya Kosmach [ASG]",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "best_laps": 0,
+      "points": 9,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 9
+      },
+      "rank": 3
+    },
+    {
+      "public_id": "drv_39c83180f26a",
+      "driver": "ALEKSEY EPIFANOV [ASG]",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 7,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 7
+      },
+      "rank": 4
+    },
+    {
+      "public_id": "drv_b94089879914",
+      "driver": "Oleg Erfurt",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 6,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 6
+      },
+      "rank": 5
+    },
+    {
+      "public_id": "drv_3a14ca3003a7",
+      "driver": "Alex Kharchenko",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 5,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 5
+      },
+      "rank": 6
+    },
+    {
+      "public_id": "drv_3a4046b70d17",
+      "driver": "Alex Pozdeev",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 3,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 3
+      },
+      "rank": 7
+    },
+    {
+      "public_id": "drv_f50e26a79324",
+      "driver": "Danil Dokukin | BOO",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 2,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 2
+      },
+      "rank": 8
+    },
+    {
+      "public_id": "drv_f32c4be853a4",
+      "driver": "Danny Khukhrev [BOO]",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 1,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 1
+      },
+      "rank": 9
+    },
+    {
+      "public_id": "drv_808694e1a4ab",
+      "driver": "Dmitriy Gusarov",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 1,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 1
+      },
+      "rank": 10
+    },
+    {
+      "public_id": "drv_44d8c551a24e",
+      "driver": "Andrew GT [ASG]",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 0
+      },
+      "rank": 11
+    },
+    {
+      "public_id": "drv_148cb7c2fad3",
+      "driver": "Daniil Holiday",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 0
+      },
+      "rank": 12
+    },
+    {
+      "public_id": "drv_a2d1fa171b24",
+      "driver": "Dark Skull",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 0
+      },
+      "rank": 13
+    },
+    {
+      "public_id": "drv_f9285d0d908a",
+      "driver": "Dmitry Vorobyev | NT | ASG",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 0
+      },
+      "rank": 14
+    },
+    {
+      "public_id": "drv_2ad817e9102a",
+      "driver": "Franz Hoffman",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 0
+      },
+      "rank": 15
+    },
+    {
+      "public_id": "drv_4d46856d85e4",
+      "driver": "Ilya Ivanik",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 0
+      },
+      "rank": 16
+    },
+    {
+      "public_id": "drv_ec25e6733dcb",
+      "driver": "Serg Konon",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 0
+      },
+      "rank": 17
+    },
+    {
+      "public_id": "drv_208a87eea0b5",
+      "driver": "Sergey Saltaev",
+      "team_id": null,
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "best_laps": 0,
+      "points": 0,
+      "race_points": {
+        "hourly_2026-11-06_2130_silverstone": 0
+      },
+      "rank": 18
+    }
+  ],
+  "races": [
+    {
+      "event_id": "hourly_2026-11-06_2130_silverstone",
+      "title": "Hourly Race",
+      "track": "silverstone",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
+      "finished_at": "2026-11-06T21:30:16+03:00",
+      "finished_at_local": "2026-11-06 21:30",
+      "participants_count": 18,
+      "scoring_participants_count": 18,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Aleksey Mihin",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "2:06.545",
+      "best_lap_driver": "Aleksey Mihin",
+      "best_lap_public_id": "drv_f46727fa9e5b",
+      "status": "finished",
+      "details_path": "races/hourly_2026-11-06_2130_silverstone.json",
+      "results_repo_path": "261106_213016_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.64,
+        "rain_level": 0.22,
+        "weather_randomness": 6,
+        "summary_key": "wet"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 10,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      }
+    }
+  ],
+  "updated_at": "2026-11-06T21:31:07+03:00"
 }

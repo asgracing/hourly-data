@@ -1,38 +1,38 @@
 {
   "title": "Часовая гонка",
   "status": "scheduled",
-  "event_id": "hourly_2026-11-06_2000",
-  "date": "2026-11-06",
-  "start_time_local": "20:00",
+  "event_id": "hourly_2026-11-07_1900",
+  "date": "2026-11-07",
+  "start_time_local": "19:00",
   "timezone": "UTC+3",
-  "track_code": "silverstone",
-  "track_name": "Silverstone",
-  "race_duration_minutes": 60,
-  "server_window": "3h",
-  "server_window_minutes": 180,
-  "launch_at": "2026-11-06T19:00+03:00",
+  "track_code": "monza",
+  "track_name": "Monza",
+  "race_duration_minutes": 120,
+  "server_window": "4h",
+  "server_window_minutes": 240,
+  "launch_at": "2026-11-07T18:00+03:00",
   "session_label": "Evening Slot",
-  "details_url": "/hourly/championship/?slug=november-2026",
-  "event_type": "championship",
-  "race_format": "hourly",
-  "competition_mode": "championship",
+  "details_url": "/hourly/",
+  "event_type": "endurance",
+  "race_format": "endurance",
+  "competition_mode": "standalone",
   "participation_mode": "individual",
   "team_max_drivers": 4,
   "registration_closes_at": null,
-  "points_multiplier": 1.0,
-  "scoring_mode": "championship_standard",
-  "voting_disabled": true,
-  "badge_label": "Championship Event",
-  "championship_slug": "november-2026",
-  "championship_title": "ASG Racing November 2026",
+  "points_multiplier": 10.0,
+  "scoring_mode": "hourly_curve_multiplier",
+  "voting_disabled": false,
+  "badge_label": null,
+  "championship_slug": "october-2026",
+  "championship_title": "ASG Racing October 2026",
   "championship": {
-    "slug": "november-2026",
-    "title": "ASG Racing November 2026",
-    "status": "scheduled",
-    "period": "2026-11",
-    "description": "Ноябрьский чемпионат ASG Racing"
+    "slug": "october-2026",
+    "title": "ASG Racing October 2026",
+    "status": "active",
+    "period": "2026-10",
+    "description": "Октябрьский чемпионат ASG Racing"
   },
-  "updated_at": "2026-11-05T21:32:56+03:00",
+  "updated_at": "2026-11-06T21:30:51+03:00",
   "server": {
     "name": "ASG Racing Race",
     "full_name": "ASG Racing Race, пароль 'привет' на англ раскладке - www.asgracing.ru - https://discord.gg/cEPFHXXtTC",
@@ -46,21 +46,21 @@
     "is_race_locked": false
   },
   "session": {
-    "format_label": "P 60m + Q 20m + R 60m",
-    "practice_duration_minutes": 60,
+    "format_label": "P 10m + Q 20m + R 120m",
+    "practice_duration_minutes": 10,
     "qualifying_duration_minutes": 20,
-    "race_duration_minutes": 60,
-    "pre_race_waiting_time_seconds": 120,
+    "race_duration_minutes": 120,
+    "pre_race_waiting_time_seconds": 80,
     "session_over_time_seconds": 600,
     "time_multiplier": 3,
     "practice_time_multiplier": 3
   },
   "rules": {
-    "mandatory_pitstop_count": 1,
+    "mandatory_pitstop_count": 2,
     "pit_window_length_minutes": null,
     "refuelling_allowed_in_race": true,
-    "refuelling_time_fixed": true,
-    "mandatory_pitstop_refuelling_required": true,
+    "refuelling_time_fixed": false,
+    "mandatory_pitstop_refuelling_required": false,
     "mandatory_pitstop_tyre_change_required": false,
     "mandatory_pitstop_swap_driver_required": false,
     "driver_stint_time_minutes": null,
@@ -68,25 +68,25 @@
     "max_drivers_count": 1,
     "tyre_set_count": 50,
     "car_model": {
-      "mode": "open"
+      "mode": "single_model",
+      "car_model_id": 16,
+      "car_model_name": "Lamborghini Huracan Evo (2019)"
     }
   },
   "weather": {
     "profile_id": null,
-    "ambient_temp_c": 25,
-    "cloud_level": 0.64,
-    "rain_level": 0.22,
-    "weather_randomness": 6,
-    "summary_key": "wet"
+    "ambient_temp_c": 24,
+    "cloud_level": 0.23,
+    "rain_level": 0.06,
+    "weather_randomness": 4,
+    "summary_key": "clear"
   },
   "game_time": {
-    "code": "morning",
-    "label": "Morning",
-    "hour_of_day": 10,
-    "asset_id": "morning_soft",
-    "asset": "morning_soft"
+    "hour_of_day": 17
   },
   "car_restriction": {
-    "mode": "open"
+    "mode": "single_model",
+    "car_model_id": 16,
+    "car_model_name": "Lamborghini Huracan Evo (2019)"
   }
 }

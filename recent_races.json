@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "event_id": "hourly_2026-11-06_2130_silverstone",
+      "title": "Hourly Race",
+      "track": "silverstone",
+      "track_code": "silverstone",
+      "track_name": "Silverstone",
+      "finished_at": "2026-11-06T21:30:16+03:00",
+      "finished_at_local": "2026-11-06 21:30",
+      "participants_count": 18,
+      "scoring_participants_count": 18,
+      "points_multiplier": 1,
+      "points_rule": "scaled_top10_by_classified_plus_best_lap",
+      "winner": "Aleksey Mihin",
+      "participation_mode": "individual",
+      "winner_team": null,
+      "winner_team_id": null,
+      "winner_public_id": "drv_f46727fa9e5b",
+      "best_lap": "2:06.545",
+      "best_lap_driver": "Aleksey Mihin",
+      "best_lap_public_id": "drv_f46727fa9e5b",
+      "status": "finished",
+      "details_path": "races/hourly_2026-11-06_2130_silverstone.json",
+      "results_repo_path": "261106_213016_R.json",
+      "weather": {
+        "profile_id": null,
+        "ambient_temp_c": 25,
+        "cloud_level": 0.64,
+        "rain_level": 0.22,
+        "weather_randomness": 6,
+        "summary_key": "wet"
+      },
+      "game_time": {
+        "code": "morning",
+        "label": "Morning",
+        "hour_of_day": 10,
+        "asset_id": "morning_soft",
+        "asset": "morning_soft"
+      }
+    },
+    {
       "event_id": "hourly_2026-11-05_2132_monza",
       "title": "Hourly Race",
       "track": "monza",
@@ -428,46 +467,7 @@
         "asset_id": "morning_soft",
         "asset": "morning_soft"
       }
-    },
-    {
-      "event_id": "hourly_2026-10-26_2133_mount_panorama",
-      "title": "Hourly Race",
-      "track": "mount_panorama",
-      "track_code": "mount_panorama",
-      "track_name": "Mount Panorama",
-      "finished_at": "2026-10-26T21:33:26+03:00",
-      "finished_at_local": "2026-10-26 21:33",
-      "participants_count": 15,
-      "scoring_participants_count": 11,
-      "points_multiplier": 5.0,
-      "points_rule": "hourly_curve_multiplier",
-      "winner": "Dan Terehov ]DBT[",
-      "participation_mode": "individual",
-      "winner_team": null,
-      "winner_team_id": null,
-      "winner_public_id": "drv_fb33a4bc4917",
-      "best_lap": "2:03.882",
-      "best_lap_driver": "Saveliy Usatov",
-      "best_lap_public_id": "drv_2352d9041299",
-      "status": "finished",
-      "details_path": "races/hourly_2026-10-26_2133_mount_panorama.json",
-      "results_repo_path": "261026_213326_R.json",
-      "weather": {
-        "profile_id": null,
-        "ambient_temp_c": 31,
-        "cloud_level": 0.42,
-        "rain_level": 0.1,
-        "weather_randomness": 3,
-        "summary_key": "mixed"
-      },
-      "game_time": {
-        "code": "evening",
-        "label": "Evening",
-        "hour_of_day": 17,
-        "asset_id": "evening_gold",
-        "asset": "evening_gold"
-      }
     }
   ],
-  "updated_at": "2026-11-05T21:33:09+03:00"
+  "updated_at": "2026-11-06T21:31:06+03:00"
 }
