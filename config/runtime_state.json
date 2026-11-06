@@ -1,12 +1,5 @@
 {
   "planned_weather": {
-    "hourly_2026-11-06_2000": {
-      "ambient_temp_c": 25,
-      "cloud_level": 0.64,
-      "rain_level": 0.22,
-      "weather_randomness": 6,
-      "summary_key": "wet"
-    },
     "hourly_2026-11-07_1900": {
       "ambient_temp_c": 24,
       "cloud_level": 0.23,
@@ -722,26 +715,10 @@
       "weather_randomness": 2,
       "summary_key": "clear",
       "created_at": "2026-11-06T21:30:51+03:00"
-    },
-    "hourly_2027-02-01_2000": {
-      "profile_id": 1,
-      "ambient_temp_c": 26,
-      "cloud_level": 0.1,
-      "rain_level": 0.02,
-      "weather_randomness": 2,
-      "summary_key": "clear",
-      "created_at": "2026-11-06T21:30:51+03:00"
     }
   },
-  "updated_at": "2026-11-06T21:30:51+03:00",
+  "updated_at": "2026-11-07T00:32:02+03:00",
   "planned_game_time": {
-    "hourly_2026-11-06_2000": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 10,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft"
-    },
     "hourly_2026-11-07_1900": {
       "hour_of_day": 17
     },
@@ -1620,23 +1597,11 @@
       "asset_label": "Cool Night",
       "asset_label_ru": "Прохладная ночь",
       "created_at": "2026-11-06T21:30:51+03:00"
-    },
-    "hourly_2027-02-01_2000": {
-      "profile_id": "day",
-      "code": "day",
-      "label": "Day",
-      "label_ru": "День",
-      "hour_of_day": 15,
-      "asset_id": "day_clear",
-      "asset": "day_clear",
-      "asset_label": "Clear Day",
-      "asset_label_ru": "Ясный день",
-      "created_at": "2026-11-06T21:30:51+03:00"
     }
   },
   "last_track_code": "silverstone",
   "last_event_config_path": "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\cfg\\event.json",
-  "active_event_id": "hourly_2026-11-06_2000",
+  "active_event_id": null,
   "last_planned_start_local": "2026-11-06T20:00:00+03:00",
   "last_planned_weather": {
     "profile_id": null,
@@ -1646,50 +1611,7 @@
     "weather_randomness": 6,
     "summary_key": "wet"
   },
-  "active_event_metadata": {
-    "event_id": "hourly_2026-11-06_2000",
-    "occurrence_id": "championship_2026-11-06_2000_november-2026",
-    "slot": {
-      "event_id": "hourly_2026-11-06_2000",
-      "occurrence_id": "championship_2026-11-06_2000_november-2026",
-      "date": "2026-11-06",
-      "start_time_local": "20:00",
-      "launch_at": "2026-11-06T19:00+03:00",
-      "track_code": "silverstone",
-      "track_name": "Silverstone",
-      "event_type": "championship",
-      "race_format": "hourly",
-      "competition_mode": "championship",
-      "participation_mode": "individual",
-      "team_max_drivers": 4,
-      "scoring_mode": "championship_standard",
-      "points_multiplier": 1.0,
-      "race_duration_minutes": 60,
-      "server_window_minutes": 180,
-      "championship_slug": "november-2026",
-      "title": "ASG Racing November 2026",
-      "badge_label": "Championship Event",
-      "car_restriction": {
-        "mode": "open"
-      }
-    },
-    "weather": {
-      "profile_id": null,
-      "ambient_temp_c": 25,
-      "cloud_level": 0.64,
-      "rain_level": 0.22,
-      "weather_randomness": 6,
-      "summary_key": "wet"
-    },
-    "updated_at": "2026-11-06T19:00:03+03:00",
-    "game_time": {
-      "code": "morning",
-      "label": "Morning",
-      "hour_of_day": 10,
-      "asset_id": "morning_soft",
-      "asset": "morning_soft"
-    }
-  },
+  "active_event_metadata": null,
   "last_event_metadata": {
     "event_id": "hourly_2026-11-06_2000",
     "occurrence_id": "championship_2026-11-06_2000_november-2026",
@@ -1734,7 +1656,7 @@
       "asset": "morning_soft"
     }
   },
-  "last_status": "publishing",
+  "last_status": "completed",
   "last_error": null,
   "last_planned_game_time": {
     "code": "morning",
@@ -1743,7 +1665,7 @@
     "asset_id": "morning_soft",
     "asset": "morning_soft"
   },
-  "orchestrator_pid": 18276,
+  "orchestrator_pid": null,
   "orchestrator_started_at": "2026-11-06T19:00:03+03:00",
   "launch_mode": "auto",
   "run_mode": "normal",
@@ -10879,8 +10801,8 @@
     "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\november-2026\\261106_202538_Q.json",
     "C:\\Assetto Corsa Competizione Dedicated Server Race\\server\\results_champ\\november-2026\\261106_213016_R.json"
   ],
-  "last_completed_event_id": "hourly_2026-11-05_2000",
-  "last_completion_at": "2026-11-05T21:33:14+03:00",
+  "last_completed_event_id": "hourly_2026-11-06_2000",
+  "last_completion_at": "2026-11-06T21:31:12+03:00",
   "entrylist_override": {
     "active": false,
     "event_id": "hourly_2026-10-18_2000",

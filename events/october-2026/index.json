@@ -1,7 +1,7 @@
 {
   "slug": "october-2026",
   "title": "ASG Racing October 2026",
-  "status": "active",
+  "status": "finished",
   "period": "2026-10",
   "description": "Октябрьский чемпионат ASG Racing",
   "upcoming_races": [],
@@ -1387,5 +1387,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-06T21:31:07+03:00"
+  "updated_at": "2026-11-07T00:32:06+03:00"
 }

@@ -1,15 +1,79 @@
 {
   "items": [
     {
+      "slug": "november-2026",
+      "title": "ASG Racing November 2026",
+      "status": "active",
+      "period": "2026-11",
+      "description": "Ноябрьский чемпионат ASG Racing",
+      "description_ru": "",
+      "description_en": "",
+      "description_i18n": null,
+      "updated_at": "2026-11-07T00:32:06+03:00",
+      "race_count": 1,
+      "driver_count": 18,
+      "winner": {
+        "driver": "Aleksey Mihin",
+        "public_id": "drv_f46727fa9e5b",
+        "points": 16
+      },
+      "results_top3": [
+        {
+          "public_id": "drv_f46727fa9e5b",
+          "driver": "Aleksey Mihin",
+          "team_id": null,
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "best_laps": 1,
+          "points": 16,
+          "race_points": {
+            "hourly_2026-11-06_2130_silverstone": 16
+          },
+          "rank": 1
+        },
+        {
+          "public_id": "drv_e53bdcf65922",
+          "driver": "Alexander Chikin",
+          "team_id": null,
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "best_laps": 0,
+          "points": 11,
+          "race_points": {
+            "hourly_2026-11-06_2130_silverstone": 11
+          },
+          "rank": 2
+        },
+        {
+          "public_id": "drv_c98693ccbce8",
+          "driver": "Ilya Kosmach [ASG]",
+          "team_id": null,
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "best_laps": 0,
+          "points": 9,
+          "race_points": {
+            "hourly_2026-11-06_2130_silverstone": 9
+          },
+          "rank": 3
+        }
+      ],
+      "details_url": "/hourly/championship/?slug=november-2026",
+      "cover_track": "silverstone"
+    },
+    {
       "slug": "october-2026",
       "title": "ASG Racing October 2026",
-      "status": "active",
+      "status": "finished",
       "period": "2026-10",
       "description": "Октябрьский чемпионат ASG Racing",
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-11-06T21:31:07+03:00",
+      "updated_at": "2026-11-07T00:32:06+03:00",
       "race_count": 4,
       "driver_count": 80,
       "winner": {
@@ -69,70 +133,6 @@
       "cover_track": "spa"
     },
     {
-      "slug": "november-2026",
-      "title": "ASG Racing November 2026",
-      "status": "scheduled",
-      "period": "2026-11",
-      "description": "Ноябрьский чемпионат ASG Racing",
-      "description_ru": "",
-      "description_en": "",
-      "description_i18n": null,
-      "updated_at": "2026-11-06T21:31:07+03:00",
-      "race_count": 1,
-      "driver_count": 18,
-      "winner": {
-        "driver": "Aleksey Mihin",
-        "public_id": "drv_f46727fa9e5b",
-        "points": 16
-      },
-      "results_top3": [
-        {
-          "public_id": "drv_f46727fa9e5b",
-          "driver": "Aleksey Mihin",
-          "team_id": null,
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "best_laps": 1,
-          "points": 16,
-          "race_points": {
-            "hourly_2026-11-06_2130_silverstone": 16
-          },
-          "rank": 1
-        },
-        {
-          "public_id": "drv_e53bdcf65922",
-          "driver": "Alexander Chikin",
-          "team_id": null,
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "best_laps": 0,
-          "points": 11,
-          "race_points": {
-            "hourly_2026-11-06_2130_silverstone": 11
-          },
-          "rank": 2
-        },
-        {
-          "public_id": "drv_c98693ccbce8",
-          "driver": "Ilya Kosmach [ASG]",
-          "team_id": null,
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "best_laps": 0,
-          "points": 9,
-          "race_points": {
-            "hourly_2026-11-06_2130_silverstone": 9
-          },
-          "rank": 3
-        }
-      ],
-      "details_url": "/hourly/championship/?slug=november-2026",
-      "cover_track": "silverstone"
-    },
-    {
       "slug": "september-2026",
       "title": "ASG Racing September 2026",
       "status": "finished",
@@ -141,7 +141,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-11-06T21:31:07+03:00",
+      "updated_at": "2026-11-07T00:32:06+03:00",
       "race_count": 4,
       "driver_count": 85,
       "winner": {
@@ -213,7 +213,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-11-06T21:31:07+03:00",
+      "updated_at": "2026-11-07T00:32:06+03:00",
       "race_count": 2,
       "driver_count": 48,
       "winner": {
@@ -279,7 +279,7 @@
       "description_ru": "",
       "description_en": "",
       "description_i18n": null,
-      "updated_at": "2026-11-06T21:31:07+03:00",
+      "updated_at": "2026-11-07T00:32:06+03:00",
       "race_count": 4,
       "driver_count": 104,
       "winner": {
@@ -342,5 +342,5 @@
       "cover_track": "silverstone"
     }
   ],
-  "updated_at": "2026-11-06T21:31:07+03:00"
+  "updated_at": "2026-11-07T00:32:06+03:00"
 }

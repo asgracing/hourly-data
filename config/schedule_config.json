@@ -6177,14 +6177,14 @@
       {
         "slug": "october-2026",
         "title": "ASG Racing October 2026",
-        "status": "active",
+        "status": "finished",
         "period": "2026-10",
         "description": "Октябрьский чемпионат ASG Racing"
       },
       {
         "slug": "november-2026",
         "title": "ASG Racing November 2026",
-        "status": "scheduled",
+        "status": "active",
         "period": "2026-11",
         "description": "Ноябрьский чемпионат ASG Racing"
       }
